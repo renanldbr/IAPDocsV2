@@ -1,0 +1,1785 @@
+{
+  "disciplina": "MAT",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Os números no mundo real: criptografia.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EM13MAT103",
+          "conteudo": "Identificação de uso dos números no mundo real.",
+          "objetivos_aprendizagem": [
+            "Reconhecer e usar os números no cotidiano para além dos significados de ordem de quantidade.",
+            "Reconhecer regularidades em problemas simples envolvendo criptografia."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Problemas de adição e subtração com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF07MAT2",
+          "conteudo": "Resolução de problemas de adição e subtração de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que requeiram adição e subtração de números racionais."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Problemas de multiplicação e divisão com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF07MAT2",
+          "conteudo": "Resolução de problemas de multiplicação e divisão de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que requeiram multiplicação e divisão de números racionais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Operações com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF07MAT2",
+          "conteudo": "Resolução de problemas envolvendo adição, subtração, multiplicação e divisão com números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de adição e subtração de números racionais."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Potenciação com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF08MAT1",
+          "conteudo": "Resolução de problemas de potenciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de potenciação de números racionais."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Radiciação com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF08MAT1",
+          "conteudo": "Resolução de problemas de radiciação de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de radiciação de números racionais."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Aula de verificação: Multiplicação e potenciação com números racionais.",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potenciação e radiciação, para resolver situações-problemas envolvendo grandeszas, medidas e suas conversões.",
+          "habilidade": "EF07MAT2",
+          "conteudo": "Resolução de problemas envolvendo multiplicação e potenciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e potenciação com números racionais."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Multiplicação e potenciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Resolução de problemas envolvendo multiplicação e potenciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e potenciação com números racionais."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "A volta do teorema de Pitágoras.",
+          "aprendizagem_essencial": "Compreensão do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Compreensão do teorema de Pitágoras.",
+          "objetivos_aprendizagem": [
+            "Compreender a demonstração geométrica do teorema de Pitágoras.",
+            "Calcular área de figuras planas (triângulo e quadrado)."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "O teorema de Pitágoras e as raízes quadradas - Parte 1",
+          "aprendizagem_essencial": "Compreensão do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Aplicação direta do teorema de Pitágoras. Cálculos de raízes quadradas em problemas de Geometria.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a aplicação direta do teorema de Pitágoras.",
+            "Calcular raízes quadradas a partir das relações inversas com a potenciação."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "O teorema de Pitágoras e as raízes quadradas - Parte 2",
+          "aprendizagem_essencial": "Compreensão do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Resolução de problemas envolvendo a aplicação direta do teorema de Pitágoras, utilizando a decomposição em fatores primos para obter resultados.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a aplicação direta do teorema de Pitágoras.",
+            "Estratégias de cálculo envolvendo radiciação."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Teorema de Pitágoras",
+          "aprendizagem_essencial": "Teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Teorema de Pitágoras.",
+          "objetivos_aprendizagem": [
+            "Compreender o teorema de Pitágoras no cálculo de medidas dos lados de um triângulo retângulo.",
+            "Resolver problemas envolvendo a aplicação do teorema de Pitágoras."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Radiciação e os resultados não racionais",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF09MA03",
+          "conteudo": "Cálculo da medida da diagonal de um quadrado.",
+          "objetivos_aprendizagem": [
+            "Explorar situações em que os resultados obtidos pelo teorema de Pitágoras não são números racionais, utilizando estratégias de cálculo.",
+            "Reconhecer radicais não racionais.",
+            "Localizar radicais não racionais na reta numérica."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Estratégias de cálculo envolvendo radiciação",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF09MA03",
+          "conteudo": "Resolução de problemas envolvendo a aplicação direta do teorema de Pitágoras, utilizando a decomposição em fatores primos como estratégia para simplificar radiciação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer radicais não racionais.",
+            "Aplicar estratégias de resolução de problemas de Geometria.",
+            "Resolver problemas envolvendo o teorema de Pitágoras para resolver problemas."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Resolução de problemas envolvendo radiciação",
+          "aprendizagem_essencial": "AE2 - Resolver problemas geométricos que envolvem o Teorema de Pitágoras.",
+          "habilidade": "EF09MA14, EF09MA03",
+          "conteudo": "Resolução de problemas envolvendo a aplicação direta do teorema de Pitágoras, utilizando a decomposição em fatores primos para obter resultados. Extração de raízes e simplificação de radicais. Medidas de segmentos que não são expressas por um número racional.",
+          "objetivos_aprendizagem": [
+            "Utilizar a decomposição em fatores primos como estratégia para simplificar radicais.",
+            "Reconhecer radicias não racionais.",
+            "Aplicar estratégias de cálculo envolvendo radiciação para resolver problemas de Geometria.",
+            "Aplicar o teorema de Pitágoras para resolver problemas."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Aula de verificação: Teorema de Pitágoras e radiciação",
+          "aprendizagem_essencial": "AE2 - Resolver problemas geométricos que envolvem o Teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Resolução de problemas envolvendo a aplicação direta do teorema de Pitágoras, utilizando a decomposição em fatores primos para obter resultados. Extração de raízes e simplificação de radicais.",
+          "objetivos_aprendizagem": [
+            "Utilizar a decomposição em fatores primos como estratégia para simplificar radicais.",
+            "Reconhecer radicias não racionais.",
+            "Aplicar estratégias de cálculo envolvido radiciação para resolver problemas de Geometria.",
+            "Aplicar o teorema de Pitágoras para resolver problemas."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Explorando o conjunto dos números racionais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA01",
+          "conteudo": "Características dos números racionais. Representações decimais: finitas, dísimas periódicas e não periódicas. Introdução à ideia de número irracional (sem formalização).",
+          "objetivos_aprendizagem": [
+            "Comparar diferentes tipos de representação decimal (finita, periódica e não periódica).",
+            "Ampliar significados do conjunto dos números racionais, a partir de iniciativas e respectivos padrões numéricos."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Frações geratrizes de dízima periódica",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA05",
+          "conteudo": "Dízimas periódicas e frações geratrizes. Obter a fração geratriz de uma dízima periódica. Comparar representações de dízimas periódicas.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 19,
+          "titulo": "Números irracionais e sua localização na reta",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Números racionais e irracionais. Localização de números irracionais na reta por meio de aproximações.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Dízimas periódicas",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Resolução de problemas com números racionais. Fração geratriz que representa uma dízima periódica.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 21,
+          "titulo": "A continuidade da reta numérica",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Noção de intervalo (aberto, fechado, semiaberto). Representação e comparação de números racionais e irracionais.",
+          "objetivos_aprendizagem": [
+            "Compreender que a reta numérica é contínua e preenchida por números racionais e irracionais.",
+            "Comparar números racionais e irracionais, utilizando a noção de intervalo."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "O conjunto dos números reais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Conjunto dos números reais (ℝ). Subconjuntos numéricos: naturais, inteiros, racionais, irracionais. Representação decimal e localização na reta real. Noção de intervalo (aberto, fechado, semiaberto).",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pela união dos racionais e irracionais.",
+            "Distinguir os subconjuntos numéricos dentro dos reais.",
+            "Estimar e representar a localização de números reais na reta numérica."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resolução de problemas envolvendo números reais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Conjunto dos números reais: racionais e irracionais. Operações com números reais (adição, subtração, multiplicação, divisão, potenciação e radiciação). Representação decimal e frações.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo números reais em diferentes contextos, utilizando operações fundamentais (adição, subtração, multiplicação, divisão, potenciação e radiciação)."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Números racionais e irracionais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Conjunto dos números reais: racionais e irracionais. Operações com números reais na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pela união dos racionais e irracionais."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Aula de revisão: Multiplicação e potenciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": [
+            "EF07MA12",
+            "EF08MA04"
+          ],
+          "conteudo": "Resolução de problemas envolvendo multiplicação e potenciação com números racionais.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 26,
+          "titulo": "Aula de revisão: Teorema de Pitágoras e Radiciação",
+          "aprendizagem_essencial": "AE1 - Utilizar operações com números reais, incluindo potencialização e radiciação, para resolver situações-problemas envolvendo grandezas, medidas e suas conversões.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Resolução de problemas envolvendo multiplicação e potenciação para simplificar expressões.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: Números racionais e irracionais",
+          "aprendizagem_essencial": "Conjunto dos números reais: racionais e irracionais.",
+          "habilidade": "EF09MA02 EF09MA03",
+          "conteudo": "Operações com números reais (adição, subtração, multiplicação, divisão, potenciação e radiância).",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pela união dos racionais e irracionais.",
+            "Localizar números reais na reta numérica.",
+            "Realizar operações básicas com números racionais e irracionais."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Números reais",
+          "aprendizagem_essencial": "Conjunto dos números reais: racionais e irracionais.",
+          "habilidade": "EF09MA02 EF09MA03",
+          "conteudo": "Operações com números reais (adição, subtração, multiplicação, divisão, potenciação e radiância).",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pela união dos racionais e irracionais.",
+            "Localizar números reais na reta numérica.",
+            "Realizar operações básicas com números racionais e irracionais."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Retomando equações do 1º grau",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de equações do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de equações de 1º grau na forma ax + b = c.",
+            "Resolver equações do 1º grau utilizando as propriedades da igualdade."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Modelagem algébrica de problemas do 1º grau – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de problemas do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Modelar situações-problema utilizando uma equação polinomial de 1º grau.",
+            "Resolver problemas envolvendo equações do 1º grau.",
+            "Discutir, identificar e compreender as principais etapas na resolução de problemas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Modelagem algébrica de problemas do 1º grau – Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de problemas do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Modelar situações-problema utilizando uma equação polinomial de 1º grau.",
+            "Resolver problemas envolvendo equações do 1º grau.",
+            "Discutir, identificar e compreender as principais etapas na resolução de problemas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Problemas com equações do 1º grau",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de problemas que recaem em equações do 1º grau da forma ax+b=c.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em equações do 1º grau da forma ax+b=c."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Grandezas de espécies diferentes",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF09MA07",
+          "conteudo": "Relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Retomar os conceitos de razão e proporção.",
+            "Compreender o conceito de razão entre grandezas de espécies diferentes.",
+            "Resolver situações-problema envolvendo relações entre grandezas de espécies diferentes."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Resolução de problemas com grandezas de espécies diferentes",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF09MA07",
+          "conteudo": "Relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relativos à razão entre grandezas de espécies diferentes."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Resolução de problemas envolvendo equações do 1º grau e relação entre grandezas",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Equações do 1º grau e relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em equações do 1º grau.",
+            "Resolver problemas relativos à razão entre grandezas de espécies diferentes."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Resolução de problemas sobre equações do 1º grau",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e usando representações algébricas e geométricas.",
+          "habilidade": "EF07MA18 EF09MA07",
+          "conteudo": "Equações do 1º grau e relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaírem em equações do 1º grau.",
+            "Resolver problemas relativos à razão entre grandezas de espécies diferentes."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Explorando a relação entre grandezas",
+          "aprendizagem_essencial": "",
+          "habilidade": "",
+          "conteudo": "Relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Investigar relações entre grandezas diretamente ou inversamente proporcionais por meio de valores numéricos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Relação entre grandezas: representação algébrica",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Representação algébrica entre grandezas dependentes.",
+          "objetivos_aprendizagem": [
+            "Representar relações entre grandezas por meio de expressões algébricas.",
+            "Identificar quando duas grandezas são dependentes."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Relação entre grandezas: representação gráfica",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Representação gráfica entre grandezas dependentes.",
+          "objetivos_aprendizagem": [
+            "Identificar padrões e relações entre grandezas com o auxílio de tabelas.",
+            "Representar no plano cartesianas relações entre grandezas dependentes."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Conceito de função",
+          "aprendizagem_essencial": "AE3 - Reconhecer as funções como relações de dependência única entre duas grandezas, identificando as relações entre duas grandezas, em situações econômicas, sociais e das Ciências da Natureza.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Representações algébrica e gráfica de grandezas dependentes.",
+          "objetivos_aprendizagem": [
+            "Representar algebricamente e geometricamente relações entre grandezas dependentes."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Relação entre grandezas: o conceito de função",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF09MA06",
+          "conteudo": "Compreender o conceito de função como relação de dependência entre duas grandezas.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 14,
+          "titulo": "Representação de funções",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF09MA06",
+          "conteudo": "Representações de funções de diferentes formas: algébrica, graficamente e por meio de diagramas.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Função como relação de dependência entre duas grandezas",
+          "aprendizagem_essencial": "Reconhecer funções como relações de dependência univoca entre duas variáveis.",
+          "habilidade": "EF09MA06",
+          "conteudo": "O conceito de função.",
+          "objetivos_aprendizagem": [
+            "Compreender função como relação de dependência entre grandezas.",
+            "Compreender que uma função pode ser representada algebraicamente, graficamente e por meio de diagramas."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Aula de verificação: Conceito de função",
+          "aprendizagem_essencial": "Reconhecer funções como relações de dependência univoca entre duas variáveis.",
+          "habilidade": "EF09MA06",
+          "conteudo": "O conceito de função.",
+          "objetivos_aprendizagem": [
+            "Compreender função como relação de dependência entre grandezas.",
+            "Compreender que uma função pode ser representada algebraicamente, graficamente e por meio de diagramas."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Explorando o conceito de função",
+          "aprendizagem_essencial": "Conceituar função afim.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Obter a lei de formação de funções da forma f(x) = ax + b.",
+            "Calcular valores da variável dependente e da variável independente a partir da lei de formação de função da forma f(x) = ax + b."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Função afim",
+          "aprendizagem_essencial": "Conceituar função afim.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Conceito de função afim.",
+          "objetivos_aprendizagem": [
+            "Utilizar função afim para modelar relação entre grandezas.",
+            "Investigar como é o gráfico de uma função afim."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Representações da função afim",
+          "aprendizagem_essencial": "Conceituar taxa de crescimento da função afim.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Gráfico de função afim.",
+          "objetivos_aprendizagem": [
+            "Conceituar taxa de crescimento da função afim.",
+            "Modelar uma função afim a partir da lei de formação de uma função."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Função afim e representação gráfica",
+          "aprendizagem_essencial": "Resolver problemas relacionados à função afim.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo equações e representações algébricas e geométricas."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Lei de formação e gráfico de uma função afim",
+          "aprendizagem_essencial": "Resolver problemas envolvendo função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema que possam ser modeladas por funções polinomiais de 1º grau, resolvendo representações algébricas e geométricas."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Proporcionalidade e função linear",
+          "aprendizagem_essencial": "Caso particular de função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Conceituar função linear como um caso particular de função afim.",
+            "Compreender a proporcionalidade entre grandezas que são relacionadas por meio de função linear."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Função afim: resolução de problemas",
+          "aprendizagem_essencial": "Função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que Recaem em função afim."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Função afim",
+          "aprendizagem_essencial": "Função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que Recaem em função afim."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: Equações do 1º grau – problemas - Aula complementar",
+          "aprendizagem_essencial": "Aplicar as propriedades da igualdade na resolução de equações.",
+          "habilidade": "EF07MAT18",
+          "conteudo": "Equações do 1º grau e relação entre grandezas.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau.",
+            "Resolver problemas que recaem em equações do 1º grau envolvendo a relação entre grandezas."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Revisão: Conceito de função - Aula complementar",
+          "aprendizagem_essencial": "Compreender o conceito de função em relação de dependência entre duas grandezas.",
+          "habilidade": "EM13MAT501",
+          "conteudo": "Conceito de função.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a representação gráfica de uma função afim.",
+            "Modelar relação de dependência entre grandezas por meio de função afim."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: Função afim - Aula complementar",
+          "aprendizagem_essencial": "Função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à função afim."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Função afim - conceitos e aplicações - Aula complementar",
+          "aprendizagem_essencial": "Função afim.",
+          "habilidade": "EM13MAT401",
+          "conteudo": "Função afim.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à função afim."
+          ]
+        }
+      ]
+    },
+    "2ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Potenciação e unidades de medidas",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Potenciação com expoentes inteiros.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de potenciação."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Problemas com potências de expoentes inteiros",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Potenciação com expoentes inteiros. Potências de base 10.",
+          "objetivos_aprendizagem": [
+            "Associar o quadrado de um número real positivo com a área de um quadrado conhecido a medida de seu lado.",
+            "Associar o cubo de um número real positivo com o volume de um cubo conhecido a medida de sua aresta.",
+            "Representar números em potências de base 10."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Problemas com potências de expoentes fracionários",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Potências com expoente fracionário. Propriedades de potenciação: multiplicação de base iguais; divisão de base iguais; potência de potência.",
+          "objetivos_aprendizagem": [
+            "Aplicar as propriedades das potências na simplificação de cálculos.",
+            "Relacionar radiciação com potenciação, a partir das potências expoente fracionário, para efetuar cálculos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Potenciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EF08MA01 EF09MA03",
+          "conteudo": "Potências com expoente inteiro e fracionário. Propriedades de potenciação: multiplicação de base iguais; divisão de base iguais; potência de potência.",
+          "objetivos_aprendizagem": [
+            "Efetuar cálculos com potências de expoente fracionário."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Medidas e notação científica",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EM13MAT313",
+          "conteudo": "Notação científica.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de notação científica."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Notação científica: operações e problemas",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EM13MAT313",
+          "conteudo": "Notação científica: operações e problemas.",
+          "objetivos_aprendizagem": [
+            "Conhecer as principais unidades de armazenamento de dados e unidades de medidas.",
+            "Efetuar cálculos envolvendo unidades de medidas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Problemas do cotidiano envolvendo potenciação e notação científica",
+          "aprendizagem_essencial": "AE1 - Utilizar a notação científica para representar medidas e resolver problemas que empregam unidades de medida de diferentes grandezas.",
+          "habilidade": "EM13MAT313",
+          "conteudo": "Potenciação e notação científica.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo o conceito de notação científica."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Potenciação e notação científica",
+          "aprendizagem_essencial": "Potenciação, notação científica, operações com números reais.",
+          "habilidade": "EM13MAT313",
+          "conteudo": "Potenciação, notação científica, operações com números reais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo potenciação e notação científica."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Estratégias de resolução de equações do 1º grau",
+          "aprendizagem_essencial": "Expressões algébricas e equações do 1º grau.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Expressões algébricas e equações do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau da forma ax + b = c, utilizando propriedades de uma igualdade."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Modelagem algébrica de problemas do 1º grau",
+          "aprendizagem_essencial": "Resolução de problemas do 1º grau.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de problemas do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Modelar algebraicamente uma situação, para resolvê-la utilizando equações do 1º grau, incluindo aquelas com frações e números decimais positivos e negativos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Fatoração por produtos notáveis",
+          "aprendizagem_essencial": "Fatoração de expressões algébricas envolvendo os casos de produtos notáveis.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Fatoração de expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Fatorar expressões algébricas relacionadas aos produtos notáveis."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Produtos notáveis e equações do 1º grau",
+          "aprendizagem_essencial": "Fatoração de expressões algébricas e equações do 1º grau.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Fatoração de expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que requeiram em equações do 1º grau."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Estratégias de resolução de equações do 2º grau - Parte 1",
+          "aprendizagem_essencial": "Resolução de equações do 2º grau incompletas utilizando fatoração.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Resolução de equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver equações polinomiais do 2º grau incompletas utilizando fatoração."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Estratégias de resolução de equações do 2º grau - Parte 2",
+          "aprendizagem_essencial": "Resolução de equações do 2º grau utilizando a fórmula resolutiva.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Resolução de equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver equações polinomiais do 2º grau utilizando a fórmula resolutiva."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Resolução de problemas do 1º e do 2º grau",
+          "aprendizagem_essencial": "Equações do 1º grau, fatoração e equações do 2º grau.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Equações do 1º grau, fatoração e equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que requeiram em equações do 1º grau.",
+            "Resolver problemas que requeiram em equações do 2º grau."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Aula de verificação: Equações do 1º e do 2º grau",
+          "aprendizagem_essencial": "AE2 - Modelar problemas que possam ser representados por equações polinomiais do 1º e 2º grau, em situações econômicas, sociais e das Ciências da Natureza.",
+          "habilidade": "EF07MAT18",
+          "conteudo": "Equações do 1º grau, fatoração e equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaam em equações do 1º grau.",
+            "Resolver problemas que recaam em equações do 2º grau."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Crescimento exponencial",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Sequências numéricas com crescimento exponencial.",
+          "objetivos_aprendizagem": [
+            "Diferenciar crescimento linear e exponencial por meio da observação de padrões."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Propriedades da potenciação",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Propriedades da potenciação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer padrões e estruturas em expressões com potências que permitam a aplicação das propriedades.",
+            "Calcular expressões numéricas utilizando as propriedades da potenciação."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Equações exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Compreensão do conceito de equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver equações exponenciais simples."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Resolução de equações exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver equações exponenciais simples."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Estratégias de resolução de equações exponenciais – Parte 1",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaam em equações exponenciais."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Estratégias de resolução de equações exponenciais – Parte 2",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de equações exponenciais, com mudança de variável.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaam em equações exponenciais."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resolução de problemas envolvendo equações exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaam em equações exponenciais."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Potenciação e equações exponenciais",
+          "aprendizagem_essencial": "AE 3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaíam em equações exponenciais."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Aula de revisão: Potenciação e notação científica",
+          "aprendizagem_essencial": "AE 3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT313",
+          "conteudo": "Potenciação e notação científica.",
+          "objetivos_aprendizagem": [
+            "Efetuar cálculos com potências envolvendo propriedades da potenciação.",
+            "Resolver problemas envolvendo o conceito de notação científica."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Aula de revisão: Equações do 1º grau, fatoração e equações do 2º grau",
+          "aprendizagem_essencial": "AE 3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EF07MA18 EF09MA09",
+          "conteudo": "Resolução de problemas relacionados a equações do 1º grau, fatoração e equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas recaíam em equações do 1º grau.",
+            "Resolver equações do 2º grau por meio de fatoração."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: Equações exponenciais",
+          "aprendizagem_essencial": "AE 3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de problemas relacionados a equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaíam em equações exponenciais."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Estratégias de resolução de equações exponenciais",
+          "aprendizagem_essencial": "AE 3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaíam em equações exponenciais."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Explorando equações exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de equações exponenciais.",
+          "objetivos_aprendizagem": [
+            "Retomar a resolução de equações exponenciais simples que reclamam na igualdade de duas potências."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Função exponencial",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Conceito de função exponencial.",
+          "objetivos_aprendizagem": [
+            "Compreender as restrições da base para a lei de formação de uma função exponencial.",
+            "Investigar comportamento das variáveis a partir da lei de formação da função exponencial."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Modelagem algébrica envolvendo a função exponencial",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Modelagem com função exponencial.",
+          "objetivos_aprendizagem": [
+            "Interpretar e compreender a utilização da lei de formação de uma função exponencial como modelagem algébrica da relação entre grandezas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Função exponencial",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Função exponencial.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados a lei de formação de uma função exponencial."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Gráfico da função exponencial",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Representação gráfica de funções exponenciais.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente funções exponenciais."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Análise de gráficos de funções exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Gráficos de funções exponenciais.",
+          "objetivos_aprendizagem": [
+            "Identificar tipos de crescimentos dos gráficos de funções exponenciais.",
+            "Analisar o comportamento gráfico de uma função exponencial a partir da lei de formação."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Resolução de problemas relacionados a funções exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de problemas relacionados a funções exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvem funções exponenciais em diversos contextos do mundo real."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Funções exponenciais",
+          "aprendizagem_essencial": "AE3 - Resolver situações-problema que possam ser modeladas por funções exponenciais, resolvendo equações e utilizando das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Resolução de problemas relacionados a funções exponenciais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados a funções exponenciais."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Explorando logaritmos",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "O conceito de logaritmo.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de logaritmo como um expoente.",
+            "Relacionar a forma logarítmica com a forma exponencial, a partir da definição de logaritmo.",
+            "Compreender as restrições quanto à existência de logaritmo."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Propriedades dos logaritmos – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Propriedades operatórias dos logaritmos.",
+          "objetivos_aprendizagem": [
+            "Compreender e justificar as consequências da definição de logaritmo.",
+            "Compreender, justificar e aplicar as propriedades operatórias dos logaritmos: logaritmo do produto e logaritmo do quociente."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Propriedades dos logaritmos – Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Propriedades operatórias dos logaritmos.",
+          "objetivos_aprendizagem": [
+            "Compreender, justificar e aplicar a propriedade de logaritmo de uma potência.",
+            "Compreender, justificar e aplicar a relação para a mudança de base em logaritmo."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Propriedades operatórias dos logaritmos",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Propriedades operatórias dos logaritmos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo o conceito de logaritmo.",
+            "Resolver problemas envolvendo as propriedades operatórias dos logaritmos.",
+            "Resolver problemas envolvendo a relação matemática para a mudança de base em logaritmo."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Equações logarítmicas – Parte",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Equações logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Resolver equações logarítmicas utilizando a definição de logaritmo e as consequências da definição de logaritmos."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Equações logarítmicas – Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Equações logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Resolver equações logarítmicas utilizando as propriedades operatórias de logaritmos e a relação matemática para a mudança de base em logaritmo."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Aplicações de logaritmos",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Resolução de problemas sobre aplicações de logaritmos.",
+          "objetivos_aprendizagem": [
+            "Identificar e aplicar o uso de logaritmos para a resolução de problemas em contextos diversos."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Resolução de problemas envolvendo logaritmos",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Logaritmos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam o conceito, as propriedades e a mudança de base em logaritmo."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Explorando equações exponenciais e logarítmica",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT403",
+          "conteudo": "Equações logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Retomar procedimentos para a resolução de equações exponenciais.",
+            "Retomar procedimentos para a resolução de equações exponenciais.",
+            "Empregar logaritmo para a resolução de equações exponenciais."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Função logarítmica",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Conceito de função logarítmica.",
+          "objetivos_aprendizagem": [
+            "Investigar, por meio da atribuição de valores numéricos, o que ocorre com valores para logaritmo de uma variável em uma determinada base.",
+            "Conceituar função logarítmica.",
+            "Relacionar a lei de formação de uma função logarítmica como função inversa de uma função exponencial na mesma base."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Modelagem algébrica envolvendo a função logarítmica",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Modelagem com função logarítmica.",
+          "objetivos_aprendizagem": [
+            "Compreender a utilização de uma função logarítmica para modelar a relação entre determinadas grandezas.",
+            "Resolver equações logarítmicas a partir da lei de formação de funções logarítmicas."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Equações logarítmicas - problemas.",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Resolução de problemas relacionados a funções logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados as ideias iniciais de função logarítmica."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Gráfico da função logarítmica",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Representação gráfica de funções logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente funções logarítmicas."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Análise de gráficos de funções logarítmicas",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Gráficos de funções logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Identificar tipos de crescimentos dos gráficos de funções logarítmicas.",
+            "Analisar o comportamento gráfico de uma função logarítmica a partir da lei de formação."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Função logarítmica – Resolução de problemas",
+          "aprendizagem_essencial": "AE4 - Resolver situações-problema que possam ser modeladas por funções logarítmicas, resolvendo equações e fazendo uso das representações algébricas e geométricas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Funções logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam funções logarítmicas em diversos contextos do mundo real."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Função logarithmica",
+          "aprendizagem_essencial": "Funções logarítmicas.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Funções logarítmicas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam funções logarítmicas."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Aula de revisão: Função exponencial - Aula complementar",
+          "aprendizagem_essencial": "Função exponencial.",
+          "habilidade": "EM13MAT304",
+          "conteudo": "Função exponencial.",
+          "objetivos_aprendizagem": [
+            "Retomar o conceito de função exponencial.",
+            "Compreender o comportamento gráfico de uma função exponencial.",
+            "Identificar a função exponencial na modelagem de fenômenos."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Aula de revisão: Logaritmos - Aula complementar",
+          "aprendizagem_essencial": "Logaritmos.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Logaritmos.",
+          "objetivos_aprendizagem": [
+            "Retomar o conceito de logarithmos.",
+            "Identificar e utilizar as propriedades operatórias de logaritmos.",
+            "Compreender e empregar a relação matemática para mudança de base em logaritmos."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: Função logarítmica - Aula complementar",
+          "aprendizagem_essencial": "Função logarítmica.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Função logarítmica.",
+          "objetivos_aprendizagem": [
+            "Retomar o conceito de função logarítmica.",
+            "Compreender o comportamento gráfico de uma função logarítmica.",
+            "Identificar a função logarítmica na modelagem de fenômenos."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Função logarítmica - Aula complementar",
+          "aprendizagem_essencial": "Função logarítmica.",
+          "habilidade": "EM13MAT305",
+          "conteudo": "Função logarítmica.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em função logarítmica."
+          ]
+        }
+      ]
+    },
+    "3ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Equações do 1º grau e proporcionalidade",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Equação do 1º grau da forma ax + b = c.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau com uma incógnita.",
+            "Resolver problemas envolvendo a razão entre grandes e espécies diferentes."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Problemas com equações do 1º grau com uma incógnita",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de equações e problemas do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau utilizando a propriedade da igualdade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Problemas com equações incompletas do 2º grau",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de equações e problemas do 2º grau (forma ax² = b).",
+          "objetivos_aprendizagem": [
+            "Resolver equações incompletas do 2º grau, utilizando a radiciação como operação inversa da potenciação."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Resolução de problemas com equações do 1º e 2º graus",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF08MA09",
+          "conteudo": "Resolução de equações e problemas do 1º grau utilizando a propriedade da igualdade.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau utilizando a propriedade da igualdade.",
+            "Resolver equações incompletas do 2º grau, utilizando radiciação como operação inversa da potenciação."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Problemas com equações completas do 2º grau",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Resolução de equações que podem ser modelados por equações completas do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que podem ser modelados por equações completas do 2º grau."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "A fórmula resolutiva para equações do 2º grau",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Fórmula resolutiva.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau utilizando a propriedade da igualdade."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Problemas do cotidiano com equações do 1º e 2º grau",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Resolução de equações do 1º grau utilizando a propriedade da igualdade.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau utilizando a propriedade da igualdade.",
+            "Resolver equações incompletas do 2º grau, utilizando diversas estratégias."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Equações do 2º grau",
+          "aprendizagem_essencial": "AE1 - Utilizar equações polinomiais de 1º e 2º grau para modelar situações-problema envolvendo grandzas e medidas.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Aula de verificação sobre equações do 2º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que podem ser modelados por equações completas do 2º grau."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Sistemas lineares do 1º grau: duas equações e duas incógnitas",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de sistemas de duas equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver sistemas de duas equações do 1º grau com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Resolução de sistema linear: método da substituição",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de sistemas formados por duas equações lineares com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver sistemas com duas equações lineares com duas incógnitas utilizando o método da substituição."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Resolução de sistema linear: método da adição",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de sistemas formados por duas equações lineares com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver sistemas com duas equações lineares com duas incógnitas utilizando o método da adição."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Resolução de sistemas lineares com duas equações",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de sistemas formados por duas equações lineares com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver sistemas com duas equações lineares com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Interpretação geométrica de um sistema linear com duas equações e duas incógnitas",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Plano cartesiano e sistemas de equações lineares.",
+          "objetivos_aprendizagem": [
+            "Representar no plano cartesiano uma equação linear com duas incógnitas.",
+            "Representar no plano cartesiano um sistema linear com duas incógnitas.",
+            "Interpretar geometricamente um sistema de equações lineares."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Discussão de um sistema linear",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Plano cartesiano e sistemas de equações lineares.",
+          "objetivos_aprendizagem": [
+            "Analisar as possibilidades, quanto ao número de soluções, de um sistema de equações lineares.",
+            "Interpretar graficamente no plano cartesiano essas equações lineares."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Resolução de problemas envolvendo sistemas de equações lineares a duas incógnitas",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de sistemas formados por duas equações lineares a duas incógnitas (método da substituição e método da adição).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que requeiram um sistema formado por duas equações lineares com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Aula de verificação: sistema de equações lineares com duas incógnitas",
+          "aprendizagem_essencial": "AE2 - Resolver problemas do cotidiano que envolvem equações lineares simultâneas, utilizando técnicas algébricas e gráficas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de problemas que podem ser modelados por sistemas de equações lineares com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que podem ser modelados por sistemas de duas equações lineares com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Sistemas lineares de três equações a três incógnitas.",
+          "aprendizagem_essencial": "Compreender sistemas equivalentes.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Sistema lineares de três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Representar por uma tern coordenada a solução de um sistema linear de três equações a três incógnitas."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Método do escalonamento – Parte 1",
+          "aprendizagem_essencial": "Resolver um sistema linear de três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de um sistema linear de três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver um sistema linear de três equações a três incógnitas dado na forma escalonada."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Método do escalonamento – Parte 2",
+          "aprendizagem_essencial": "Escalonar e resolver um sistema linear de três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de um sistema linear de três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Escalonar e resolver um sistema linear de três equações a três incógnitas."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Resolução de sistemas lineares com três equações",
+          "aprendizagem_essencial": "Resolver um sistema linear de três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de um sistema linear de três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver um sistema linear de três equações a três incógnitas por escalonamento."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Classificação de sistemas lineares – Parte 1",
+          "aprendizagem_essencial": "Classificar sistemas lineares em possível e determinado.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Discussão de sistemas lineares a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Classificar sistemas lineares em possível e determinado ou possível e indeterminado no impostível."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Classificação de sistemas lineares – Parte 2",
+          "aprendizagem_essencial": "Classificar sistemas lineares em possível e determinado.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Discussão de sistemas lineares a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Classificar sistemas lineares em possível e determinado ou possível e indeterminado no impostível."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resolução de problemas utilizando sistemas de equações lineares",
+          "aprendizagem_essencial": "Resolver problemas que recaem em sistemas de equações com três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de problemas que recaem em sistemas de equações com três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em sistemas de equações com três equações a três incógnitas, utilizando o método do escalonamento."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Discussão de um sistema linear de três equações a três incógnitas.",
+          "aprendizagem_essencial": "Discutir as possibilidades de soluções de um sistema linear de três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Discussão das possibilidades de soluções de um sistema linear de três equações a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Discutir as possibilidades de soluções de um sistema linear de três equações a três incógnitas."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Aula de revisão: equações polinomiais do 1º grau e do 2º grau",
+          "aprendizagem_essencial": "Resolver problemas recaem em equações do 1º grau.",
+          "habilidade": "EF09MA09",
+          "conteudo": "Resolução de problemas recaem em equações do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas recaem em equações do 1º grau e do 2º grau."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Aula de revisão: sistemas lineares com duas equações a duas incógnitas.",
+          "aprendizagem_essencial": "Resolver problemas que recaem em sistemas de duas equações com duas incógnitas.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Resolução de problemas que recaem em sistemas de duas equações a duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em sistemas lineares com duas equações a duas incógnitas."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: sistemas lineares com três equações a três incógnitas.",
+          "aprendizagem_essencial": "Resolver problemas que recaem em sistemas lineares com três equações a três incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de problemas que recaem em sistemas de três equações lineares a três incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em sistemas lineares com três equações a três incógnitas."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Métodos de resolução de sistemas lineares",
+          "aprendizagem_essencial": "Resolver problemas que recaem em sistemas de duas equações lineares com duas incógnitas.",
+          "habilidade": "EM13MAT301",
+          "conteudo": "Resolução de problemas que recaem sistemas de equações lineares.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que recaem em sistemas de duas equações lineares com duas incógnitas.",
+            "Resolver problemas que recaem em sistemas de três equações lineares com três incógnitas."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Princípio multiplicativo da contagem",
+          "aprendizagem_essencial": "Princípio fundamental da contagem.",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Princípio fundamental da contagem.",
+          "objetivos_aprendizagem": [
+            "Aplicar o princípio multiplicativo para resolver problemas de contagem."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Cálculo do número de permutações simples",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Permutações simples e fatorial de um número natural.",
+          "objetivos_aprendizagem": [
+            "Calcular o número de permutações simples de n elementos.",
+            "Conceituar fatorial de um número natural."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Cálculo do número de arranjos simples",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Arranjos simples.",
+          "objetivos_aprendizagem": [
+            "Conceituar arranjos simples em situações de agrupamentos.",
+            "Calcular o número de arranjos simples em problemas envolvendo agrupamentos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Revisão: Problemas de contagem",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Resolução de problemas de contagem e agrupamentos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de contagem pelo princípio multiplicativo.",
+            "Resolver problemas relacionados ao cálculo de permutações simples.",
+            "Resolver problemas relacionados ao cálculo de arranjos simples."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Cálculo do número de combinações simples",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Resolução de problemas de contagem e agrupamentos.",
+          "objetivos_aprendizagem": [
+            "Conceituar combinação simples em situações de agrupamentos.",
+            "Diferenciar arranjos simples de combinações simples em problemas com agrupamentos.",
+            "Calcular o número de combinações simples em problemas."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Permutação, Arranjo Simples e Combinação Simples",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Resolução de problemas de contagem e agrupamentos.",
+          "objetivos_aprendizagem": [
+            "Distinguír problemas contagem em situações de permutações simples, de arranjos simples e de combinações simples."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Resolução de problemas relacionados à Análise Combinatória",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Resolução de problemas de contagem e agrupamentos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de contagem e agrupamentos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Aula de verificação: Análise Combinatória",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Resolução de problemas de contagem e agrupamentos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de contagem e agrupamentos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Noções de probabilidade",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MAT310",
+          "conteudo": "Noções de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Retornar o princípio multiplicativo em situações de contagem.",
+            "Elaborar a proporcionalidade de eventos em situações."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Experimentos, espaço amostral e eventos",
+          "aprendizagem_essencial": "Experimentos aleatórios.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Experimentos aleatórios.",
+          "objetivos_aprendizagem": [
+            "Compreender, identificar e descrever todos os resultados possíveis em um experimento aleatório.",
+            "Conceituar e descrever espaço amostral.",
+            "Compreender em experimento aleatório a noção de eventos equiprováveis."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Cálculo da probabilidade de um evento – Parte 1",
+          "aprendizagem_essencial": "Conceito de probabilidade.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Conceito de probabilidade.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de probabilidade de um evento.",
+            "Calcular a probabilidade de um evento simples e expressá-la na forma de fração, de decimal e de porcentagem."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Revisão: Conceito de probabilidade",
+          "aprendizagem_essencial": "Conceito de probabilidade.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Conceito de probabilidade.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas do cálculo de probabilidades em eventos simples."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Cálculo da probabilidade de um evento – Parte 2",
+          "aprendizagem_essencial": "Propriedades da probabilidades: evento impossível, evento certo e eventos complementares.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Propriedades de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Compreender que a probabilidade de um evento aleatório varia de 0 a 1 (ou de 0% a 100%).",
+            "Identificar eventos impossíveis e eventos certos.",
+            "Obter e compreender a proposta sobre as probabilidades de eventos complementares."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Cálculo da probabilidade de eventos relacionados à Análise Combinatória.",
+          "aprendizagem_essencial": "Cálculo de probabilidades.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas com o cálculo de probabilidades por meio de situações favoráveis, utilizando conceitos de Análise Combinatória."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Características do cálculo de probabilidades",
+          "aprendizagem_essencial": "Cálculo de probabilidades.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados ao cálculo de probabilidades."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Resolução de problemas de probabilidade",
+          "aprendizagem_essencial": "Cálculo de probabilidades.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados ao cálculo de probabilidades."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Probabilidade e Análise Combinatória",
+          "aprendizagem_essencial": "Análise combinatória e probabilidades.",
+          "habilidade": "EM13MAT311",
+          "conteudo": "Análise combinatória e probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas com o cálculo de probabilidades por meio de situações envolvendo o cálculo de situações possíveis e situações favoráveis, utilizando conceitos de Análise Combinatória."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Adição de probabilidades – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Obtenção da relação para o cálculo da adição de eventos (a partir do número de elementos da união de dois conjuntos).",
+          "objetivos_aprendizagem": [
+            "Obter a relação para o cálculo da probabilidade da união de eventos. Resolver problemas relacionados à adição de probabilidades."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Adição de probabilidades – Parte",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Resolução de problemas relacionados ao cálculo da adição de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à adição de probabilidades."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Eventos e probabilidades",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Resolução de problemas relacionados ao cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à adição de probabilidades."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Probabilidade condicional",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Probabilidade condicional: exemplos. Eventos dependentes e eventos independentes: exemplos.",
+          "objetivos_aprendizagem": [
+            "Conceituar, identificar e exemplificar eventos dependentes.",
+            "Conceituar, identificar e exemplificar eventos independentes.",
+            "Compreender e empregar procedimento para o cálculo de probabilidade condicional."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Multiplicação de probabilidades",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Multiplicação de probabilidades: exemplos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas com o cálculo do produto de probabilidades em eventos sucessivos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resolução de problemas envolvendo probabilidades",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados ao cálculo da probabilidade em eventos sucessivos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Aula de verificação: Cálculo de probabilidades",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de probabilidades relacionadas à adição e à multiplicação de probabilidades."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Aula de revisão: Análise Combinatória - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13MAT310",
+          "conteudo": "Problemas de contagem: Análise combinatória.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas de contagem em situações relacionadas ao princípio multiplicativo, permutações simples, e arranjos simples e combinações simples."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Aula de revisão: Cálculo de probabilidades – Parte 1",
+          "aprendizagem_essencial": "Aula complementar",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo o cálculo de probabilidades de eventos em situações simples."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Aula de revisão: Cálculo de probabilidades – Parte 2",
+          "aprendizagem_essencial": "Aula complementar",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a análise de probabilidades e a multiplicação de probabilidades."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão: Probabilidade de eventos independentes",
+          "aprendizagem_essencial": "Aula complementar",
+          "habilidade": "EM13MAT312",
+          "conteudo": "Resolução de problemas relacionados ao cálculo de probabilidades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados ao cálculo de probabilidades."
+          ]
+        }
+      ]
+    }
+  }
+}

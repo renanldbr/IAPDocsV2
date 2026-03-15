@@ -1,0 +1,594 @@
+{
+  "disciplina": "BIO",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Fluxo de energia: cadeias e teias alimentares",
+          "aprendizagem_essencial": "Analisar as relações alimentares nos ecossistemas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "• Fatores bióticos e abióticos. • Cadeias alimentares. • Teias alimentares. • Nicho ecológico.",
+          "objetivos_aprendizagem": [
+            "Analisar as relações alimentares nos ecossistemas.",
+            "Categorizar os produtores, consumidores e decompositores nas cadeias e teias alimentares.",
+            "Discutir a interdependência entre todos os seres vivos em um ecossistema."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Fluxo de energia: níveis tróficos",
+          "aprendizagem_essencial": "Distinguir e representar os níveis tróficos representados nas pirâmides ecológicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Pirâmides ecológicas.",
+          "objetivos_aprendizagem": [
+            "Distinguir e representar os níveis tróficos representados nas pirâmides ecológicas.",
+            "Analisar e representar os tipos de pirâmides ecológicas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Fluxo de matéria e energia: sucessão ecológica",
+          "aprendizagem_essencial": "AE1 - Analisar as transformações e conservações de materiais e energia em sistemas biológicos, associados processos celulares e interações ecológicas e sustentabilidade ambiental.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Comunidade biológica. Fluxo de matéria e energia. Sucessão ecológica.",
+          "objetivos_aprendizagem": [
+            "Analisar as transformações que envolvem a matéria em um ecossistema.",
+            "Demonstrar a variação ambiental terrestre decorrente do processo de sucessão ecológica nos biomas brasileiros."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Biomas terrestres brasileiros",
+          "aprendizagem_essencial": "AE1 - Analisar as transformações e conservações de materiais e energia em sistemas biológicos, associados processos celulares e interações ecológicas e sustentabilidade ambiental.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Biomas terrestres brasileiros.",
+          "objetivos_aprendizagem": [
+            "Demonstrar a variação ambiental terrestre decorrente do processo de sucessão ecológica nos biomas brasileiros."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Metabolismo energético: fotossíntese",
+          "aprendizagem_essencial": "AE1 - Analisar as transformações e conservações de materiais e energia em sistemas biológicos, associados processos celulares e interações ecológicas e sustentabilidade ambiental.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Reações químicas da fotossíntese.",
+          "objetivos_aprendizagem": [
+            "Analisar as transformações que ocorrem em sistemas biológicos que convertem a energia solar."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Metabolismo energético: respiração celular",
+          "aprendizagem_essencial": "Analisar e representar a respiração celular.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Conceitos básicos da respiração celular.",
+          "objetivos_aprendizagem": [
+            "Analisar e representar a respiração celular."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Situações do cotidiano relacionadas à respiração celular",
+          "aprendizagem_essencial": "AE1 - Analisar as transformações e conservações de materiais e energia em sistemas biológicos, associados processos celulares e interações ecológicas e sustentabilidade ambiental.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Respiração celular.",
+          "objetivos_aprendizagem": [
+            "Interpretar e resolver problemas envolvendo a respiração celular."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Fotossíntese e respiração celular",
+          "aprendizagem_essencial": "Comparar processos, reagentes e produtos da fotossíntese e da respiração celular.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Fotossíntese e respiração celular.",
+          "objetivos_aprendizagem": [
+            "Comparar processos, reagentes e produtos da fotossíntese e da respiração celular."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Ameaças ao equilíbrio do ecossistema",
+          "aprendizagem_essencial": "Analisar os fatores que influenciam na manutenção do equilíbrio sistêmico do ecossistema.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "• Equilíbrio sistêmico do ecossistema.\n• Ameaças ao equilíbrio do ecossistema.\n• Relações ecológicas.\n• Fatores abióticos que influenciam o equilíbrio dos ecossistemas.",
+          "objetivos_aprendizagem": [
+            "Analisar os fatores que influenciam na manutenção do equilíbrio do sistema ecológico.",
+            "Identificar e analisar os fatores que ameaçam o equilíbrio do ecossistema."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Ações antropicas que afetam os ecossistemas brasileiros",
+          "aprendizagem_essencial": "Reconhecer os impactos das ações antropicas nos ecossistemas brasileiros.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "• Ação antrópica.\n• Degradação ambiental.\n• Impactos ao ecossistema.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os impactos das ações antrópicas nos ecossistemas brasileiros."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Soluções para situações de ameaças ao equilíbrio do ecossistema",
+          "aprendizagem_essencial": "Identificar e analisar soluções para ameaças ao equilíbrio do ecossistema.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "• Soluções para situações de ameaças ao equilíbrio do ecossistema.\n• Reflorestamento.\n• Educação ambiental.\n• Rotação de culturas.\n• Agroecologia.\n• Sistemas agroflorestais.\n• Compensação ambiental.\n• Descarte e tratamento de resíduos.",
+          "objetivos_aprendizagem": [
+            "Identificar e analisar soluções para ameaças ao equilíbrio do ecossistema."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Energia limpa e sustentável",
+          "aprendizagem_essencial": "Reconhecer o que são biomassa e biocombustíveis.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "• Biocombustíveis.\n• Biomassa.\n• ODS 7: Energia limpo e acessível.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o que são biomassa e biocombustíveis.",
+            "Relacionar os conceitos de biomassa e biocombustíveis com a introdução de alternativas e novas tecnologias energéticas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Ecologia",
+          "aprendizagem_essencial": "Relacionar e distinguir os conceitos da ecologia: biosfera, população, comunidade, habitat, nicho ecológico.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Conceitos da ecologia: biosfera, população, comunidade, habitat, nicho ecológico.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 14,
+          "titulo": "O jogo dos quatros: aplicando conceitos de ecologia",
+          "aprendizagem_essencial": "Aplicar os conceitos básicos da ecologia: biosfera, população, comunidade, habitat, nicho ecológico.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Conceitos da ecologia: biosfera, população, comunidade, habitat, nicho ecológico.",
+          "objetivos_aprendizagem": []
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Efeito estufa: manutenção da vida",
+          "aprendizagem_essencial": "Relacionar o conceito de efeito estufa como fenômeno natural e a manutenção da vida.",
+          "habilidade": "EM13CNT102",
+          "conteudo": "Efeito estufa (manutenção da vida). Composição da atmosfera.",
+          "objetivos_aprendizagem": [
+            "Relacionar o conceito de efeito estufa como fenômeno natural e a manutenção da vida."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Eventos climáticos extremos",
+          "aprendizagem_essencial": "Diferenciar tempo e clima.",
+          "habilidade": "EM13CNT102",
+          "conteudo": "Tempo e clima. Aquecimento global. Mudanças climáticas. Eventos climáticos extremos.",
+          "objetivos_aprendizagem": [
+            "Diferenciar tempo e clima.",
+            "Relacionar aquecimento global e mudanças climáticas com eventos climáticos extremos."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Educação para Redução de Riscos e Desastres (ERRD)",
+          "aprendizagem_essencial": "Construir e divulgar material informativo sobre riscos de desastres.",
+          "habilidade": "EM13CNT102",
+          "conteudo": "Educação para Redução de Riscos e Desastres.",
+          "objetivos_aprendizagem": [
+            "Construir e divulgar material informativo sobre riscos de desastres."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Matriz energética: fontes renováveis",
+          "aprendizagem_essencial": "Interpretar a matriz energética mundial e identificar as fontes renováveis.",
+          "habilidade": "EM13CNT106",
+          "conteudo": "Matriz energética – fontes renováveis.",
+          "objetivos_aprendizagem": [
+            "Interpretar a matriz energética mundial e identificar as fontes renováveis.",
+            "Analisar os impactos da geração de energia por fontes renováveis."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Matriz energética: fontes não renováveis",
+          "aprendizagem_essencial": "Interpretar a matriz energética mundial e identificar as fontes não renováveis.",
+          "habilidade": "EM13CNT106",
+          "conteudo": "Matriz energética – fontes não renováveis.",
+          "objetivos_aprendizagem": [
+            "Interpretar a matriz energética mundial e identificar as fontes não renováveis.",
+            "Analisar os impactos da geração de energia por fontes não renováveis."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O que está aquecendo nosso planeta? - Aula desafio.",
+          "aprendizagem_essencial": "Interpretar as previsões para as ações antrópicas no clima.",
+          "habilidade": "EM13CNT303",
+          "conteudo": "Impactos antrópicos no ambiente.",
+          "objetivos_aprendizagem": [
+            "Interpretar as previsões para as ações antrópicas no clima."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Divulgação científica e letramento climático - Aula desafio.",
+          "aprendizagem_essencial": "Elaborar e discutir hipóteses sobre as mudanças climáticas.",
+          "habilidade": "EM13CNT301",
+          "conteudo": "Impactos e vulnerabilidades relacionados às mudanças climáticas.",
+          "objetivos_aprendizagem": [
+            "Elaborar e discutir hipóteses sobre as mudanças climáticas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Tipos de poluição",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "• Tipos de poluição.\n• Consequências da poluição do ar e da água.\n• Importância do saneamento básico.",
+          "objetivos_aprendizagem": [
+            "Diferenciar os tipos de poluição.",
+            "Identificar as consequências da poluição do ar e do solo.",
+            "Relacionar os conceitos de poluição com a importância do saneamento básico."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Impactos da poluição nos sistemas fisiológicos: visão",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Sistema fisiológico - visão.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a anatomia do olho humano e relacionar a fisiologia da visão com os riscos da poluição visual."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Impactos da poluição nos sistemas fisiológicos: audição",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Sistema fisiológico - audição.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a anatomia da orelha humana e relacionar a fisiologia da audição com os riscos da poluição sonora."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Sistema respiratório",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Anatomia e fisiologia do sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Identificar a anatomia do sistema respiratório humano.",
+            "Analisar a fisiologia do sistema respiratório humano."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Sistema cardiovascular",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Anatomia e fisiologia do sistema cardiovascular.",
+          "objetivos_aprendizagem": [
+            "Identificar a anatomia do sistema cardiovascular humano.",
+            "Analisar a fisiologia do sistema cardiovascular humano."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Impactos da poluição nos sistemas respiratório e cardiovascular - Aula complementar.",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Impactos da poluição nos sistemas respiratório e cardiovascular.",
+          "objetivos_aprendizagem": [
+            "Relacionar os riscos da poluição nos sistemas respiratório e cardiovascular."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Aula Complementar - Biomateriais: a ciência dos materiais - Aula complementar.",
+          "aprendizagem_essencial": "AE4 - Explicar os impactos da poluição ambiental nos sistemas fisiológicos humanos, identificando ações e tecnologias voltadas à prevenção e à promoção da saúde individual, coletiva e ambiental.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "A ciência dos materiais - biomateriais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o que são biomateriais.",
+            "Relaborar os materiais às suas propriedades físicas e químicas.",
+            "Avaliar a aplicação dos conhecimentos da Ciências da Natureza no desenvolvimento de um produto."
+          ]
+        }
+      ]
+    },
+    "2ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "EM13CNT103 - Reconhecer os potenciais benefícios e riscos das radiações na saúde humana e em equipamentos da área da saúde.",
+          "aprendizagem_essencial": "AE1 - Reconhecer os riscos e benefícios das radiações para a saúde humana.",
+          "habilidade": "EM13CNT103",
+          "conteudo": "Matéria e energia.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 2,
+          "titulo": "EM13CNT103 - Utilizar o conhecimento sobre as radiações e suas origens para avaliar as potencialidades e os riscos de sua aplicação em equipamentos de uso cotidiano, na saúde, no ambiente, na indústria, na agricultura e na geração de energia elétrica.",
+          "aprendizagem_essencial": "AE2 - Relacionar a meiose à reprodução à mitose ao crescimento, a manutenção dos tecidos e à origem de cânceres.",
+          "habilidade": "EM13CNT103",
+          "conteudo": "Matéria e energia.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 3,
+          "titulo": "EM13CNT103 - Reconhecer os processos de divisão celular.",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, e seus impactos nos seres vivos e no corpo humano, seus mecanismos de manutenção e transferências de conhecimentos.",
+          "habilidade": "EM13CNT103",
+          "conteudo": "Tecnologia e linguagem científica.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 4,
+          "titulo": "EM13CNT103 - Analisar como ações humanas afetam ecossistemas, envolvendo zoonoses, perda de habitat e serviços ecossistêmicos.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT103",
+          "conteudo": "Tecnologia e linguagem científica.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Impactos da intervenção humana",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Impactos da intervenção humana. Desmatamento, queimadas e mudanças climáticas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer como a atividade mineradora pode afetar o ecossistema e a população.",
+            "Avaliar os impactos do consumo."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Mineração",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Mineração.",
+          "objetivos_aprendizagem": [
+            "Reconhecer como as monoculturas podem afetar o clima e a população.",
+            "Compreender a importância de discutir sobre o uso de tecnologias para intensificar e diversificar a produção agrícola, para suprir a demanda por alimentos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Monocultura",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Monocultura.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Ações de intervenção para mitigar impactos associados aos ODS",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Desmatamento. Queimadas. Mineração. Monocultura.",
+          "objetivos_aprendizagem": [
+            "Esboçar ações de intervenção para mitigar os impactos associados aos ODS."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Crises: hídrica e elétrica",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Rios voadores. Consequências das crises hídrica e elétrica para a população.",
+          "objetivos_aprendizagem": [
+            "Avaliar e prever efeitos de intervenções nos ecossistemas, e seus impactos nos recursos hídricos.",
+            "Identificar a relação entre crise hídrica e elétrica."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Zoonoses",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Definição de zoonoses. Ciclo zoonótico. Quebra de barreira. Relação entre desmatamento e aumento da incidência de doenças. Medidas profiláticas.",
+          "objetivos_aprendizagem": [
+            "Avaliar os efeitos de intervenções humanas nos ecossistemas e seus impactos na saúde dos seres vivos.",
+            "Identificar a relação entre desmatamento e aumento da incidência de zoonoses."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Áreas de Preservação Permanente",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Áreas de Preservação Permanente. Características do bioma Cerrado. Serviços ecossistêmicos. Ameaças ao bioma Cerrado.",
+          "objetivos_aprendizagem": [
+            "Avaliar os efeitos de intervenções humanas nos ecossistemas/bios e seus impactos na qualidade e quantidade dos serviços ecossistêmicos.",
+            "Relacionar APP e manutenção dos serviços ecossistêmicos e a biodiversidade."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Perda de hábitat e interações entre os seres vivos",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Perda de hábitat e fragmentação. Descritores ecológicos. Corredores ecológicos. Coexistência humano-fauna.",
+          "objetivos_aprendizagem": [
+            "Relacionar e reconhecer os impactos do desmatamento nos hábitats e nas interações entre os seres vivos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Áreas verdes urbanas",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Áreas verdes urbanas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o que são áreas verdes urbanas, sua função ecológica para uso humano, bem como sua importância para a sustentabilidade ambiental das cidades."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Revitalização de área verde urbana degradada",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Áreas verdes urbanas.",
+          "objetivos_aprendizagem": [
+            "Elaborar um projeto de revitalização da área degradada, contendo modificações que favoreçam tanto o ambiente, quanto a população que faz uso do mesmo."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Preservação e conservação",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Efeito de borda. Ações de proteção dos ecossistemas. Preservação e conservação. Ciência cidadã.",
+          "objetivos_aprendizagem": [
+            "Diferenciar conservação e preservação.",
+            "Discutir a importância da preservação e conservação da biodiversidade."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Unidades de Conservação",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Unidades de conservação.",
+          "objetivos_aprendizagem": [
+            "Discutir a importância da preservação e conservação da biodiversidade.",
+            "Avaliar os efeitos da ação humana e das políticas ambientais para a garantia da sustentabilidade do planeta."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Bioacumulação",
+          "aprendizagem_essencial": "AE3 - Avaliar os benefícios e riscos dos defensivos agrícolas, relacionando sua composição, toxicidade e exposição ao processos de bioacumulação e biominificação.",
+          "habilidade": "EM13CNT104",
+          "conteudo": "Bioacumulação. Bioconcentração. Biominificação. Níveis Tróficos. Biodificadores.",
+          "objetivos_aprendizagem": [
+            "Avaliar os riscos à saúde e ao ambiente, considerando a composição e a toxicidade de diferentes produtos, como também o nível de exposição a eles."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Defensivos agrícolas",
+          "aprendizagem_essencial": "AE3 - Avaliar os benefícios e riscos dos defensivos agrícolas, relacionando sua composição, toxicidade e exposição ao processos de bioacumulação e biominificação.",
+          "habilidade": "EM13CNT104",
+          "conteudo": "Defensivos agrícolas. Bioacumulação trófica. Descarte inadequado de resíduos e seus efeitos nas cadeias tróficas e nos organismos.",
+          "objetivos_aprendizagem": [
+            "Estabelecer o conceito e o contexto do uso dos defensivos agrícolas, abordando sua classificação, aplicação e produção, bem como identificar seus impactos nos ecossistemas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Polinização e controle biológico",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT301",
+          "conteudo": "Polinização. Relações ecológicas. Sistema reprodutor de plantas com flores.",
+          "objetivos_aprendizagem": [
+            "Relacionar os impactos dos defensivos agrícolas nas relações ecológicas.",
+            "Analisar os fatores de influência do meio ambiente no uso inadequado de defensivos agrícolas."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O caso do vírus Machupo – Aula desafio.",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT301",
+          "conteudo": "Alteração em teias e cadeias alimentares. Bioacumulação e biominificação.",
+          "objetivos_aprendizagem": [
+            "Relacionar condições ambientais e ocorrência de doenças.",
+            "Analisar as situações de alterações em cadeias alimentares, bioconcentração e bioacumulação."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Alterações ambientais e saúde no caso do vírus Machupo – Aula desafio.",
+          "aprendizagem_essencial": "AE3 - Avaliar os efeitos de intervenções humanas nos ecossistemas, destacando seus impactos sobre a biodiversidade e propondo ações voltadas à sustentabilidade e à prevenção de zoonoses.",
+          "habilidade": "EM13CNT301",
+          "conteudo": "Relação ambiente e doença. Ciclo e proliferação de doenças.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Comparando vírus e células: estrutura e características essenciais",
+          "aprendizagem_essencial": "Virús como parasita intracelular obrigatório.",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Estrutura do vírus: capsídeo e material genético.",
+          "objetivos_aprendizagem": [
+            "Comparar a estrutura dos vírus com a das células, destacando as organelas e metabolismo próprio dos vírus, e identificar seus componentes essenciais (capsídeo e material genético)."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Organismos geneticamente modificados são transgênicos?",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Organismos Geneticamente Modificados (OGM). Transgênicos. Biossegurança.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o que são Organismos Geneticamente Modificados (OGM).",
+            "Diferenciar OGM e transgênicos.",
+            "Discutir a importância da biossegurança para a preservação e conservação da biodiversidade."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Transgênicos: o que precisamos saber sobre eles?",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Transgênicos. Melhoramento genético. Biética.",
+          "objetivos_aprendizagem": [
+            "Identificar os diferentes aspectos envolvendo transgênicos.",
+            "Reconhecer os principais objetivos dos transgênicos.",
+            "Discutir a importância da biossegurança e da bioética na tomada de decisões envolvendo transgênicos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Biossegurança e diversidade genética",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Diversidade genética. Biodiversidade. Biética e biossegurança.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a importância da diversidade genética para a manutenção da biodiversidade.",
+            "Discutir a importância da existência de uma legislação de diversidade genética."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Manipulação genética e biodiversidade",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT206",
+          "conteudo": "Manipulação genética. Riscos da perda da biodiversidade.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a importância da diversidade genética para a preservação da biodiversidade.",
+            "Discutir os riscos da perda da biodiversidade."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Hábitos de consumo - Aula complementar.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT309",
+          "conteudo": "Microplástico. ODS 12. Hábitos de consumo.",
+          "objetivos_aprendizagem": [
+            "Analisar questões socioambientais e econômicas relacionadas ao mundo atual visando aos plásticos.",
+            "Compreender a importância das pesquisas sobre os plásticos para a melhoria e mudança para hábitos de consumo."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Greenwashing: nem tudo é o que parece - Aula complementar.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT309",
+          "conteudo": "Greenwashing; Consumo sustentável.",
+          "objetivos_aprendizagem": [
+            "Discutir o conceito de Greenwashing.",
+            "Analisar as ações de empresas para a garantia da responsabilidade ambiental e políticas ambientais e éticas das empresas."
+          ]
+        }
+      ]
+    }
+  }
+}

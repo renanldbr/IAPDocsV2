@@ -1,0 +1,2046 @@
+{
+  "disciplina": "CIE",
+  "etapa": "AF",
+  "series": {
+    "6º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Big Bang. Método científico.",
+          "aprendizagem_essencial": "Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Big Bang. Método científico.",
+          "objetivos_aprendizagem": [
+            "Identificar teorias científicas sobre a origem do Universo.",
+            "Reconhecer a formação e transformação da Terra ao longo do tempo.",
+            "Classificar os corpos celestes do Sistema Solar.",
+            "Reconhecer as esferas que estruturam a Terra (litosfera, hidrosfera, atmosfera e biosfera), considerando suas funções e características essenciais na dinâmica do planeta."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Sistema Solar. Corpos celestes.",
+          "aprendizagem_essencial": "Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Sistema Solar. Corpos celestes.",
+          "objetivos_aprendizagem": [
+            "Identificar teorias científicas sobre a origem do Universo.",
+            "Reconhecer a formação e transformação da Terra ao longo do tempo.",
+            "Classificar os corpos celestes do Sistema Solar.",
+            "Reconhecer as esferas que estruturam a Terra (litosfera, hidrosfera, atmosfera e biosfera), considerando suas funções e características essenciais na dinâmica do planeta."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Terra primitiva.",
+          "aprendizagem_essencial": "Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Terra primitiva.",
+          "objetivos_aprendizagem": [
+            "Identificar teorias científicas sobre a origem do Universo.",
+            "Reconhecer a formação e transformação da Terra ao longo do tempo.",
+            "Classificar os corpos celestes do Sistema Solar.",
+            "Reconhecer as esferas que estruturam a Terra (litosfera, hidrosfera, atmosfera e biosfera), considerando suas funções e características essenciais na dinâmica do planeta."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Tempo histórico x Tempo geológico x Tempo cronológico",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI11",
+          "conteudo": "- Tempo geológico.",
+          "objetivos_aprendizagem": [
+            "- Diferenciar tempo histórico, de tempo geológico e tempo cronológico, identificando o papel de cada um deles em nosso cotidiano e na Ciência."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Camadas da Terra. Atmosfera.",
+          "aprendizagem_essencial": "Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Camadas da Terra. Atmosfera.",
+          "objetivos_aprendizagem": [
+            "Identificar teorias científicas sobre a origem do Universo.",
+            "Reconhecer a formação e transformação da Terra ao longo do tempo.",
+            "Classificar os corpos celestes do Sistema Solar.",
+            "Reconhecer as esferas que estruturam a Terra (litosfera, hidrosfera, atmosfera e biosfera), considerando suas funções e características essenciais na dinâmica do planeta."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Tipos de águas e distribuição no planeta. Estados e mudanças de estados da matéria. Poluição da água.",
+          "aprendizagem_essencial": "Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Tipos de águas e distribuição no planeta. Estados e mudanças de estados da matéria. Poluição da água.",
+          "objetivos_aprendizagem": [
+            "Identificar teorias científicas sobre a origem do Universo.",
+            "Reconhecer a formação e transformação da Terra ao longo do tempo.",
+            "Classificar os corpos celestes do Sistema Solar.",
+            "Reconhecer as esferas que estruturam a Terra (litosfera, hidrosfera, atmosfera e biosfera), considerando suas funções e características essenciais na dinâmica do planeta."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Evidências da esfericidade da Terra",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI13",
+          "conteudo": "- Esfericidade da Terra.",
+          "objetivos_aprendizagem": [
+            "- Apresentar argumentos científicos que comprovem a Esfericidade da Terra."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Movimento de rotação",
+          "aprendizagem_essencial": "Compreender a influência do movimento de rotação da Terra na percepção de diversos fenômenos do cotidiano.",
+          "habilidade": "EF06CI13",
+          "conteudo": "Movimento de rotação.",
+          "objetivos_aprendizagem": [
+            "Compreender a influência do movimento de rotação da Terra na percepção de diversos fenômenos do cotidiano."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Movimento de translacão",
+          "aprendizagem_essencial": "Compreender a influência do movimento de translação da Terra na percepção de diversos fenômenos e características desse movimento em relação ao sistema Terra-Sol.",
+          "habilidade": "EF06CI13",
+          "conteudo": "Movimento de translação.",
+          "objetivos_aprendizagem": [
+            "Compreender a influência do movimento de translação da Terra na percepção de diversos fenômenos e características desse movimento em relação ao sistema Terra-Sol."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Movimento aparente do Sol",
+          "aprendizagem_essencial": "Compreender o movimento aparente do Sol e sua relação com a definição de pontos cardeais.",
+          "habilidade": "EF06CI13",
+          "conteudo": "Movimento aparente do Sol.",
+          "objetivos_aprendizagem": [
+            "Compreender o movimento aparente do Sol e sua relação com a definição de pontos cardeais."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Relógio de sol - Parte 1",
+          "aprendizagem_essencial": "Construir um relógio de sol para observar seu funcionamento, compreendendo os fenômenos astronômicos envolvidos nesse processo.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Movimento aparente do Sol - Pontos cardeais.",
+          "objetivos_aprendizagem": [
+            "Construir um relógio de sol para observar seu funcionamento, compreendendo os fenômenos astronômicos envolvidos nesse processo."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Relógio de sol - Parte 2",
+          "aprendizagem_essencial": "Construir um relógio de sol e observar seu funcionamento, compreendendo os fenômenos astronômicos envolvidos nesse processo.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Movimento aparente do Sol - Pontos cardeais.",
+          "objetivos_aprendizagem": [
+            "Construir um relógio de sol e observar seu funcionamento, compreendendo os fenômenos astronômicos envolvidos nesse processo."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Movimentos da Lua",
+          "aprendizagem_essencial": "Identificar os princípios conceituais relacionados aos movimentos da Lua e seus impactos sobre o planeta e a mudança de fases.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Movimentos da Lua.",
+          "objetivos_aprendizagem": [
+            "Identificar os princípios conceituais relacionados aos movimentos da Lua e seus impactos sobre o planeta e a mudança de fases."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Eclipse lunar e solar",
+          "aprendizagem_essencial": "Analisar o sistema Terra-Sol-Lua e suas interações, explicando fenômenos relacionados aos eclipses solares e lunares, a partir do relato entre esses corpos celestes.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Eclipse lunar. Eclipse Solar.",
+          "objetivos_aprendizagem": [
+            "Analisar o sistema Terra-Sol-Lua e suas interações, explicando fenômenos relacionados aos eclipses solares e lunares, a partir do relato entre esses corpos celestes."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Estações do ano: solstício e equinócio",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Estação do ano. - Movimento de translação. - Movimento de rotação.",
+          "objetivos_aprendizagem": [
+            "Explicar como os movimentos da Terra e o eixo de inclinação influenciam a ocorrência das estações do ano."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Estações do ano no Brasil",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Estações do ano.",
+          "objetivos_aprendizagem": [
+            "Compreender as principais características da percepção das estações do ano no território brasileiro."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Condições para a existência de vida na Terra",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Vida na Terra.",
+          "objetivos_aprendizagem": [
+            "Compreender as principais características que tornam o planeta Terra habitável."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Modelo Terra-Sol-Lua: construindo o modelo",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Sistema Terra-Sol-Lua.",
+          "objetivos_aprendizagem": [
+            "Construir um modelo que represente o sistema Terra-Sol-Lua."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Modelo Terra-Sol-Lua: sistematização",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI14",
+          "conteudo": "Sistema Terra-Sol-Lua.",
+          "objetivos_aprendizagem": [
+            "Construir um modelo que represente o sistema Terra-Sol-Lua."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Retomada: Terra e Universo",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Retomada.",
+          "objetivos_aprendizagem": [
+            "Sistematizar os conteúdos relacionados ao surgimento da Terra e seus movimentos."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Retomada: Sistema Terra - Sol - Lua",
+          "aprendizagem_essencial": "AE2 - Explicar os efeitos dos movimentos do Sistema Terra-Sol-Lua na ocorrência de fenômenos naturais, considerando as relações entre rotação e translação da Terra e a interação entre Sol e Lua.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Retomada.",
+          "objetivos_aprendizagem": [
+            "Sistematizar os conteúdos relacionados aos movimentos da Terra e a ocorrência das estações meteorológicas."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Camadas da Terra",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Camadas da Terra.",
+          "objetivos_aprendizagem": [
+            "Descrever as principais características das esferas da Terra."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Atmosfera",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Atmosfera.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características da atmosfera, considerando as variações de altitude e a distribuição dos gases."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Hidrosfera: distribuição da água no planeta",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Tipos de águas e distribuição no planeta.",
+          "objetivos_aprendizagem": [
+            "Compreender como a água está distribuída em nosso planeta."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Estados de organização da matéria",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF04CI02",
+          "conteudo": "Estados físicos da matéria e mudanças no estado físico da matéria.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os estados físicos da matéria e as mudanças no estado físico da matéria que ocorrem no cotidiano."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Ciclo da água",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI11",
+          "conteudo": "Principais Estados físicos da matéria.",
+          "objetivos_aprendizagem": [
+            "Diferenciar as diferentes propriedades do estado de organização da matéria no contexto do ciclo hidrológico."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Poluição da água",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF04CI02",
+          "conteudo": "Poluição da água.",
+          "objetivos_aprendizagem": [
+            "Identificar as formas de Poluição das águas causadas por ações humanas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Biosfera",
+          "aprendizagem_essencial": "AE1 - Descrever as esferas que compõem a Terra, reconhecendo o surgimento da litosfera e suas transformações ao longo do tempo.",
+          "habilidade": "EF06CI06",
+          "conteudo": "O que é Biosfera.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de Biosfera e suas diferentes representações."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Produção de charge: o planeta Terra, a nossa casa - Aula complementar",
+          "aprendizagem_essencial": "- Preservação do meio ambiente.",
+          "habilidade": "EF06CI06",
+          "conteudo": "- Expressar por meio de linguagem visual a interdependência das partes que constituem o planeta Terra de modo a estabelecer relações com questões de preservação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Litossfera: tipos de rochas",
+          "aprendizagem_essencial": "- Característica da crosta terrestre, formação das rochas sedimentares, metamórficas, magmáticas e rochas ígneas.",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Compreender as principais características da Litossfera e as principais características dos diferentes tipos de rocha.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 10,
+          "titulo": "Formação do solo",
+          "aprendizagem_essencial": "- Como o solo é formado.",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Identificar as principais etapas relacionadas à formação do solo.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 11,
+          "titulo": "Fossilização",
+          "aprendizagem_essencial": "- O que são fósseis e como são formados.",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Compreender o processo de fossilização.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 12,
+          "titulo": "Minerais e minérios - Aula complementar",
+          "aprendizagem_essencial": "- Minerais e minérios.",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Reconhecer a importância da exploração de recursos minerais para a humanidade, analisando também seus impactos ambientais, sociais e econômicos.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 13,
+          "titulo": "Uso do solo e impactos das ações humanas",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Compreender como as ações humanas interferem na qualidade e na saúde do solo.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 14,
+          "titulo": "Simulador de erosão",
+          "aprendizagem_essencial": "- Preservação do solo.",
+          "habilidade": "EF06CI12",
+          "conteudo": "- Compreender, por meio de experimentos ou demonstrações práticas, a importância da cobertura vegetal para a conservação e a saúde do solo.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Substâncias puras, simples e compostas",
+          "aprendizagem_essencial": "Substâncias pura, simples e compostas.",
+          "habilidade": "EF06CI01",
+          "conteudo": "Substâncias puras, simples e compostas.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais características que classificam as substâncias como simples ou compostas."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Misturas homogêneas e heterogêneas",
+          "aprendizagem_essencial": "Misturas homogêneas e heterogêneas.",
+          "habilidade": "EF06CI01",
+          "conteudo": "Misturas homogêneas e heterogêneas.",
+          "objetivos_aprendizagem": [
+            "Compreender os elementos que auxiliam na classificação das misturas como homogêneas e heterogêneas."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Transformações químicas e físicas",
+          "aprendizagem_essencial": "Transformações químicas e físicas.",
+          "habilidade": "EF06CI02",
+          "conteudo": "Transformações químicas e físicas. - Evidências de transformações. - Químicas.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais diferenças entre as transformações químicas e físicas, destacando as principais características de cada uma delas."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Métodos de separação de misturas homogêneas",
+          "aprendizagem_essencial": "Separação de Misturas homogêneas.",
+          "habilidade": "EF06CI01",
+          "conteudo": "Separação de Misturas homogêneas.",
+          "objetivos_aprendizagem": [
+            "Compreender os fenômenos envolvidos em diferentes técnicas de Separação de misturas."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Métodos de separação de misturas heterogêneas",
+          "aprendizagem_essencial": "Separação de Misturas heterogêneas.",
+          "habilidade": "EF06CI01",
+          "conteudo": "Separação de Misturas heterogêneas.",
+          "objetivos_aprendizagem": [
+            "Compreender os fenômenos envolvidos em diferentes técnicas de Separação de misturas."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Materiais sintéticos - Aula complementar",
+          "aprendizagem_essencial": "O desenvolvimento tecnológico e os materiais sintéticos.",
+          "habilidade": "EF06CI04",
+          "conteudo": "O desenvolvimento tecnológico e os materiais sintéticos.",
+          "objetivos_aprendizagem": [
+            "Apresentar o uso de aplicações tecnológicas para a fabricação de materiais sintéticos."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Simulador: estados de organização da matéria",
+          "aprendizagem_essencial": "Estado de organização da matéria.",
+          "habilidade": "EF06CI01",
+          "conteudo": "Estado de organização da matéria.",
+          "objetivos_aprendizagem": [
+            "Sistema os conceitos relacionados à organização da matéria."
+          ]
+        }
+      ]
+    },
+    "7º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Terra e Universo",
+          "aprendizagem_essencial": "AE1: Investigar a teoria da terra como sistema, considerando a relação entre as esferas.",
+          "habilidade": "EF01CI06: Justificar a forma como as características da Terra se relacionam.",
+          "conteudo": "Características do sistema terrestre.",
+          "objetivos_aprendizagem": [
+            "Entender a relação entre as esferas do planeta.",
+            "Explorar as características geológicas.",
+            "Relacionar as mudanças que ocorrem no sistema terrestre."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Matriz de Energia",
+          "aprendizagem_essencial": "AE2: Identificar a composição da atmosfera e seus componentes.",
+          "habilidade": "EF02CI02: Reconhecer que o sistema climático é composto por variáveis interligadas.",
+          "conteudo": "Composição da atmosfera e suas funções.",
+          "objetivos_aprendizagem": [
+            "Compreender a dinâmica da atmosfera.",
+            "Identificar a importância dos gases na vida terrestre.",
+            "Analisar a relação entre temperatura e clima."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Eventos naturais da litosfera",
+          "aprendizagem_essencial": "EF07CI15",
+          "habilidade": "EF07CI15",
+          "conteudo": "Eventos naturais.",
+          "objetivos_aprendizagem": [
+            "Compreender os Eventos naturais que ocorrem na litosfera."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Vulcanismo",
+          "aprendizagem_essencial": "EF07CI15",
+          "habilidade": "EF07CI15",
+          "conteudo": "Vulcanismo.",
+          "objetivos_aprendizagem": [
+            "Compreender as características geológicas do planeta que levam à ocorrência do vulcanismo em determinadas áreas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Terremotos e tsunamis",
+          "aprendizagem_essencial": "EF07CI15",
+          "habilidade": "EF07CI15",
+          "conteudo": "Terremotos e tsunamis.",
+          "objetivos_aprendizagem": [
+            "Compreender os processos geológicos envolvidos na ocorrência de terremotos e tsunamis."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Eventos naturais da litosfera",
+          "aprendizagem_essencial": "EF07CI15",
+          "habilidade": "EF07CI15",
+          "conteudo": "Eventos naturais.",
+          "objetivos_aprendizagem": [
+            "Construir um modelo que represente os impactos de Terremotos sobre a superfície da Terra."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Atmosfera da Terra",
+          "aprendizagem_essencial": "EF07CI12",
+          "habilidade": "EF07CI12",
+          "conteudo": "Atmosfera da Terra.",
+          "objetivos_aprendizagem": [
+            "Investigar a composição da atmosfera e os fatores naturais e humanos que influenciam os ambientes na saúde do sistema respiratório humano."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Camada de ozônio",
+          "aprendizagem_essencial": "AE2 - Identificar a composição da atmosfera e os fatores naturais e humanos que a modificam, relacionando-os aos impactos ambientais e na saúde do sistema respiratório humano.",
+          "habilidade": "EF07CI14B",
+          "conteudo": "- Camada de ozônio.\n- Impactos da ação humana na Camada de ozônio.",
+          "objetivos_aprendizagem": [
+            "- Compreender e identificar os principais componentes da camada de ozônio e os impactos das ações humanas sobre ela."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Pressão atmosférica",
+          "aprendizagem_essencial": "AE2 - Identificar a composição da atmosfera e os fatores naturais e humanos que a modificam, relacionando-os aos impactos ambientais e na saúde do sistema respiratório humano.",
+          "habilidade": "EF07CI12",
+          "conteudo": "- Pressão atmosférica.\n- Altitude.",
+          "objetivos_aprendizagem": [
+            "- Compreender como a variação de altitude afeta a pressão atmosférica e as condições do ar."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Qualidade do ar",
+          "aprendizagem_essencial": "AE2 - Identificar a composição da atmosfera e os fatores naturais e humanos que a modificam, relacionando-os aos impactos ambientais e na saúde do sistema respiratório humano.",
+          "habilidade": "EF07CI12",
+          "conteudo": "- Qualidade do ar.",
+          "objetivos_aprendizagem": [
+            "- Compreender as características físico-químicas que afetam a qualidade do atmosférico."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Doenças respiratórias",
+          "aprendizagem_essencial": "AE2 - Identificar a composição da atmosfera e os fatores naturais e humanos que a modificam, relacionando-os aos impactos ambientais e na saúde do sistema respiratório humano.",
+          "habilidade": "EF07CI12",
+          "conteudo": "- Doenças respiratórias.",
+          "objetivos_aprendizagem": [
+            "- Relacionar a qualidade do ar atmosférico à saúde humana."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Atmosfera",
+          "aprendizagem_essencial": "AE2 - Identificar a composição da atmosfera e os fatores naturais e humanos que a modificam, relacionando-os aos impactos ambientais e na saúde do sistema respiratório humano.",
+          "habilidade": "EF07CI12",
+          "conteudo": "- Atmosfera da Terra.",
+          "objetivos_aprendizagem": [
+            "- Construir um ambiente que simule as condições atmosféricas e o papel da atmosfera no planeta Terra."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Máquinas simples: força",
+          "aprendizagem_essencial": "AE3 - Distinguir o uso e o funcionamento de máquinas simples, com base no conceito de força e exemplos do cotidiano.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "- Força.",
+          "objetivos_aprendizagem": [
+            "- Compreender as características básicas ligadas ao conceito de Força."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Máquinas simples: alavancas e plano inclinado",
+          "aprendizagem_essencial": "AE3 - Distinguir o uso e o funcionamento de máquinas simples, com base no conceito de força e exemplos do cotidiano.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "- Máquinas simples.",
+          "objetivos_aprendizagem": [
+            "- Identificar o papel do uso de máquinas simples (Alavancas e plano inclinado) no cotidiano."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Máquinas simples: roda, eixo e polia",
+          "aprendizagem_essencial": "AE3 - Distinguir o uso e o funcionamento de máquinas simples, com base no conceito de força e exemplos do cotidiano.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "Máquinas simples.",
+          "objetivos_aprendizagem": [
+            "Compreender e identificar o papel do uso de máquinas simples (roda, eixo e polia) no cotidiano."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Calor e temperatura",
+          "aprendizagem_essencial": "AE4 - Aplicar os conceitos de calor, temperatura e sensação térmica na análise das formas de propagação do calor e do equilíbrio termodinâmico.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "Calor e temperatura.",
+          "objetivos_aprendizagem": [
+            "Compreender e diferenciar os conceitos de calor e temperatura no contexto da física térmica."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Propagação de calor",
+          "aprendizagem_essencial": "AE4 - Aplicar os conceitos de calor, temperatura e sensação térmica na análise das formas de propagação do calor e do equilíbrio termodinâmico.",
+          "habilidade": "EF07CI10B",
+          "conteudo": "Calor e temperatura.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais formas de propagação de calor."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Equilíbrio termodinâmico e escalas de temperaturas",
+          "aprendizagem_essencial": "AE4 - Aplicar os conceitos de calor, temperatura e sensação térmica na análise das formas de propagação do calor e do equilíbrio termodinâmico.",
+          "habilidade": "EF07CI02",
+          "conteudo": "Temperatura.",
+          "objetivos_aprendizagem": [
+            "Compreender questões relacionadas ao equilíbrio termodinâmico e as escalas de temperatura comuns utilizadas."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Máquinas térmicas no cotidiano",
+          "aprendizagem_essencial": "AE4 - Aplicar os conceitos de calor, temperatura e sensação térmica na análise das formas de propagação do calor e do equilíbrio termodinâmico.",
+          "habilidade": "EF07CI02",
+          "conteudo": "Máquinas térmicas.",
+          "objetivos_aprendizagem": [
+            "Compreender os principais conceitos relacionados à temperatura, ao calor e à sensação térmica."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Máquinas elétricas",
+          "aprendizagem_essencial": "AE5 - Analisar os impactos econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando as máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06, EF07CI17*",
+          "conteudo": "Máquinas elétricas.",
+          "objetivos_aprendizagem": [
+            "Relacionar o desenvolvimento de diferentes tipos de máquinas ao longo dos anos, em especial das que utilizam energia elétrica."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Desenvolvimento tecnológico",
+          "aprendizagem_essencial": "AE5 - Analisar os impactos econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06, EF07CI17*",
+          "conteudo": "Construção de soluções tecnológicas.",
+          "objetivos_aprendizagem": [
+            "Utilizar o conhecimento relacionado ao desenvolvimento tecnológico como forma de identificar a influência da tecnologia no cotidiano."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "AE6 - Analisar os impactos socioambientais do uso de combustíveis fósseis, das queimadas e do desmatamento, reconhecendo suas consequências para os ecossistemas.",
+          "aprendizagem_essencial": "Matéria e Energia.",
+          "habilidade": "EF07CI05",
+          "conteudo": "Discutir o uso de diferentes tipos de combustíveis e máquinas térmicas ao longo do tempo, para avaliar e argumentar sobre os avanços e perspectivas relacionadas à produção e consumo desses recursos.",
+          "objetivos_aprendizagem": [
+            "Discutir o uso de diferentes tipos de combustíveis e máquinas."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "AE7 - Identificar o efeito estufa como um fenômeno natural, reconhecendo os impactos das ações humanas que o intensificam.",
+          "aprendizagem_essencial": "Terra e Universo.",
+          "habilidade": "EF07CI13",
+          "conteudo": "Identificar e descrever o mecanismo natural do efeito estufa e seu papel fundamental para o desenvolvimento da vida na Terra.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o efeito estufa como fenômeno natural."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "AE5 - Analisar os impactos econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando as máquinas elétricas e seu uso consciente.",
+          "aprendizagem_essencial": "Matéria e Energia.",
+          "habilidade": "EF07CI06",
+          "conteudo": "Discutir e avaliar mudanças econômicas, culturais e sociais, tanto na vida cotidiana como no desenvolvimento de novos fenômenos associados à automação e informatização.",
+          "objetivos_aprendizagem": [
+            "Discutir e avaliar mudanças econômicas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "AE8 - Explicar as características vírus, bactérias e fungos, identificando doenças que causam e formas de preveni-las.",
+          "aprendizagem_essencial": "Vida e Evolução.",
+          "habilidade": "EF07CI10",
+          "conteudo": "Identificar vírus e bactérias que são os principais patógenos humanos.",
+          "objetivos_aprendizagem": [
+            "Identificar vírus e bactérias."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "AE9 - Caracterizar os ecossistemas brasileiros, explicando os fatores bióticos e abióticos que se relacionam às características e estrutura do bioma, considerando o biodiversidade como elemento central.",
+          "aprendizagem_essencial": "Vida e Evolução.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Caracterizar os principais grupos de seres vivos invertebrados e vertebrados e seus papéis ecológicos.",
+          "objetivos_aprendizagem": [
+            "Caracterizar grupos de seres vivos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Campanha de conscientização ambiental",
+          "aprendizagem_essencial": "AE7 - Identificar o efeito estufa como um fenômeno natural, reconhecendo os impactos das ações humanas que o intensificam.",
+          "habilidade": "EF07CI06, EF07CI17*",
+          "conteudo": "Conscientização ambiental. - Criação de uma campanha de conscientização sobre mudanças climáticas.",
+          "objetivos_aprendizagem": [
+            "Identificar o efeito estufa como um fenômeno natural, reconhecendo os impactos das ações humanas que o intensificam."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Sustentabilidade",
+          "aprendizagem_essencial": "AE5 - Analisar os impactos econômicos, culturais e sociais das inovações tecnológicas relacionadas às máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06, EF07CI17*",
+          "conteudo": "Sustentabilidade.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de sustentabilidade e o histórico de seu desenvolvimento."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Objetivos do desenvolvimento sustentável",
+          "aprendizagem_essencial": "AE5 - Analisar os impacts econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando as máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06 EF07CI17*",
+          "conteudo": "- Objetivos do desenvolvimento sustentável.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os Objetivos de Desenvolvimento Sustentável e suas principais metas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Agenda 2030 - Aula complementar",
+          "aprendizagem_essencial": "AE5 - Analisar os impacts econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando as máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06 EF07CI17*",
+          "conteudo": "- Agenda 2030.",
+          "objetivos_aprendizagem": [
+            "Compreender o que é a Agenda 2030 e sua relação com os ODS.",
+            "Refletir sobre a importância de políticas públicas para o cumprimento da Agenda 2030."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Plano de intervenção sustentável",
+          "aprendizagem_essencial": "AE5 - Analisar os impacts econômicos, culturais e sociais das inovações tecnológicas na sociedade, destacando as máquinas elétricas e seu uso consciente.",
+          "habilidade": "EF07CI06 EF07CI17*",
+          "conteudo": "- Plano de intervenção sustentável.",
+          "objetivos_aprendizagem": [
+            "Construir um plano de intervenção sustentável."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Diversidade da vida: microrganismos",
+          "aprendizagem_essencial": "AE8 - Explicar as características de vírus, bactérias e fungos, identificando as doenças que causam e as formas de prevenção.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "- Microrganismo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características e funções dos microrganismos."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Doenças causadas por microrganismos",
+          "aprendizagem_essencial": "AE8 - Explicar as características de vírus, bactérias e fungos, identificando as doenças que causam e as formas de prevenção.",
+          "habilidade": "EF07CI10A",
+          "conteudo": "- Doenças causadas por microrganismos.",
+          "objetivos_aprendizagem": [
+            "Compreender os ciclos de transmissão de Doenças causadas por microrganismos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Diversidade de invertebrados",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "- Invertebrados.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características dos grupos de Invertebrados."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Invertebrados no cotidiano",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "- Invertebrados.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características dos grupos de Invertebrados."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Relação entre os diferentes vertebrados",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Vertebrados.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características dos grupos de Vertebrados."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Diversidade de vertebrados",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Vertebrados.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características dos grupos de Vertebrados."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Diversidade das plantas",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Plantas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características dos grupos de plantas terrestres."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Importância ecológica das plantas",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Plantas.",
+          "objetivos_aprendizagem": [
+            "Relacionar as plantas aos serviços sistêmicos.",
+            "Compreender o processo de Fotossíntese."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Investigação da biodiversidade vegetal local",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Biodiversidade local.",
+          "objetivos_aprendizagem": [
+            "Investigar as características e a ocorrência de espécies vegetais da biodiversidade local."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Retomada: Sustentabilidade - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI06, EF07CI17*",
+          "conteudo": "Sustentabilidade.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais relações entre as mudanças climáticas e a ocorrência de eventos climáticos extremos.",
+            "Compreender o conceito de sustentabilidade e o histórico do seu desenvolvimento."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Retomada: Biodiversidade - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Caracterizar os ecossistemas brasileiros, explicando como os fatores bióticos e abióticos se relacionam às características da fauna e da flora, considerando a biodiversidade como elemento central.",
+          "habilidade": "EF07CI07",
+          "conteudo": "Biodiversidade.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as principais características e funções dos microorganismos.",
+            "Reconhecer as principais características dos grupos de invertebrados, vertebrados e plantas terrestres."
+          ]
+        }
+      ]
+    },
+    "8º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Reconhecer características biopsicossociais da adolescência.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08CI8A",
+          "conteudo": "Identificar as transformações que ocorrem na puberdade com fenômeno biológico e comportamental.",
+          "objetivos_aprendizagem": [
+            "Caracterizar o período de transição da infância para a adolescência."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Identificar as principais estruturas e os processos envolvidos na organização do sistema genital.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08CI7",
+          "conteudo": "Identificar e comparar diferentes processos reprodutivos em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidade precoce.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08CI10",
+          "conteudo": "Identificar sintomas, modos de transmissão, tratamento das principais Infecções Sexualmente Transmissíveis - IST.",
+          "objetivos_aprendizagem": [
+            "Discutir e argumentar sobre a importância das estratégias de métodos de prevenção."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Discutir sobre as diferentes motivações para o uso de substâncias psicotivas.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08CI2O",
+          "conteudo": "Discutir sobre as diferentes motivações para o uso de substâncias psicotivas para a saúde individual e coletiva.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Reprodução sexuada",
+          "aprendizagem_essencial": "AE2 - Comparar processos reprodutivos assexuados e sexuados em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "habilidade": "EF08CI07",
+          "conteudo": "- Reprodução sexuada.\n- Meiose.\n- Variabilidade genética.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais características da Reprodução sexuada."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Cuidado parental e sucesso reprodutivo",
+          "aprendizagem_essencial": "AE2 - Comparar processos reprodutivos assexuados e sexuados em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "habilidade": "EF08CI07",
+          "conteudo": "- Cuidado parental.",
+          "objetivos_aprendizagem": [
+            "Caracterizar a relação entre o cuidado parental e o sucesso reprodutivo das espécies."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Estratégia de reprodução das plantas",
+          "aprendizagem_essencial": "AE2 - Comparar processos reprodutivos assexuados e sexuados em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "habilidade": "EF08CI07",
+          "conteudo": "- Processos reprodutivos dos vegetais.",
+          "objetivos_aprendizagem": [
+            "Compreender as diferenças e as semelhanças entre os processos reprodutivos das plantas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Reprodução das gimnospermas e angiospermas",
+          "aprendizagem_essencial": "AE2 - Comparar processos reprodutivos assexuados e sexuados em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "habilidade": "EF08CI07",
+          "conteudo": "Reprodução das gimnospermas. - Reprodução das angiospermas.",
+          "objetivos_aprendizagem": [
+            "Compreender as diferenças e as semelhanças entre os processos reprodutivos das plantas e o papel da polinização na ecologia dos ecossistemas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "O papel dos polinizadores",
+          "aprendizagem_essencial": "AE2 - Comparar processos reprodutivos assexuados e sexuados em vegetais e animais, com base em mecanismos evolutivos e adaptativos.",
+          "habilidade": "EF08CI07",
+          "conteudo": "Reprodução.",
+          "objetivos_aprendizagem": [
+            "Discutir e elaborar argumentos sobre a importância da polinização para os ecossistemas."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Saúde reprodutiva: sistema genital",
+          "aprendizagem_essencial": "AE1 - Identificar as mudanças físicas e comportamentais que ocorrem na puberdade, relacionando-as às interações entre os sistemas nervoso e endócrino.",
+          "habilidade": "EF08CI08B",
+          "conteudo": "Sistema genital.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais estruturas e os processos envolvidos na organização do sistema genital."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Prevenção e autocuidado",
+          "aprendizagem_essencial": "AE1 - Identificar as mudanças físicas e comportamentais que ocorrem na puberdade, relacionando-as às interações entre os sistemas nervoso e endócrino.",
+          "habilidade": "EF08CI19*",
+          "conteudo": "Prevenção.",
+          "objetivos_aprendizagem": [
+            "Identificar ações de prevenção e autocuidado que garantam a saúde na adolescência."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Infecções sexualmente transmissíveis (ISTs)",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI10",
+          "conteudo": "Infecções sexualmente transmissíveis (ISTs).",
+          "objetivos_aprendizagem": [
+            "Classificar as principais ISTs quanto a métodos de transmissão, sintomas e métodos preventivos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Papilomavírus humano (HPV)",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI19*",
+          "conteudo": "Infecções sexualmente transmissíveis (ISTs).",
+          "objetivos_aprendizagem": [
+            "Discutir os principais sintomas do HPV e métodos para prevenir sua ocorrência."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Sífilis",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI19*",
+          "conteudo": "Infecções sexualmente transmissíveis (ISTs).",
+          "objetivos_aprendizagem": [
+            "Discutir os principais sintomas e métodos de prevenção à ocorrência da Sífilis."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "HIV/aids",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI10",
+          "conteudo": "Infecções sexualmente transmissíveis (ISTs).",
+          "objetivos_aprendizagem": [
+            "Discutir os principais sintomas e métodos de prevenção à ocorrência do HIV e Aids."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Métodos contraceptivos",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI09",
+          "conteudo": "Prevenção à gravidez.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os principais métodos contraceptivos e seus mecanismos de ação."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Projeto de vida – Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI10 EF08CI19*",
+          "conteudo": "Prevenção à gravidez.",
+          "objetivos_aprendizagem": [
+            "Analisar os impactos de uma gravidez precoce no projeto de vida dos adolescentes."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Projeto de vida – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI10 EF08CI19*",
+          "conteudo": "Prevenção à gravidez.",
+          "objetivos_aprendizagem": [
+            "Analisar os impactos de uma gravidez precoce no projeto de vida dos adolescentes."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Vulnerabilidade",
+          "aprendizagem_essencial": "AE3 - Analisar formas de prevenção das infecções sexualmente transmissíveis e da gravidez precoce, reconhecendo práticas de saúde sexual e reprodutiva.",
+          "habilidade": "EF08CI11",
+          "conteudo": "Vulnerabilidade.",
+          "objetivos_aprendizagem": [
+            "Destacar aspectos econômicos, sociais e pessoais que podem levar pessoas ou populações a situações de vulnerabilidade."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Diferentes manifestações da sexualidade humana",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para apropriações de práticas voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Sexualidade humana.",
+          "objetivos_aprendizagem": [
+            "Reconhecer aspectos ligados às diferentes manifestações da sexualidade humana."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "O que são drogas?",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para apropriações de práticas voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Drogas.",
+          "objetivos_aprendizagem": [
+            "Identificar drogas lícitas e ilícitas.",
+            "Identificar características de drogas depressoras, estimulantes e perturbadoras."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Efeitos das drogas no organismo",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Drogas.",
+          "objetivos_aprendizagem": [
+            "Caracterizar efeitos no organismo relacionados ao uso de Substâncias psicoativas."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Tabagismo e alcoolismo",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Drogas.",
+          "objetivos_aprendizagem": [
+            "Conscientizar sobre os impactos do tabagismo e alcoolismo sobre a saúde humana."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Prevenção ao uso de drogas",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Drogas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer ações eficientes para prevenir o uso de drogas.",
+            "Construir uma campanha de conscientização sobre o abuso de drogas."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Retomada: Adolescência e puberdade",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI08A EF08CI08B",
+          "conteudo": "Adolescência e puberdade.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as mudanças biológicas que ocorrem no desenvolvimento da puberdade.",
+            "Compreender o desenvolvimento dos sistemas nervoso e endócrino na adolescência."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Retomada: Reprodução",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI07",
+          "conteudo": "Reprodução.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais características da reprodução assexuada e sexuada."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Retomada: IST e gravidez na adolescência",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI19* EF08CI10 EF08CI09",
+          "conteudo": "Infecções sexualmente transmissivas (ISTs).",
+          "objetivos_aprendizagem": [
+            "Classificar as principais ISTs quanto a formas de transmissão, sintomas e métodos preventivos.",
+            "Reconhecer os principais métodos contraceptivos e seus mecanismos de ação."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Retomada: Drogas",
+          "aprendizagem_essencial": "AE4 - Discutir os efeitos do uso de substâncias psicoativas para propor ações de prevenção voltadas à saúde individual e coletiva.",
+          "habilidade": "EF08CI20* EF08CI21*",
+          "conteudo": "Drogas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer aspectos ligados às diferentes manifestações de sexualidade humana.",
+            "Discursar os impactos do abuso de drogas sobre a saúde humana."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Vida e Evolução",
+          "aprendizagem_essencial": "EF05CI06A - Identificar e registrar diferentes formas (ilustrações, vídeos, simuladores ou outros) do processo de digestão dos alimentos e o caminho percorrido pelo oxigênio no sistema respiratório.",
+          "habilidade": "Reconhecer a função dos nutrientes no organismo humano.",
+          "conteudo": "Sistema digestório e sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Identificar os órgãos do sistema digestório e sua função na digestão e absorção dos nutrientes."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Vida e Evolução",
+          "aprendizagem_essencial": "EF05CI06B - Selecionar argumentos que justifiquerem porque o sistema digestório e respiratório são considerados correspondentes à nutrição do organismo.",
+          "habilidade": "Reconhecer os órgãos do sistema respiratório e suas funções no processo de inspiração e expiração.",
+          "conteudo": "Sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os órgãos do sistema respiratório e suas funções no processo de inspiração e expiração."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Guia Alimentar para a População Brasileira",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Guia Alimentar para a população Brasileira.",
+          "objetivos_aprendizagem": [
+            "Identificar as características dos alimentos processados, ultraprocessados e in natura."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Segurança alimentar e vulnerabilidade",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Segurança alimentar.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de Segurança alimentar.",
+            "Relacionar situações de vulnerabilidade à Segurança alimentar."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Leitura de rótulos",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Informação nutricional.",
+          "objetivos_aprendizagem": [
+            "Analisar e compreender as informações fornecidas nos rótulos de alimentos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O sistema digestório",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Sistema digestório.",
+          "objetivos_aprendizagem": [
+            "Conhecer os órgãos que compõem o sistema digestório."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "O processo de digestão",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Processo de digestão.",
+          "objetivos_aprendizagem": [
+            "Compreender o processo de digestão dos alimentos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Montagem de cardápio",
+          "aprendizagem_essencial": "AE5 - Descrever as principais estruturas e funções do sistema digestório e dos nutrientes, relacionando-os à classificação dos alimentos em processados, ultraprocessados e in natura.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Alimentação balanceada.",
+          "objetivos_aprendizagem": [
+            "Construir um cardápio Alimentar considerando os princípios da Alimentação balanceada."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "O sistema respiratório",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Conhecer os órgãos que compõem o sistema respiratório."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Expiração e inspiração",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Expiração. Inspiração.",
+          "objetivos_aprendizagem": [
+            "Compreender os movimentos de expiração e inspiração."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Poluição atmosférica - Aula complementar",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Poluição atmosférica.",
+          "objetivos_aprendizagem": [
+            "Analisar como a Poluição atmosférica afeta o sistema respiratório."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Saúde do sistema respiratório",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Saúde do sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Identificar os principais poluentes atmosféricos e os impactos que causam na saúde."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Construção de um modelo de sistema respiratório - Parte 1",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Modelo do sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Compreender o funcionamento do sistema respiratório a partir da construção e uso de um modelo."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Construção de um modelo de sistema respiratório - Parte 2",
+          "aprendizagem_essencial": "AE6 - Explicar o funcionamento do sistema respiratório e os fatores que comprometem sua atividade, incluindo a poluição atmosférica e as doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Modelo do sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Compreender o funcionamento do sistema respiratório a partir da construção e uso de um modelo."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "O sistema cardiovascular: coração",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Coração.",
+          "objetivos_aprendizagem": [
+            "- Compreender o funcionamento do sistema cardiovascular com destaque para o coração."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "O sistema cardiovascular: sangue",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Sangue.",
+          "objetivos_aprendizagem": [
+            "- Compreender o funcionamento do sistema cardiovascular com destaque para o sangue."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "O sistema cardiovascular: vasos",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Vasos.",
+          "objetivos_aprendizagem": [
+            "- Compreender o funcionamento do sistema cardiovascular com destaque para os vasos."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "O sistema imune",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Sistema imune.",
+          "objetivos_aprendizagem": [
+            "- Conhecer as principais estruturas do sistema imune."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Funcionamento do sistema imunológico",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Sistema imune.",
+          "objetivos_aprendizagem": [
+            "- Compreender o funcionamento do sistema imune."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Saúde do sistema cardiovascular - Aula complementar",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Prevenção de agravos ao sistema cardiovascular.",
+          "objetivos_aprendizagem": [
+            "- Propor ações de promoção à saúde e prevenção de agravos ao sistema cardiovascular."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Doenças crônicas não transmissíveis – DCNT",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Doenças crônicas não transmissíveis.",
+          "objetivos_aprendizagem": [
+            "- Reconhecer as doenças crônicas não transmissíveis e como preveni-las."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Pressão arterial",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Pressão arterial.",
+          "objetivos_aprendizagem": [
+            "Compreender o que é pressão arterial e sua função no organismo humano."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Campanha sobre doenças crônicas não transmissíveis – Parte 1",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Doenças crônicas não transmissíveis.",
+          "objetivos_aprendizagem": [
+            "Elaborar uma campanha de conscientização e informação sobre prevenção às doenças crônicas não transmissíveis."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Campanha sobre doenças crônicas não transmissíveis – Parte 2",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Doenças crônicas não transmissíveis.",
+          "objetivos_aprendizagem": [
+            "Elaborar uma campanha de conscientização e informação sobre prevenção às doenças crônicas não transmissíveis."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Retomada: Nutrição - Aula complementar",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Segurança alimentar. Informação nutricional.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as características dos alimentos considerando a função dos nutrientes e o tipo de processamento."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Retomada: Sistema digestório",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI06A",
+          "conteudo": "Sistema digestório.",
+          "objetivos_aprendizagem": [
+            "Compreender o funcionamento do sistema digestório."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Retomada: Sistema respiratório",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI06B",
+          "conteudo": "Sistema respiratório.",
+          "objetivos_aprendizagem": [
+            "Compreender o funcionamento do sistema respiratório."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Retomada: Sistema cardiovascular",
+          "aprendizagem_essencial": "AE7 - Explicar o funcionamento do sistema circulatório e sua relação com o sistema imune, reconhecendo ações que contribuem para a prevenção de doenças.",
+          "habilidade": "EF08CI08B EF05CI07",
+          "conteudo": "Sistema cardiovascular.",
+          "objetivos_aprendizagem": [
+            "Compreender o funcionamento do sistema cardiovascular."
+          ]
+        }
+      ]
+    },
+    "9º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "O que é Ciência?",
+          "aprendizagem_essencial": "AE1 - Analisar a importância do acesso a informações científicas de qualidade, considerando os critérios de confiabilidade das fontes e avaliando os impactos da desinformação.",
+          "habilidade": "EF09CI18*",
+          "conteudo": "Natureza da Ciência.",
+          "objetivos_aprendizagem": [
+            "Contextualizar os conceitos de ciência e de tecnologia na atualidade.",
+            "Compreender questões relacionadas ao processo de investigação científica.",
+            "Definir o que é Ciência.",
+            "Diferenciar Ciência e Tecnologia.",
+            "Entender sobre a profissão Cientista e seu papel da sociedade."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Etapas do processo de investigação científica",
+          "aprendizagem_essencial": "AE1 - Analisar a importância do acesso a informações científicas de qualidade, considerando os critérios de confiabilidade das fontes e avaliando os impactos da desinformação.",
+          "habilidade": "EF09CI18*",
+          "conteudo": "Natureza da Ciência.",
+          "objetivos_aprendizagem": [
+            "Argumentar, com base em evidências, sobre as etapas da investigação científica e explicar questões relacionadas a Natureza da Ciência.",
+            "Compreender a ciência como prática colaborativa e valorizar cientistas brasileiros(as), relacionando seus trabalhos aos projetos de vida dos estudantes."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Acesso à informação científica",
+          "aprendizagem_essencial": "AE1 - Analisar a importância do acesso a informações científicas de qualidade, considerando os critérios de confiabilidade das fontes e avaliando os impactos da desinformação.",
+          "habilidade": "EF09CI05",
+          "conteudo": "Natureza da Ciência.",
+          "objetivos_aprendizagem": [
+            "Avaliar criticamente a importância do acesso à informação científica de qualidade, identificando fontes confiáveis e estratégias para verificar a veracidade das informações divulgadas.",
+            "Analisar as relações entre o Divulgação científica, seu desenvolvimento e os impactos sociais da desinformação, especialmente nas redes sociais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Aula prática: desinformação na área das Ciências da Natureza",
+          "aprendizagem_essencial": "AE1 - Analisar a importância do acesso a informações científicas de qualidade, considerando os critérios de confiabilidade das fontes e avaliando os impactos da desinformação.",
+          "habilidade": "EF09CI18*",
+          "conteudo": "Natureza da Ciência.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente a circulação de informações científicas na sociedade, reconhecendo a desinformação e o reconhecimento de como os impactos das informações, especialmente nas redes sociais.",
+            "Identificar estratégias para verificar a veracidade das informações compartilhadas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Átomos: conceito e modelos (atomistas e Dalton)",
+          "aprendizagem_essencial": "AE2 - Identificar os modelos que estruturam a matéria, reconhecendo a evolução histórica dos modelos atômicos e a classificação dos elementos químicos.",
+          "habilidade": "EF09CI03",
+          "conteudo": "Átomo.",
+          "objetivos_aprendizagem": [
+            "Compreender a importância dos modelos atômicos conforme formas de elaboração, reconhecendo a historicidade de sua elaboração e o processo da pesquisa relacionada."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Átomos: o desenvolvimento dos modelos",
+          "aprendizagem_essencial": "AE2 - Identificar os modelos que estruturam a matéria, reconhecendo a evolução histórica dos modelos atômicos e a classificação dos elementos químicos.",
+          "habilidade": "EF09CI01",
+          "conteudo": "Desenvolvimento dos modelos Atômicos.",
+          "objetivos_aprendizagem": [
+            "Compreender a importância dos modelos atômicos conforme formas de elaboração, reconhecendo a historicidade de sua elaboração e o processo da pesquisa relacionada."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Mudanças de estado físico da matéria – organização das partículas",
+          "aprendizagem_essencial": "AE3 - Explicar as mudanças de estado físico, relacionando-as às transformações, aos estados de organização da matéria e às temperaturas de fusão e ebulição.",
+          "habilidade": "EF09CI01",
+          "conteudo": "Estados físicos da matéria:",
+          "objetivos_aprendizagem": [
+            "Relacionar a organização dos átomos com o estado físico da matéria."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Temperatura de fusão e ebulição das substâncias",
+          "aprendizagem_essencial": "AE3 - Explicar as mudanças de estado físico, relacionando-as a estrutura molecular, aos estados de organização da matéria e as temperaturas de fusão e ebulição.",
+          "habilidade": "EF09CI01",
+          "conteudo": "Mudança dos estados físicos da matéria.",
+          "objetivos_aprendizagem": [
+            "Conhecer a importância da temperatura de fusão e ebulição para diferenciar substâncias puras de misturas.",
+            "Investigar as mudanças de estado físico em misturas eutéticas e azeotópicas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Simulador: mudança de estado físico",
+          "aprendizagem_essencial": "AE3 - Explicar as mudanças de estado físico, relacionando-as a estrutura molecular, aos estados de organização da matéria e as temperaturas de fusão e ebulição.",
+          "habilidade": "EF09CI01",
+          "conteudo": "Temperatura de fusão e ebulição.",
+          "objetivos_aprendizagem": [
+            "Aprofundar os estudos, de forma prática, sobre os estados físicos da matéria e sua correlação com propriedades específicas, como ponto de fusão e ponto de ebulição."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Organização dos elementos químicos – Classificação periódica",
+          "aprendizagem_essencial": "AE2 - Identificar os modelos que estruturam a matéria, reconhecendo a evolução histórica dos modelos atômicos e a classificação dos elementos químicos.",
+          "habilidade": "EF09CI03",
+          "conteudo": "Organização dos elementos químicos – Classificação Periódica.",
+          "objetivos_aprendizagem": [
+            "Conhecer a organização dos elementos químicos na classificação periódica, por meio do número atômico.",
+            "Compreender a notação de um elemento químico (Z e A) e conhecer a identificação desses elementos em uma tabela periódica."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Estrutura da matéria: grupos da classificação periódica",
+          "aprendizagem_essencial": "AE2 - Identificar os modelos que estruturam a matéria, reconhecendo a evolução histórica dos modelos atômicos e a classificação dos elementos químicos.",
+          "habilidade": "EF09CI03",
+          "conteudo": "Organização dos elementos químicos – Classificação Periódica.",
+          "objetivos_aprendizagem": [
+            "Conhecer os principais grupos da classificação da tabela periódica.",
+            "Identificar a organização dos elementos químicos nas tabelas periódicas.",
+            "Descrever as características dos elementos químicos nos grupos da tabela periódica."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Combinação dos elementos químicos: substâncias simples e compostas",
+          "aprendizagem_essencial": "AE4 - Analisar as transformações químicas e as relações entre reagentes e produtos, aplicando as Leis Ponderais.",
+          "habilidade": "EF09CI02",
+          "conteudo": "Substâncias simples. Substâncias compostas. Alotropia.",
+          "objetivos_aprendizagem": [
+            "Identificar substâncias simples/compostas ou misturas por meio da diferenciação entre substâncias simples e sua correlação com a definição de alotropia."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Reações químicas (reagente e produto)",
+          "aprendizagem_essencial": "AE4 - Analisar as transformações químicas e as relações entre reagentes e produtos, aplicando as Leis Ponderais.",
+          "habilidade": "EF09CI02",
+          "conteudo": "Reações químicas.",
+          "objetivos_aprendizagem": [
+            "Transformações físicas e químicas da matéria.",
+            "Compreender o que é uma reação química.",
+            "Reconhecer átomos e transformações da matéria."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Lei da Conservação das Massas - Lavoisier",
+          "aprendizagem_essencial": "AE4 - Analisar as transformações químicas e as relações entre reagentes e produtos, aplicando as Leis Ponderais.",
+          "habilidade": "EF09CI02",
+          "conteudo": "Lei da conservação das Massas - Lavoisier.",
+          "objetivos_aprendizagem": [
+            "Compreender a lei ponderais relativa à lei de conservação das massas.",
+            "Reconhecer a relação entre massas reagentes e a lei de conservação das massas em uma reação."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Lei das Proporções Definidas – Proust",
+          "aprendizagem_essencial": "AE4 - Analisar as transformações químicas e as relações entre reagentes e produtos, aplicando as Leis Ponderais.",
+          "habilidade": "EF09CI02",
+          "conteudo": "Lei das Proporções Definidas - Proust.",
+          "objetivos_aprendizagem": [
+            "Identificar a lei das proporções definidas em reações químicas (lei de Proust).",
+            "Comparar casos de aplicação da lei das proporções definidas.",
+            "Estabelecer a proporção entre as massas de produtos e reagentes em reações químicas."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Simulação de reações químicas",
+          "aprendizagem_essencial": "AE4 - Analisar as transformações químicas e as relações entre reagentes e produtos, aplicando as Leis Ponderais.",
+          "habilidade": "EF09CI02",
+          "conteudo": "Reações químicas. - Leis ponderais.",
+          "objetivos_aprendizagem": [
+            "Averiguar, por meio de experimentos, os princípios de proporções definidas e conservação de massas."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Ondas eletromagnéticas e mecânicas",
+          "aprendizagem_essencial": "AE5 - Classificar as radições eletromagnéticas de acordo com suas frequências e aplicações em diferentes tecnologias, reconhecendo suas implicações para a saúde e para o cotidiano.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Natureza das ondas.",
+          "objetivos_aprendizagem": [
+            "Diferenciar ondas mecânicas de ondas eletromagnéticas.",
+            "Compreender como os diferentes tipos de ondas afetam o cotidiano."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Características das ondas: amplitude e comprimento de onda",
+          "aprendizagem_essencial": "AE5 - Classificar as radições eletromagnéticas de acordo com suas frequências e aplicações em diferentes tecnologias, reconhecendo suas implicações para a saúde e para o cotidiano.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Características das ondas: Amplitude. Comprimento.",
+          "objetivos_aprendizagem": [
+            "Analisar experimentos que evidenciam as características das ondas, como amplitude e comprimento."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Características das ondas: frequência, período e velocidade de ondas",
+          "aprendizagem_essencial": "AE5 - Classificar as radições eletromagnéticas de acordo com suas frequências e aplicações em diferentes tecnologias, reconhecendo suas implicações para a saúde e para o cotidiano.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Características das ondas: Frequência. Período. Velocidade.",
+          "objetivos_aprendizagem": [
+            "Identificar propriedades das ondas como frequência, período e velocidade.",
+            "Realizar experimentos que evidenciam as características das ondas, como amplitude e comprimento."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Interação das ondas: reflexão, refração e difração das ondas",
+          "aprendizagem_essencial": "AE6 - Investigar as características das ondas mecânicas e eletromagnéticas, reconhecendo como esses conhecimentos revolucionaram os sistemas de comunicação humana.",
+          "habilidade": "EF09CI05",
+          "conteudo": "Interação das ondas: Reflexão. Refração. Difração.",
+          "objetivos_aprendizagem": [
+            "Compreender conceitos de reflexão, refração e difração das ondas.",
+            "Identificar exemplos de cada tipo de interferência no cotidiano."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Onda sonora: propagação do som",
+          "aprendizagem_essencial": "AE6 - Investigar as características das ondas mecânicas e eletromagnéticas, reconhecendo como esses conhecimentos revolucionaram os sistemas de comunicação humana.",
+          "habilidade": "EF09CI05",
+          "conteudo": "Onda sonora: Propagação do som. Infrações. Ultrassom.",
+          "objetivos_aprendizagem": [
+            "Relacionar a propagação do som com características como frequência e intensidade das ondas."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Propriedades da luz: cores primárias da luz e a cor dos objetos",
+          "aprendizagem_essencial": "Correlacionar a Cor dos objetos com a incidência de luz sobre ele.",
+          "habilidade": "EF09CI04",
+          "conteudo": "Propriedades da luz. Cores primárias. Cor dos objetos.",
+          "objetivos_aprendizagem": [
+            "Executar experimentos que trabalham as propriedades da luz com Cores primárias.",
+            "Identificar a Cor dos objetos por meio de experimentação."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Simulação das propriedades da luz",
+          "aprendizagem_essencial": "Identificar por meio de investigações os aspectos relacionados à natureza da luz e suas propriedades.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Natureza da luz e suas propriedades.",
+          "objetivos_aprendizagem": [
+            "Identificar por meio de investigações os aspectos relacionados à natureza da luz e suas propriedades."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Espectro eletromagnético",
+          "aprendizagem_essencial": "Conhecer o espectro eletromagnético.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Espectro Eletromagnético.",
+          "objetivos_aprendizagem": [
+            "Identificar e classificar as radiações eletromagnéticas em ionizantes e não ionizantes.",
+            "Retornar a relação de comprimento de onda e frequência que diferencia o espectro eletromagnético."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Radiação: das ondas de rádio ao infravermelho",
+          "aprendizagem_essencial": "Identificar e caracterizar as radiações com maiores comprimentos de onda: ondas de rádio, micro-ondas e infravermelho, luz visível.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Radiações com maiores comprimentos de onda: ondas de rádio, micro-ondas e infravermelho, luz visível.",
+          "objetivos_aprendizagem": [
+            "Identificar e caracterizar as radiações com maiores comprimentos de onda não ionizantes: infravermelha, micro-ondas e ondas de rádio."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Radiação: do ultravioleta (UV) aos raios gama",
+          "aprendizagem_essencial": "Identificar e caracterizar as radiações de menores comprimentos de onda: Não ionizantes (UV) e ionizantes (raios X e gama).",
+          "habilidade": "EF09CI07",
+          "conteudo": "Radiações com menores comprimentos de onda: Ultravioleta, Raios X e Raios Gama.",
+          "objetivos_aprendizagem": [
+            "Identificar e caracterizar as radiações de menores comprimentos de onda: não ionizantes (UV) e ionizantes (raios X e gama)."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Simulação: onda mecânica",
+          "aprendizagem_essencial": "Investigar por meio de simulações e experimentações características relacionadas às ondas mecânicas.",
+          "habilidade": "EF09CI05",
+          "conteudo": "Características de ondas mecânicas: processo de propagação.",
+          "objetivos_aprendizagem": [
+            "Investigar por meio de simulações e experimentações características relacionadas às ondas mecânicas."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Debate: riscos da radiação ionizante",
+          "aprendizagem_essencial": "Discutir os principais riscos relacionados à manipulação da radiação ionizante, diferenciando-a das radiações não ionizantes.",
+          "habilidade": "EF09CI06",
+          "conteudo": "Riscos relacionados à radiação ionizante.",
+          "objetivos_aprendizagem": [
+            "Discutir os principais riscos relacionados à manipulação da radiação ionizante, diferenciando-a das radiações não ionizantes."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Célula, a unidade estrutural da vida",
+          "aprendizagem_essencial": "AE7 - Explicar os processos de hereditariedade e as aplicações da biotecnologia, articulando-os à genética clássica e à evolução biológica.",
+          "habilidade": "EF09CI08, EF06CI05",
+          "conteudo": "- Teoria celular.",
+          "objetivos_aprendizagem": [
+            "- Introduzir a discussão sobre a célula como unidade estrutural da vida e seu papel como forma de categorização sobre o conceito de Vida."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "O que é o DNA?",
+          "aprendizagem_essencial": "AE7 - Explicar os processos de hereditariedade e as aplicações da biotecnologia, articulando-os à genética clássica e à evolução biológica.",
+          "habilidade": "EF09CI08",
+          "conteudo": "- DNA. - Hereditariedade.",
+          "objetivos_aprendizagem": [
+            "- Explicar sobre o DNA, englobando aspectos como: composição, estrutura e localização, tendo em vista o conceito de bases nitrogenadas e sua relação com o processo de codificação gênica."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Genes e cromossomos",
+          "aprendizagem_essencial": "AE7 - Explicar os processos de hereditariedade e as aplicações da biotecnologia, articulando-os à genética clássica e à evolução biológica.",
+          "habilidade": "EF09CI08",
+          "conteudo": "- DNA. - Hereditariedade. - Genes. - Cromossomos.",
+          "objetivos_aprendizagem": [
+            "- Compreender o processo de compactação do DNA nas células eucarióticas.",
+            "- Correlacionar DNA, cromossomos e genes.",
+            "- Importância da compactação do DNA para o processo de divisão celular."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Divisão celular (mitose)",
+          "aprendizagem_essencial": "AE7 - Explicar os processos de hereditariedade e as aplicações da biotecnologia, articulando-os à genética clássica e à evolução biológica.",
+          "habilidade": "EF09CI08",
+          "conteudo": "- Divisão celular (mitose). - Estruturas celulares que atuam na mitose. - Variação da quantidade de DNA em cada fase da mitose.",
+          "objetivos_aprendizagem": [
+            "- Identificar as diferentes etapas da mitose.",
+            "- Explicar as modificações na quantidade de DNA ao longo da mitose.",
+            "- Exibir as mudanças morfológicas e funcionais que ocorrem em cada fase da mitose."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Divisão celular (meiose): etapas da meiose",
+          "aprendizagem_essencial": "AE7 - Explicar os processos de hereditariedade e as aplicações da biotecnologia, articulando-os à genética clássica e à evolução biológica.",
+          "habilidade": "EF09CI08",
+          "conteudo": "- Divisão celular (meiose). - Estruturas celulares que atuam na meiose. - Variação da quantidade de DNA e ploidia em cada fase da meiose.",
+          "objetivos_aprendizagem": [
+            "- Identificar as diferentes etapas da meiose.",
+            "- Explicar as modificações na quantidade de DNA ao longo da meiose.",
+            "- Exibir as mudanças morfológicas e funcionais que ocorrem em cada fase da meiose."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Diferenças entre meiose e mitose",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas idéias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando hereditariedades.",
+          "habilidade": "EF09CI09",
+          "conteudo": "- Divisão celular. - Diferenças entre meiose e mitose - processos envolventes e suas consequências para cada tipo de divisão bem como suas funções.",
+          "objetivos_aprendizagem": [
+            "- Diferenciar os processos envolvidos na mitose e na meiose."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Experimento: extração de DNA",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas idéias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando hereditariedades.",
+          "habilidade": "EF09CI09",
+          "conteudo": "- DNA, componentes e características.",
+          "objetivos_aprendizagem": [
+            "- Realizar um experimento relacionado à extração de DNA.",
+            "- Sistematizar comorbidades e condições de vida sobre o DNA e seu funcionamento.",
+            "- Vivenciar a realização de um experimento científico composto por um protocolo."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Danos ao material genético pela radiação ionizante",
+          "aprendizagem_essencial": "AE5 - Classificar as radiações eletromagnéticas de acordo com suas frequências e aplicações em diferentes tecnologias, reconhecendo suas implicações para a saúde e para o cotidiano.",
+          "habilidade": "EF09CI19* EF09CI06",
+          "conteudo": "Efeito das radiações ionizantes no material genético. Correlação entre genótipo e fenótipo.",
+          "objetivos_aprendizagem": [
+            "Discutir os efeitos das radiações ionizantes sobre as células, especialmente sobre o DNA.",
+            "Relacionar genótipo e fenótipo.",
+            "Entender o que é uma mutação no DNA.",
+            "Correlacionar danos ao material genético e suas potenciais consequências para a saúde."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "A importância da radiação na área da saúde",
+          "aprendizagem_essencial": "AE5 - Classificar as radiações eletromagnéticas de acordo com suas frequências e aplicações em diferentes tecnologias, reconhecendo suas implicações para a saúde e para o cotidiano.",
+          "habilidade": "EF09CI19* EF09CI07",
+          "conteudo": "Saúde humana. Aplicações da radiação na área da saúde.",
+          "objetivos_aprendizagem": [
+            "Apresentar a importância do uso da radiação na área de medicina.",
+            "Conhecer diversos diagnóstico por imagem e tratamentos que utilizam radiação ionizante."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Bases da hereditariedade: o DNA e os genes",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas ideias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando heredogramas.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Hereditariedade. Gametas e transmissão de características. Genes.",
+          "objetivos_aprendizagem": [
+            "Associar os gametas à transmissão das características hereditárias.",
+            "Compreender o conceito de gene.",
+            "Correlacionar os conceitos de gene, DNA e hereditariedade.",
+            "Entender a importância do DNA no processo de hereditariedade."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Primeira Lei de Mendel",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas ideias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando heredogramas.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Genética. Primeira Lei de Mendel. Quadro de Punnet. Biografia de Mendel.",
+          "objetivos_aprendizagem": [
+            "Conhecer a biografia de Mendel, a fim de entender a Ciência enquanto construção social.",
+            "Compreender os mecanismos da hereditariedade propostas pela primeira Lei de Mendel.",
+            "Correlacionar a primeira lei de Mendel com o trabalho da Biologia celular e o quadro de Punnet."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Segunda Lei de Mendel",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas ideias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando heredogramas.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Genética. Segunda Lei de Mendel. Quadro de Punnet.",
+          "objetivos_aprendizagem": [
+            "Compreender a codominância e a dominância incompleta na hereditariedade."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Hereditariedade: codominância e dominância incompleta",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas ideias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando heredogramas.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Genética. Codominância e dominância incompleta.",
+          "objetivos_aprendizagem": [
+            "Compreender conceitos relacionados à codominância e dominância incompleta no sistema de transmissão dos caracteres na espécie humana.",
+            "Compreender o sistema de interpretar heredogramas.",
+            "Correlacionar heredogramas e quadro de Punnet."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Conhecendo e interpretando os heredogramas",
+          "aprendizagem_essencial": "AE8 - Explicar a transmissão das características hereditárias com base nas ideias de Mendel sobre fatores hereditários, gametas, segregação e fecundação, utilizando heredogramas.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Genética. Quadro de Punnet.",
+          "objetivos_aprendizagem": [
+            "Compreender e interpretar heredogramas."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Solucionando exercícios de hereditariedade - Aula complementar",
+          "aprendizagem_essencial": "Realizar a Análise de cruzamentos entre diferentes indivíduos compreendendo os Mecanismos relacionados à Hereditariedade.",
+          "habilidade": "EF09CI08",
+          "conteudo": "Genética. - Leis de Mendel. - Heredogramas. - Quadro de Punnett.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 16,
+          "titulo": "Genética e Biotecnologia",
+          "aprendizagem_essencial": "Correlacionar os conceitos biológicos com o desenvolvimento das sociedades.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Genética. - Contextualização e aplicação da genética, sobretudo de cruzamentos. - Correlacionar os estudos de genética e cruzamentos com seleção artificial.",
+          "objetivos_aprendizagem": [
+            "Compreender a importância da genética para o desenvolvimento tecnológico da sociedade.",
+            "Correlacionar o conceito de Seleção artificial com o desenvolvimento das sociedades.",
+            "Contextualizar conceitos genéticos discutidos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Biotecnologia aplicada à produção de alimentos e na saúde: organismos geneticamente modificados (OGMs)",
+          "aprendizagem_essencial": "Discutir a importância do desenvolvimento biotecnológico na área de saúde e produção de alimentos.",
+          "habilidade": "EF09CI08",
+          "conteudo": "Biotecnologia. - Seleção artificial. - Organismos geneticamente modificados. - Organismos transgênicos.",
+          "objetivos_aprendizagem": [
+            "Compreender o que são Organismos Geneticamente Modificados (OGM).",
+            "Entender o que são organismos transgênicos.",
+            "Relacionar os conceitos biológicos com os impactos ambientais e sociais de inserção de OGMs e transgênicos nos meios naturais."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Biotecnologia: clonagem e suas aplicações",
+          "aprendizagem_essencial": "Discutir os mecanismos envolvidos com a clonagem.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Biotecnologia. - Clonagem em organismos animais e não animais. - Clonagem e fecundação.",
+          "objetivos_aprendizagem": [
+            "Relacionar os conceitos de clonagem e fecundação.",
+            "Conhecer casos históricos de clonagem animal."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Bioética e biossegurança: caso dos organismos geneticamente modificados (OGMs)",
+          "aprendizagem_essencial": "Apresentar os conceitos de bioética e biossegurança.",
+          "habilidade": "EF09CI08",
+          "conteudo": "Biotecnologia. - Bioética. - OGMs, segurança alimentar e biossegurança.",
+          "objetivos_aprendizagem": [
+            "Problematizar a liberação de OGMs no mercado."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Júri simulado - pesquisas em Biotecnologia",
+          "aprendizagem_essencial": "Discutir os limites e as possibilidades da aplicação do conhecimento sobre genética e biotecnologia na área da saúde.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Biotecnologia. - Bioética. - Conhecer o funcionamento de júri simulado.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 21,
+          "titulo": "Júri simulado - ação e conclusão",
+          "aprendizagem_essencial": "Desenvolver habilidades de realização de pesquisa e elaboração de argumentos.",
+          "habilidade": "EF09CI08",
+          "conteudo": "Biotecnologia. - Bioética. - Genética.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 22,
+          "titulo": "História das ideias evolutivas",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI10",
+          "conteudo": "História de pensamentos evolutivos.",
+          "objetivos_aprendizagem": [
+            "Comparar as ideias evolutivas de forma cronológica.",
+            "Entender as concepções científicas como um reflexo sócio-histórico."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Seleção natural",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI11",
+          "conteudo": "Seleção natural. Pressão de seleção.",
+          "objetivos_aprendizagem": [
+            "Correlacionar as bases genéticas discutidas até o momento com seleção natural e transmissão de informações para as gerações futuras.",
+            "Compreender o que é a Seleção Natural.",
+            "Correlacionar a seleção natural como um processo aleatório.",
+            "Correlacionar os conceitos de pressão de seleção e seleção natural."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Interpretação de cladogramas",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI11",
+          "conteudo": "Cladograma. Seleção natural.",
+          "objetivos_aprendizagem": [
+            "Entender e compreender um cladograma.",
+            "Aprofundar e debater acerca da aleatoriedade do processo evolutivo."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Hereditariedade, evolução e biodiversidade",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI10",
+          "conteudo": "Herdariedade. Evolução. Seleção natural. Biodiversidade.",
+          "objetivos_aprendizagem": [
+            "Compreender como estão ligados os conceitos de hereditariedade e evolução.",
+            "Valorizar a biodiversidade, seja natural e seleção artificial.",
+            "Relacionar a biodiversidade como um processo fruto da seleção de gerações."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Retomada: Genes e DNA - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI08",
+          "conteudo": "Gene. DNA. Divisão celular.",
+          "objetivos_aprendizagem": [
+            "Identificar o campo de estudos da genética.",
+            "Compreender conceitos ligados a gene e cromossomos."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Retomada: Leis de Mendel - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Primeira Lei de Mendel. Segunda Lei de Mendel.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 28,
+          "titulo": "Retomada: Biotecnologia - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Explicar as ideias evolucionistas de Lamarck e Darwin, destacando seus contextos históricos e sua relevância para a compreensão da biodiversidade.",
+          "habilidade": "EF09CI09",
+          "conteudo": "Biotecnologia.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o uso da Biotecnologia no cotidiano."
+          ]
+        }
+      ]
+    }
+  }
+}

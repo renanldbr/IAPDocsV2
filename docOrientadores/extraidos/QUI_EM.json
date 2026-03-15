@@ -1,0 +1,635 @@
+{
+  "disciplina": "QUI",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Do que são feitos as coisas?",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo de como uma construção humana e compreendendo como eles explicam fenômenos cotidianos.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Conclusão do material, constituição da matéria e átomo. Teoria atômica de Dalton.",
+          "objetivos_aprendizagem": [
+            "Compreender os conceitos de matéria na sua constituição.",
+            "Compreender os princípios postulações no tônico atômico de Dalton."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Para que servem os modelos?",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo-os como uma construção humana e compreendendo como eles explicam fenômenos do cotidiano.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Modelos.\nEvolução dos modelos atômicos.",
+          "objetivos_aprendizagem": [
+            "Compreender a construção do conhecimento por meio de hipóteses, teorias, modelos e leis.",
+            "Compreender as teorias científicas aceitas atualmente."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Descobertas sobre a constituição da matéria",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo-os como uma construção humana e compreendendo como eles explicam fenômenos do cotidiano.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Estrutura da matéria: Modelos atômicos.\nExperimento de Rutherford.",
+          "objetivos_aprendizagem": [
+            "Retomar os modelos atômicos de Dalton e Thomson, compreendendo suas contribuições para o avanço da ciência.",
+            "Analisar a construção do conhecimento científico a partir de hipóteses, teorias, modelos e leis.",
+            "Compreender a evolução dos modelos atômicos, relacionando-a a fatos, evidências e descobertas científicas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Partículas atômicas",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo-os como uma construção humana e compreendendo como eles explicam fenômenos do cotidiano.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Estrutura da matéria.\nModelos atômicos.\nModelo de Rutherford.\nTabela periódica.\nNúmero atômico e número de massa.\nIsótopos.",
+          "objetivos_aprendizagem": [
+            "Retomar o modelo atômico de Rutherford.",
+            "Compreender a evolução dos modelos atômicos ao longo do tempo.",
+            "Identificar quais fatos, evidências e descobertas contribuíram para que novos modelos fossem propostos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Modelo de Bohr e modelos atuais",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo-os como uma construção humana e compreendendo como eles explicam fenômenos do cotidiano.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Estrutura da matéria.\nModelo de Rutherford.\nTransições eletrônicas.\nModelo de Bohr.\nNíveis de energia.\nModelo quântico.",
+          "objetivos_aprendizagem": [
+            "Retomar o modelo atômico de Rutherford.",
+            "Conhecer os aspectos atômicos que podem ser explicados pelo modelo de Bohr.",
+            "Conhecer o modelo quântico."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Distribuição eletrônica",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo-as características dos rádioisótopos e as leis das emissões radiativas.",
+          "habilidade": "EM13CNT201",
+          "conteudo": "Estrutura eletrônica dos átomos.\nNíveis e subníveis de energia.\nPrincípios de exclusão de Pauli e regra de Hund para o preenchimento de orbitais.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de elétrons e sua relação com os números quânticos.",
+            "Compreender os princípios de Pauli e a regra de Hund para o preenchimento de orbitais."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Elementos e substâncias que constituem o Sistema Solar",
+          "aprendizagem_essencial": "AE1 - Analisar a evolução histórica e científica dos modelos atômicos, reconhecendo-os como uma construção humana e compreendendo como eles explicam fenômenos do cotidiano.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Tabela periódica.\nElementos e substâncias químicas: história, estrutura e propriedades.",
+          "objetivos_aprendizagem": [
+            "Compreender a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo-as características dos rádioisótopos e as leis das emissões radiativas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "A descoberta do fósforo e a organização dos elementos",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo as características dos radioisótopos e as leis das emissões radioativas.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Tabela Periódica.\nElementos e substâncias químicas: história, estrutura e composição.\nClassificação periódica dos elementos.",
+          "objetivos_aprendizagem": [
+            "Estudar sobre a descoberta do fósforo.",
+            "Compreender as teorias e os procedimentos que levaram à descoberta.",
+            "Analisar a importância dos alquimistas na principais ideias sobre organização dos elementos, classificação e história da tabela periódica."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Radioisótopos",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo as características dos radioisótopos e as leis das emissões radioativas.",
+          "habilidade": "EM13CNT103",
+          "conteudo": "Tabela periódica (características dos radioisótopos).",
+          "objetivos_aprendizagem": [
+            "Apresentar características dos radioisótopos.",
+            "Analisar diferenças e características entre as particulas alfa, beta e ondas gama.",
+            "Analisar as emissões de partículas.",
+            "Avaliar as potencialidades e os riscos do uso da radiação na conservação de alimentos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "A formação do Universo e os elementos químicos",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo as características dos radioisótopos e as leis das emissões radioativas.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Estrutura da matéria.\nTabela Periódica.\nCaracterísticas dos elementos químicos e sua posição na tabela periódica.\nFormação de substâncias.\nPropriedades periódicas.",
+          "objetivos_aprendizagem": [
+            "Retomar o estudo do nucleossíntese primordial, estelar e interestelar.",
+            "Aprofundar no processo de formação dos elementos químicos, suas características e a tabela periódica.",
+            "Recapitar as características da estrutura dos átomos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "A tabela periódica",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo as características dos radioisótopos e as leis das emissões radioativas.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Estrutura da matéria.\nTabela periódica.\nPropriedades periódicas.\nLigações químicas.",
+          "objetivos_aprendizagem": [
+            "Retomar as características da estrutura dos átomos.",
+            "Identificar a localização dos elementos na tabela periódica.",
+            "Conhecer alguma propriedades presentes na tabela periódica."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Como os átomos formam as substâncias?",
+          "aprendizagem_essencial": "AE2 - Analisar a origem, a classificação e a organização dos elementos químicos na Tabela Periódica, reconhecendo as características dos radioisótopos e as leis das emissões radioativas.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Ligações químicas.\nFormação de substâncias.\nTipos de ligações químicas.\nTeoria do octeto.\nCamada de valência.",
+          "objetivos_aprendizagem": [
+            "Retornar a distribuição de elétrons na camada de valência dos átomos.",
+            "Retomar propriedades periódicas como o eletropositividade.",
+            "Prover os tipos de ligações químicas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Produção de sal e as ligações iônicas",
+          "aprendizagem_essencial": "AE3 - Analisar as diversas interações entre átomos, entre moléculas e entre seus efeitos nas propriedades dos materiais, como se definem os sais e as ligações químicas e as interações das moléculas essenciais à vida.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Ligações iónicas.\nMoléculas.\nCátions.\nTeoria do octeto.\nCamada de valência.\nTeoria de Lewis.",
+          "objetivos_aprendizagem": [
+            "Contextualizar e aprofundar estudos sobre as ligações iônicas.",
+            "Prover estudos sobre as ligações covalentes e suas representações."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Molécula essencial à vida e as ligações covalentes",
+          "aprendizagem_essencial": "AE3 - Analisar as diversas interações entre átomos, entre moléculas e entre seus efeitos nas propriedades dos materiais, como se definem os sais e as ligações químicas e as interações das moléculas essenciais à vida.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Ligações covalente.\nMoléculas.\nComportamento eletrofílico.\nRepresentação das moléculas.",
+          "objetivos_aprendizagem": [
+            "Analisar condições ambientais favoráveis e fatores limitantes à vida.",
+            "Representar as ligações covalentes por meio de fórmula molecular, fórmulas eletrônica (Lewis) e estrutural plana."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Aula desafio: o derramamento de petróleo",
+          "aprendizagem_essencial": "Forças de interação intermoleculares.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Solução de misturas. Misturas homogêneas e heterogêneas. Solubilidade.",
+          "objetivos_aprendizagem": [
+            "Analisar dados em tabela e tomar decisões fundamentadas.",
+            "Diferenciar misturas homogêneas e heterogêneas.",
+            "Relacionar polaridade e solubilidade ao comportamento do petróleo na água.",
+            "Verificar a polaridade molecular considerando polaridade da ligação e a geometria molecular.",
+            "Aprofundar os conceitos de polaridade, relacionando-os com a solubilidade."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Aula desafio: o derramamento de petróleo (continuação)",
+          "aprendizagem_essencial": "Forças de interação intermoleculares.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Eletropositividade. Geometria molecular. Solubilidade. Polaridade.",
+          "objetivos_aprendizagem": [
+            "Compreender a disposição espacial dos átomos que formam as moléculas por meio de sua geometria molecular.",
+            "Prever a polaridade molecular considerando polaridade da ligação e a geometria molecular.",
+            "Aprofundar os conceitos de polaridade, relacionando-os com a solubilidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Geometria molecular",
+          "aprendizagem_essencial": "Geometria molecular.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Forças de interação intermoleculares",
+          "aprendizagem_essencial": "Forças de interação intermoleculares.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Polaridade. Solubilidade. Pontos de fusão e ebulição.",
+          "objetivos_aprendizagem": [
+            "Estudar as interações intermoleculares, que permitem a explicação e o entendimento de várias formas como os sólidos, líquidos e gases se comportam.",
+            "Aprofundar os conceitos de polaridade, relacionando os conceitos de polaridade intermolecular e sua influência nos pontos de ebulição e fusão."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Ideias da ciência sobre o início da vida - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Relacionar átomos com a origem e manutenção da vida.",
+            "Analisar a presença de certos átomos no corpo humano e demais seres vivos.",
+            "Refletir sobre o papel do ácido quínico como dos seres vivos, bem como a importância dos aminoácidos, DNA e RNA."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Aminoácidos e proteínas: a base da vida",
+          "aprendizagem_essencial": "Interações intermoleculares.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "Estrutura dos aminoácidos e proteínas.",
+          "objetivos_aprendizagem": [
+            "Retomar e aprofundar as interações intra e intermoleculares.",
+            "Analisar as substâncias e relações entre aminoácidos, ácidos e proteínas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Estrutura das proteínas e as interações intermoleculares",
+          "aprendizagem_essencial": "Interações intermoleculares.",
+          "habilidade": "EM13CNT202",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Retomar e aprofundar as interações intra e intermoleculares.",
+            "Analisar as substâncias e as interações entre aminoácidos e proteínas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Bases, açúcares e ligações: entenda o DNA e o RNA - Aula complementar",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT202, EM13CNT208",
+          "conteudo": "Interações intermoleculares. DNA e RNA.",
+          "objetivos_aprendizagem": [
+            "Retomar e aprofundar as interações intra e intermoleculares.",
+            "Estudar as substâncias e moléculas essenciais à vida como DNA e RNA."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Transformações",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Transformações químicas, reações e equações químicas. Reagentes e produtos.",
+          "objetivos_aprendizagem": [
+            "Estabelecer o primeiro contato com a Química no Ensino Médio.",
+            "Analisar alguns fenômenos naturais e processos tecnológicos.",
+            "Retornar conceitos de transformações químicas.",
+            "Compreender os conceitos de reagentes e produtos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Transformações: Oxidação da palha de aço",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Transformações químicas. Evidências. Equação química.",
+          "objetivos_aprendizagem": [
+            "Observar fenômenos como as transformações químicas.",
+            "Compreender os fenômenos observados no experimento.",
+            "Desenvolver e aprimorar a linguagem própria da Química (símbolos, fórmulas, equações).",
+            "Consolidar o conceito de transformações químicas."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Transformações nos processos produtivos",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Processos produtivos. Extração de matéria-prima. Uso de recursos naturais. Transformações químicas. Impactos socioambientais.",
+          "objetivos_aprendizagem": [
+            "Identificar matérias-primas empregadas e produtos obtidos em diferentes processos industriais.",
+            "Identificar a formação de novas substâncias a partir das evidências marcadoras.",
+            "Reconhecer a ocorrência de transformações químicas em processos."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "A poesia da Química",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Transformações químicas. Evidências de transformações químicas. Reagentes e produtos. Rearranjo dos átomos.",
+          "objetivos_aprendizagem": [
+            "Retomar as diferenças entre as transformações físicas e químicas.",
+            "Compreender por meio de evidências as transformações físicas e químicas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Reações que liberam e absorvem energia",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Reações endoérmicas e exoérmicas. Equação química.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a presença de energia nas transformações químicas.",
+            "Analisar a energia absorvida ou liberada de uma reação endoérmica ou exoérmica."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Reações de combustão",
+          "aprendizagem_essencial": "AE4 - Analisar situações-problema em processos tecnológicos, produtivos, sustentáveis e ambientais, reconhecendo a quantidade de matéria e energia envolvidas nas transformações químicas.",
+          "habilidade": "EM13CNT101",
+          "conteudo": "Reações de combustão completas e incompletas. Combustível, combustão e ponto de ignição.",
+          "objetivos_aprendizagem": [
+            "Identificar a liberação de energia no processo de combustão.",
+            "Analisar os elementos fundamentais para a ocorrência da combustão."
+          ]
+        }
+      ]
+    },
+    "2ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Composição e propriedades dos materiais",
+          "aprendizagem_essencial": "ANALISAR A COMPOSIÇÃO, AS PROPRIEDADES E AS APLICAÇÕES DOS METAIS PESADOS E DOS PLÁSTICOS PARA AVALIAR OS IMPACTOS SOCIOAMBIENTAIS E OS RISCOS DECORRENTES DE SUA EXTRAÇÃO, PRODUÇÃO E DESCARTE INADEQUADO.",
+          "habilidade": "EM13CNT104, EM13CNT307",
+          "conteudo": "Composição de substâncias químicas. Propriedades dos materiais.",
+          "objetivos_aprendizagem": [
+            "Analisar a composição de diferentes materiais.",
+            "Analisar a produção e algumas aplicações desses materiais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Barragens e mineração",
+          "aprendizagem_essencial": "AE1 - Avaliar a composição, as propriedades e as aplicações dos metais pesados e dos plásticos para avaliar os impactos socioambientais e os riscos à saúde decorrentes de sua extração, produção e descarte inadequado.",
+          "habilidade": "EM13CNT203",
+          "conteudo": "Ciclos biogeoquímicos (toxicidade das substâncias químicas, tempo de permanência dos poluentes, reações químicas, transferências de energia e impactos ambientais e na saúde dos seres vivos).",
+          "objetivos_aprendizagem": [
+            "Avaliar a importância e impactos das atividades de mineração e o uso de barragens.",
+            "Avaliar e prever os impactos causados pelo rompimento de barragens."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Metais tóxicos: riscos à saúde e ao meio ambiente",
+          "aprendizagem_essencial": "AE1 - Analisar a composição, as propriedades e as aplicações dos metais pesados e dos plásticos para avaliar os impactos socioambientais e os riscos à saúde decorrentes de sua extração, produção e descarte inadequado.",
+          "habilidade": "EM13CNT203, EM13CNT307",
+          "conteudo": "Toxicidade das substâncias químicas, tempo de permanência dos poluentes. Benefícios e riscos à saúde e ao meio ambiente.",
+          "objetivos_aprendizagem": [
+            "Analisar as propriedades, a toxicidade e os níveis de exposição dos metais pesados, bem como seus impactos na saúde humana e no meio ambiente."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Embalagens plásticas: riscos à saúde por uso inadequado",
+          "aprendizagem_essencial": "AE1 - Analisar a composição, as propriedades e as aplicações dos metais pesados e dos plásticos para avaliar os impactos socioambientais e os riscos à saúde decorrentes de sua extração, produção e descarte inadequado.",
+          "habilidade": "EM13CNT104, EM13CNT307",
+          "conteudo": "Definição, classificação e estrutura de plásticos. Composição, toxicidade e reatividade de substâncias químicas em embalagens plásticas.",
+          "objetivos_aprendizagem": [
+            "Avaliar os benefícios e os riscos da saúde, considerando a composição e a toxicidade de diferentes substâncias químicas presentes em embalagens plásticas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Impactos provenientes do descarte incorreto dos plásticos",
+          "aprendizagem_essencial": "AE1 - Analisar a composição, as propriedades e as aplicações dos metais pesados e dos plásticos para avaliar os impactos socioambientais e os riscos à saúde decorrentes de sua extração, produção e descarte inadequado.",
+          "habilidade": "EM13CNT104",
+          "conteudo": "Composição, toxicidade e reatividade de substâncias químicas. Poluição de ambientes aquáticos e terrestres por materiais tóxicos provenientes do descarte incorreto.",
+          "objetivos_aprendizagem": [
+            "Avaliar os impactos ambientais e sociais decorrentes do consumo, descarte e manejo inadequado de plásticos, identificando os perigos e efeitos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Resíduos sólidos",
+          "aprendizagem_essencial": "AE1 - Analisar a composição, as propriedades e as aplicações dos metais pesados e dos plásticos para avaliar os impactos socioambientais e os riscos à saúde decorrentes de sua extração, produção e descarte inadequado.",
+          "habilidade": "EM13CNT206, EM13CNT306",
+          "conteudo": "Políticas ambientais, parâmetros qualitativos e quantitativos; dos gases poluentes na atmosfera.",
+          "objetivos_aprendizagem": [
+            "Discutir sobre os resíduos sólidos urbanos, os impactos ambientais da destinação inadequada e a importância das políticas públicas para a redução dos resíduos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Efeito estufa e o cálculo das emissões de CO₂",
+          "aprendizagem_essencial": "AE2 - Avaliar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a introdução de efeitos sobre a atmosfera e a determinação de um padrão mundial de combustíveis não renováveis.",
+          "habilidade": "EM13CNT102",
+          "conteudo": "Efeito estufa. Gases de efeito estufa e suas emissões. Efeitos sobre a atmosfera e o planeta Terra. Prevenção e controle de emissões de gases poluentes.",
+          "objetivos_aprendizagem": [
+            "Realizar previsões sobre o efeito estufa, as mudanças climáticas e a possível relação entre as emissões de combustíveis e o aquecimento global."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Dependência do mundo quanto ao uso de combustíveis não renováveis",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Analisar a dependência do mundo atual em relação aos combustíveis não renováveis."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Comparação de poder calorífico e alternativas sustentáveis",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Analisar a dependência do mundo atual em relação aos combustíveis não renováveis."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Recursos renováveis",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Analisar a matéria-prima e a produção de biocombustíveis."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Combustíveis alternativos",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Avaliar os combustíveis biodiesel, etanol e biogás como alternativa de recursos renováveis."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Ampliando repertório energético",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Analisar e comparar diferentes processos e produtos, tendo em vista as questões socioambientais e econômicas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Vantagens e desvantagens dos combustíveis alternativos",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Analisar vantagens e desvantagens dos combustíveis alternativos."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Aspectos quantitativos da termodinâmica",
+          "aprendizagem_essencial": "AE2 - Analisar a eficiência e os impactos socioambientais dos combustíveis renováveis e não renováveis, calculando a entalpia das reações químicas e identificando a dependência mundial dos combustíveis não renováveis.",
+          "habilidade": "EM13CNT309; EM13CNT106",
+          "conteudo": "Entalpia de combustão (eficiência energética). • Recursos não renováveis (gasolina, diesel) e renováveis (biodiesel, biogás, etanol) – impactos ambientais e sustentabilidade. • Materiais, combustíveis e energias alternativas (novas tecnologias).",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios envolvendo energia de ligação e Lei de Hess."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Introdução química orgânica",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "• Teoria da força vital. Postulados de Kekulé. • Hibridização do carbono.",
+          "objetivos_aprendizagem": [
+            "Compreender sobre a origem e ramo de estudo da química orgânica."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Tecnologia e a linguagem científica.",
+          "aprendizagem_essencial": "EM13CNT304 - Analisar e debater situações controversas sobre a aplicação de conhecimentos da área de Ciências da Natureza.",
+          "habilidade": "Identificar a estrutura química dos agrotóxicos, fertilizantes e dos e macro e micronutrientes.",
+          "conteudo": "Produção de alimentos.",
+          "objetivos_aprendizagem": [
+            "Relacionar as aplicações das funções orgânicas (oxigenadas, nitrogenadas e halogenadas) aos efeitos socioambientais gerados por agrotóxicos e fertilizantes.",
+            "Analisar as vantagens e desvantagens do uso de agrotóxicos e fertilizantes, com base em evidências científicas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Tecnologia e a linguagem científica.",
+          "aprendizagem_essencial": "EM13CNT304 - Analisar e debater situações controversas sobre a aplicação de conhecimentos da área de Ciências da Natureza.",
+          "habilidade": "Reconhecer a estrutura e a aplicação de polímeros naturais e sintéticos.",
+          "conteudo": "Isomeria cis-trans em compostos orgânicos.",
+          "objetivos_aprendizagem": [
+            "Diferenciar as aplicações de bioplásticos a partir de suas propriedades, comparando-os com os plásticos derivados de petróleo.",
+            "Analisar as reações orgânicas de síntese de polímeros."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Hidrocarbonetos ramificados",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "• Hidrocarbonetos ramificados.",
+          "objetivos_aprendizagem": [
+            "Analisar a estrutura e nomenclatura dos hidrocarbonetos ramificados."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Identificando funções orgânicas oxigenadas",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "• Classificação e nomenclatura de funções orgânicas oxigenadas – álcool, fenol, aldeído e ácido carboxílico.",
+          "objetivos_aprendizagem": [
+            "Identificar corretamente as funções orgânicas oxigenadas.",
+            "Explorar as aplicações das funções orgânicas oxigenadas."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Explorando as funções oxigenadas",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "• Classificação e nomenclatura de funções orgânicas oxigenadas – cetonas, éteres e ésteres.",
+          "objetivos_aprendizagem": [
+            "Identificar corretamente as funções orgânicas oxigenadas.",
+            "Explorar as aplicações das funções orgânicas oxigenadas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Funções orgânicas nitrogenadas e halogenadas",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "• Classificação e nomenclatura de funções orgânicas nitrogenadas e halogenadas.",
+          "objetivos_aprendizagem": [
+            "Identificar corretamente as funções orgânicas nitrogenadas e halogenadas.",
+            "Explorar as aplicações das funções orgânicas nitrogenadas e halogenadas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "As drogas e a sociedade",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e de promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT207",
+          "conteudo": "Objetivo de desenvolvimento sustentável 3 (ODS 3). - Drogas.",
+          "objetivos_aprendizagem": [
+            "Avaliar o impacto das drogas na sociedade.",
+            "Propor ações que atenham seus impactos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Poluentes orgânicos persistentes e o saneamento básico – Aula complementar",
+          "aprendizagem_essencial": "AE3 - Analisar os compostos orgânicos e as suas aplicações, nomeando, classificando e identificando as funções orgânicas, para elaborar ações de prevenção e de promoção da saúde e do bem-estar.",
+          "habilidade": "EM13CNT310",
+          "conteudo": "Poluentes orgânicos persistentes.",
+          "objetivos_aprendizagem": [
+            "Identificar os principais tipos de poluentes orgânicos e como eles entram e afetam a natureza.",
+            "Consolidar o conhecimento prévio dos alunos sobre o conceito de saneamento básico e sua importância para a saúde pública e o meio ambiente."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Estrutura e propriedade de micro e macro nutrientes",
+          "aprendizagem_essencial": "AE4 - Analisar o fenômeno de isomeria plana nos macro e micronutrientes, analisando as propriedades e as vantagens e desvantagens do uso dos compostos orgânicos na produção de alimentos.",
+          "habilidade": "EM13CNT310",
+          "conteudo": "Estrutura e importância das vitaminas, proteínas, carboidratos e ácidos graxos. - Isomeria.",
+          "objetivos_aprendizagem": [
+            "Investigar a estrutura dos macro e micronutrientes."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Políticas públicas contra a insegurança alimentar – Aula complementar",
+          "aprendizagem_essencial": "AE4 - Analisar o fenômeno de isomeria plana nos macro e micronutrientes, analisando as propriedades e as vantagens e desvantagens do uso dos compostos orgânicos na produção de alimentos.",
+          "habilidade": "EM13CNT310",
+          "conteudo": "Agrotóxicos e fertilizantes: Estrutura e composição.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de insegurança alimentar e suas diferentes formas de manifestação.",
+            "Analisar dados disponíveis sobre a insegurança alimentar no contexto brasileiro.",
+            "Explorar as principais politicas públicas existentes para combater a insegurança alimentar."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Agrotóxicos e fertilizantes",
+          "aprendizagem_essencial": "AE4 - Analisar o fenômeno de isomeria plana nos macro e micronutrientes, analisando as propriedades e as vantagens e desvantagens do uso dos compostos orgânicos na produção de alimentos.",
+          "habilidade": "EM13CNT304",
+          "conteudo": "Agrotóxicos e fertilizantes: Estrutura e composição.",
+          "objetivos_aprendizagem": [
+            "Identificar o que são agrotóxicos e suas estruturas químicas.",
+            "Avaliar as vantagens e desvantagens do uso de agrotóxicos com base em evidências científicas."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Polímeros",
+          "aprendizagem_essencial": "AE5 - Analisar a estrutura, a síntese e as aplicações de polímeros naturais e sintéticos, identificando as principais reações de polimerização e os isômeros cis-trans.",
+          "habilidade": "EM13CNT304",
+          "conteudo": "Polímeros e isomeria.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a presença e a importância dos polímeros no cotidiano.",
+            "Compreender e interpretar as reações de síntese dos polímeros."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Síntese de polímeros",
+          "aprendizagem_essencial": "AE5 - Analisar a estrutura, a síntese e as aplicações de polímeros naturais e sintéticos, identificando as principais reações de polimerização e os isômeros cis-trans.",
+          "habilidade": "EM13CNT304",
+          "conteudo": "Polímeros e isomeria.",
+          "objetivos_aprendizagem": [
+            "Sintetizar compostos orgânicos.",
+            "Explorar boas práticas laboratoriais."
+          ]
+        }
+      ]
+    }
+  }
+}
