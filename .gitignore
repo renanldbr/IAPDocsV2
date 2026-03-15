@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables (IMPORTANT: Never commit this)
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+docOrientadores/extraidos/*.json
+*.docx
+!docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx
