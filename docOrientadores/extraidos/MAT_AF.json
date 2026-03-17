@@ -1,0 +1,2986 @@
+{
+  "disciplina": "MAT",
+  "etapa": "AF",
+  "series": {
+    "6º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "AE1 - Compre e decompor números naturais de diferentes ordens, reconhecendo as características do sistema de numeração decimal.",
+          "aprendizagem_essencial": "EF06MA02 - Reconhecer o sistema de numeração decimal, como o que prevalece no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero).",
+          "habilidade": "Identificar características do sistema de numeração decimal (base, valor posicional e função do zero).",
+          "conteudo": "Números.",
+          "objetivos_aprendizagem": [
+            "Identificar características do sistema de numeração decimal.",
+            "Compre e decompor números naturais de 4 ou mais ordens na forma aditiva, ou em suas ordens, em adições e multiplicações."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "AE2 - Comparar e ordenar números naturais de diferentes ordens, utilizando, inclusive, a reta numérica como suporte.",
+          "aprendizagem_essencial": "EF06MA01 - Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.",
+          "habilidade": "Localizar números naturais de diferentes ordens na reta numérica.",
+          "conteudo": "Números.",
+          "objetivos_aprendizagem": [
+            "Comparar números naturais de diferentes ordens, com ou sem o suporte da reta numérica.",
+            "Ordenar números naturais de diferentes ordens, com ou sem o suporte da reta numérica."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Estratégias de composição e decomposição de números naturais – Parte 2",
+          "aprendizagem_essencial": "AE1 - Compor e decompor números naturais de diferentes ordens, reconhecendo as características do sistema de numeração decimal.",
+          "habilidade": "EF06MA01 EF06MA02",
+          "conteudo": "Leitura, escrita, composição e decomposição de números naturais (ordens e classes).",
+          "objetivos_aprendizagem": [
+            "Reconhecer características do sistema de numeração decimal (base, valor posicional e função do zero).",
+            "Ler, escrever, compor e decompor números de 6 ordens ou mais (por meio de adições, multiplicações e potências de 10).",
+            "Identificar situações do cotidiano.",
+            "Ler e interpretar informações em diferentes tipos de gráficos (linhas ou colunas)."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Resolução de problema envolvendo o sistema de numeração decimal - Parte 1",
+          "aprendizagem_essencial": "AE1 - Compreender números naturais de diferentes ordens, reconhecendo as características do sistema de numeração decimal.",
+          "habilidade": "EF06MA01",
+          "conteudo": "Resolução de problemas de número real envolvendo o sistema de numeração decimal.",
+          "objetivos_aprendizagem": [
+            "Reconhecer características do sistema de numeração decimal."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: leitura, composição e decomposição de números naturais",
+          "aprendizagem_essencial": "AE1 - Compor e decompor números naturais de diferentes ordens, reconhecendo as características do sistema de numeração decimal.",
+          "habilidade": "EF06MA01 EF06MA02",
+          "conteudo": "Leitura, escrita, composição e decomposição de números naturais.",
+          "objetivos_aprendizagem": [
+            "Ler, comparar e ordenar números naturais de 6 ordens ou mais.",
+            "Ler e interpretar informações em diferentes tipos de gráficos (linhas ou colunas)."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Comparação e ordenação de números naturais – Parte 1",
+          "aprendizagem_essencial": "AE2 - Comparar e ordenar números naturais de diferentes ordens, utilizando, inclusive, a reta numérica como suporte.",
+          "habilidade": "EF06MA01 EF06MA02",
+          "conteudo": "Comparação e ordenação de números naturais (com e sem o uso da reta numérica).",
+          "objetivos_aprendizagem": [
+            "Comparar e ordenar números naturais de 6 ordens ou mais, em registros numéricos, em língua materna.",
+            "Ler, interpretar e analisar informações em diferentes tipos de gráficos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Comparação e ordenação de números naturais – Parte 2",
+          "aprendizagem_essencial": "AE2 - Comparar e ordenar números naturais de diferentes ordens, utilizando, inclusive, a reta numérica como suporte.",
+          "habilidade": "EF06MA01",
+          "conteudo": "Comparação e ordenação de números naturais (com e sem o uso da reta numérica).",
+          "objetivos_aprendizagem": [
+            "Comparar e ordenar números naturais de 6 ordens ou mais, em registros numéricos, em língua materna.",
+            "Ler, interpretar e analisar informações em diferentes tipos de gráficos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo o sistema de numeração decimal – Parte 2",
+          "aprendizagem_essencial": "AE2 - Comparar e ordenar números naturais de diferentes ordens, utilizando, inclusive, a reta numérica como suporte.",
+          "habilidade": "EF06MA01",
+          "conteudo": "Comparação e ordenação de números naturais (com e sem o uso da reta numérica).",
+          "objetivos_aprendizagem": [
+            "Comparar e ordenar números naturais de 6 ordens ou mais, em registros numéricos, em língua materna.",
+            "Ler, interpretar e analisar informações em diferentes tipos de gráficos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: sistema de numeração decimal",
+          "aprendizagem_essencial": "AE1 - Compreender e decompor números de 6 ordens ou mais (por meio de adições e multiplicações de potências de 10).",
+          "habilidade": "EF06MA01",
+          "conteudo": "Decomposição, composição, representação, sistema de numeração natural (com ou sem a reta numérica).",
+          "objetivos_aprendizagem": [
+            "Compor e decompor números de 6 ordens ou mais (por meio de adições e multiplicações de potências de 10).",
+            "Identificar a localização de números naturais na reta numérica.",
+            "Comparar e ordenar números naturais (de diferentes ordens)."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: comparação e ordenação de números naturais",
+          "aprendizagem_essencial": "AE2 - Comparar e ordenar números naturais de diferentes ordens, utilizando, inclusive, a reta numérica como suporte.",
+          "habilidade": "EF06MA01",
+          "conteudo": "Comparação e ordenação de números naturais de 6 ordens ou mais.",
+          "objetivos_aprendizagem": [
+            "Comparar e ordenar números naturais de 6 ordens ou mais, em registros numéricos e em língua materna."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Cálculos mentais com números naturais",
+          "aprendizagem_essencial": "AE3 - Resolver problemas envolvendo os quatro operações fundamentais com números naturais, por meio de estratégias variadas.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias de adição e subtração com números naturais, enunciados e cálculo mental.",
+          "objetivos_aprendizagem": [
+            "Empregar o cálculo mental para resolver operações de adição e subtração com números naturais."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Procedimentos de adição com números naturais",
+          "aprendizagem_essencial": "AE1 - Compreender a adição, por meio da composição e do algoritmo da adição.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias de adição com números naturais, com e sem reagrupamentos.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 13,
+          "titulo": "Procedimentos de subtração com números naturais",
+          "aprendizagem_essencial": "AE3 - Resolver problemas envolvendo os quatro operações fundamentais com números naturais, por meio de estratégias variadas.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias de subtração com números naturais, com e sem reagrupamentos, articulando cálculo mental e algoritmos.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas de adição e subtração com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo as quatro operações fundamentais com números naturais, por meio de estratégias variadas.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema com números naturais envolvendo as diferentes ideias do campo aditivo (adição e subtração), utilizando diversos recursos e métodos (algoritmo, cálculo mental, estimativa e calculadora)."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: adição e subtração com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo as quatro operações fundamentais com números naturais, por meio de estratégias variadas.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias variadas de adição e subtração com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema com números naturais envolvendo as diferentes ideias do campo aditivo (adição e subtração), por meio de diferentes estratégias de cálculo (pessoais, estimativa, cálculo mental, algoritmo convencional).",
+            "Relacionar as operações de adição e subtração como inversas uma da outra."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Estratégias de multiplicação com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo multiplicação com números naturais.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Procedimentos de multiplicação com números naturais envolvendo as diferentes ideias do campo multiplicativo, utilizando diversos recursos e métodos (algoritmo, cálculo mental, estimativa e calculadora).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação com números naturais.",
+            "Aplicar as diferentes ideias associadas à multiplicação (adição de parcelas iguais e formação retangular)."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Estratégias de divisão com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo divisão com números naturais.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias de divisão com números naturais envolvendo as diferentes ideias do campo divisor, utilizando diversos recursos e métodos (algoritmo, cálculo mental, estimativa e calculadora).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo divisão com números naturais.",
+            "Resolver uma divisão como o algoritmo usual e entender que a divisão é uma forma de medir."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas com multiplicações e divisões de números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo multiplicação com números naturais.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Resolução de problemas envolvendo multiplicações e divisões com números naturais.",
+          "objetivos_aprendizagem": [
+            "Entender as diferentes ideias associadas à multiplicação: proporcionalidade, fracionamento, retângulo e combinação.",
+            "Resolver uma multiplicação como o algoritmo usual e entender que a divisão é uma forma de medir."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: operações com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo as quatro operações com números naturais.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Resolução de problemas envolvendo as quatro operações com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e divisão como uma forma de medir."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: multiplicação e divisão com números naturais",
+          "aprendizagem_essencial": "AE3 - Resolver problemas envolvendo as quatro operações fundamentais com números naturais, por meio de diferentes estratégias variadas.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Estratégias de multiplicação e divisão de números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolução de problemas envolvendo as quatro operações com números naturais por meio de diferentes estratégias de cálculo (pessoais, estimativa, cálculo mental, algoritmo convencional)."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Padrões e regularidades com múltiplos de um número natural",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Regularidades em sequências numéricas compostas por múltiplos de um número natural.",
+          "objetivos_aprendizagem": [
+            "Explorar padrões e regularidades em sequências numéricas compostas por múltiplos de um número natural."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Explorando os múltiplos de um número natural",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Múltiplos de um número natural.",
+          "objetivos_aprendizagem": [
+            "Aplicar o conceito de múltiplos de um número natural na construção de sequências numéricas."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Explorando os divisores de um número natural",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Construir estratégias para analisar quando um número é ou não múltiplo de outro."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas envolvendo múltiplos e divisores de um número natural – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Identificar os divisores de um número natural por meio da análise de argumentos e repartições exatas, explorando os conceitos de número primo e composto."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: múltiplos e divisores",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo o conceito de múltiplos e divisores de um número natural."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Critérios de divisibilidade – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Critérios de divisibilidade por 2, 3 e 5 por meio da decomposição de números e da identificação de padrões.",
+          "objetivos_aprendizagem": [
+            "Construir os critérios de divisibilidade por 2, 3 e 5."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Critérios de divisibilidade – Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Decompor números naturais utilizando o conceito de múltiplo e divisor.",
+          "objetivos_aprendizagem": [
+            "Decompor números naturais utilizando o conceito de múltiplo e divisor."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo múltiplos e divisores de um número natural - Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo o conceito de múltiplos e divisores de um número natural."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: múltiplos e divisores",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA05 EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo critérios de divisibilidade, múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo critérios de divisibilidade, múltiplos e divisores de um número natural."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: critérios de divisibilidade",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo números primos, compostos, critérios de divisibilidade, múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo números primos, compostos, critérios de divisibilidade, múltiplos e divisores de um número natural."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: sistema de numeração decimal",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA01",
+          "conteudo": "Decomposição, composição, representação, comparação e ordenação de números naturais (com e sem o uso da reta numérica).",
+          "objetivos_aprendizagem": [
+            "Compor e decompor números de 6 ordens ou mais (por meio de adições e multiplicações de potências de 10).",
+            "Identificar e localizar números na reta numérica.",
+            "Comparar e ordenar números naturais (de diferentes ordens)."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: adição e subtração com números naturais",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Resolução de problemas envolvendo adições e subtrações com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adições e subtrações com números naturais."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: multiplicação e divisão para resolver problemas",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Resolução de problemas envolvendo multiplicação com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação com números naturais.",
+            "Resolver problemas envolvendo divisão com números naturais."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: múltiplos e divisores para resolver problemas",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo múltiplos e divisores de números naturais, utilizando-os para ampliar estratégias de cálculo.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo o conceito de múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Classificar números naturais em primos e compostos."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Aula de revisão: operações fundamentais com números naturais",
+          "aprendizagem_essencial": "AE4 - Resolver problemas envolvendo o conceito de múltiplos e divisores de um número natural.",
+          "habilidade": "EF06MA06",
+          "conteudo": "Resolução de problemas envolvendo o conceito de múltiplos e divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Classificar números naturais em primos e compostos."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Frações como resultado de uma divisão",
+          "aprendizagem_essencial": "Compreender uma fração como resultado de uma divisão.",
+          "habilidade": "EF05MA03",
+          "conteudo": "Interpretação de frações em situações do cotidiano. Representação de frações como resultado de uma divisão.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Estratégias para calcular a fração de uma quantidade",
+          "aprendizagem_essencial": "Aplicar a estratégia de cálculo de uma quantidade.",
+          "habilidade": "EF06MA03",
+          "conteudo": "Explorar o significado de fração como parte de um todo. Cálculo da fração de uma quantidade.",
+          "objetivos_aprendizagem": [
+            "Compreender frações como parte de um todo.",
+            "Resolver problemas envolvendo grandezas (comprimento, massa, tempo, capacidade)."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Comparação de frações com a reta numérica",
+          "aprendizagem_essencial": "Comparar frações com denominadores iguais e diferentes, utilizando representações visuais.",
+          "habilidade": "EF06MA09",
+          "conteudo": "Representação de frações na reta numérica. Comparação de frações com diferentes denominadores, sem uso de frações equivalentes.",
+          "objetivos_aprendizagem": [
+            "Utilizar a reta numérica como recurso para comparar e ordenar frações."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Geometria",
+          "aprendizagem_essencial": "Classificar triângulos em relação às medidas dos lados.",
+          "habilidade": "EF06MA19",
+          "conteudo": "Identificar características dos triângulos e classificá-los de acordo com os ângulos.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: comparação de frações",
+          "aprendizagem_essencial": "Comparar frações com denominadores iguais e diferentes, utilizando representações visuais.",
+          "habilidade": "EF06MA07",
+          "conteudo": "Estratégias para comparar frações com denominadores diferentes. Identificação de frações equivalentes.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Obtendo frações equivalentes",
+          "aprendizagem_essencial": "Compreender que diferentes frações podem representar a mesma quantidade (frações equivalentes).",
+          "habilidade": "EF06MA09",
+          "conteudo": "Desenvolver estratégias para gerar frações equivalentes. Utilizar a reta numérica como recurso para comparar frações.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Adição e subtração com frações – Parte 1",
+          "aprendizagem_essencial": "Compreender e aplicar a operação de adição e subtração com frações com mesmo denominador.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Adição de frações com mesmo denominador.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo adição e subtração de frações – Parte 1",
+          "aprendizagem_essencial": "Resolver problemas que envolvam adição e subtração de números racionais positivos na representação fracionária, por meio de estratégias diversas.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração de frações com o mesmo denominador.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: Representação e comparação de frações",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo cálculo da fração de uma quantidade, cujo resultado é um número natural.",
+          "habilidade": "EF06MA07",
+          "conteudo": "Cálculo da fração de uma quantidade. Comparação de frações com diferentes denominadores, utilizando a reta numérica e frações equivalentes.",
+          "objetivos_aprendizagem": [
+            "Aplicar a estratégia de cálculo da fração de uma quantidade.",
+            "Comparar frações com denominadores diferentes utilizando diferentes estratégias.",
+            "Utilizar a reta numérica como recurso para comparar frações."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: frações equivalentes",
+          "aprendizagem_essencial": "AE6 - Comparar e ordenar frações, utilizando equivalência, representações visuais e a reta numérica como apoio.",
+          "habilidade": "EF06MA07",
+          "conteudo": "Identificação de frações equivalentes.",
+          "objetivos_aprendizagem": [
+            "Compreender que diferentes frações podem representar a mesma quantidade (frações equivalentes).",
+            "Desenvolver estratégias para identificar frações equivalentes."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Estratégias de simplificação de frações",
+          "aprendizagem_essencial": "AE6 - Comparar e ordenar frações, utilizando equivalência, representações visuais e a reta numérica como apoio.",
+          "habilidade": "EF06MA09",
+          "conteudo": "Identificação de frações equivalentes. Estratégias para simplificar frações. Adição de frações com o mesmo denominador, com resultado a ser simplificado.",
+          "objetivos_aprendizagem": [
+            "Reconhecer frações equivalentes e identificar quando uma fração pode ser simplificada.",
+            "Aplicar estratégias de simplificação de frações.",
+            "Resolver situações-problema que envolvam adição de frações com mesmo denominador."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Adição e subtração de frações – Parte 2",
+          "aprendizagem_essencial": "AE7 - Resolver problemas que envolvam adição ou subtração de números racionais positivos na representação fracionária, por meio de estratégias diversas.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Identificação de frações equivalentes para igualar denominadores. Estratégias de cálculo mental e escrito com frações diferentes.",
+          "objetivos_aprendizagem": [
+            "Aplicar o processo de adição e subtração de frações com denominadores diferentes.",
+            "Identificar frações equivalentes como estratégia para igualar denominadores."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "A forma mista",
+          "aprendizagem_essencial": "AE7 - Resolver problemas que envolvam adição ou subtração de números racionais positivos na representação fracionária, por meio de estratégias diversas.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Compreensão do número misto como soma de um número natural com uma fração. Transformar frações impróprias em número misto e vice-versa.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de número misto.",
+            "Transformar frações impróprias em números mistos e vice-versa.",
+            "Utilizar a reta numérica como estratégia para representar frações impróprias."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas envolvendo adição e subtração de frações – Parte 2",
+          "aprendizagem_essencial": "AE7 - Resolver problemas que envolvam adição ou subtração de números racionais positivos na representação fracionária, por meio de estratégias diversas.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração de frações com denominadores diferentes.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: forma mista",
+          "aprendizagem_essencial": "Transformação de frações impróprias em números mistos e vice-versa.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Transformação de número misto em fração imprópria por meio da adição, utilizando equivalências de frações.",
+          "objetivos_aprendizagem": [
+            "Transformar frações impróprias em números mistos e vice-versa.",
+            "Utilizar a adição de frações como estratégia para representar frações impróprias."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Multiplicação com frações e estratégias de simplificação",
+          "aprendizagem_essencial": "Aplicar o processo para realizar a multiplicação entre frações.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Multiplicação de frações: regra do produto dos numeradores e denominadores.",
+          "objetivos_aprendizagem": [
+            "Aplicar o processo para realizar a multiplicação entre frações.",
+            "Transformar números naturais em frações para realizar multiplicações.",
+            "Aplicar estratégias de simplificação de frações."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Divisão com frações",
+          "aprendizagem_essencial": "Aplicar a divisão entre frações utilizando a técnica da inversão da segunda fração.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Regra da divisão de frações: multiplicar a primeira pelo inverso da segunda.",
+          "objetivos_aprendizagem": [
+            "Aplicar a divisão entre frações utilizando a técnica da inversão da segunda fração.",
+            "Aplicar estratégias de simplificação antes ou depois da operação."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas envolvendo multiplicação e divisão com frações",
+          "aprendizagem_essencial": "Resolver problemas envolvendo multiplicação e divisão com frações.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Resolução de problemas envolvendo multiplicação e divisão com frações.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e divisão com frações.",
+            "Aplicar técnicas de multiplicação e divisão de frações e simplificação de resultados."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: Operações com frações",
+          "aprendizagem_essencial": "Resolver problemas que envolvam adições e subtrações com denominadores diferentes.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Resolver problemas que envolvam adições e subtrações com denominadores diferentes.",
+          "objetivos_aprendizagem": [
+            "Aplicar a operação de adição e subtração de frações com denominadores diferentes.",
+            "Identificar frações equivalentes como estratégia para igualar denominadores."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: adição e subtração de frações",
+          "aprendizagem_essencial": "Resolver problemas que envolvam adição e subtração de números racionais positivos na representação fracionária.",
+          "habilidade": "EF06MA1",
+          "conteudo": "Adição e subtração de frações com denominadores diferentes.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam adição e subtração de números racionais positivos na representação fracionária."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Giros e ângulos",
+          "aprendizagem_essencial": "Reconhecer e identificar ângulos retos e não retos em objetos e elementos do cotidiano.",
+          "habilidade": "EF06MA2",
+          "conteudo": "Medição de ângulos com transferidor e ferramentas digitais.",
+          "objetivos_aprendizagem": [
+            "Identificar ângulos em objetos utilizando transferidor e/ou ferramentas digitais como o GeoGebra."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Reconhecimento e classificação de poligonos",
+          "aprendizagem_essencial": "AE8 - Classificar polígonos, considerando lados, vértices e ângulos, diferenciando os regulares dos não regulares.",
+          "habilidade": "EF06MA18",
+          "conteudo": "Reconhecimento e nomenclatura de polígonos com base em seus elementos (lados, vértices e ângulos). Identificar polígonos convexos e não convexos. Polígonos como faces de poliedros.",
+          "objetivos_aprendizagem": [
+            "Reconhecer e nomear polígonos com base na quantidade de lados e vértices.",
+            "Identificar polígonos convexos e compreender a diferença em relação aos não convexos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Reconhecimento e classificação de triângulos",
+          "aprendizagem_essencial": "AE9 - Classificar triângulos em relação às medidas de lados.",
+          "habilidade": "EF06MA19",
+          "conteudo": "Classificação de triângulos com base nas medidas dos lados (equilátero, isósceles, escaleno).",
+          "objetivos_aprendizagem": [
+            "Classificar triângulos com base nas medidas dos lados."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Classificação de polígonos e triângulos",
+          "aprendizagem_essencial": "AE8 - Classificar polígonos, considerando lados, vértices e ângulos, diferenciando os regulares dos não regulares.",
+          "habilidade": "EF06MA18 EF06MA19",
+          "conteudo": "Identificação de triângulos e outros polígonos em obras de arte. Classificação de triângulos quanto aos lados (equilátero, isósceles, escaleno). Criação de composições artísticas com elementos geométricos.",
+          "objetivos_aprendizagem": [
+            "Classificar triângulos e polígonos presentes em obras de arte.",
+            "Aplicar os conceitos geométricos em contextos culturais e criativos.",
+            "Desenvolver a percepção visual e espacial por meio da análise artística.",
+            "Criar composições visuais utilizando triângulos e outros polígonos."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: classes de polígonos",
+          "aprendizagem_essencial": "AE8 - Classificar planos com faces de sólidos geométricos.",
+          "habilidade": "EF06MA18",
+          "conteudo": "Reconhecimento e nomenclatura de polígonos com base em seus elementos (lados, vértices e ângulos). Polígonos como faces de poliedros.",
+          "objetivos_aprendizagem": [
+            "Relacionar figuras planas com faces de sólidos geométricos."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Características dos quadriláteros – Parte 1",
+          "aprendizagem_essencial": "AE8 - Classificar quadriláteros com base em suas propriedades geométricas.",
+          "habilidade": "EF06MA20",
+          "conteudo": "Definição e características dos quadriláteros. Classificação de trapézios (equilátero, isósceles, escaleno).",
+          "objetivos_aprendizagem": [
+            "Classificar quadriláteros com base em suas propriedades geométricas.",
+            "Reconhecer trapézios e paralelogramos em representações planas e em contextos reais."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Caracteristicas dos quadriláteros – Parte 2",
+          "aprendizagem_essencial": "AE10 - Classificar quadriláteros em relação às medidas de lados e ângulos, comparando suas classes.",
+          "habilidade": "EF06MA20",
+          "conteudo": "Relações entre quadrado, retângulo, trapézio e paralelogramo entre classes de quadriláteros.",
+          "objetivos_aprendizagem": [
+            "Classificar quadriláteros com base em suas propriedades geométricas.",
+            "Compreender as relações de inclusão entre quadrado, retângulo, trapézio e paralelogramo."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo quadriláteros",
+          "aprendizagem_essencial": "AE10 - Classificar quadriláteros em relação às medidas de lados e ângulos, comparando suas classes.",
+          "habilidade": "EF06MA20",
+          "conteudo": "Aplicação das propriedades dos quadriláteros em situações de cotidiano. Representar quadriláteros em modelo de instrumentos de desenho e softwares de geometria.",
+          "objetivos_aprendizagem": [
+            "Aplicar os conhecimentos sobre quadriláteros na resolução de situações-problema.",
+            "Representar quadriláteros por meio de instrumentos de desenho e softwares de geometria."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: Triângulos e quadriláteros",
+          "aprendizagem_essencial": "AE9 - Classificar triângulos em relação às medidas de lados. AE10 - Classificar quadriláteros em relação às medidas de lados e ângulos, comparando suas classes.",
+          "habilidade": "EF06MA19 EF06MA20",
+          "conteudo": "Classificação de triângulos com base nas medidas dos lados (equilátero, isósceles, escaleno). Classificação dos quadriláteros com base em lados e ângulos.",
+          "objetivos_aprendizagem": [
+            "Classificar triângulos com base nas medidas.",
+            "Classificar quadriláteros com base em suas propriedades geométricas."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: quadriláteros",
+          "aprendizagem_essencial": "EF10 - Classificar quadriláteros em relação às medidas de lados e ângulos, comparando suas classes.",
+          "habilidade": "EF06MA20",
+          "conteudo": "Relações entre quadrado, retângulo, trapézio e paralelogramo. Inclusão e interseção entre classes de quadriláteros.",
+          "objetivos_aprendizagem": [
+            "Compreender as relações de inclusão entre quadrado, retângulo, trapézio e paralelogramo."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: representação e comparação de frações – Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MA07 EF06MA09",
+          "conteudo": "Comparação de frações com diferentes denominadores, utilizando a reta numérica e frações equivalentes.",
+          "objetivos_aprendizagem": [
+            "Comparar frações com denominadores diferentes utilizando diferentes estratégias.",
+            "Utilizar a reta numérica como recurso para comparar frações."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: adição e subtração de frações – Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MA10",
+          "conteudo": "Identificação de frações equivalentes para igualar denominadores. A adição e subtração de frações com denominadores diferentes.",
+          "objetivos_aprendizagem": [
+            "Aplicar o processo de adição e subtração de frações com denominadores diferentes.",
+            "Identificar frações equivalentes como estratégia para igualar denominadores."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: multiplicação e divisão de frações – Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MA1",
+          "conteudo": "Resolução de problemas envolvendo multiplicação e divisão com frações. Aplicação de técnicas de multiplicação e divisão de frações e simplificação de resultados.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e divisão com frações.",
+            "Aplicar técnicas de multiplicação e divisão de frações e simplificar resultados."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: triângulos – Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MA19 EF06MA20",
+          "conteudo": "Classificação de triângulos com base nas medidas dos lados (equilátero, isósceles, escaleno).",
+          "objetivos_aprendizagem": [
+            "Classificar triângulos com base nas medidas dos lados.",
+            "Classificar quadriláteros com base em suas propriedades geométricas."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: problemas envolvendo adição e subtração de frações – Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06MA20",
+          "conteudo": "Adição e subtração de frações com denominadores diferentes.",
+          "objetivos_aprendizagem": [
+            "Aplicar o processo de adição e subtração de frações com denominadores diferentes."
+          ]
+        }
+      ]
+    },
+    "7º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Números.",
+          "aprendizagem_essencial": "Reconhecer o mínimo múltiplo comum entre dois números naturais.",
+          "habilidade": "EF06MA09",
+          "conteudo": "Resolver e elaborar problemas que envolvam o cálculo de fração envolvendo que o resultado seja um número natural, com o uso de calculadora.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Números.",
+          "aprendizagem_essencial": "Localizar números inteiros na reta numérica.",
+          "habilidade": "EF07MA03",
+          "conteudo": "Comparar números inteiros, utilizando ou não a reta numérica como recurso.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Resolução de problemas envolvendo multiplicação com números naturais - Parte 2",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam múltiplos e divisores de números naturais, em contextos reais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Estratégias de cálculo mental e escrito envolvendo multiplicação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os múltiplos de um número natural.",
+            "Utilizar o conceito de múltiplo para ampliar estratégias de cálculo mental envolvendo a multiplicação.",
+            "Compreender procedimentos de cálculo mental e escrito envolvendo multiplicação.",
+            "Resolver problemas envolvendo multiplicação de números naturais por meio de estratégias pessoais diversas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Números.",
+          "aprendizagem_essencial": "Calcular o resultado de adições ou subtrações envolvendo números inteiros.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Resolver e elaborar problemas que envolvam operações com números inteiros.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: Multiplicação e os múltiplos de um número natural",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam múltiplos e divisores de números naturais, em contextos reais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Múltiplos de um número natural.",
+          "objetivos_aprendizagem": [
+            "Reconhecer os múltiplos de um número natural.",
+            "Resolver problemas envolvendo a multiplicação de números naturais por meio de estratégias pessoais diversas."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Resolução de problemas envolvendo divisão com números naturais - Parte 1",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam múltiplos e divisores de números naturais, em contextos reais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Critérios de divisão para 2, 3, 5 e 10.",
+            "Cálculo com números naturais divididos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Resolução de problemas envolvendo divisão com números naturais - Parte 2",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam múltiplos e divisores de números naturais, em contextos reais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Divisores de um número natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo divisão por meio de cálculo mental (divisor menor ou igual a 10).",
+            "Compreender o algoritmo da divisão euclidiana."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo multiplicação e divisão com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo os multiplicação e divisão com números naturais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Critérios de divisibilidade (por 2, 3, 5 e 10). Estratégias de cálculo mental e escrito envolvendo multiplicação e divisão com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo os multiplicação e divisão com números naturais."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: operações fundamentais",
+          "aprendizagem_essencial": "Utilizar estratégias pessoais diversas para resolver problemas envolvendo adição, subtração, multiplicação e divisão com números naturais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Estratégias de cálculo mental e escrito envolvendo multiplicação e divisão com números naturais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão com números naturais."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: Divisão com números naturais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo divisão com números naturais (divisor com até dois algarismos).",
+          "habilidade": "EF07MA01",
+          "conteudo": "Divisores de um número natural. Critérios de divisibilidade (por 2, 3, 5 e 10). Divisão com números naturais (cálculo mental e escrito).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo divisão com números naturais."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Os números inteiros em situações do cotidiano",
+          "aprendizagem_essencial": "Identificar e interpretar números inteiros em diferentes contextos do cotidiano, reconhecendo sua utilidade para representar situações de ganho, perda, temperatura, profundidade, entre outras.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Reconhecimento dos números inteiros no cotidiano.",
+          "objetivos_aprendizagem": [
+            "Identificar a relação de inclusão dos números naturais no conjunto dos números inteiros.",
+            "Número inteiros na reta numérica."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Representação e comparação entre números inteiros",
+          "aprendizagem_essencial": "Comparar e ordenar números inteiros, utilizando, inclusive, a reta numérica como recurso.",
+          "habilidade": "EF07MA03",
+          "conteudo": "Representação de números inteiros na reta numérica. Estratégias de comparação de números inteiros.",
+          "objetivos_aprendizagem": [
+            "Identificar números inteiros na reta numérica.",
+            "Comparar números inteiros na reta numérica, em diferentes contextos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Adição e subtração com números inteiros",
+          "aprendizagem_essencial": "Construir novos significados para a adição e subtração de números com a inclusão dos números inteiros.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Estratégias de adição e subtração com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Associar a substração e adição, com contexto."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas com adição e subtração de números inteiros",
+          "aprendizagem_essencial": "Utilizar a reta numérica como apoio para a representação na resolução de problemas com adição e subtração.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Representar números inteiros na reta numérica. Resolução de problemas de adição e subtração de números inteiros.",
+          "objetivos_aprendizagem": [
+            "Calcular a adição e subtração de números inteiros."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: Adição e subtração com números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Resolução de problemas com adição e subtração de números inteiros.",
+          "objetivos_aprendizagem": [
+            "Realizar a adição de números inteiros.",
+            "Associar a subtração de números inteiros à adição de um número com o oposto do outro."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Multiplicação com números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Multiplicação com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Construir novos significados para a multiplicação de números com a inclusão dos números inteiros.",
+            "Resolver problemas contextualizados que envolvam a multiplicação entre inteiros."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Divisão com números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Divisão com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Construir novos significados para a divisão de números com a inclusão dos números inteiros.",
+            "Resolver problemas envolvendo a divisão entre inteiros."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas com multiplicação e divisão de números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Multiplicação e divisão com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a multiplicação e divisão com números inteiros."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: operações com números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Adição e subtração com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números inteiros."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Multiplicação e divisão de números inteiros",
+          "aprendizagem_essencial": "AE3 - Resolver problemas que envolvam operações com números inteiros, por meio de estratégias diversas.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Multiplicação e divisão de números inteiros.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas referentes às operações de multiplicação e divisão de números inteiros."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "O que é uma fração?",
+          "aprendizagem_essencial": "AE4 - Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão ou agente, utilizando, inclusive, a reta numérica como apoio.",
+          "habilidade": "EF07MA08",
+          "conteudo": "Leitura e escrita de frações.",
+          "objetivos_aprendizagem": [
+            "Escrever frações como resultado de uma divisão.",
+            "Compreender frações como representação de partes de um inteiro.",
+            "Reconhecer as frações em situações reais positivas, podendo ser transformadas em formas fracionária e decimal.",
+            "Representar e comparar frações positivas com a reta numérica."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Ampliação da compreensão sobre frações – Parte 1",
+          "aprendizagem_essencial": "AE4 - Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador, utilizando, inclusive, a reta numérica como apoio.",
+          "habilidade": "EF06MAO",
+          "conteudo": "Números racionais positivos e negativos.\nFrações equivalentes.\nRepresentação de frações na reta numérica.\nComparação de números racionais.",
+          "objetivos_aprendizagem": [
+            "Comparar números racionais positivos e negativos (partindo da forma fracionária) na reta numérica.",
+            "Localizar frações entre dois inteiros consecutivos.",
+            "Relacionar as formas fracionária e decimal de um número racional."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Ampliação da compreensão sobre frações – Parte 2",
+          "aprendizagem_essencial": "AE4 - Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador, utilizando, inclusive, a reta numérica como apoio.",
+          "habilidade": "EF06MAO",
+          "conteudo": "Números racionais positivos e negativos.\nFrações equivalentes.\nRepresentação de frações na reta numérica.\nComparação de números racionais.",
+          "objetivos_aprendizagem": [
+            "Comparar números racionais positivos e negativos (partindo da forma fracionária) na reta numérica.",
+            "Localizar frações entre dois inteiros consecutivos.",
+            "Relacionar as formas fracionária e decimal de um número racional."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas com frações",
+          "aprendizagem_essencial": "AE4 - Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador, utilizando, inclusive, a reta numérica como apoio.",
+          "habilidade": "EF05MA04, EF07MA08",
+          "conteudo": "Resolução de situações-problema envolvendo comparação de frações.\nFrações com denominadores iguais.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema envolvendo processos de comparação, adição e subtração de frações (com denominadores iguais)."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: Adição e subtração de frações de mesmo denominador",
+          "aprendizagem_essencial": "AE4 - Comparar e ordenar frações associadas às ideias de partes de inteiros, resultado da divisão, razão e operador, utilizando, inclusive, a reta numérica como apoio.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Resolução de situações-problema envolvendo adição e subtração de frações com denominadores iguais.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema envolvendo adição e subtração de frações com denominadores iguais."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Adição e subtração de frações com denominadores diferentes",
+          "aprendizagem_essencial": "AE5 - Resolver problemas envolvendo os quatro operações fundamentais com frações, por meio de estratégias diversas de cálculo e representações visuais.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Frações equivalentes.\nAdição e subtração de frações com denominadores diferentes.",
+          "objetivos_aprendizagem": [
+            "Utilizar frações equivalentes para tornar os denominadores iguais.",
+            "Compreender o processo de adição e subtração de frações com denominadores diferentes."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Multiplicação e divisão de frações",
+          "aprendizagem_essencial": "AE5 - Resolver problemas envolvendo os quatro operações fundamentais com frações, por meio de estratégias diversas de cálculo e representações visuais.",
+          "habilidade": "EF07MA1",
+          "conteudo": "Multiplicação de frações (parte de uma parte).\nDivisão de frações (quantas vezes uma fração cabe em outra).",
+          "objetivos_aprendizagem": [
+            "Compreender os processos para realizar multiplicações e divisões com frações."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Problemas envolvendo operações com frações",
+          "aprendizagem_essencial": "AE5 - Resolver problemas envolvendo os quatro operações fundamentais com frações, por meio de estratégias diversas de cálculo e representações visuais.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Resolução de problemas sobre a adição e a subtração com frações.\nResolução de problemas sobre a multiplicação e divisão com frações.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo operações com frações.",
+            "Calcular frações de quantidade.",
+            "Resolver problemas sobre fração de quantidade."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: Operações com frações",
+          "aprendizagem_essencial": "Resolver problemas envolvendo operações com frações.",
+          "habilidade": "EF07MA08 EF06MA10",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração de frações.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo operações com frações."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: Multiplicação e divisão de frações",
+          "aprendizagem_essencial": "Resolver problemas envolvendo a multiplicação e divisão de frações.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Multiplicação de frações (parte de uma parte). Divisão de frações (quantas vezes uma fração cabe em outra).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a multiplicação e divisão de frações.",
+            "Compreender os processos para realizar multiplicações e divisões com frações."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: Operações com números naturais",
+          "aprendizagem_essencial": "Utilizar estratégias diversas para resolver problemas envolvendo adição, subtração, multiplicação e divisão com números naturais.",
+          "habilidade": "EF07MA01",
+          "conteudo": "Estratégias de cálculo envolvendo operações com números naturais.",
+          "objetivos_aprendizagem": [
+            "Utilizar estratégias diversas para resolver problemas envolvendo adição, subtração, multiplicação e divisão com números naturais."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: Operações com números inteiros",
+          "aprendizagem_essencial": "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números inteiros.",
+          "habilidade": "EF07MA04",
+          "conteudo": "Adição e subtração com números inteiros. Multiplicação e divisão com números inteiros.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números inteiros."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: Adição e subtração de frações",
+          "aprendizagem_essencial": "Adicionar e subtrair frações com denominadores iguais.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Adição e subtração de frações com denominadores iguais.",
+          "objetivos_aprendizagem": [
+            "Adicionar e subtrair frações com denominadores iguais.",
+            "Utilizar frações equivalentes para tornar os denominadores iguais.",
+            "Compreender o processo de adição e subtração de frações com denominadores diferentes."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: Multiplicação e divisão de frações",
+          "aprendizagem_essencial": "Resolver problemas utilizando as operações de multiplicações e divisões com frações.",
+          "habilidade": "EF06MA10 EF07MA1",
+          "conteudo": "Multiplicação de frações (parte de uma parte). Divisão de frações (quantas vezes uma fração cabe em outra).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas utilizando as operações de multiplicações e divisões com frações."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: Operações fundamentais com frações",
+          "aprendizagem_essencial": "Resolver problemas envolvendo a adição e a subtração de frações.",
+          "habilidade": "EF06MA10",
+          "conteudo": "Multiplicação de frações (parte de uma parte). Divisão de frações (quantas vezes uma fração cabe em outra).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a adição e a subtração de frações.",
+            "Resolver problemas utilizando as operações de multiplicações e divisões com frações."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Relações entre frações e números decimais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF06MA08",
+          "conteudo": "Reconhecimento de frações como resultado de uma divisão entre dois números naturais. Relação entre frações e números decimais. Representação de frações e decimais na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que os números racionais positivos podem ser expressos nas formas fracionária e decimal.",
+            "Estabelecer relações entre essas representações, passando de uma forma para outra.",
+            "Representar frações e decimais na reta numérica.",
+            "Ler e escrever números racionais com compreensão do sistema de numeração decimal."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Números racionais na reta numérica",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Adição e subtração de frações com denominadores iguais e diferentes. Identificação e utilização frações equivalentes para cálculo. Resolução de problemas com adição e subtração de números racionais positivos na forma fracionária.",
+          "objetivos_aprendizagem": [
+            "Aplicar estratégias para adição e subtração de frações.",
+            "Identificar e utilizar frações equivalentes para realizar cálculos com denominadores diferentes.",
+            "Resolver problemas com adição e subtração de números racionais positivos na forma fracionária."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Estratégias de adição e subtração com números racionais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Adição e subtração com números racionais na forma decimal.",
+          "objetivos_aprendizagem": [
+            "Identificar números racionais em suas diferentes representações (fracionária, decimal e inteira).",
+            "Representar números racionais na reta numérica.",
+            "Resolver problemas envolvendo adição e subtração de números racionais utilizando processos de cálculo e estratégias visuais, como a reta numérica."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Resolução de problemas envolvendo adição e subtração com números decimais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração de números racionais nas formas fracionária e decimal.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas com adição e subtração de números racionais positivos na forma fracionária.",
+            "Realizar operações de adição e subtração com números decimais utilizando processos de cálculo e estratégias visuais, como a reta numérica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: adição e subtração com números decimais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Adição e subtração com números racionais na forma decimal.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Multiplicação e potenciação de números racionais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Estratégias de cálculo de multiplicação e potenciação de números racionais e decimais a partir da multiplicação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Divisão de números racionais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Estratégias de cálculo de divisão com números decimais e fracionários.",
+          "objetivos_aprendizagem": [
+            "Calcular a divisão entre números decimais utilizando diversas estratégias de cálculo.",
+            "Compreender a divisão de números decimais por meio da divisão de números naturais."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo multiplicação e divisão de números racionais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Estratégias de cálculo de multiplicação com números decimais. Estratégias de cálculo de divisão com números decimais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a multiplicação de números decimais.",
+            "Resolver problemas envolvendo a divisão de números decimais."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: operações com números racionais",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Adição e subtração com números racionais na forma decimal.",
+          "objetivos_aprendizagem": [
+            "Realizar operações de adição e subtração com números decimais utilizando diversos processos de cálculo.",
+            "Realizar operações de multiplicação e divisão entre números decimais utilizando diversas estratégias de cálculo."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: divisão de números racionais na forma decimal",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF07MA11, EF07MA12",
+          "conteudo": "Estratégias de cálculo de divisão números decimais e fracionários.",
+          "objetivos_aprendizagem": [
+            "Calcular a divisão entre números decimais utilizando diversas estratégias de cálculo."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Classificação de polígonos",
+          "aprendizagem_essencial": "AE6 - Resolver problemas envolvendo quatro operações fundamentais e a potenciação com números racionais nas formas fracionária e decimal, estabelecendo relações entre essas representações.",
+          "habilidade": "EF06MA18",
+          "conteudo": "Polígonos: definição, nomenclatura e classificação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer e nomear polígonos com base em seus elementos: lados, vértices e ângulos.",
+            "Classificar polígonos em regulares e não regulares."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Pontos no plano cartesiano",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planos no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Plano cartesian: conceito e elementos (eixos, quadrantes, e ordenado).",
+          "objetivos_aprendizagem": [
+            "Identificar os eixos (x e y) do plano cartesiano.",
+            "Associar coordenadas a pontos no plano cartesiano.",
+            "Representar pares de informações em um plano cartesiano.",
+            "Reconhecer a relação de objetos ao dados em um plano cartesiano."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Polígonos no plano cartesiano",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Associação de vértices de polígonos com pares ordenados no plano cartesiano.\nConstrução e identificação de polígonos a partir de suas coordenadas.\nCálculo de perímetro de polígonos.",
+          "objetivos_aprendizagem": [
+            "Associar os vértices de um polígono a um par ordenado no plano cartesiano.",
+            "Representar polígonos no plano cartesiano a partir de suas coordenadas.",
+            "Identificar as coordenadas dos vértices de um polígono representado no plano cartesiano.",
+            "Calcular o perímetro de polígonos, com base nas medidas dos lados."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas envolvendo polígonos no plano cartesiano – Parte 1",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Resolução de problemas envolvendo polígonos no plano cartesiano.\nResolução de problemas envolvendo o perímetro de polígonos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo polígonos no plano cartesiano.",
+            "Resolver problemas envolvendo o perímetro de polígonos."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: polígonos no plano cartesiano",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Representação de polígonos no plano cartesiano.\nClassificação de polígonos no plano cartesiano.",
+          "objetivos_aprendizagem": [
+            "Representar polígonos no plano cartesiano.",
+            "Classificar polígonos no plano cartesiano."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Simétricos no plano cartesiano – Parte 1",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF07MA19",
+          "conteudo": "Representação de pares ordenados no plano cartesiano.\nPontos simétricos no plano cartesiano.",
+          "objetivos_aprendizagem": [
+            "Localizar pontos em diferentes quadrantes do plano cartesiano.",
+            "Reconhecer o simétrico de um ponto no plano cartesiano com relação aos eixos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Simétricos no plano cartesiano – Parte 2",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF07MA20",
+          "conteudo": "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem.\nRepresentar um polígono no plano cartesiano com base nas coordenadas de cada vértice.",
+          "objetivos_aprendizagem": [
+            "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem.",
+            "Representar um polígono no plano cartesiano com base nas coordenadas de cada vértice."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas envolvendo polígonos no plano cartesiano – Parte 2",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Reconhecimento de pontos simétricos no plano cartesiano a partir da multiplicação simétrica com relação aos eixos e à origem.\nRepresentar um polígono no plano cartesiano com base nas coordenadas de cada vértice.",
+          "objetivos_aprendizagem": [
+            "Calcular as coordenadas dos vértices de um polígono a partir da multiplicação simétrica com relação aos eixos e à origem.",
+            "Representar um polígono no plano cartesiano com base nas coordenadas de cada vértice."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: representação de polígonos no plano cartesiano",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA16 EF07MA1",
+          "conteudo": "Construção de polígonos a partir de suas coordenadas.\nAssociação de vértices de polígonos com pares ordenados no plano cartesiano.",
+          "objetivos_aprendizagem": [
+            "Representar um polígono no plano cartesiano com base nas coordenadas de cada vértice.",
+            "Calcular as coordenadas dos vértices de um polígono a partir da simetria com relação aos eixos e/ou à origem."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: simétricos no plano cartesiano",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF07MA1",
+          "conteudo": "Reconhecimento do simétrico de figuras no plano cartesiano.",
+          "objetivos_aprendizagem": [
+            "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Explorando áreas na malha quadriculada",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA24",
+          "conteudo": "Conceito de área: medida de uma superfície.\nMalha quadriculada: recurso para medição e comparação de áreas.\nEquivalência de áreas: figuras com formatos diferentes podem ter a mesma área.",
+          "objetivos_aprendizagem": [
+            "Medir a área de figuras planas em malha quadriculada, contando os quadradinhos.",
+            "Estimar a área de figuras irregulares na malha quadriculada.",
+            "Comparar a área de diferentes figuras na malha quadriculada."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Área de retângulos e quadrados",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF06MA24",
+          "conteudo": "Área de quadrados e retângulos no plano cartesiano.\nContagem de unidades de área (quadradinhos).\nIdentificação médias de base e altura a partir das coordenadas dos vértices dos retângulos no plano cartesiano.\nConstrução de expressões matemáticas para o cálculo da área de quadrados e retângulos.",
+          "objetivos_aprendizagem": [
+            "Calcular a área de quadrados e retângulos por meio da contagem de unidades de área (quadrados menores da malha quadriculada).",
+            "Identificar médias de base e altura a partir das coordenadas dos vértices dos quadrados e retângulos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Área de triângulos",
+          "aprendizagem_essencial": "AE7 - Reconhecer e representar figuras geométricas planas no plano cartesiano, reconhecendo suas características.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Área de triângulos no plano cartesiano.\nIdentificação de base e altura em triângulos posicionados no plano cartesiano.\nConstrução de expressões para o cálculo da área de triângulos.",
+          "objetivos_aprendizagem": [
+            "Reconhecer triângulos em malhas quadriculadas e no plano cartesiano.",
+            "Calcular a área de triângulos por meio da contagem de quadradinhos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas envolvendo área de retângulos e triângulos",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Área de quadrados, retângulos e triângulos no plano cartesiano. Contagem de unidades de área (quadradinhos) como estratégia de cálculo. Determinação de medidas de base e altura a partir das coordenadas dos vértices dos polígonos no plano cartesiano. Aplicação de expressões matemáticas para o cálculo de área de retângulos, quadrados e triângulos.",
+          "objetivos_aprendizagem": [
+            "Calcular a área de quadrados, retângulos e triângulos por meio da contagem de unidades de área (quadrados do plano cartesiano).",
+            "Identificar medidas de base e altura a partir das coordenadas dos vértices dos polígonos no plano cartesiano.",
+            "Aplicar expressões para o cálculo da área de quadrados, retângulos e triângulos."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: áreas de retângulos e triângulos",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Aplicação de expressões matemáticas para o cálculo de área de retângulos, quadrados e triângulos.",
+          "objetivos_aprendizagem": [
+            "Aplicar expressões para o cálculo da área de quadrados, retângulos e triângulos, no plano cartesiano."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Cálculo de área de figuras planas por decomposição - Parte 1",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Área de uma região limitada por um paralelogramo. Decomposição de figuras planas em triângulos, retângulos e quadrados. Equivalência entre áreas como estratégia de cálculo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer paralelogramos em diferentes representações geométricas.",
+            "Decompor paralelogramos em triângulos e retângulos para auxiliar o cálculo de área.",
+            "Utilizar a equivalência entre áreas para resolver problemas."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Cálculo de área de figuras planas por decomposição - Parte 2",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA32",
+          "conteudo": "Área de losangos por decomposição em triângulos. Área de trapézios por decomposição em triângulos.",
+          "objetivos_aprendizagem": [
+            "Reconhecer losangos e trapézios em diferentes representações geométricas.",
+            "Decompor losangos e trapézios em polígonos conhecidos para auxiliar o cálculo de área.",
+            "Utilizar a equivalência entre áreas para resolver problemas."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo o cálculo de área de figuras planas",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA32",
+          "conteudo": "Área de uma região limitada por um paralelogramo. Decomposição de trapézios em triângulos e retângulos para auxiliar o cálculo de área.",
+          "objetivos_aprendizagem": [
+            "Decompor paralelogramos em triângulos e retângulos para auxiliar o cálculo de área.",
+            "Decompor losangos e trapézios em polígonos conhecidos para auxiliar o cálculo de área."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: cálculo de áreas com uso de expressões de cálculo",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Área de uma região limitada por quadriláteros (retângulo, quadrado, paralelogramo, losango e trapézio).",
+          "objetivos_aprendizagem": [
+            "Determinar a área de triângulos e quadriláteros utilizando decomposições e expressões de cálculo de triângulos e quadriláteros."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: cálculo de áreas por decomposição",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA32",
+          "conteudo": "Cálculo de área de quadriláteros (paralelogramo, losango e trapézio) por decomposição.",
+          "objetivos_aprendizagem": [
+            "Decompor paralelogramas em triângulos e retângulos para auxiliar o cálculo de área.",
+            "Decompor losangos e trapézios em polígonos conhecidos para auxiliar o cálculo de área.",
+            "Utilizar a equivalência entre áreas para resolver problemas."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: adição e subtração com números racionais - Aula complementar",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Resolução de problemas envolvendo adição e subtração com números racionais positivos na forma fracionária e decimal.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas com adição e subtração de números racionais positivos na forma fracionária.",
+            "Realizar operações de adição e subtração com números decimais utilizando procedimentos de cálculo."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: multiplicação e divisão com números racionais - Aula complementar",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA11",
+          "conteudo": "Estratégias de cálculo de multiplicação e divisão entre números racionais (forma decimal e fracionária) utilizando diversas estratégias e cálculos.",
+          "objetivos_aprendizagem": [
+            "Realizar operações de multiplicação e divisão entre números racionais (forma decimal e fracionária) utilizando diversas estratégias de cálculo."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: representação de polígonos no plano cartesiano - Aula complementar",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF06MA16",
+          "conteudo": "Representar um polígono no plano cartesiano com base nas coordenadas do seu vértice.",
+          "objetivos_aprendizagem": [
+            "Calcular as coordenadas dos vértices de um polígono a partir da multiplicação por um número inteiro."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: decomposição de áreas de figuras planas - Aula complementar",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA32",
+          "conteudo": "Decompor paralelogramos em triângulos e retângulos para auxiliar o cálculo de área.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: áreas de figuras planas - Aula complementar",
+          "aprendizagem_essencial": "AE8 - Resolver problemas de cálculo de áreas de figuras planas, por meio da decomposição em quadrados, retângulos e triângulos, utilizando a equivalência entre áreas e estabelecendo expressões de cálculos.",
+          "habilidade": "EF07MA31",
+          "conteudo": "Aplicar expressões para o cálculo da área de quadrados, retângulos, triângulos.",
+          "objetivos_aprendizagem": []
+        }
+      ]
+    },
+    "8º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Os números racionais no cotidiano",
+          "aprendizagem_essencial": "Reta numérica.",
+          "habilidade": "EF07MA10 EF07MA03",
+          "conteudo": "Reconhecimento dos números racionais no cotidiano.",
+          "objetivos_aprendizagem": [
+            "Reconhecer números positivos e negativos.",
+            "Reconhecer números racionais nas formas fracionária e decimal, relacionando essas duas formas de representação.",
+            "Associar números racionais a pontos na reta numérica."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Resolução de problemas envolvendo adição e subtração de números racionais",
+          "aprendizagem_essencial": "Reta numérica.",
+          "habilidade": "EF07MA10 EF07MA03",
+          "conteudo": "Adição e subtração de números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer números positivos e negativos.",
+            "Associar números racionais a pontos na reta numérica."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Resolução de problemas envolvendo multiplicação e divisão de números inteiros.",
+          "aprendizagem_essencial": "Reta numérica.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Multiplicação e divisão de números inteiros.",
+          "objetivos_aprendizagem": [
+            "Reconhecer números positivos e negativos.",
+            "Multiplicar e dividir números inteiros positivos e negativos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Resolução de problemas envolvendo adição, subtração, multiplicação e divisão de números racionais.",
+          "aprendizagem_essencial": "Adição e subtração de números racionais, multiplicação e divisão de números positivos e negativos.",
+          "habilidade": "EF07MA12 EF07MA03",
+          "conteudo": "Adição e subtração de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números positivos e negativos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: adição e subtração com números decimais.",
+          "aprendizagem_essencial": "Resolver problemas envolvendo adição, subtração e multiplicação de números positivos e negativos.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Adição e subtração com números decimais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração e multiplicação de números positivos e negativos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Resolução de problemas envolvendo multiplicação de números racionais.",
+          "aprendizagem_essencial": "Reconhecer números positivos e negativos.",
+          "habilidade": "EF07MA11",
+          "conteudo": "Multiplicação de números racionais.",
+          "objetivos_aprendizagem": [
+            "Multiplicar e dividir números racionais positivos e negativos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Resolução de problemas envolvendo divisão de números racionais - Parte 1",
+          "aprendizagem_essencial": "Reconhecer números positivos e negativos.",
+          "habilidade": "EF07MA11",
+          "conteudo": "Divisão de números racionais.",
+          "objetivos_aprendizagem": [
+            "Multiplicar e dividir números racionais positivos e negativos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo multiplicação e divisão de números racionais – Parte 2",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF07MA11 EF07MA12",
+          "conteudo": "Multiplicação e divisão de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicações e divisões com números racionais, nas formas fracionária e decimal."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: operações fundamentais com números racionais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF07MA11 EF07MA12",
+          "conteudo": "Adição, subtração, multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal)."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: multiplicação e divisão com números fracionários",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF07MA11",
+          "conteudo": "Multiplicação e divisão de números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicações e divisões com números racionais, na forma fracionária."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Situações do cotidiano envolvendo potências",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "",
+          "conteudo": "Compreensão do conceito de potência de um número racional com expoente natural.",
+          "objetivos_aprendizagem": [
+            "Relacionar potências com situações do cotidiano.",
+            "Compreender o conceito de potência de números racionais (positivos ou negativos) na forma fracionária, com expoente natural, a partir da ideia de multiplicação sucessiva."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Potências com base racional e expoente natural",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "",
+          "conteudo": "Compreensão do conceito de potência como multiplicação de fatores iguais.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de potência como multiplicação de fatores iguais.",
+            "Operações com potências de base racional e expoente natural."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Propriedades das potências com expoente natural",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "",
+          "conteudo": "Propriedades das potências com expoentes naturais.",
+          "objetivos_aprendizagem": [
+            "Compreender e aplicar as propriedades das potências com mesma base.",
+            "Simplificar expressões numéricas a partir das propriedades de potências."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas envolvendo potências – Parte 1",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Resolução de problemas envolvendo potências de expoente natural e suas propriedades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo potências e suas propriedades."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: Potenciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusivePotências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Resolução de problemas envolvendo potenciais de expoente natural.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo potências de expoentes naturais."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Potências com base racional e expoente inteiro",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Compreensão do conceito de potência de base racional e expoente inteiro (negativo).",
+          "objetivos_aprendizagem": [
+            "Relacionar potências de expoentes inteiros negativos com frações e números decimais."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Propriedades das potências com expoente inteiro",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Propriedades das potências com expoentes inteiros.",
+          "objetivos_aprendizagem": [
+            "Compreender e aplicar as propriedades das potências com mesma base.",
+            "Desenvolver estratégias para simplificar expressões numéricas com potências de expoentes naturais."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas envolvendo potências – Parte 2",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Resolução de problemas envolvendo potências e suas propriedades.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo potências de expoentes inteiros e suas propriedades."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: potências e suas propriedades",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Operações envolvendo potências de expoente inteiro.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de potência com expoente inteiro.",
+            "Efetuar cálculos com potências de expoentes inteiros positivos."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: propriedades da potenciação",
+          "aprendizagem_essencial": "AE1 - Resolver problemas que envolvam cálculos com números racionais, inclusive potências de expoentes inteiros, utilizando propriedades operatórias.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Operações envolvendo potências de expoente inteiro e operações com números racionais.",
+          "objetivos_aprendizagem": [
+            "Aplicar as propriedades das potências em expressões numéricas envolvendo números racionais."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Raízes quadradas no cotidiano",
+          "aprendizagem_essencial": "EF08MA01",
+          "habilidade": "EF08MA01",
+          "conteudo": "Raiz quadrada de números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o conceito de raiz quadrada.",
+            "Calcular o resultado de raízes quadradas a partir da relação inversa entre potenciação e radiciação."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Radiação com números racionais",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes com expoente fracionário e resolver problemas.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a operação de radiciação.",
+            "Calcular o resultado de raízes a partir da relação inversa entre potenciação e radiciação."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Raízes como potências de expoentes fracionários",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer potências com expoentes fracionários.",
+            "Representar uma raiz como potência de expoente fracionário."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas envolvendo radiciação com números racionais",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Aplicar propriedades dos radicais para calcular radiações com raízes racionais.",
+            "Calcular o resultado de radiações por meio de estratégias pessoais diversas (sem utilizar a decomposição em fatores primos)."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: radiciação",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a operação de radiciação.",
+            "Calcular o resultado de raízes a partir da relação inversa entre potência e radiciação."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Propriedades dos radicais",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Explorar propriedades elementares dos radicais.",
+            "Aplicar propriedades dos radicais para calcular radiações com raízes racionais."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Estratégia de cálculo para a radiciação",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Decomposição de um número natural em fatores primos.",
+          "objetivos_aprendizagem": [
+            "Decompor um número natural, escrevendo-o como um produto de potências de fatores primos.",
+            "Fatorar e decompor números naturais em fatores primos ao cálculo de raízes inteiras."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Problemas envolvendo estratégias de cálculo para a radiciação",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Decomposição de um número natural em fatores primos.",
+          "objetivos_aprendizagem": [
+            "Calcular o resultado de radiações por meio de decomposição do radicado em fatores primos."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: com números racionais",
+          "aprendizagem_essencial": "EF08MAO",
+          "habilidade": "AE2 - Utilizar a relação entre potênciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "conteudo": "Relações entre potênciação e radiciação.",
+          "objetivos_aprendizagem": [
+            "Compreender as relações inversas entre potênciação e radiciação.",
+            "Utilizar a decomposição de números racionais em fatores primos para simplificar radicais cujo resultado é uma raiz inteira."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: estratégias de cálculo envolvendo radiciação",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF08MAO",
+          "conteudo": "Fatoração como estratégia de cálculo para a radiciação.",
+          "objetivos_aprendizagem": [
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicias cujo resultado é uma raiz inteira."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: adição e subtração com números racionais",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF07MA12",
+          "conteudo": "Adição e subtração de números racionais positivos e negativos (nas formas fracionária e decimal).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição e subtração de números racionais positivos e negativos (nas formas fracionária e decimal)."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: multiplicação e divisão com números racionais",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF07MA11 EF07MA12",
+          "conteudo": "Multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal)."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: potências e suas propriedades",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF08MA01",
+          "conteudo": "Operações envolvendo potências de expoente inteiro.",
+          "objetivos_aprendizagem": [
+            "Compreender o conceito de potência com expoente inteiro.",
+            "Efetuar cálculos com potências de expoentes inteiros positivos.",
+            "Efetuar cálculos com potências de expoentes inteiros negativos."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: estratégias de cálculo para radiciação",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF08MA0",
+          "conteudo": "Decomposição de um número natural em fatores primos.",
+          "objetivos_aprendizagem": [
+            "Decompor um número natural, escrevendo-o como um produto de fatores primos.",
+            "Associar a decomposição dos números naturais em fatores primos."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: operações com números racionais",
+          "aprendizagem_essencial": "AE2 - Utilizar a relação entre potenciação e radiciação para representar raízes como potências de expoente fracionário e resolver problemas.",
+          "habilidade": "EF07MA11 EF07MA12",
+          "conteudo": "Adição, subtração, multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo adição, subtração, multiplicação e divisão de números racionais positivos e negativos (nas formas fracionária e decimal)."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Introdução ao cálculo algébrico",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF07MA1",
+          "conteudo": "Introdução à linguagem algébrica.\nReconhecimento da variável como representação de uma grandeza.\nLeitura e interpretação de expressões algébricas simples, associadas à área e perímetro de polígonos.",
+          "objetivos_aprendizagem": [
+            "Explorar a linguagem algébrica na representação de perímetros e áreas de quadrados e retângulos."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "O uso de letras para representar números",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF07MA1",
+          "conteudo": "Uso de letras para representar números racionais em situações do cotidiano.\nInterpretação de expressões algébricas.\nRepresentação de padrões e relações entre grandezas, utilizando expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Compreender o uso de letras como variáveis em expressões algébricas.",
+            "Representar situações do cotidiano utilizando a linguagem algébrica.",
+            "Identificar padrões e relações entre grandezas por meio de expressões algébricas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Valor numérico de uma expressão algébrica",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Substituição de variáveis por valores numéricos.\nCálculo do valor numérico de expressões utilizando as propriedades das operações.\nOperações com números racionais.",
+          "objetivos_aprendizagem": [
+            "Compreender o processo de substituição de variáveis por números em expressões algébricas.",
+            "Calcular o valor numérico de expressões utilizando as propriedades das operações."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Resolução de problemas envolvendo o valor numérico de expressões algébricas",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Cálculo do valor numérico de expressões utilizando as propriedades das operações.\nOperações com números racionais.",
+          "objetivos_aprendizagem": [
+            "Calcular o valor numérico de expressões utilizando as propriedades das operações.",
+            "Resolver problemas envolvendo expressões algébricas e as operações com números racionais."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: Expressão algébrica",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Cálculo do valor numérico de expressões utilizando as propriedades das operações.\nOperações com números racionais.",
+          "objetivos_aprendizagem": [
+            "Calcular o valor numérico de expressões utilizando as propriedades das operações.",
+            "Resolver expressões algébricas com números racionais."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Simplificação de expressões algébricas – Parte 1",
+          "aprendizagem_essencial": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Termos semelhantes em expressões algébricas.\nAdição e subtração de expressões algébricas.\nEfetuar a adição e subtração de figuras geométricas.",
+          "objetivos_aprendizagem": [
+            "Calcular o valor numérico dessas expressões e verificar os resultados."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Simplificação de expressões algébricas - Parte 2",
+          "aprendizagem_essencial": "EF08MA06",
+          "habilidade": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "conteudo": "Multiplicação de expressões algébricas por números racionais.",
+          "objetivos_aprendizagem": [
+            "Efetuar a multiplicação de expressões algébricas por números racionais.",
+            "Simplificar expressões algébricas, incluindo o uso das propriedades operatórias.",
+            "Verificar resultados por meio do cálculo do valor numérico."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo a simplificação de expressões algébricas",
+          "aprendizagem_essencial": "EF08MA06",
+          "habilidade": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "conteudo": "Adição e subtração de expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Resolução de problemas envolvendo a adição e subtração de expressões algébricas.",
+            "Resolução de problemas envolvendo a multiplicação de expressões algébricas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: Expressões algébricas e noções de algebra",
+          "aprendizagem_essencial": "EF08MA06",
+          "habilidade": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "conteudo": "Cálculo do valor numérico de expressões utilizando as propriedades das operações.",
+          "objetivos_aprendizagem": [
+            "Efetuar a adição e subtração de expressões algébricas.",
+            "Efetuar a multiplicação de expressões algébricas por números racionais.",
+            "Resolver expressões algébricas envolvendo operações com números racionais e as propriedades operatórias."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: Simplificação de expressões algébricas",
+          "aprendizagem_essencial": "EF08MA06",
+          "habilidade": "AE3 - Calcular o valor numérico de expressões algébricas, utilizando as propriedades das operações.",
+          "conteudo": "Adição e subtração de expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Efetuar a adição e subtração de expressões algébricas.",
+            "Efetuar a multiplicação de expressões algébricas por números racionais."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "A relação de igualdade",
+          "aprendizagem_essencial": "EF06MA14",
+          "habilidade": "Compreender a ideia de equivalência entre os dois membros de uma igualdade.",
+          "conteudo": "Operações com expressões algébricas (adição, subtração, multiplicação e divisão).",
+          "objetivos_aprendizagem": [
+            "Reconhecer a propriedade que a igualdade se mantém ao mesmo operar com os dois membros.",
+            "Resolver situações-problema envolvendo valores desconhecidos com base na equivalência.",
+            "Representação de valores desconhecidos em sentenças matemáticas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Estratégias de resolução de equações do 1° grau",
+          "aprendizagem_essencial": "EF07MA18",
+          "habilidade": "Aplicar estratégias de resolução de equações utilizando as propriedades da igualdade.",
+          "conteudo": "Resolução de equações do 1° grau com uma incógnita.",
+          "objetivos_aprendizagem": [
+            "Verificar se um valor é ou não solução de uma equação do 1° grau."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Modelagem algébrica de problemas envolvendo equações polinomiais do 1° grau – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1° grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Tradução de situações reais para a linguagem algébrica das equações polinomiais do 1° grau. Construção de equações do 1° grau e análise dos resultados.",
+          "objetivos_aprendizagem": [
+            "Traduzir situações do cotidiano para equações polinomiais do 1° grau.",
+            "Resolver questões construídas a partir da modelagem algébrica.",
+            "Interpretar os resultados obtidos para descrever a resposta que satisfaça a situação-problema."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Modelagem algébrica de problemas envolvendo equações polinomiais do 1° grau – Parte 2",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1° grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Resolução de problemas envolvendo equações polinomiais do 1° grau com uma incógnita.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo equações polinomiais do 1° grau com uma incógnita."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: Problemas envolvendo equações polinomiais do 1° grau",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1° grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Estratégias de resolução de equações polinomiais do 1° grau.",
+          "objetivos_aprendizagem": [
+            "Resolver equações polinomiais do 1° grau com uma incógnita."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Resolução de equações polinomiais do 1° grau com duas incógnitas.",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1° grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF08MAO",
+          "conteudo": "Equações polinomiais do 1° grau com duas incógnitas.",
+          "objectivos_aprendizagem": [
+            "Compreender o conceito de equação polinomial do 1° grau com duas incógnitas.",
+            "Representar situações por meio de equações com duas variáveis.",
+            "Determinar pares de soluções possíveis para uma equação polinomial do 1° grau com duas incógnitas, atendendo às condições do problema."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Representação de equações polinomiais do 1° grau com duas incógnitas no plano cartesiano",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1° grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF08MAO",
+          "conteudo": "Representação graficamente equações polinomiais do 1° grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Compreender que pares ordenados que satisfazem a equação formam uma reta.",
+            "Relacionar pares ordenados do plano cartesiano com soluções de equações do 1° grau com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Modelagem algébrica de problemas envolvendo equações do 1º grau com duas incógnitas",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1º grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF08MAO",
+          "conteudo": "Resolução de problemas envolvendo equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo equações do 1º grau com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: Resolução de equações polinomiais de 1º grau",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1º grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF07MA18",
+          "conteudo": "Equações do 1º grau com uma incógnita.",
+          "objetivos_aprendizagem": [
+            "Resolver equações do 1º grau com uma incógnita, utilizando as propriedades da igualdade.",
+            "Representar graficamente equações do 1º grau com duas incógnitas.",
+            "Compreender que pares ordenados que satisfazem a equação formam uma reta."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Resolução de problemas envolvendo equações do 1º grau com duas incógnitas – Parte 1",
+          "aprendizagem_essencial": "AE4 - Resolver problemas que possam ser representados por equações polinomiais do 1º grau, utilizando as propriedades da igualdade, e interpretá-los geometricamente.",
+          "habilidade": "EF07MA18 EF08MAO",
+          "conteudo": "Equações polinomiais do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Representar situações por meio de equações com duas variáveis.",
+            "Determinar pares de soluções possíveis para um equação polinomial do 1º grau com duas incógnitas, atendendo às condições de problema."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Explorando variáveis",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA06 EF08MA07",
+          "conteudo": "Cálculo do valor numérico de expressões algébricas com duas variáveis.",
+          "objetivos_aprendizagem": [
+            "Determinar o valor numérico de expressões algébricas com duas variáveis.",
+            "Identificar variáveis em contextos reais para representá-los por meio de expressões algébricas.",
+            "Utilizar representações como auxiliares mentais, em contextos associadas a linguagem algébrica."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Sistemas de equações do 1º grau",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Representação gráfica de equações no plano cartesiano.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente sistemas de equações do 1º grau com duas incógnitas.",
+            "Interpretar gráfico de ponto de interseção como solução do sistema."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resolução algébrica de sistemas de equações",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Sistemas de equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Aplicar o método da adição para resolver sistemas de equações do 1º grau com duas incógnitas."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas envolvendo sistemas de equações do 1º grau - Parte 1",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Resolução de problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+            "Modelar situações-problema envolvendo sistemas de equações do 1º grau."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: Representação de sistemas de equações do 1º grau com duas incógnitas no plano cartesiano",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Sistemas de equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente sistemas de equações do 1º grau com duas incógnitas.",
+            "Identificar o ponto de interseção como solução do sistema."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Resolução algébrica de sistemas de equações - Parte 2",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Sistemas de equações lineares do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Construir sistemas de equações do 1º grau com duas incógnitas a partir de situações-problema contextualizadas.",
+            "Resolver sistemas de equações do 1º grau com duas incógnitas utilizando o método da substituição."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Resolução algébrica de sistemas de equações - Parte 3",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Sistemas de equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Construir sistemas de equações do 1º grau com duas incógnitas a partir de situações-problema contextualizadas.",
+            "Interpretação das soluções obtidas no contexto dos problemas propostos."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo sistemas de equações do 1º grau - Parte 2",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Resolução de problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+            "Modelar situações-problema envolvendo sistemas de equações do 1º grau, com foco em contextos da educação financeira."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: Sistemas de equações do 1º grau",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando a representação gráfica no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Representação gráfica de equações no plano cartesiano.\nInterpretação do ponto de interseção como solução do sistema.\nMétodo de adição e da substituição como estratégia algébrica de resolução.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente sistemas de equações do 1º grau com duas incógnitas.",
+            "Identificar o ponto de interseção como solução do sistema.",
+            "Resolver sistemas de equações do 1º grau com duas incógnitas utilizando o método da adição ou da substituição."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: Resolução de problemas envolvendo equações do 1º grau com duas incógnitas – Parte 2",
+          "aprendizagem_essencial": "AE5 - Resolver problemas com sistemas de equações do 1º grau com duas incógnitas, utilizando o método da adição ou da substituição.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Método de adição e da substituição como estratégia algébrica de resolução de sistemas lineares do 1º grau com duas incógnitas.",
+          "objetivos_aprendizagem": [
+            "Resolver sistemas de equações do 1º grau com duas incógnitas utilizando o método da adição ou da substituição."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: Valor numérico de expressões algébricas – Aula complementar",
+          "aprendizagem_essencial": "EF5 - Resolver problemas envolvendo o cálculo do valor numérico de expressões algébricas.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Substituição de variáveis por valores numéricos.\nCálculo do valor numérico de expressões utilizando as propriedades das operações.\nResolver expressões numéricas envolvendo as operações com números racionais e as propriedades operatórias.",
+          "objetivos_aprendizagem": [
+            "Compreender o processo de substituição de variáveis por números em expressões algébricas.",
+            "Calcular o valor numérico de expressões utilizando as propriedades das operações.",
+            "Resolver expressões numéricas envolvidos as operações com números racionais e as propriedades operatórias."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: Simplificação de expressões algébricas – Aula complementar",
+          "aprendizagem_essencial": "EF5 - Resolver problemas envolvendo a adição e subtração de expressões algébricas.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Adição e subtração de expressões algébricas.\nMultiplicação de expressões algébricas por números racionais.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a adição e subtração de expressões algébricas.",
+            "Resolver problemas envolvendo a multiplicação de expressões algébricas por números racionais."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: Resolução de equações polinomiais de 1º grau – Aula complementar",
+          "aprendizagem_essencial": "EF5 - Resolver equações de 1º grau com uma incógnita, utilizando as propriedades da igualdade.",
+          "habilidade": "EF07MA18 EF08MA07",
+          "conteudo": "Equações de 1º grau com uma incógnita.\nEstratégias de resolução de equações do 1º grau.\nRepresentar graficamente equações do 1º grau com duas incógnitas.\nCompreender que os pares ordenados que satisfazem a equação formam uma reta.",
+          "objetivos_aprendizagem": [
+            "Resolver equações de 1º grau com uma incógnita, utilizando as propriedades da igualdade.",
+            "Representar graficamente equações do 1º grau com duas incógnitas.",
+            "Compreender que os pares ordenados que satisfazem a equação formam uma reta."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: Sistemas de equações do 1º grau – Aula complementar",
+          "aprendizagem_essencial": "Representação gráfica de equações no plano cartesiano.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Interpretação do ponto de interseção como solução do sistema. Resolução de medidas de substituição como estratégia.",
+          "objetivos_aprendizagem": [
+            "Representar graficamente sistemas de equações do 1º grau com duas incógnitas.",
+            "Identificar o ponto de interseção como solução ao sistema.",
+            "Resolver sistemas de equações do 1º grau com duas incógnitas utilizando o método de adição ou a substituição."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: Resolução de problemas envolvendo equações do 1º grau com duas incógnitas – Parte 3 – Aula complementar",
+          "aprendizagem_essencial": "Resolução de problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+          "habilidade": "EF08MA08",
+          "conteudo": "Modelagem algébrica de problemas envolvendo sistemas de equações do 1º grau.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo sistemas de equações do 1º grau com duas incógnitas.",
+            "Modelar situações-problema envolvendo sistemas de equações do 1º grau, com foco em contextos da educação financeira."
+          ]
+        }
+      ]
+    },
+    "9º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Reconhecimento e comparação de números racionais",
+          "aprendizagem_essencial": "Comparação entre números racionais (forma fracionária e decimal).",
+          "habilidade": "EF09MA04",
+          "conteudo": "Reconhecer números racionais na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer números positivos e negativos.",
+            "Reconhecer números racionais nas formas fracionária e decimal, relacionando essas formas de representação.",
+            "Associar números racionais a pontos na reta numérica.",
+            "Comparar números racionais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Multiplicação com números racionais",
+          "aprendizagem_essencial": "Multiplicação com números racionais positivos e negativos (inteiros, frações e decimais).",
+          "habilidade": "EF09MA04",
+          "conteudo": "Resolver problemas relacionados à multiplicação de números racionais (positivos e negativos).",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Potenciação com números racionais",
+          "aprendizagem_essencial": "Multiplicação com números racionais positivos e negativos (inteiros, frações e decimais).",
+          "habilidade": "EF09MA04",
+          "conteudo": "Compreender a operação de potenciação.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à potenciação de números racionais, sem fazer uso das propriedades da potenciação."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Problemas de potenciação com números racionais",
+          "aprendizagem_essencial": "Multiplicação e potenciação com números racionais positivos e negativos (inteiros, frações e decimais).",
+          "habilidade": "EF09MA04",
+          "conteudo": "Resolver problemas relacionados à multiplicação e potenciação de números racionais: nas formas decimal racionada (números positivos e números negativos).",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: Multiplicação e potenciação com números racionais",
+          "aprendizagem_essencial": "Resolver problemas relacionados à multiplicação e potenciação de números racionais: nas formas decimal racionada (números positivos e números negativos).",
+          "habilidade": "EF09MA04",
+          "conteudo": "Reconhecer propriedades da potenciação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Propriedades da potenciação – Parte 1",
+          "aprendizagem_essencial": "Reconhecer propriedades da potenciação.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Reconhecer propriedades da potenciação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Propriedades da potenciação – Parte 2",
+          "aprendizagem_essencial": "Reconhecer propriedades da potenciação.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Reconhecer propriedades da potenciação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Problemas envolvendo propriedades da potenciação",
+          "aprendizagem_essencial": "Resolver problemas envolvendo cálculos de potenciação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Propriedades da potenciação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: Potenciação com números racionais",
+          "aprendizagem_essencial": "Resolver problemas envolvendo cálculos de potenciação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Propriedades da potenciação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: Propriedades da potenciação",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Potenciação com números racionais positivos e negativos (inteiros, frações e decimais).",
+          "objetivos_aprendizagem": [
+            "Reconhecer propriedades da potenciação.",
+            "Resolver problemas relacionados à potenciação de números racionais, utilizando, propriedades operatórias."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Radiciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a operação de radiciação.",
+            "Calcular o resultado de raízes quadradas e cúbicas a partir da relação inversa entre potenciação e radiação."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Raízes como potências de expoentes fracionários",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer potências com expoentes fracionários.",
+            "Representar uma raiz como potência de expoente fracionário."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Propriedades dos radicais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Explorar propriedades elementares dos radicais.",
+            "Aplicar propriedades dos radicais para calcular radicações com raízes racionais."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas envolvendo radiciação com números racionais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Aplicar propriedades dos radicais para calcular radicações com raízes racionais.",
+            "Calcular o resultado de radicações por meio de estratégias pessoais diversas (sem utilizar a decomposição em fatores primos)."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: Radiciação e propriedades dos radicais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Radiciação com números racionais.",
+          "objetivos_aprendizagem": [
+            "Aplicar propriedades dos radicais para calcular radicações com raízes racionais.",
+            "Calcular o resultado de radicações por meio de estratégias pessoais diversas (sem utilizar a decomposição em fatores primos)."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Estratégias de cálculo para a radiciação – Parte 1",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiciação com números racionais, utilizando os propriedades operatórias.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Decomposição de um número natural em fatores primos.",
+          "objetivos_aprendizagem": [
+            "Associar a decomposição de números naturais com fatores primos.",
+            "Calcular o resultado de radicações em função da decomposição em fatores primos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Estratégias de cálculo para radiação - Parte 2",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de radiação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03, EF09MA04",
+          "conteudo": "Decomposição de um número natural em fatores primos. Fatoração como estratégia de cálculo para a radiação. Simplificação de radicais.",
+          "objetivos_aprendizagem": [
+            "Calcular o resultado de radiações por meio da decomposição do radicando em fatores primos.",
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicais não racionais."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Problemas envolvendo estratégias de cálculo para radiação",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de radiação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03, EF09MA04",
+          "conteudo": "Decomposição de um número natural em fatores primos. Fatoração como estratégia de cálculo para a radiação. Simplificação de radicais.",
+          "objetivos_aprendizagem": [
+            "Calcular o resultado de radiações por meio da decomposição do radicando em fatores primos.",
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicais não racionais."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação: radiação e números racionais",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03, EF09MA04",
+          "conteudo": "Relações entre potenciação e radiação. Fatoração como estratégia de cálculo para a radiação. Resolução de problemas envolvendo radicações diversas.",
+          "objetivos_aprendizagem": [
+            "Calcular o resultado de radiações por meio da decomposição do radicando em fatores primos.",
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicais cujo resultado é uma raiz inteira."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Estratégias de cálculo envolvendo radiação",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo cálculos de potenciação e radiação com números racionais, utilizando as propriedades operatórias.",
+          "habilidade": "EF09MA03, EF09MA04",
+          "conteudo": "Fatoração como estratégia de cálculo para a radiação. Aula de problemas envolvendo radicação de números por meio de estratégias diversas.",
+          "objetivos_aprendizagem": [
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicais cujo resultado é uma raiz inteira."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Características dos triângulos",
+          "aprendizagem_essencial": "AE1 - Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes, utilizando-as para resolver problemas.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Classificação dos triângulos quanto aos lados e ângulos. Triângulos formados por retas paralelas cortadas por uma transversal.",
+          "objetivos_aprendizagem": [
+            "Reconhecer características dos triângulos e classifica-los quanto aos lados e ângulos."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Explorando triângulos",
+          "aprendizagem_essencial": "AE2 - Reconhecer as condições necessárias e suficientes para que dois triângulos sejam iguais.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Semelhança de triângulos: definição e propriedades. Estudo de condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+          "objetivos_aprendizagem": [
+            "Explorar o conceito de semelhança de triângulos por meio de movimentações no plano."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Descobrindo os critérios de semelhança de triângulos",
+          "aprendizagem_essencial": "AE2 - Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes, utilizando-as para resolver problemas.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Critérios de semelhança de triângulos explícitos, a partir de dois triângulos.",
+          "objetivos_aprendizagem": [
+            "Identificar e aplicar os critérios de semelhança de triângulos para resolver problemas."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas envolvendo a semelhança de triângulos - Parte 1",
+          "aprendizagem_essencial": "Resolver problemas utilizando a semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Determinação de medidas desconhecidas em triângulos semelhantes explícitos, a partir da proporcionalidade.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas utilizando a semelhança de triângulos."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: Semelhança de triângulos - Parte 1",
+          "aprendizagem_essencial": "Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+            "Determinar medidas desconhecidas em triângulos semelhantes explícitos."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Modelagem geométrica com triângulos semelhantes",
+          "aprendizagem_essencial": "Modelar e resolver situações-problema por meio da semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Modelagem geométrica e resolução de problemas envolvendo triângulos semelhantes.",
+          "objetivos_aprendizagem": [
+            "Modelar e resolver situações-problema por meio da semelhança de triângulos."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Semelhança de triângulos e o teorema de Tales",
+          "aprendizagem_essencial": "Explorar a semelhança de triângulos (incluindo os casos de triângulos justapostos) e aplicar o teorema de Tales em situações que envolvem retas paralelas cortadas por transversais.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Aplicação da semelhança de triângulos (em casos de triângulos justapostos). Compreensão do teorema de Tales a partir da semelhança de triângulos.",
+          "objetivos_aprendizagem": [
+            "Explorar a semelhança de triângulos (incluindo os casos de triângulos justapostos) e aplicar o teorema de Tales em situações que envolvem retas paralelas cortadas por transversais."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo a semelhança de triângulos - Parte 2",
+          "aprendizagem_essencial": "Resolver problemas por meio da semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Modelagem e resolução de situações-problema por meio da semelhança de triângulos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas por meio da semelhança de triângulos."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: Semelhança de triângulos.",
+          "aprendizagem_essencial": "Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Critérios de semelhança de triângulos. Aplicar o teorema de Tales em situações que envolvem retas paralelas cortadas por transversais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelhantes.",
+            "Aplicar o teorema de Tales em situações que envolvem retas paralelas cortadas por transversais."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: Semelhança de triângulos - Parte 2",
+          "aprendizagem_essencial": "Resolver problemas utilizando a semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Semelhança de triângulos: resolução de problemas envolvendo esses conceitos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas utilizando a semelhança de triângulos."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: multiplicação e potenciação com números racionais",
+          "aprendizagem_essencial": "Resolver problemas relacionados à multiplicação de números racionais (positivos e negativos).",
+          "habilidade": "EF09MA03 EF09MA04",
+          "conteudo": "Multiplicação e potenciação com números racionais positivos e negativos (inteiros, frações e decimais).",
+          "objetivos_aprendizagem": [
+            "Resolver problemas relacionados à multiplicação de números racionais (positivos e negativos).",
+            "Reconhecer propriedades da potenciação.",
+            "Resolver problemas relacionados à potenciação de números racionais, utilizando, inclusive, propriedades operatórias."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: radiação com números racionais",
+          "aprendizagem_essencial": "Calcular o resultado de radiações por meio da decomposição do radicado em fatores primos.",
+          "habilidade": "EF09MA03 EF09MA04",
+          "conteudo": "Relações entre potenciação e radiação. Fatoração como estratégia de cálculo para a radiação.",
+          "objetivos_aprendizagem": [
+            "Calcular o resultado de radiações por meio da decomposição do radicado em fatores primos.",
+            "Utilizar a decomposição dos números naturais em fatores primos para simplificar radicais cujo resultado é uma raiz inteira."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: potenciação e radiação com números racionais",
+          "aprendizagem_essencial": "Efetuar cálculos que envolvam potenciação e radiação de números racionais por meio de estratégias diversas, fazendo uso de propriedades operatórias.",
+          "habilidade": "EF09MA03 EF09MA04",
+          "conteudo": "Cálculos envolvendo potenciação e radiação de números racionais.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de verificação: triângulos semelhantes",
+          "aprendizagem_essencial": "Modelar e resolver situações-problema por meio da semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Modelagem geométrica e resolução de problemas envolvendo triângulos semelhantes.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: Teorema de Tales",
+          "aprendizagem_essencial": "Identificar e aplicar os critérios de semelhança de triângulos para resolver problemas geométricos e calcular medidas desconhecidas, em triângulos implícitos (necessário dispor de modelagem geométrica).",
+          "habilidade": "EF09MA24*",
+          "conteudo": "Critérios de semelhança de triângulos. Resolução de problemas envolvendo a semelhança de triângulos.",
+          "objetivos_aprendizagem": []
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Reconhecer relações métricas do triângulo retângulo, entre eles o teorema de Pitágoras, utilizando a semelhança de triângulos.",
+          "aprendizagem_essencial": "AE3 - Reconhecer relações métricas do triângulo retângulo.",
+          "habilidade": "EF09MA13 - Demonstrar relações métricas do triângulo retângulo.",
+          "conteudo": "Geometria",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Modelagem geométrica com semelhança de triângulos retângulos",
+          "aprendizagem_essencial": "AE3 - Reconhecer relações métricas do triângulo retângulo, entre elas o teorema de Pitágoras, utilizando, inclusive, a semelhança de triângulos.",
+          "habilidade": "EF09MA12",
+          "conteudo": "Modelagem geométrica com triângulos retângulos.",
+          "objetivos_aprendizagem": [
+            "Interpretar situações do cotidiano que podem ser modeladas por triângulos retângulos.",
+            "Aplicar a semelhança de triângulos retângulos para resolver problemas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta.",
+          "habilidade": "EF09MA02 - Reconhecer uma unidade de comprimento.",
+          "conteudo": "Números.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Estimativa da localização na reta numérica de números irracionais.",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica.",
+          "habilidade": "EF09MA04 - Resolver e elaborar problemas com números reais.",
+          "conteudo": "Números.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Revisão: Relações métricas no triângulo retângulo",
+          "aprendizagem_essencial": "AE3 - Reconhecer relações métricas do triângulo retângulo a partir da semelhança de triângulos.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Relações métricas no triângulo retângulo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer relações métricas no triângulo retângulo a partir da semelhança de triângulos.",
+            "Aplicar relações métricas no triângulo retângulo em triângulos explícitos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O teorema de Pitágoras",
+          "aprendizagem_essencial": "AE3 - Reconhecer relações métricas do triângulo retângulo, entre elas o teorema de Pitágoras, utilizando, inclusive, a semelhança de triângulos.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Demonstração do teorema de Pitágoras por semelhança de triângulos.",
+          "objetivos_aprendizagem": [
+            "Aplicar diretamente o teorema para resolver problemas geométricos envolvendo triângulos retângulos.",
+            "Utilizar a raiz quadrada como operação inversa da potência de base 2 para encontrar medidas desconhecidas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Modelagem geométrica com triângulos retângulos e teorema de Pitágoras",
+          "aprendizagem_essencial": "AE4 - Resolver problemas com a aplicação do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Modelagem geométrica com triângulos retângulos. Aplicação do teorema de Pitágoras em situações reais. Relação entre potência e radiciação no contexto da resolução de problemas.",
+          "objetivos_aprendizagem": [
+            "Identificar triângulos retângulos implícitos em situações-problema do cotidiano.",
+            "Representar geometricamente situações-problema por meio de esboços e construções.",
+            "Aplicar o teorema de Pitágoras para resolver problemas, utilizando a raiz quadrada como operação inversa da potência."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Resolução de problemas envolvendo o teorema de Pitágoras",
+          "aprendizagem_essencial": "AE4 - Resolver problemas com a aplicação do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Aplicação do teorema de Pitágoras em situações reais. Relação entre potência e radiciação no contexto da resolução de problemas.",
+          "objetivos_aprendizagem": [
+            "Aplicar o teorema de Pitágoras para resolver problemas, utilizando a raiz quadrada como operação inversa da potência."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aula de verificação: relações métricas no triângulo retângulo e teorema de Pitágoras",
+          "aprendizagem_essencial": "AE4 - Resolver problemas com a aplicação do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Semelhança de triângulos e proporção entre as medidas dos lados dos triângulos. Aplicação do teorema de Pitágoras em problemas.",
+          "objetivos_aprendizagem": [
+            "Aplicar a semelhança de triângulos retângulos para resolver problemas.",
+            "Aplicar o teorema de Pitágoras para resolver problemas, utilizando a raiz quadrada como operação inversa da potência."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Revisão: Teorema de Pitágoras",
+          "aprendizagem_essencial": "AE4 - Resolver problemas com a aplicação do teorema de Pitágoras.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Relações métricas no triângulo retângulo. Teorema de Pitágoras.",
+          "objetivos_aprendizagem": [
+            "Utilizar o teorema de Pitágoras para determinar medidas desconhecidas em triângulos explícitos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Números racionais infinitos",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF07MA10",
+          "conteudo": "Densidade dos números racionais na reta numérica. Equivalência entre frações de diversos denominadores.",
+          "objetivos_aprendizagem": [
+            "Comparar e ordenar números racionais em diferentes representações.",
+            "Reconhecer que entre dois números racionais existem infinitos outros.",
+            "Estabelecer relações de equivalência entre frações com diferentes denominadores."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Frações geratrizes de uma dízima periódica",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF08MA05",
+          "conteudo": "Dízimas periódicas como representação de número racional. Análise e manipulação de frações para obtenção da fração geratriz.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que uma dízima periódica representa um número racional.",
+            "Explorar estratégias para obter a fração geratriz a partir de uma dízima periódica.",
+            "Identificar números racionais: multiplicação, divisão e equivalência de frações."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "O teorema de Pitágoras e resultados não racionais",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF09MA01",
+          "conteudo": "• Aplicação do teorema de Pitágoras em contextos geométricos.\n• Reconhecimento de números não racionais como resultados de medidas.\n• Utilização de pitágoras e radicais quadrados no conjunto dos números reais (sem definir este conjunto neste momento).",
+          "objetivos_aprendizagem": [
+            "Reconhecer que existem comprimentos obtidos por meio do teorema de Pitágoras que não são expressos por números racionais.",
+            "Aplicar o teorema de Pitágoras em situações que envolvem medidas reais, incluindo resultados irracionais.",
+            "Interpretar resultados com raízes quadradas não exatas como números irracionais e aproximá-los."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Resolução de problemas com raízes não racionais",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF09MA01",
+          "conteudo": "• Aplicação do teorema de Pitágoras em contextos geométricos.\n• Reconhecimento de números não racionais como resultados de medidas.",
+          "objetivos_aprendizagem": [
+            "Reconhecer existem comprimentos obtidos por meio do teorema de Pitágoras não são expressos por números racionais.",
+            "Aplicar o teorema de Pitágoras em situações que envolvem medidas reais, incluindo resultados irracionais."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Revisão: Dízimas periódicas",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF08MA05",
+          "conteudo": "• Dízimas periódicas como representação decimal de números racionais.\n• Estratégias de manipulação de frações para obtenção da fração geratriz.\n• Operações com números racionais: multiplicação, divisão e equivalência de frações.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que uma dízima periódica representa um número racional.",
+            "Explorar estratégias para obter a fração geratriz de uma dízima periódica, sem o uso de equações."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "O conjunto dos números irracionais",
+          "aprendizagem_essencial": "AE5 - Reconhecer que existem segmentos de reta cujo comprimento não é expresso por número racional.",
+          "habilidade": "EF09MA02",
+          "conteudo": "• Definição e características dos números irracionais.\n• Diferença entre números racionais e irracionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a representação decimal infinita e não periódica de números irracionais.",
+            "Estimar valores aproximados de números irracionais em diversos contextos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Números irracionais na reta numérica",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica.",
+          "habilidade": "EF09MA02",
+          "conteudo": "• Representação de números racionais e irracionais na reta numérica com base em aproximações decimais.\n• Comparar números irracionais utilizando a reta numérica como referência.\n• Desenvolver estratégia para estimar a posição de números irracionais na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resolução de problemas com números irracionais",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Resolução de problemas com números irracionais em contextos geométricos e cotidianos. Aproximação decimal de raizes quadradas não exatas e o número π para fins de cálculo. Justificativa e interpretação de soluções envolvendo estimativas e localização na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Aplicar estratégias de resolução de problemas que envolvam números irracionais, utilizando aproximações decimais.",
+            "Interpretar e justificar soluções com base na localização e comparação de números irracionais na reta numérica.",
+            "Resolver situações contextualizadas envolvendo o Teorema de Pitágoras e medidas expressas por números irracionais."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Aula de verificação Números irracionais e dízimas periódicas",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Dízimas periódicas como representação decimal de números racionais. Estratégias de manipulação de frações para obtenção da fração geratriz. Representação de números racionais e irracionais na reta numérica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que uma dízima periódica representa um número racional.",
+            "Explorar estratégias para obter a fração geratriz de uma dízima periódica, sem o uso de equações.",
+            "Representar números racionais e irracionais na reta numérica com base em aproximações decimais."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Revisão: Números irracionais",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Definição e características dos números irracionais. Diferencia entre números racionais e irracionais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pelos números racionais e irracionais.",
+            "Identificar e utilizar diferentes tipos de números reais em situações contextuais.",
+            "Compreender, de forma intuitiva, a ideia de intervalo."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "O conjunto dos números reais",
+          "aprendizagem_essencial": "AE6 - Estimar a localização na reta numérica de números irracionais, reconhecendo que possuem representação decimal infinita e não periódica.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Composição do conjunto dos números reais: naturais, inteiros, racionais e irracionais. Presença dos números reais em situações reais.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que o conjunto dos números reais é formado pelos números racionais e irracionais.",
+            "Identificar e utilizar diferentes tipos de números reais em situações contextuais.",
+            "Compreender, de forma intuitiva, a ideia de intervalo."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Operações com números reais – Parte 1",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Representação de números reais na reta numérica. Estimativas e comparações entre números reais em diferentes contextos.",
+          "objetivos_aprendizagem": [
+            "Representar números reais na reta numérica, utilizando aproximações.",
+            "Interpretar e comparar números reais com base em sua posição na reta numérica."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Operações com números reais – Parte 2",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Operações com números reais: adição, subtração, multiplicação, divisão, potenciação e radiciação.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam diferentes operações com números reais.",
+            "Utilizar os conceitos de números reais, voltando-se para o uso de calculadora, em situações reais."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resolução de problemas com números reais",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Operações com números reais: adição, subtração, multiplicação, divisão, potenciação e radiciação.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam operações com números reais, inclusive potências e raízes."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Revisão: Relações entre potenciação e radiciação.",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF09MA03",
+          "conteudo": "Relação entre potenciação e radiação com expoentes fracionários.",
+          "objetivos_aprendizagem": [
+            "Efetuar cálculos com números reais, utilizando potências com expoentes fracionários e raízes quadradas e cúbicas."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Expressões algébricas – números reais – Parte 1",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Substituição de valores reais em expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvam o cálculo do valor numérico de expressões algébricas."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Expressões algébricas – números reais – Parte 2",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Substituição de valores reais em expressões algébricas com potências e raízes.",
+          "objetivos_aprendizagem": [
+            "Utilizar as propriedades das operações fundamentais para interpretar e resolver expressões inversas e radiciação."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Resolução de problemas envolvendo números reais e expressões algébricas",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Substituição de valores reais em expressões algébricas.",
+          "objetivos_aprendizagem": [
+            "Resolver e elaborar problemas que envolvam o cálculo do valor de expressões algébricas com potências e raízes."
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Aula de verificação: Números reais e expressões algébricas",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF09MA04, EF08MA06",
+          "conteudo": "Representar números reais na reta numérica, realizando aproximações.",
+          "objetivos_aprendizagem": [
+            "Efetuar cálculos com números reais e expressões algébricas."
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Revisão: Expressões algébricas",
+          "aprendizagem_essencial": "AE7 - Resolver problemas envolvendo os números reais, realizando operações e representando esses números na reta numérica.",
+          "habilidade": "EF08MA06",
+          "conteudo": "Cálculo do valor numérico de expressões e radiciação.",
+          "objetivos_aprendizagem": [
+            "Utilizar as propriedades das operações para interpretar e resolver expressões com expoentes inteiros e radiciação."
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Aula de revisão: Modelagem geométrica com o teorema de Pitágoras – Aula complementar",
+          "aprendizagem_essencial": "Modelagem geométrica com triângulos retângulos.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Aplicação do Teorema de Pitágoras em situações reais. Relação entre potência e radiação no contexto da resolução de problemas.",
+          "objetivos_aprendizagem": [
+            "Identificar triângulos retângulos implícitos em situações-problema do cotidiano.",
+            "Representar geometricamente situações-problema por meio de esboços ou construções.",
+            "Aplicar o Teorema de Pitágoras para resolver problemas, utilizando a raiz quadrada como operação inversa da potência."
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Aula de revisão: Semelhança de triângulos e teorema de Pitágoras – Aula complementar",
+          "aprendizagem_essencial": "Semelhança de triângulos e proporção entre as medidas dos lados de triângulos retângulos.",
+          "habilidade": "EF09MA14",
+          "conteudo": "Aplicação do Teorema de Pitágoras na resolução de problemas.",
+          "objetivos_aprendizagem": [
+            "Aplicar a semelhança de triângulos retângulos para resolver problemas.",
+            "Aplicar o Teorema de Pitágoras para resolver problemas, utilizando a raiz quadrada como operação inversa da potência."
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Aula de revisão: Números irracionais e dígitas periódicas – Aula complementar",
+          "aprendizagem_essencial": "Dízimas periódicas como representação decimal de números racionais.",
+          "habilidade": "EF09MA02",
+          "conteudo": "Estratégias de manipulação de frações para obtenção de dízima fracionária.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que uma dízima periódica representa um número racional.",
+            "Explorar estratégias para obter a fração geratriz de uma dízima periódica, sem o uso de equações.",
+            "Representar números racionais e irracionais na reta numérica com base em aproximações decimais."
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Aula de revisão: Operações com números reais – Aula complementar",
+          "aprendizagem_essencial": "Operações com números reais: adição, subtração, multiplicação, divisão, potenciação e radiação.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Resolver problemas que envolvem diferentes operações com números reais.",
+          "objetivos_aprendizagem": [
+            "Efetuar cálculos com números reais, utilizando potências com ou sem a calculadora.",
+            "Compreender e aplicar estratégias variadas de cálculo, com e sem o uso de calculadora, em situações."
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Revisão: Operações com números reais",
+          "aprendizagem_essencial": "Operações com números reais: adição, subtração, multiplicação, divisão, potenciação e radiação.",
+          "habilidade": "EF09MA04",
+          "conteudo": "Resolver problemas envolvendo as quatro operações fundamentais, a potenciação e a radiação com números reais.",
+          "objetivos_aprendizagem": []
+        }
+      ]
+    }
+  }
+}
