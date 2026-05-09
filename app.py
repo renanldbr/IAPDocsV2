@@ -11,7 +11,9 @@ load_dotenv()
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 PASTA_EXTRAIDOS = "./docOrientadores/extraidos"
-MODELO_PATH = "./docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx"
+MODELO_EFAPE_PATH = "./docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx"
+MODELO_PAV2_PATH = "./docOrientadores/PAV2.docx"
+MODELO_GUIA_PATH = "./docOrientadores/Guida de Aprendizagem.docx"
 
 def carregar_todos_jsons():
     docs = {}
@@ -84,6 +86,33 @@ if not docs:
 
 # ── Barra Lateral / Configurações (Sempre visíveis ou globais) ──
 with st.sidebar:
+    # ── Seleção de Modelo ──
+    st.header("📄 Modelo de Plano")
+    modelo_opcoes = {
+        "📋 Plano EFAPE": "EFAPE",
+        "📊 Plano PAV2": "PAV2",
+        "📖 Guia de Aprendizagem": "GUIA",
+    }
+    modelo_label = st.radio(
+        "Escolha o modelo:",
+        options=list(modelo_opcoes.keys()),
+        index=0,
+        key="modelo_radio"
+    )
+    modelo_selecionado = modelo_opcoes[modelo_label]
+    st.session_state["modelo_selecionado"] = modelo_selecionado
+
+    if modelo_selecionado == "EFAPE":
+        modelo_path = MODELO_EFAPE_PATH
+        st.caption("Plano de Aula padrão EFAPE com seções de metodologia, recursos e avaliação.")
+    elif modelo_selecionado == "PAV2":
+        modelo_path = MODELO_PAV2_PATH
+        st.caption("Plano de Aula PAV2 em formato de tabela com uma linha por aula.")
+    else:
+        modelo_path = MODELO_GUIA_PATH
+        st.caption("Guia de Aprendizagem com justificativa, ambientes e fontes de pesquisa.")
+
+    st.markdown("---")
     st.header("👤 Informações do Professor")
     prof_default = st.session_state.get("professor_nome", "")
     professor_nome = st.text_input("Nome", value=prof_default, placeholder="Seu nome no documento")
@@ -135,6 +164,18 @@ if st.session_state.pagina == 1:
             if key.startswith("chk_aula_"):
                 st.session_state[key] = False
         st.session_state["last_tag"] = tag_atual
+
+    # ── Selecionar todas as aulas ──
+    def toggle_todas_aulas():
+        novo_valor = st.session_state.get("chk_todas_aulas", False)
+        for i in range(len(labels_aulas)):
+            st.session_state[f"{tag_atual}_{i}"] = novo_valor
+
+    st.checkbox(
+        "✅ Selecionar todas as aulas",
+        key="chk_todas_aulas",
+        on_change=toggle_todas_aulas
+    )
 
     # Renderizar Checklist para Aulas
     labels_selecionadas = render_checklist("📚 Quais aulas deseja incluir?", labels_aulas, tag_atual, col_count=1)
@@ -219,13 +260,13 @@ else:
     # ── Recursos Didáticos ──
     opcoes_recursos = [
         "Quadro branco / quadro negro", "Livro didático",
-        "Slides em apresentação (Microsoft PowerPoint / Google Slides)",
+        "Slides do Material Digital",
         "Vídeos educativos (conteúdos do YouTube)", "Simulações interativas",
         "Experimentos práticos de laboratório", "Mapas conceituais", "Infográficos",
         "Modelos / maquetes físicas", "Jogos educativos", "Flashcards (cartões de memória)",
-        "Aplicativos educacionais (Kahoot!)",
-        "Ambientes virtuais de aprendizagem (Google Classroom / Moodle)",
-        "Podcasts educativos", "Fichas de exercícios / listas de problemas",
+        "Aplicativos educacionais (Kahoot! / Plickers)",
+        "Plataformas Digitais de Aprendizagem",
+        "Podcasts educativos", "Fichas de exercícios / Lista de Exercícios",
         "Projetor multimídia (data show)", "Quadros interativos digitais (smart board)",
         "Imagens, fotografias e ilustrações científicas", "Linha do tempo visual",
         "Debates e discussões orientadas em sala", "Outros (descrever abaixo)"
@@ -279,6 +320,94 @@ else:
         lista_final_aval.append(aval_manuais)
     aval_final_str = "; ".join(lista_final_aval)
 
+    # ── Campos exclusivos do Guia de Aprendizagem ──
+    modelo_ativo = st.session_state.get("modelo_selecionado", "EFAPE")
+
+    guia_ambientes_str = ""
+    guia_fontes_str = ""
+    guia_justificativa_str = ""
+    guia_aproximacao_str = ""
+
+    if modelo_ativo == "GUIA":
+        st.markdown("---")
+        st.subheader("🏫 Ambientes de Aprendizagem")
+        opcoes_ambientes = [
+            "Sala de aula",
+            "Laboratório de ciências",
+            "Laboratório de informática",
+            "Biblioteca",
+            "Espaços externos / área verde",
+            "Quadra esportiva",
+            "Ambiente virtual (Google Classroom / Moodle)",
+            "Videoconferência (Meet / Teams / Zoom)",
+            "Museu / teatro / espaços culturais",
+            "Comunidade local / visita técnica",
+        ]
+        ambientes_selecionados = render_checklist(
+            "Selecione os ambientes utilizados:",
+            opcoes_ambientes, "p2_amb", col_count=2
+        )
+        guia_ambientes_str = "; ".join(ambientes_selecionados)
+
+        st.markdown("---")
+        st.subheader("🔍 Fontes de Pesquisa para o Estudante")
+        opcoes_fontes = [
+            "Livro didático adotado pela escola",
+            "Livros complementares da biblioteca",
+            "Artigos científicos (Scielo, Google Acadêmico)",
+            "Portais educacionais (Khan Academy, Stoodi, Me Salva!)",
+            "Vídeos no YouTube (canais educativos)",
+            "Documentos e sites do governo (IBGE, INEP, EMBRAPA)",
+            "Jornais e revistas online (G1, UOL, BBC Brasil)",
+            "Podcasts e rádios educativas",
+            "Museus virtuais e acervos digitais",
+            "Simuladores online (PhET, Geogebra)",
+        ]
+        fontes_selecionadas = render_checklist(
+            "Sugira fontes de pesquisa:",
+            opcoes_fontes, "p2_font", col_count=2
+        )
+        fontes_manuais = st.text_area(
+            "Outras fontes (opcional)",
+            value=st.session_state.get("p2_fontes_man", ""),
+            placeholder="Links, títulos de livros, sites específicos...",
+            height=80,
+            key="p2_fontes_man"
+        )
+        lista_fontes_final = list(fontes_selecionadas)
+        if fontes_manuais.strip():
+            lista_fontes_final.append(fontes_manuais.strip())
+        guia_fontes_str = "\n".join([f"- {f}" for f in lista_fontes_final])
+
+        st.markdown("---")
+        st.subheader("📚 Justificativa")
+        texto_justif_padrao = (
+            "Este Guia de Aprendizagem visa desenvolver as competências e habilidades do "
+            "Currículo Paulista e os princípios do Programa Ensino Integral: Pedagogia da "
+            "Presença, Protagonismo, os Quatro Pilares da Educação e a Pedagogia de "
+            "Competências."
+        )
+        guia_justificativa_str = st.text_area(
+            "Justificativa do Guia",
+            value=st.session_state.get("p2_justif", texto_justif_padrao),
+            height=130,
+            key="p2_justif"
+        )
+
+        st.markdown("---")
+        st.subheader("🌍 Aproximação com a Realidade do Estudante")
+        texto_aprox_padrao = (
+            "Aproximar os conteúdos propostos com o contexto vivido pelos estudantes de "
+            "forma intencional, exemplificando situações, profissões e transformações "
+            "onde os sujeitos possam assumir uma postura ativa, crítica e protagonista."
+        )
+        guia_aproximacao_str = st.text_area(
+            "Aproximação com a realidade",
+            value=st.session_state.get("p2_aprox", texto_aprox_padrao),
+            height=130,
+            key="p2_aprox"
+        )
+
     # ── Recomposição/Recuperação ──
     st.markdown("---")
     aulas_p1 = dados_etapa1.get("aulas", [])
@@ -328,8 +457,17 @@ else:
         else:
             with st.spinner("Gerando documento final..."):
                 try:
+                    modelo_path_atual = st.session_state.get("modelo_selecionado", "EFAPE")
+                    if modelo_path_atual == "EFAPE":
+                        modelo_path_arquivo = MODELO_EFAPE_PATH
+                    elif modelo_path_atual == "PAV2":
+                        modelo_path_arquivo = MODELO_PAV2_PATH
+                    else:
+                        modelo_path_arquivo = MODELO_GUIA_PATH
+
                     caminho_saida = preencher_documento(
-                        modelo_path=MODELO_PATH,
+                        modelo_path=modelo_path_arquivo,
+                        modelo_tipo=modelo_path_atual,
                         aulas=dados_etapa1["aulas"],
                         disciplina=dados_etapa1["disciplina"],
                         etapa=dados_etapa1["etapa"],
@@ -340,9 +478,13 @@ else:
                         metodologias=metodologias_lista,
                         recursos=recursos_final_str,
                         avaliacao=aval_final_str,
-                        recuperacao=recup_final_str
+                        recuperacao=recup_final_str,
+                        ambientes=guia_ambientes_str,
+                        fontes=guia_fontes_str,
+                        justificativa=guia_justificativa_str,
+                        aproximacao=guia_aproximacao_str,
                     )
-                    
+
                     with open(caminho_saida, "rb") as f:
                         st.download_button(
                             label="⬇️ Baixar Plano de Aula (Word)",
@@ -354,3 +496,4 @@ else:
                     st.success("Plano gerado com sucesso!")
                 except Exception as e:
                     st.error(f"Erro ao gerar: {e}")
+
