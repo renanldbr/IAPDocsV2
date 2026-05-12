@@ -44,3 +44,6 @@ Thumbs.db
 docOrientadores/extraidos/*.json
 *.docx
 !docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx
+!docOrientadores/PAV2.docx
+!docOrientadores/Guia de Aprendizagem.docx
+

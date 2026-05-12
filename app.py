@@ -13,7 +13,7 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 PASTA_EXTRAIDOS = "./docOrientadores/extraidos"
 MODELO_EFAPE_PATH = "./docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx"
 MODELO_PAV2_PATH = "./docOrientadores/PAV2.docx"
-MODELO_GUIA_PATH = "./docOrientadores/Guida de Aprendizagem.docx"
+MODELO_GUIA_PATH = "./docOrientadores/Guia de Aprendizagem.docx"
 
 def carregar_todos_jsons():
     docs = {}
