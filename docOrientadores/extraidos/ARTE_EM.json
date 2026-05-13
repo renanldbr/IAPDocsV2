@@ -1,0 +1,340 @@
+{
+  "disciplina": "ARTE",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Arte, Poder e Sociedade",
+          "aprendizagem_essencial": "Função Social de Arte. Cultura contemporânea. Processo Criativo.",
+          "habilidade": "EM13LGG103",
+          "conteudo": "Função Social de Arte.",
+          "objetivos_aprendizagem": [
+            "Analisar o funcionamento das linguagens artísticas.",
+            "Analisar criticamente reflexões de poder presentes na cultura contemporânea.",
+            "Utilizar diferentes linguagens artísticas como forma de expressão."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Corpo, Identidade e Gesto Social",
+          "aprendizagem_essencial": "AE2 - Utilizar as linguagens artísticas, analisando sua aplicabilidade e sua função como fenômeno social, cultural, histórico, político e econômico.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Linguagens Artísticas. • Danças Sociais. • Expressão Identitária.",
+          "objetivos_aprendizagem": [
+            "Analisar as linguagens artísticas em suas dimensões visuais, verbais, sonoras e gestuais.",
+            "Posicionar-se contra manifestações de desprezo aos direitos humanos e a valores históricos.",
+            "Utilizar diferentes linguagens artísticas como forma de expressão."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Desconstruindo Estereótipos",
+          "aprendizagem_essencial": "AE3 - Interpretar discursos midiáticos, identificando visões de mundo e interesses, para posicionar-se contra preconceitos e ideologias presentes na mídia.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Artes do Corpo. • Linguagens Artísticas. • Estereótipos Sociais.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente estereótipos presentes nas mídias.",
+            "Posicionar-se criticamente em relação a discursos presentes nas mídias.",
+            "Utilizar as linguagens artísticas para debater fenômenos sociais, culturais e históricos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Os Discursos das Mídias: Planejar!",
+          "aprendizagem_essencial": "AE1 - Analisar o funcionamento das linguagens artísticas em suas dimensões visuais, verbais, sonoras e gestuais.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Arte e Mídia. • Análise Crítica. • Função Social da Arte.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos presentes em obras de diferentes formatos.",
+            "Analisar criticamente relações de poder presentes em diferentes mídias.",
+            "Utilizar as linguagens artísticas para debater fenômenos sociais, culturais e históricos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Os Discursos das Mídias: Recriar!",
+          "aprendizagem_essencial": "AE2 - Utilizar as linguagens artísticas, analisando sua aplicabilidade e sua função como fenômeno social, cultural, histórico, político e econômico.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Arte e Mídia. • Função Social da Arte. • Processo Criativo.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos veiculados em diferentes mídias.",
+            "Analisar criticamente relações de poder presentes na cultura contemporânea.",
+            "Utilizar as linguagens artísticas como forma de expressão social."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Música e Crítica Social",
+          "aprendizagem_essencial": "AE3 - Interpretar discursos midiáticos, identificando visões de mundo e interesses, para posicionar-se contra preconceitos e ideologias presentes na mídia.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Criação Musical. • Manifestação Artística. • Cultura Contemporânea.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos presentes em obras de diferentes formatos.",
+            "Analisar criticamente relações de poder presentes na cultura contemporânea.",
+            "Utilizar a música como forma de expressão social."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Construindo Intervenções",
+          "aprendizagem_essencial": "AE1 - Analisar o funcionamento das linguagens artísticas em suas dimensões visuais, verbais, sonoras e gestuais.",
+          "habilidade": "EM13LGG103 EM13LGG502 EM13LGG201",
+          "conteudo": "• Criação Musical. • Manifestação Artística. • Cultura Contemporânea.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos presentes em obras de diferentes formatos.",
+            "Analisar criticamente relações de poder presentes na cultura contemporânea.",
+            "Utilizar a música como forma de expressão social."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Refinando as Propostas",
+          "aprendizagem_essencial": "Produzir discursos a partir de diferentes linguagens artísticas.",
+          "habilidade": "EM13LG103 EM13LG302",
+          "conteudo": "Discurso Crítico. Crítica de Arte. Criação Artística.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos presentes em obras de diferentes formatos.",
+            "Posicionar-se criticamente em relação a discursos presentes em diferentes mídias.",
+            "Produzir discursos a partir de diferentes linguagens artísticas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Criando uma Performance",
+          "aprendizagem_essencial": "Produzir discursos a partir da linguagem de performance.",
+          "habilidade": "EM13LG102 EM13LG103 EM13LG502",
+          "conteudo": "Performatividade. Intervenção Artística. Manifestação Artística.",
+          "objetivos_aprendizagem": [
+            "Expressar sua visão de mundo através de intervenções críticas na realidade.",
+            "Posicionar-se contra o desprezo aos direitos humanos e valores democráticos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Experimentando performances",
+          "aprendizagem_essencial": "Produzir discursos a partir de diferentes linguagens artísticas.",
+          "habilidade": "EM13LG102 EM13LG103",
+          "conteudo": "Criação Artística. Intervenção Artística. Manifestação Artística.",
+          "objetivos_aprendizagem": [
+            "Analisar as linguagens artísticas em suas dimensões visuais, verbais, sonoras e gestuais.",
+            "Expressar sua visão de mundo através de intervenções críticas na realidade."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Experimentando performances II",
+          "aprendizagem_essencial": "Utilizar diferentes linguagens artísticas como forma de expressão.",
+          "habilidade": "EM13LG102 EM13LG103",
+          "conteudo": "Criação Artística. Intervenção Artística. Manifestação Artística.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente estereótipos presentes na dança e no teatro.",
+            "Posicionar-se contra manifestações de desprezo aos críticos humanos e valores democráticos."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Reelaborando as performances",
+          "aprendizagem_essencial": "Produzir discursos a partir de diferentes linguagens artísticas.",
+          "habilidade": "EM13LG102 EM13LG103",
+          "conteudo": "Criação Artística. Crítica de Arte. Manifestação Artística.",
+          "objetivos_aprendizagem": [
+            "Analisar as linguagens artísticas em suas dimensões visuais, verbais, sonoras e gestuais.",
+            "Analisar o funcionamento das linguagens artísticas em diferentes contextos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Reelaborando as performances II",
+          "aprendizagem_essencial": "Produzir discursos a partir de diferentes linguagens artísticas.",
+          "habilidade": "EM13LG102 EM13LG103",
+          "conteudo": "Criação Artística. Crítica de Arte. Manifestação Artística.",
+          "objetivos_aprendizagem": [
+            "Posicionar-se contra manifestações de desprezo aos direitos humanos e valores democráticos.",
+            "Produzir discursos a partir de diferentes linguagens artísticas."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Reflexão Final: Arte para ser no mundo",
+          "aprendizagem_essencial": "Valorização da arte como fenômeno social e histórico.",
+          "habilidade": "EM13LG103",
+          "conteudo": "Linguagens Artísticas. Cultura Contemporânea. Expressão Artística.",
+          "objetivos_aprendizagem": [
+            "Interpretar criticamente discursos presentes em obras de diferentes artistas.",
+            "Analisar a aplicabilidade e sua função como fenômeno social, cultural, histórico, político e econômico."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "A Arte no Espírito do Tempo",
+          "aprendizagem_essencial": "Refletir sobre a arte como reflexo do espírito do tempo.",
+          "habilidade": "EM13LG704, EM13LG305, EM13LG601",
+          "conteudo": "Patrimônio Cultural. Pesquisa em arte. Análise histórica e cultural.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre a arte como reflexo do espírito do tempo.",
+            "Investigar o patrimônio artístico de diferentes épocas e culturas, compreendendo sua diversidade.",
+            "Apropriar-se de ferramentas de pesquisa para compreender a relação entre arte e sociedade."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "A Arte do Manifesto Artístico",
+          "aprendizagem_essencial": "Explorar o impacto dos manifestos artísticos e como eles legitimaram novas formas de arte.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Manifestos coletivos. Movimentos artísticos. Processos criativos.",
+          "objetivos_aprendizagem": [
+            "Explorar o impacto dos manifestos artísticos e como eles legitimaram novas formas de arte.",
+            "Desenvolver práticas de pesquisa sobre coletivos e manifestos.",
+            "Utilizar criações coletivas para expressar ideias artísticas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Os Desafios de Criar Junto",
+          "aprendizagem_essencial": "Explorar o impacto dos manifestos artísticos e como eles legitimaram novas formas de arte.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Coletivos artísticos. Movimentos artísticos. Pesquisa em Arte.",
+          "objetivos_aprendizagem": [
+            "Explorar o impacto dos manifestos artísticos e como eles legitimaram novas formas de arte.",
+            "Desenvolver práticas de pesquisa sobre coletivos e manifestos.",
+            "Investigar os funcionamentos dos processos de produção colaborativa em arte."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "A Arte de Promover Impacto",
+          "aprendizagem_essencial": "Investigar coletivos contemporâneos e o impacto de suas práticas colaborativas.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Coletivos artísticos. Movimentos artísticos. Pesquisa em Arte.",
+          "objetivos_aprendizagem": [
+            "Investigar coletivos contemporâneos e o impacto de suas práticas colaborativas.",
+            "Refletir sobre a ética e o propositivo motor de pesquisa e inovação na arte.",
+            "Participar de processos criativos colaborativos inspirados por coletivos contemporâneos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "A Pesquisa Estética",
+          "aprendizagem_essencial": "Criar um manifesto artístico que dialogue com o espírito do tempo.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Manifesto artístico. Estética Relacional. Processo colaborativo.",
+          "objetivos_aprendizagem": [
+            "Criar um manifesto artístico que dialogue com o espírito do tempo.",
+            "Refletir sobre o impacto de movimentos artísticos coletivos.",
+            "Participar de criações coletivas inspiradas por movimentos históricos e contemporâneos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Processos Colaborativos: Criando junto!",
+          "aprendizagem_essencial": "Investigar coletivos contemporâneos e o impacto de suas práticas colaborativas.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Processos de criação. Movimentos artísticos. Processo Colaborativo.",
+          "objetivos_aprendizagem": [
+            "Investigar coletivos contemporâneos e o impacto de suas práticas colaborativas.",
+            "Refletir sobre a ética e o propositivo motor de pesquisa e inovação na arte.",
+            "PM Participar de práticas colaborativas inspiradas por coletivos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Nasce um Movimento: Nosso manifesto",
+          "aprendizagem_essencial": "Criar um manifesto artístico que dialogue com o espírito do tempo.",
+          "habilidade": "EM13LG601, EM13LG704, EM13LG9704",
+          "conteudo": "Manifesto artístico. Impacto cultural. Processo colaborativo.",
+          "objetivos_aprendizagem": [
+            "Criar um manifesto artístico que dialogue com o espírito do tempo.",
+            "Refletir sobre o impacto de movimentos artísticos coletivos.",
+            "Participar de criações coletivas inspiradas por movimentos históricos e contemporâneos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Cooperando em Criações Individuais",
+          "aprendizagem_essencial": "AE4 - Explorar as práticas de linguagem, discutindo os princípios e desafios contemporâneos, e atuando de forma crítica, criativa, solidária e ética.",
+          "habilidade": "EM13LGG305, EM13LGG601, EM13LGG301",
+          "conteudo": "Processos de criação. • Movimentos artísticos. • Complementaridade de Práticas.",
+          "objetivos_aprendizagem": [
+            "Refinar criações com base em percepções mapeadas.",
+            "Refletir sobre o impacto cultural e a legitimidade de criações colaborativas na contemporaneidade.",
+            "Participar de processos de refinemento artístico colaborativo."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Nosso Projeto Coletivo",
+          "aprendizagem_essencial": "AE5 - Experimentar processos de criação em diversas linguagens artísticas, considerando seus aspectos formais, seus funcionamentos e a produção de sentido, em diferentes contextos.",
+          "habilidade": "EM13LGG704, EM13LGG601, EM13LGG301",
+          "conteudo": "Processos de criação. • Arte colaborativa. • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Buscar ativamente novas informações e conhecimento sobre o impacto de criações artísticas.",
+            "Refletir produções coletivas a partir de informações e percepções coletadas com o público.",
+            "Participar de criações coletivas pautadas por manifestos artísticos contemporâneos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Um Movimento Vivo!",
+          "aprendizagem_essencial": "AE5 - Experimentar processos de criação em diversas linguagens artísticas, considerando seus aspectos formais, seus funcionamentos e a produção de sentido, em diferentes contextos.",
+          "habilidade": "EM13LGG704, EM13LGG305, EM13LGG301",
+          "conteudo": "Processos de criação. • Processos colaborativos. • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre como as práticas colaborativas podem criar uma cultura artística viva inclusiva.",
+            "Refletir sobre a importância dos manifestos na continuidade dos projetos artísticos colaborativos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Construindo os Projetos: Fortalecendo o Coletivo",
+          "aprendizagem_essencial": "AE5 - Experimentar processos de criação em diversas linguagens artísticas, considerando seus aspectos formais, seus funcionamentos e a produção de sentido, em diferentes contextos.",
+          "habilidade": "EM13LGG601, EM13LGG305, EM13LGG301",
+          "conteudo": "Processos de criação. • Processos colaborativos. • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Ensinar a apresentação de projetos desenvolvidos coletivamente.",
+            "Refletir sobre o reconhecimento da atuação escolar.",
+            "Refletir sobre a relevância cultural das criações colaborativas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Apresentando o Movimento",
+          "aprendizagem_essencial": "AE5 - Experimentar processos de criação em diversas linguagens artísticas, considerando seus aspectos formais, seus funcionamentos e a produção de sentido, em diferentes contextos.",
+          "habilidade": "EM13LGG601, EM13LGG305, EM13LGG301",
+          "conteudo": "Processos de criação. • Processos colaborativos. • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Mapear e criar novos espaços de atuação artística e colaborativa na escola.",
+            "Propor novas formas de colaboração que garantam a continuidade da ação conjunta.",
+            "Desenvolver propostas de apresentações ao público incluindo os movimentos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Expandindo o Movimento",
+          "aprendizagem_essencial": "AE5 - Experimentar processos de criação em diversas linguagens artísticas, considerando seus aspectos formais, seus funcionamentos e a produção de sentido, em diferentes contextos.",
+          "habilidade": "EM13LGG601, EM13LGG305, EM13LGG301",
+          "conteudo": "Processos de criação. • Processos colaborativos. • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre o impacto social das criações colaborativas artísticas no público.",
+            "Apresentar propostas de criações colaborativas artísticas no contexto escolar."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Espírito do Tempo: A Era da Participação",
+          "aprendizagem_essencial": "AE4 - Explorar as práticas de linguagem, discutindo os princípios e desafios contemporâneos, e atuando de forma crítica, criativa, solidária e ética.",
+          "habilidade": "EM13LGG601, EM13LGG305, EM13LGG301",
+          "conteudo": "Contexto Histórico e Cultural. • Zeitgeist, \"Espírito do Tempo\". • Movimentos artísticos.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre o que é criação colaborativa e sua conexão com o espírito do tempo.",
+            "Revisar algumas praticas e discutir sua conexão com as questões contemporâneas.",
+            "Avaliar o impacto e a evolução das criações colaborativas."
+          ]
+        }
+      ]
+    }
+  }
+}

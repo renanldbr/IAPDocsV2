@@ -1,0 +1,628 @@
+{
+  "disciplina": "E.FISICA",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Esporte de Invasão: As várias caras do Futebol",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variantes, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13.GG102; EM13.GG204; EM13.GG704",
+          "conteudo": "Diferentes possibilidades de se praticar o Futebol; Futebol com prática democrática; Futebol de campo; Futebol society; Futebol de salão.",
+          "objetivos_aprendizagem": [
+            "Analisar as diferentes práticas do futebol;",
+            "Apreciar e criticar os processos de pesquisa e busca de informações;",
+            "Reconhecer a história e os aspectos culturais do futebol na sociedade;",
+            "Entender como as representações e os estereótipos se perpetuam no futebol."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Futebol de Campo adaptado",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variantes, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13.GG102; EM13.GG204; EM13.GG704",
+          "conteudo": "Futebol de campo adaptado para a prática;",
+          "objetivos_aprendizagem": [
+            "Determinar regras e espaços para a prática;",
+            "Propor condições para que o futebol e o ambiente escolar, de acordo com as possibilidades."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Partida de Futebol de Campo",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variações, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13LG102, EM13LG204, EM13LG704",
+          "conteudo": "Prática do futebol de campo adaptado",
+          "objetivos_aprendizagem": [
+            "Praticar o futebol de campo;",
+            "Analisar conflitos de interesse, preconceitos e ideologias presentes os discursos veiculados nas diferentes mídias."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Futebol Society adaptado",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variantes, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13.GG102; EM13.GG204; EM13.GG704",
+          "conteudo": "Futebol society de maneira adaptada;",
+          "objetivos_aprendizagem": [
+            "Determinar regras e práticas do futebol society;",
+            "Discutir as questões em torno dos princípios e valores de equidade."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Partida de Futebol Society",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variações, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13LG102, EM13LG204, EM13LG704",
+          "conteudo": "Prática do futebol society",
+          "objetivos_aprendizagem": [
+            "Praticar o futebol society.",
+            "Discutir as questões em torno dos princípios e valores de equidade."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Brincando de Futsal",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variações, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13LG102, EM13LG204, EM13LG704",
+          "conteudo": "Jogos pré-desportivos do futsal",
+          "objetivos_aprendizagem": [
+            "Vivenciar um jogo pré-desportivo do futsal valorizando o trabalho coletivo e o protagonismo.",
+            "Comparar semelhanças e diferenças entre jogos pré-desportivos com o esporte de fato."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Avançando nos fundamentos do Futsal",
+          "aprendizagem_essencial": "AE1 - Vivenciar o futebol e suas variantes, analisando os discursos midiáticos, valorizando a participação democrática, a equidade e o trabalho coletivo.",
+          "habilidade": "EM13.GG102; EM13.GG204; EM13.GG704",
+          "conteudo": "Fundamentos coletivos: fundamentos do futsal;",
+          "objetivos_aprendizagem": [
+            "Realizar os fundamentos do futsal de maneira técnica e aprofundada."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Uma partida de Futsal",
+          "aprendizagem_essencial": "Prática do Futsal",
+          "habilidade": "EM13LG102",
+          "conteudo": "Prática do Futsal",
+          "objetivos_aprendizagem": [
+            "Praticar o futsal e analisar visões de mundo, conflitos de interesse, preconceitos e ideologias presentes."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Conhecendo o Fútbol Callejero",
+          "aprendizagem_essencial": "Promover a cidadania, a solidariedade e a reflexão sobre a prática do esporte em comunidade.",
+          "habilidade": "EM13LG204",
+          "conteudo": "Regras, objetivos e vivências do futebol callejero",
+          "objetivos_aprendizagem": [
+            "Promover a cidadania, a solidariedade e a reflexão sobre a prática do esporte em comunidade.",
+            "Dialogar princípios e valores de equidade assentados na democracia."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Vivenciando o Futebol Callejero",
+          "aprendizagem_essencial": "Analisar e discutir preconceitos e ideologias relacionadas ao futebol callejero.",
+          "habilidade": "EM13LG102",
+          "conteudo": "Prática do futebol callejero",
+          "objetivos_aprendizagem": [
+            "Promover a cidadania, a solidariedade e a reflexão sobre a prática do esporte em comunidade."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Meu Futebol predileto",
+          "aprendizagem_essencial": "Compreender o esporte como prática democrática e participativa.",
+          "habilidade": "EM13LG204",
+          "conteudo": "Vivência de um futebol elencado pela turma",
+          "objetivos_aprendizagem": [
+            "Analisar e criticar os discursos veiculados nas diferentes mídias."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Esporte Paralímpico: Goalball",
+          "aprendizagem_essencial": "Mapear e analisar as possibilidades de atuação social, cultural e esportiva por meio do Goalball.",
+          "habilidade": "EM13LG305",
+          "conteudo": "Retomada sobre a história e a importância dos esportes e jogos paralímpicos; Modalidades paralímpicas Apresentação do goalball; Papel social, cultural e esportivo do goalball na inclusão.",
+          "objetivos_aprendizagem": [
+            "Criar propostas de engajamento crítico, solidário e ético relacionadas à inclusão de pessoas com deficiência."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Goalball: inclusão, cultura e atuação social",
+          "aprendizagem_essencial": "Conhecer o goalball e adaptar a maneira de experimentar essa prática.",
+          "habilidade": "EM13LG102",
+          "conteudo": "Goalball de maneira adaptada para o espaço escolar",
+          "objetivos_aprendizagem": [
+            "Enfrentar desafios que impeçam a prática dos esportes paralímpicos."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Vivenciando o Goalball",
+          "aprendizagem_essencial": "Vivenciar, de maneira adaptada, o goalball, respeitando as diferenças individuais na importância dessa prática.",
+          "habilidade": "EM13LG305",
+          "conteudo": "Prática do goalball",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente preceitos e estereótipos nas práticas corporais para pessoas com deficiência."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Esporte de invasão ou territorial: Rugby e Futebol americano",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Surgimento e diferenças entre o Rugby e o Futebol americano; Fundamentos e regras do Rugby e do Futebol Americano.",
+          "objetivos_aprendizagem": [
+            "Adquirir conhecimento histórico sobre modalidades esportivas pouco praticadas no Brasil;",
+            "Fazer uso do inglês como língua de comunicação global, através dos nomes e dos termos das modalidades escolhidas;",
+            "Analisar de forma crítica os conflitos de interesse, preconceitos e ideologias presentes no rugby e futebol americano."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Aprendendo a jogar Rugby",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Regras e possíveis adaptações do Rugby.",
+          "objetivos_aprendizagem": [
+            "Conhecer e analisar as regras do rugby.",
+            "Adaptar a maneira de experimentar essa prática, enfrentando seus desafios.",
+            "Fazer uso do inglês como língua de comunicação global, através do nome e dos comandos da modalidade."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Exercícios de Rugby",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Exercícios para atender o desenvolvimento técnico Exercícios de condicionamento físico.",
+          "objetivos_aprendizagem": [
+            "Realizar os exercícios pertinentes ao rugby de maneira mais técnica e aprofundada."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Partida de Rugby",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Prática do Rugby.",
+          "objetivos_aprendizagem": [
+            "Praticar o rugby em diferentes espaços e com recursos distintos.",
+            "Analisar e superar preconceitos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Aprendendo a jogar Futebol Americano",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Regras e possíveis adaptações do Futebol americano.",
+          "objetivos_aprendizagem": [
+            "Conhecer e analisar as regras do futebol americano.",
+            "Adaptar a maneira de experimentar essa prática enfrentando seus desafios.",
+            "Fazer uso do inglês como língua de comunicação global, através do nome e dos comandos da modalidade."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Treino de Futebol Americano",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Exercícios de preparação física e treinamento técnico.",
+          "objetivos_aprendizagem": [
+            "Realizar os exercícios pertinentes ao futebol americano de forma técnica e aprofundada."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Partida de Futebol Americano",
+          "aprendizagem_essencial": "AE3 - Praticar o rugby e o futebol americano, compreendendo suas características e regras, analisando preconceitos presentes nas mídias.",
+          "habilidade": "EM13LG102, EM13LG401, EM13LG403",
+          "conteudo": "Prática do Futebol americano.",
+          "objetivos_aprendizagem": [
+            "Praticar o futebol americano em diferentes espaços e com recursos distintos.",
+            "Analisar e discutir preconceitos e ideologias."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Explorando Danças do Brasil e do Mundo",
+          "aprendizagem_essencial": "Apreciar esteticamente as mais diversas produções artísticas e culturais de dança, considerando suas características locais, regionais e globais; Mobilizar conhecimentos sobre as linguagens artísticas, buscando sentido e significado.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Definição de samba de roda; Significado histórico e cultural do carnaval; História do Ballet clássico; Origem da dança contemporânea.",
+          "objetivos_aprendizagem": [
+            "Apreciar esteticamente as mais diversas produções artísticas e culturais de dança, considerando suas características locais, regionais e globais.",
+            "Mobilizar conhecimentos sobre as linguagens artísticas, buscando sentido e significado."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Samba de Roda: Música e Ritmo",
+          "aprendizagem_essencial": "Expressar-se corporamente valorizando a espontaneidade e a criatividade.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Musicalidade, ritmo e expressão corporal.",
+          "objetivos_aprendizagem": [
+            "Conhecer a música e experimentar o ritmo no samba de roda.",
+            "Expressar-se corporalmente valorizando a espontaneidade e a criatividade."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Samba de Roda: Passo a Passo",
+          "aprendizagem_essencial": "Vivenciar os passos básicos do samba de roda.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Passos básicos do samba de roda: ginga, miudinho e trança.",
+          "objetivos_aprendizagem": [
+            "Vivenciar os passos básicos do samba de roda."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Carnaval na Escola",
+          "aprendizagem_essencial": "Compreender a importância do carnaval como espaço de partilha e celebração.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Simulação de um desfile de escola de samba.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a diversidade cultural brasileira.",
+            "Compreender a importância do carnaval como espaço de partilha e celebração."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Ballet",
+          "aprendizagem_essencial": "Experimentar movimentos característicos do Ballet, respeitando as possibilidades do próprio corpo.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Posições e movimentos básicos do Ballet.",
+          "objetivos_aprendizagem": [
+            "Experimentar movimentos característicos do Ballet, respeitando as possibilidades do próprio corpo."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Dança contemporânea",
+          "aprendizagem_essencial": "Desenvolver expressão corporal, musicalidade, sensibilidade, imaginação e criatividade, por meio da dança contemporânea.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Exploração livre de movimentos e improvisação guiada.",
+          "objetivos_aprendizagem": [
+            "Desenvolver expressão corporal, musicalidade, sensibilidade, imaginação e criatividade, por meio da dança contemporânea."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Dança contemporânea",
+          "aprendizagem_essencial": "Valorizar o trabalho em grupo e a apreciação da produção cultural coletiva de dança contemporânea.",
+          "habilidade": "EM13LG201 EM13LG601 EM13LG602",
+          "conteudo": "Criação coletiva para dança contemporânea.",
+          "objetivos_aprendizagem": [
+            "Valorizar o trabalho em grupo e a apreciação da produção cultural coletiva de dança contemporânea."
+          ]
+        }
+      ]
+    },
+    "2ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Esporte de Rede/quadra dividida: Tênis de mesa e Tênis de campo",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Apresentação dos esportes de rede/quadra dividida; Diferença entre o Tênis de mesa e o Tênis de campo; Fundamentos e regras do Tênis de mesa e do Tênis de campo.",
+          "objetivos_aprendizagem": [
+            "Identificar as diferenças e semelhanças entre o tênis de mesa e o tênis de campo;",
+            "Apresentar os fundamentos e regras do tênis de mesa e do tênis de campo;",
+            "Analisar a questão de preconceitos e estereótipos para além da inclusão e acolhimento dos estudantes;"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Fundamentos do Tênis de Mesa",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Fundamentos; postura, saque, recepção, golpes básicos e tipos de empunhadura",
+          "objetivos_aprendizagem": [
+            "Realizar os fundamentos do tênis de mesa de maneira mais técnica e aprofundada;"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Arbitragem no Tênis de Mesa",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Regras; Arbitragem",
+          "objetivos_aprendizagem": [
+            "Aprofundar-se nas regras;",
+            "Vivenciar o papel de arbitro além do papel de jogador."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Tênis de mesa ou Ping-Pong?",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Prática do Tênis de Mesa; Diferenças com o Ping-Pong.",
+          "objetivos_aprendizagem": [
+            "Identificar a diferença entre o ping-pong e o tênis de mesa;",
+            "Participar de jogos individuais e em duplas produzindo sentidos em diferentes contextos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Fundamentos do Tênis de Campo",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Fundamentos; postura, saque, recepção, golpes básicos e tipos de empunhadura",
+          "objetivos_aprendizagem": [
+            "Realizar os fundamentos do tênis de mesa de maneira mais técnica e aprofundada."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Arbitragem no Tênis de Campo",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Regras; Arbitragem",
+          "objetivos_aprendizagem": [
+            "Aprofundar-se nas regras;",
+            "Vivenciar o papel de arbitro além do jogador."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Tênis de Campo adaptado",
+          "aprendizagem_essencial": "AE1 - Praticar o tênis de mesa e o tênis de campo, identificando suas características, semelhanças e diferenças, para refletir sobre os estereótipos e as relações de poder presentes nessas práticas.",
+          "habilidade": "EM13LGG301 EM13LGG502",
+          "conteudo": "Jogo de tênis de maneira adaptada para o espaço escolar",
+          "objetivos_aprendizagem": [
+            "Vivenciar um jogo de tênis com regras, espaços e materiais adaptados, valorizando o trabalho coletivo.",
+            "Participar de jogos individuais e em duplas produzindo sentidos em diferentes contextos."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Dança circular, Dabke e Fandango",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "História e origem da Dança Circular, do Dabke e do Fandango; A chegada dessas danças ao Brasil; Significado, função cultural e contexto social dessas danças do mundo.",
+          "objetivos_aprendizagem": [
+            "Analisar a diversidade das manifestações artísticas na sociedade;",
+            "Compreender as danças do mundo como expressão artística e cultural;",
+            "Promover a socialização e o respeito às diferenças culturais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Danças circulares: primeiro contato",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Ritmo e musicalidade; Diversidade cultural.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as danças circulares como manifestações culturais presentes em diversas partes do mundo."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A prática das danças circulares",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Formação do círculo e passos básicos.",
+          "objetivos_aprendizagem": [
+            "Participar de diversas danças circulares, com criatividade, sensibilidade e imaginação."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Dabke: primeiro contato",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Ritmo e musicalidade; Relevância cultural.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o Dabke como manifestação cultural presente nas culturas do Oriente Médio."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Roda de Dabke",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Formação e passos na roda.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre as relações culturais acerca do estilo Dabke.",
+            "Participar de uma roda de dabke, com criatividade, sensibilidade e imaginação."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Fandango: primeiro contato",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Ritmo e musicalidade; Olhar cultural.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o Fandango como manifestação cultural rica e tradicional, com forte ligação às raízes populares de diferentes regiões."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Fandango em pares",
+          "aprendizagem_essencial": "AE2 - Vivenciar as danças do mundo, valorizando suas diversidades, para reflexão sobre as diferentes manifestações culturais.",
+          "habilidade": "EM13LG203 EM13LG601 EM13LG602",
+          "conteudo": "Formação, passo de base, passo cruzado e giro.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre as relações culturais acerca do estilo;",
+            "Participar de uma vivência de Fandango, com criatividade, sensibilidade e imaginação."
+          ]
+        }
+      ]
+    },
+    "3ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Modalidades Esportivas Pouco Praticadas no Brasil",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Esporte de rede/quadra dividida; Esporte de invasão/ territorial; Punhobol; Kin-Ball; Tchoukball; Ultimate Frisbee.",
+          "objetivos_aprendizagem": [
+            "Adquirir conhecimento histórico de modalidades pouco praticadas no Brasil;",
+            "Fazer uso do inglês como língua de comunicação global, através dos nomes e dos comandos das modalidades escolhidas.",
+            "Relacionar as características (regras, técnicas, objetivos etc.) de modalidades pouco praticadas no Brasil."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Aprendendo a jogar Punhobol e/ou Kimball",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Regras e possíveis adaptações do Punhobol e/ou do Kimball.",
+          "objetivos_aprendizagem": [
+            "Conhecer e analisar as regras do punhobol e/ou o Kimball e adaptar a maneira de experimentar essa prática.",
+            "Enfrentar desafios que impedem a prática dessas modalidades.",
+            "Fazer uso do inglês como língua de comunicação global, através dos nomes e dos comandos das modalidades escolhidas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Partida de Punhobol e/ou Kimball",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Prática do Punhobol e/ou Kimball.",
+          "objetivos_aprendizagem": [
+            "Praticar o Punhobol e/ou Kimball enfrentando os desafios da falta de espaço e material adequado de maneira crítica, criativa, solidária e ética."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Aprendendo a jogar Tchoukball",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Regras e possíveis adaptações do Tchoukball.",
+          "objetivos_aprendizagem": [
+            "Conhecer e analisar as regras do Tchoukball e adaptar a maneira de experimentar essa prática.",
+            "Fazer uso do inglês como língua de comunicação global, através dos nomes e dos comandos das modalidades escolhidas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Partida de Tchoukball",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Prática do Tchoukball.",
+          "objetivos_aprendizagem": [
+            "Praticar o Tchoukball enfrentando os desafios da falta de espaço e material adequado de maneira crítica, criativa, solidária e ética."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Aprendendo a jogar Ultimate Frisbee",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Regras e possíveis adaptações do Ultimate Frisbee.",
+          "objetivos_aprendizagem": [
+            "Conhecer e analisar as regras do Ultimate Frisbee e adaptar a maneira de experimentar essa prática.",
+            "Enfrentar desafios que impedem a prática dessas modalidades."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Partida de Ultimate Frisbee",
+          "aprendizagem_essencial": "AE1 - Experimentar modalidades pouco praticadas no Brasil, explorando suas principais características, de modo a ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG305 EM13LG401 EM13LG403",
+          "conteudo": "Prática do Ultimate Frisbee.",
+          "objetivos_aprendizagem": [
+            "Praticar o Ultimate Frisbee enfrentando os desafios da falta de espaço e material adequado de maneira crítica, criativa, solidária e ética."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Esportes de quadra de areia",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Esportes praticados em quadra de areia/; Origem e características do Vôlei de praia, do Futevôlei, do Beach tennis e do Frescobol.",
+          "objetivos_aprendizagem": [
+            "Adquirir conhecimento histórico dos esportes praticados em quadra de areia/;",
+            "Analisar criticamente preconceitos e estereótipos nas modalidades esportivas realizadas em quadras de areia e na praia;",
+            "Apropriar-se criticamente de processos e bases de informações acerca dos esportes de praia e de quadras de areia."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Vôlei de praia adaptado",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Regras, possíveis adaptações e prática do Vôlei de praia",
+          "objetivos_aprendizagem": [
+            "Analisar as regras do Vôlei de praia, adaptando as formas de experimentar essa prática.",
+            "Enfrentar desafios que impeçam a prática dessa modalidade no ambiente escolar."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Futevôlei: primeiro contato",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Regras e possíveis adaptações do Futevôlei",
+          "objetivos_aprendizagem": [
+            "Analisar as regras do Futevôlei, adaptando as formas de experimentar essa prática.",
+            "Enfrentar desafios que impeçam a prática dessa modalidade no ambiente escolar."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Futevôlei: vivência",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Prática de Futevôlei",
+          "objetivos_aprendizagem": [
+            "Praticar o Futevôlei em diferentes espaços e com recursos distintos.",
+            "Analisar e discutir preconceitos e estereótipos existentes na modalidade."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Beach tennis adaptado",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Regras, possíveis adaptações e prática do Beach tennis",
+          "objetivos_aprendizagem": [
+            "Analisar as regras do Beach tennis, adaptando as formas de experimentar essa prática.",
+            "Enfrentar desafios que impeçam a prática dessa modalidade no ambiente escolar."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Frescobol: primeiro contato",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Regras e possíveis adaptações do Frescobol",
+          "objetivos_aprendizagem": [
+            "Analisar as regras do Frescobol, adaptando as formas de experimentar essa prática.",
+            "Enfrentar desafios que impeçam a prática dessa modalidade no ambiente escolar."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Frescobol: vivência",
+          "aprendizagem_essencial": "AE2 - Praticar esportes de quadra de areia, adaptando regras, espaços e materiais, a fim de ampliar a cultura corporal de movimento.",
+          "habilidade": "EM13LG301, EM13LG502, EM13LG704",
+          "conteudo": "Prática de Frescobol",
+          "objetivos_aprendizagem": [
+            "Praticar o Frescobol em diferentes espaços e com recursos distintos.",
+            "Analisar e discutir preconceitos e estereótipos existentes na modalidade."
+          ]
+        }
+      ]
+    }
+  }
+}

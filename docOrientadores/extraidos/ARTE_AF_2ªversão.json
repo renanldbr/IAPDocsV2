@@ -1,0 +1,1005 @@
+{
+  "disciplina": "ARTE",
+  "etapa": "AF",
+  "series": {
+    "6º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Descobrindo o Frevo",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Danças Populares Brasileiras.\n- Origens das Danças.\n- Variação de Tempo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Explorar a história e o desenvolvimento da dança.",
+            "Movimentar-se explorando a variação de tempo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Descobrindo o Jongo",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Danças Populares Brasileiras.\n- Origens das Danças.\n- Variação de Tempo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Explorar a história e o desenvolvimento da dança.",
+            "Movimentar-se explorando a variação de tempo."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Descobrindo o Carimbó",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Danças Populares Brasileiras.\n- Origens das Danças.\n- Variação de Tempo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Explorar a história e o desenvolvimento da dança.",
+            "Movimentar-se explorando a variação de tempo."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Descobrindo o Siriri",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Danças Populares Brasileiras.\n- Origens das Danças.\n- Variação de Tempo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Explorar a história e o desenvolvimento da dança.",
+            "Movimentar-se explorando a variação de tempo."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Explorando a Expressividade na Dança",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Expressão Corporal.\n- Elementos da Dança.\n- Movimentos do Frevo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Identificar elementos constitutivos da dança em danças populares brasileiras.",
+            "Explorar os elementos constitutivos do movimento."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Explorando a Dança no Espaço",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Uso do Espaço.\n- Fatores de Movimento.\n- Movimentos do Frevo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Experimentar e analisar os fatores de movimento.",
+            "Movimentar-se explorando o deslocamento no espaço."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Sentindo o Peso na Dança",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR09 - EF06AR10 - EF06AR11",
+          "conteudo": "- Fator Peso.\n- Movimentos do Frevo.\n- Gravidade.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças populares brasileiras.",
+            "Movimentar-se explorando a gravidade e a variação de peso."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Fluindo com a Dança",
+          "aprendizagem_essencial": "AE1 - Diferenciar movimentos coreográficos em danças folclóricas de diferentes épocas.",
+          "habilidade": "EF06AR10 - EF06AR11",
+          "conteudo": "- Fator Fluência.\n- Movimentos do Frevo.\n- Expressividade.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Explorar os elementos constitutivos do movimento.",
+            "- Movimentar-se explorando a variação de fluência."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Criando com as Danças do Brasil",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR09 - EF06AR14",
+          "conteudo": "- Criação Coreográfica.\n- Variação.\n- Expressão na Dança.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Modificar composições de grupos de dança brasileiros."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Aprimorando a Coreografia",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR09 - EF06AR14",
+          "conteudo": "- Refinamento Coreográfico.\n- Colaboração.\n- Preparação.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Modificar elementos coreográficos para criar variações nas sequências de dança."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Ensaios Gerais",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR09 - EF06AR14",
+          "conteudo": "- Ajustes Finais.\n- Ensaio Geral.\n- Preparação para Apresentação.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Analisar composições de grupos de dança brasileiros."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Nossa Coreografia em Cena",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR09 - EF06AR10",
+          "conteudo": "- Apresentação Final.\n- Celebração.\n- Apreciação.",
+          "objetivos_aprendizagem": [
+            "- Apreciar encenações de danças populares brasileiras.",
+            "- Modificar elementos coreográficos para criar variações nas sequências de dança."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Nossa Jornada com as Danças do Brasil",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR09 - EF06AR10",
+          "conteudo": "- Autoavaliação.\n- Reflexão.\n- Compartilhamento.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Movimentar-se explorando a variação de tempo."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Encerramento e Celebração",
+          "aprendizagem_essencial": "AE2 - Experimentar composições coreográficas autorais com base em elementos das danças folclóricas brasileiras.",
+          "habilidade": "EF06AR10",
+          "conteudo": "- Encerramento.\n- Síntese.\n- Celebração.",
+          "objetivos_aprendizagem": [
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance.",
+            "- Identificar elementos constitutivos da dança em danças populares brasileiras."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "A Vida na Música",
+          "aprendizagem_essencial": "AE3 - Analisar os gêneros da música brasileira a partir de seus contextos de produção, circulação e apreciação.",
+          "habilidade": "EF06AR16",
+          "conteudo": "Música Brasileira. - Produção Musical. - Repertório Musical.",
+          "objetivos_aprendizagem": [
+            "Investigar diferentes gêneros musicais tradicionais brasileiros.",
+            "Analisar criticamente os contextos de produção e circulação da música."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "A Música na Vida.",
+          "aprendizagem_essencial": "AE3 - Analisar os gêneros da música brasileira a partir de seus contextos de produção, circulação e apropriação.",
+          "habilidade": "EF06AR15",
+          "conteudo": "Função Social da Música.",
+          "objetivos_aprendizagem": [
+            "Relacionar os práticas musicais às diferentes dimensões da vida social.",
+            "Identificar diferentes contextos de produção e circulação da música."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "O Som da Vida",
+          "aprendizagem_essencial": "AE3 - Analisar os gêneros da música brasileira a partir de seus contextos de produção, circulação e apreciação.",
+          "habilidade": "EF06AR21",
+          "conteudo": "Paisagem Sonora. - Registro Musical. - Notação Não Convencional.",
+          "objetivos_aprendizagem": [
+            "Investigar os sons que fazem parte da paisagem sonora.",
+            "Reconhecer sons corporais, fontes e objetos sonoros que fazem parte do cotidiano.",
+            "Registrar criativamente os sons que fazem parte do cotidiano."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Músicas que a Vida faz!",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "EF06AR21 - EF06AR23",
+          "conteudo": "Composição Musical. - Percussão Corporal. - Improvisação Musical.",
+          "objetivos_aprendizagem": [
+            "Reconhecer timbres e características de diferentes fontes e materiais sonoros.",
+            "Criar composições musicais a partir de sons cotidianos.",
+            "Improvisar utilizando vozes e sons corporais."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Tudo é Instrumento!",
+          "aprendizagem_essencial": "AE3 - Analisar os gêneros da música brasileira a partir de seus contextos de produção, circulação e apreciação.",
+          "habilidade": "EF06AR21 - EF06AR23",
+          "conteudo": "Instrumentos Não Convencionais. - Instrumentos e Timbres.",
+          "objetivos_aprendizagem": [
+            "Reconhecer timbres e características de diferentes fontes e materiais sonoros.",
+            "Criar composições musicais a partir de instrumentos NÃO convencionais.",
+            "Improvisar utilizando instrumentos não convencionais."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "A Música é a melhor companhia! – Aula Complementar",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "EF06AR21 - EF06AR23",
+          "conteudo": "Instrumentos Não Convencionais. - Cantos de Trabalho. - Improvisação Musical.",
+          "objetivos_aprendizagem": [
+            "Improvisar utilizando instrumentos NÃO convencionais.",
+            "Executar repertório de diferentes gêneros musicais brasileiros.",
+            "Criar composições musicais a partir de improvisações."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "A Música da nossa sala! – Aula Complementar",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "EF06AR21 - EF06AR23",
+          "conteudo": "Instrumentos e Timbres. - Composição Musical. - Notação Não Convencional.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 8,
+          "titulo": "A Música e o Corpo!",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR23\n- EF06AR22",
+          "conteudo": "- Percussão Corporal.\n- Composição Musical.\n- Notação Não Convencional.",
+          "objetivos_aprendizagem": [
+            "Explorar e criar improvisações e composições, utilizando vozes, sons corporais, instrumentos não convencionais e/ou outros materiais sonoros, expressando ideias musicais de maneira individual, coletiva e colaborativa. Processos de criação."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "A Voz na Música",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR23\n- EF06AR22",
+          "conteudo": "- Composição Musical.\n- Improvisação Vocal.\n- Notação Não Convencional.",
+          "objetivos_aprendizagem": [
+            "Explorar e criar improvisações e composições, utilizando vozes, sons corporais, instrumentos não convencionais e/ou outros materiais sonoros, expressando ideias musicais de maneira individual, coletiva e colaborativa. Processos de criação."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Minha contribuição para a música!",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR23\n- EF06AR22",
+          "conteudo": "- Colaboração Musical.\n- Improvisação Musical.\n- Notação Não Convencional.",
+          "objetivos_aprendizagem": [
+            "Explorar e identificar diferentes formas de registro musical (notação musical tradicional, artísticas criativas e procedimentos da música contemporânea), bem como procedimentos e técnicas de registro em áudio e audiovisual."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Refinando nossa composição",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR23\n- EF06AR22",
+          "conteudo": "- Composição Musical.\n- Produção Musical.\n- Notação NÃO Convencional.",
+          "objetivos_aprendizagem": [
+            "Explorar e identificar diferentes formas de registro musical (notação musical tradicional, artísticas criativas e procedimentos da música contemporânea), bem como procedimentos e técnicas de registro em áudio e audiovisual."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Gravando nossa composição",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR23\n- EF06AR22",
+          "conteudo": "- Composição Musical.\n- Produção Musical.\n- Registro Musical.",
+          "objetivos_aprendizagem": [
+            "Explorar e criar improvisações e composições, utilizando vozes, sons corporais, instrumentos não convencionais e/ou outros materiais sonoros, expressando ideias musicais de maneira individual, coletiva e colaborativa. Processos de criação."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Registros da Nossa Vida",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR16",
+          "conteudo": "- Composição Musical.\n- Produção Musical.\n- Registro Musical.",
+          "objetivos_aprendizagem": [
+            "Explorar e criar improvisações e composições, utilizando vozes, sons corporais, instrumentos não convencionais e/ou outros materiais sonoros, expressando ideias musicais de maneira individual, coletiva e colaborativa. Processos de criação."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Refletindo sobre o processo",
+          "aprendizagem_essencial": "AE4 - Criar composições musicais, por meio da voz, sons corporais e instrumentos não convencionais, traduzindo-as em partituras criativas.",
+          "habilidade": "- EF06AR16",
+          "conteudo": "- Circulação Musical.\n- Repertório Musical.",
+          "objetivos_aprendizagem": [
+            "Analisar os gêneros da música brasileira a partir de seus contextos de produção, circulação e apreciação."
+          ]
+        }
+      ]
+    },
+    "7º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "O Que é Dança para Você?",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "EF07AR09",
+          "conteudo": "- Introdução à Dança.\n- Expressão Corporal.",
+          "objetivos_aprendizagem": [
+            "- Pesquisar as origens e características de danças clássicas e modernas."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "A Dança através dos Tempos",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "EF07AR09",
+          "conteudo": "- Introdução à História da Dança; Diversidade Cultural.",
+          "objetivos_aprendizagem": [
+            "- Pesquisar as origens e características de danças clássicas e modernas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A Origem do Balé Clássico",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "EF07AR09",
+          "conteudo": "- História da Dança Clássica: contextos históricos.",
+          "objetivos_aprendizagem": [
+            "- Pesquisar as origens e características de danças clássicas e modernas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "A Dança Moderna",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "EF07AR09",
+          "conteudo": "- História da Dança Moderna: contextos sociais.",
+          "objetivos_aprendizagem": [
+            "- Pesquisar as origens e características de danças clássicas e modernas.",
+            "- Explorar a história e o desenvolvimento da dança moderna."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Contrastes e Semelhanças na Dança",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "EF07AR10",
+          "conteudo": "- Danças Clássicas.\n- Danças Modernas.",
+          "objetivos_aprendizagem": [
+            "- Apreciar encenações de danças clássicas e modernas.",
+            "- Comparar elementos constitutivos do movimento nas danças clássica e moderna.",
+            "- Modificar elementos coreográficos para criar variações."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Os Fatores de Movimento",
+          "aprendizagem_essencial": "AE2 - Experimentar as variações dos fatores do movimento (tempo, peso, fluência e espaço) na prática da dança.",
+          "habilidade": "EF07AR11",
+          "conteudo": "- Fatores de Movimento.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássicas e moderna.",
+            "- Identificar elementos constitutivos do movimento nas danças clássica e moderna.",
+            "- Experimentar os fatores de movimento nas danças clássicas."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Um Jogo Chamado Dança: Construindo o Baralho",
+          "aprendizagem_essencial": "AE2 - Experimentar as variações dos fatores do movimento (tempo, peso, fluência e espaço) na prática da dança.",
+          "habilidade": "EF07AR14",
+          "conteudo": "- Fatores de Movimento.\n- Criação de Jogos.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássicas e modernas.",
+            "- Investigar os fatores de movimento nas danças.",
+            "- Modificar elementos coreográficos para criar variações."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Um Jogo Chamado Dança: Desenvolvendo o Baralho",
+          "aprendizagem_essencial": "AE2 - Experimentar as variações dos fatores do movimento (tempo, peso, fluência e espaço) na prática da dança.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Fatores de Movimento.\n- Criação de Jogos.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássica e moderna.",
+            "- Investigar as ações corporais nas danças clássica e moderna.",
+            "- Modificar elementos coreográficos para criar variações nas sequências de dança."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Um Jogo Chamado Dança: Aprimorando o Baralho",
+          "aprendizagem_essencial": "AE2 - Experimentar as variações dos fatores do movimento (tempo, peso, fluência e espaço) na prática da dança.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Fatores de Movimento.\n- Criação de Jogos.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássica e moderna.",
+            "- Investigar as ações corporais nas danças clássica e moderna.",
+            "- PM 14 - Avaliar as escolhas do processo de criação e seu impacto na performance."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Um Jogo Chamado Dança: Improvisando na Dança",
+          "aprendizagem_essencial": "AE2 - Experimentar as variações dos fatores do movimento (tempo, peso, fluência e espaço) na prática da dança.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Improvisação na Dança.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássica e moderna.",
+            "- Investigar na prática da improvisação as ações corporais de Laban.",
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Um Jogo Chamado Dança: Entre o Improviso e o Público",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Improvisação na Dança; Interação com o Público.",
+          "objetivos_aprendizagem": [
+            "- Analisar composições de grupos de dança brasileiros e estrangeiros.",
+            "- Investigar as ações corporais de Laban.",
+            "- Apresentar uma coreografia de dança clássica em grupo."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Um Jogo Chamado Dança: Experimentando a Cena",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Ensaio Geral.",
+          "objetivos_aprendizagem": [
+            "- Apreciar encenações de danças clássicas e modernas.",
+            "- Relacionar elementos constitutivos das danças clássica e moderna."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Um Jogo Chamado Dança!",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Apresentação Final.",
+          "objetivos_aprendizagem": [
+            "- Analisar diferentes formas de expressão das danças clássica e moderna.",
+            "- Investigar na prática do movimento as ações corporais de Laban."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Celebrando nossa Jornada na Dança",
+          "aprendizagem_essencial": "AE1 - Relacionar elementos estruturais, origens e contextos das danças clássicas e modernas a partir da apreciação de diferentes artistas e grupos.",
+          "habilidade": "- EF07AR09\n- EF07AR11\n- EF07AR14",
+          "conteudo": "- Reflexão e Celebração Final.",
+          "objetivos_aprendizagem": [
+            "- Pesquisar a evolução histórica das danças clássicas e modernas.",
+            "- Avaliar as escolhas do processo de criação e seu impacto na performance."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Clássica, instrumental ou orquestral?",
+          "aprendizagem_essencial": "Investigar diferentes gêneros de música clássica (cognitiva).",
+          "habilidade": "EF07AR23",
+          "conteudo": "- Música clássica.\n- Música instrumental.",
+          "objetivos_aprendizagem": [
+            "Relacionar práticas musicais às diferentes dimensões da vida social (cognitiva)."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "O canto coral na vida social",
+          "aprendizagem_essencial": "Investigar diferentes gêneros de canto coral (cognitiva).",
+          "habilidade": "EF07AR23",
+          "conteudo": "- Música Clássica.\n- Canto Coral.\n- Função Social da Música.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente os usos e funções da música clássica (cognitiva).",
+            "Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A orquestra do corpo",
+          "aprendizagem_essencial": "Improvisar utilizando vozes e sons corporais (psicomotricidade).",
+          "habilidade": "EF07AR16",
+          "conteudo": "- Estrutura da Orquestra.\n- Música Clássica.\n- Produção Musical.",
+          "objetivos_aprendizagem": [
+            "Colaborar no processo de criação de composições musicais (socioemocional).",
+            "Analisar criticamente os contextos de produção e circulação da música clássica (cognitiva)."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "A escrita da música orquestral",
+          "aprendizagem_essencial": "Analisar criticamente os contextos de produção e circulação da música clássica (cognitiva).",
+          "habilidade": "EF07AR16",
+          "conteudo": "- Notação Convencional.\n- Timbres e Características.\n- Instrumentos Musicais.",
+          "objetivos_aprendizagem": [
+            "Diferir timbres e características de instrumentos musicais (psicomotricidade).",
+            "Executar diferentes formas de registro musical."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "A identidade dos instrumentos",
+          "aprendizagem_essencial": "Diferir timbres e características de instrumentos musicais (cognitiva).",
+          "habilidade": "EF07AR23",
+          "conteudo": "- Técnicas de Execução.\n- Instrumentos Convencionais.\n- Timbres e Características.",
+          "objetivos_aprendizagem": [
+            "Executar músicas utilizando os instrumentos (psicomotricidade)."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Criando um coral",
+          "aprendizagem_essencial": "Analisar criticamente os contextos de produção e circulação da música clássica (cognitiva).",
+          "habilidade": "EF07AR16",
+          "conteudo": "- Canto coral.\n- Estrutura do Coro.\n- Produção Musical.",
+          "objetivos_aprendizagem": [
+            "Executar músicas usando a voz (psicomotricidade).",
+            "Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "A orquestra inteira em um botão",
+          "aprendizagem_essencial": "Diferir timbres e características de instrumentos musicais (cognitiva).",
+          "habilidade": "EF07AR23",
+          "conteudo": "- Produção Musical.\n- Música e Tecnologia.\n- Timbres e Características.",
+          "objetivos_aprendizagem": [
+            "Criar composições musicais a partir de improvisações (socioemocional)."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Nossa composição coletiva",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR22\n- EF07AR23",
+          "conteudo": "- Notação Convencional.\n- Composição Musical.\n- Produção Musical.",
+          "objetivos_aprendizagem": [
+            "- Identificar diferentes formas de registro musical (cognitiva).",
+            "- Colaborar no processo de criação de composições musicais (socioemocional).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Um arranjo para a orquestra",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR22\n- EF07AR23",
+          "conteudo": "- Notação e registro musical.\n- Composição Musical.\n- Produção Musical.",
+          "objetivos_aprendizagem": [
+            "- Registrar composições musicais em formato de áudio (psicomotora).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Ensaiando nossa orquestra",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR22\n- EF07AR23",
+          "conteudo": "- Improvisação Musical.\n- Composição Musical.\n- Técnicas de Execução.",
+          "objetivos_aprendizagem": [
+            "- Executar composições musicais com instrumentos variados (psicomotora).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Registro da composição coletiva - Aula Complementar",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR16\n- EF07AR22\n- EF07AR23",
+          "conteudo": "- Registro Musical.\n- Composição Musical.\n- Técnicas de Execução.",
+          "objetivos_aprendizagem": [
+            "- Analisar criticamente os usos e funções da música clássica (cognitiva).",
+            "- Registrar composições musicais em formato de áudio (psicomotora).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Uma orquestra diferente.",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR16\n- EF07AR21\n- EF07AR22\n- EF07AR23",
+          "conteudo": "- Improvisação Musical.\n- Performance Musical.",
+          "objetivos_aprendizagem": [
+            "- Analisar criticamente os usos e funções da música clássica (cognitiva).",
+            "- Identificar timbres e formas de registro musical (cognitiva).",
+            "- Expressar ideias musicais de forma individual (socioemocional)."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Ensaio geral",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR22\n- EF07AR23",
+          "conteudo": "- Improvisação Musical.\n- Composição Musical.\n- Performance Musical.",
+          "objetivos_aprendizagem": [
+            "- Executar músicas usando instrumentos de percussão (psicomotora).",
+            "- Identificar timbres e formas de registro musical (cognitiva).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Apresentação final e reflexão",
+          "aprendizagem_essencial": "AE 4 - Criar composições musicais coletivamente, por meio de práticas de improvisação.",
+          "habilidade": "- EF07AR22\n- EF07AR23",
+          "conteudo": "- Composição Musical.\n- Performance Musical.\n- Produção Musical.",
+          "objetivos_aprendizagem": [
+            "- Relacionar práticas musicais às diferentes dimensões da vida social (cognitiva).",
+            "- Registrar composições musicais em formato de áudio (psicomotora).",
+            "- Expressar ideias musicais de forma coletiva (socioemocional)."
+          ]
+        }
+      ]
+    },
+    "8º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "O brincante no tempo da dança",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Origens da Dança.\n- Fatores do Movimento.\n- Variação de Tempo.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças de matriz indígena, africana e afro-brasileira.",
+            "Investigar as ações corporais em danças de diferentes matrizes.",
+            "Explorar a variação de tempo em danças de diferentes matrizes culturais brasileiras."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Dança, uma brincadeira no espaço",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Origens e Procedimentos.\n- Improvisação em Dança.\n- Deslocamento Espacial.",
+          "objetivos_aprendizagem": [
+            "Investigar a evolução histórica das danças de matriz indígena, africana e afro-brasileira.",
+            "Investigar procedimentos de improvisação em dança para criar novos movimentos.",
+            "Explorar a variação de deslocamento no espaço em danças de diferentes matrizes."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Personagens e interações na dança",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Personagens na Dança popular.\n- Improvisação Coletiva.\n- Gravidade e Peso.",
+          "objetivos_aprendizagem": [
+            "Investigar brincadeiras e jogos tradicionais de diferentes matrizes culturais brasileiras.",
+            "Ampliar seus repertórios de movimento a partir de práticas de improvisação coletiva.",
+            "Explorar a gravidade e a variação de peso em danças de diferentes matrizes."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Criando com o Cavalo Marinho e o Maracatu",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Análise do Movimento.\n- Partitura Corporal.\n- Composição Coreográfica.",
+          "objetivos_aprendizagem": [
+            "Analisar composições de dança baseadas em diferentes matrizes estéticas.",
+            "Consolidar vocabulários individuais de movimento na criação da sua partitura corporal.",
+            "Criar composições coreográficas baseadas em matrizes culturais brasileiras."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Expressividade na dança",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Dança Coletiva.\n- Ações Corporais.\n- Variação de Fluência.",
+          "objetivos_aprendizagem": [
+            "Explorar danças coletivas de diferentes matrizes culturais brasileiras.",
+            "Investigar as ações corporais em danças de diferentes matrizes.",
+            "Explorar a variação de fluência em danças de diferentes matrizes."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Brincando nossa dança",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Dança Coletiva.\n- Apresentação Final.",
+          "objetivos_aprendizagem": [
+            "Explorar danças coletivas de diferentes matrizes culturais brasileiras.",
+            "Criar danças coletivas baseadas em diferentes matrizes estéticas.",
+            "Criar composições coreográficas baseadas em danças coletivas brasileiras."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Nossa história com a dança",
+          "aprendizagem_essencial": "AE1 - Analisar composições de danças coletivas de diferentes matrizes culturais brasileiras para apreciação.",
+          "habilidade": "EF08AR09 - EF08AR11",
+          "conteudo": "Reflexão Final.\n- Consolidação dos conceitos.",
+          "objetivos_aprendizagem": [
+            "Apreciar encenações de danças de diferentes matrizes culturais brasileiras.",
+            "Ampliar seus repertórios a partir de práticas de improvisação coletiva.",
+            "Explorar danças coletivas de diferentes matrizes culturais brasileiras."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "A Música Brasileira no Mundo",
+          "aprendizagem_essencial": "AE4 - Explorar músicas de diferentes matrizes brasileiras e africanas, reconhecendo características, usos, funções e timbres de instrumentos musicais diversos.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR23",
+          "conteudo": "Música Brasileira. - Apreciação Musical. - História da Música.",
+          "objetivos_aprendizagem": [
+            "Apreciar músicas de diferentes matrizes culturais brasileiras (cognitiva).",
+            "Explorar altura, timbre, melodia e ritmo por meio de práticas de criação (psicomotora).",
+            "Expressar ideias musicais de maneira individual (socioemocional)."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Resgatando os Sons da Terra",
+          "aprendizagem_essencial": "AE4 - Explorar músicas de diferentes matrizes brasileiras e africanas, reconhecendo características, usos, funções e timbres de instrumentos musicais diversos.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR21",
+          "conteudo": "Música Indígena. - Música Contemporânea. - Timbres e Características.",
+          "objetivos_aprendizagem": [
+            "Analisar músicas de matriz indígena em seus usos e funções (cognitiva).",
+            "Reconhecer timbres e características de instrumentos de matriz indígena (psicomotora)."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A Música Africana: Raízes de além-mar",
+          "aprendizagem_essencial": "AE4 - Explorar músicas de diferentes matrizes brasileiras e africanas, reconhecendo características, usos, funções e timbres de instrumentos musicais diversos.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR21",
+          "conteudo": "Música Tradicional Africana. - Função Social da Música. - Timbres e Características.",
+          "objetivos_aprendizagem": [
+            "Analisar músicas de matriz africana em seus usos e funções (cognitiva).",
+            "Reconhecer timbres e características de instrumentos de matriz africana (psicomotora).",
+            "Executar músicas de diferentes matrizes culturais brasileiras (psicomotora)."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Música Afro-Brasileira: Resistência e Celebração",
+          "aprendizagem_essencial": "AE4 - Explorar músicas de diferentes matrizes brasileiras e africanas, reconhecendo características, usos, funções e timbres de instrumentos musicais diversos.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR21",
+          "conteudo": "Música Afro-Brasileira. - Elementos da Música. - Jogos Rítmicos.",
+          "objetivos_aprendizagem": [
+            "Investigar altura, timbre, melodia e ritmo por meio de jogos musicais (psicomotora).",
+            "Executar músicas de diferentes matrizes culturais brasileiras (psicomotora)."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Nossa Música: Raízes e Inovações",
+          "aprendizagem_essencial": "AE4 - Explorar músicas de diferentes matrizes brasileiras e africanas, reconhecendo características, usos, funções e timbres de instrumentos musicais diversos.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR21",
+          "conteudo": "Elementos da Música. - Práticas de Criação. - Composição Musical.",
+          "objetivos_aprendizagem": [
+            "Criar composições musicais a partir de timbres de diferentes matrizes culturais (psicomotora).",
+            "Colaborar na construção de arranjos e composições musicais (socioemocional)."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Refinando Nossas Composições",
+          "aprendizagem_essencial": "AE5 - Analisar os elementos das músicas indígenas como uma das matrizes culturais brasileiras, utilizando canções, jogos e apreciando as composições.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR23",
+          "conteudo": "Elementos da Música. - Práticas de Criação. - Composição Musical.",
+          "objetivos_aprendizagem": [
+            "Explorar altura, timbre, melodia e ritmo por meio de práticas de criação (psicomotora)."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Apresentação Final e Reflexão – Aula Complementar",
+          "aprendizagem_essencial": "AE5 - Analisar os elementos das músicas indígenas como uma das matrizes culturais brasileiras, utilizando canções, jogos e apreciando as composições.",
+          "habilidade": "EF08AR16, EF08AR20, EF08AR23",
+          "conteudo": "Expressão Musical. - Função Social da Música.",
+          "objetivos_aprendizagem": [
+            "Relacionar as práticas musicais às diferentes formas de vida social (psicomotora).",
+            "Expressar ideias musicais de maneira individual (psicomotora).",
+            "Expressar ideias musicais de maneira coletiva (psicomotora)."
+          ]
+        }
+      ]
+    },
+    "9º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Dança: Movimento da Vida",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": "EF09AR13",
+          "conteudo": "Pesquisa em Dança. - Movimento Cotidiano. - Jogos e Brincadeiras.",
+          "objetivos_aprendizagem": [
+            "Explorar a relação entre movimento cotidiano e movimento dançado.",
+            "Identificar o movimento cotidiano em coreografias de dança contemporânea.",
+            "Investigar brincadeiras e jogos como inspiração para a criação coreográfica."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Espaços e Esferas do Movimento",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR09",
+            "EF09AR10"
+          ],
+          "conteudo": "Kinesfera. - Adaptação Espacial. - Adaptação Coreográfica.",
+          "objetivos_aprendizagem": [
+            "Analisar composições de dança contemporânea de artistas brasileiros e estrangeiros.",
+            "Analisar elementos do movimento dançado em contextos históricos e contemporâneos.",
+            "Experimentar coreografias em diferentes espaços cênicos."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Da brincadeira à dança",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR09",
+            "EF09AR10"
+          ],
+          "conteudo": "- Independência ou Coexistência Estética. - Qualidades do Movimento. - Musicalidade Corporal.",
+          "objetivos_aprendizagem": [
+            "Investigar a evolução histórica da dança contemporânea e suas manifestações.",
+            "Investigar brincadeiras e jogos como inspiração para a criação coreográfica.",
+            "Identificar o movimento cotidiano em coreografias de dança contemporânea."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "O corpo e a tecnologia",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR09",
+            "EF09AR10"
+          ],
+          "conteudo": "- Corpo-Híbrido e Corpo-Tela. - Criação Coreográfica. - Dança Contemporânea.",
+          "objetivos_aprendizagem": [
+            "Analisar o impacto dos elementos cênicos na dança contemporânea.",
+            "Explorar como a atualidade influencia as manifestações da dança contemporânea.",
+            "Criar composições coreográficas a partir de temas e situações absurdas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Dança, mídia e interação digital",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR09",
+            "EF09AR10"
+          ],
+          "conteudo": "- Brincadeiras e Dança. - Criação Coreográfica e Corpo Midiático. - Criação com Tecnologias.",
+          "objetivos_aprendizagem": [
+            "Investigar brincadeiras e jogos como inspiração para a criação coreográfica.",
+            "Explorar o uso de interações digitais nas performances de dança.",
+            "Criar composições coreográficas baseadas em diferentes matrizes estéticas."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Apresentando as coreografias",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR14"
+          ],
+          "conteudo": "- Dança Coletiva. - Criação Coreográfica. - Apresentação Final.",
+          "objetivos_aprendizagem": [
+            "Criar composições coreográficas utilizando elementos da dança contemporânea.",
+            "Preparar apresentações utilizando as tecnologias digitais nas performances."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Celebrando a dança contemporânea",
+          "aprendizagem_essencial": "AE1 - Analisar o uso de elementos cênicos (figurino, cenário, iluminação, espaços e tecnologias digitais) nos contextos de criação coreográfica e apresentações de dança.",
+          "habilidade": [
+            "EF09AR13",
+            "EF09AR14",
+            "EF09AR10"
+          ],
+          "conteudo": "Pesquisa em Dança. - Movimento Cotidiano. - Corpo e Tecnologia.",
+          "objetivos_aprendizagem": [
+            "Explorar a relação entre movimento cotidiano e movimento dançado.",
+            "Identificar o movimento cotidiano em coreografias de dança contemporânea.",
+            "Investigar brincadeiras e jogos como inspiração para a criação coreográfica."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "A música e os movimentos culturais: conectando som e identidade",
+          "aprendizagem_essencial": "Analisar criticamente diferentes gêneros da música popular estrangeira e brasileira.",
+          "habilidade": "EF09AR19",
+          "conteudo": "Música Popular Brasileira. - Música Popular Estrangeira. - História da Música.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente diferentes gêneros da música popular estrangeira e brasileira.",
+            "Identificar diferentes estilos da música popular brasileira e estrangeira.",
+            "Analisar o contexto histórico e social de diferentes estéticas musicais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Música de rebeldia e resistência",
+          "aprendizagem_essencial": "Analisar criticamente os contextos de produção e circulação musicais.",
+          "habilidade": "EF09AR16",
+          "conteudo": "História da Música. - Função Social da Música. - Movimentos Musicais.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente os contextos de produção e circulação musicais.",
+            "Relacionar as práticas musicais às diferentes dimensões da vida social.",
+            "Analisar o contexto histórico e social de diferentes estéticas musicais."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Música e contracultura",
+          "aprendizagem_essencial": "Analisar criticamente diferentes gêneros da música popular estrangeira.",
+          "habilidade": "EF09AR16",
+          "conteudo": "História da Música. - Função Social da Música. - Canção de Protesto.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente diferentes gêneros da música popular estrangeira.",
+            "Relacionar as práticas musicais às diferentes dimensões da vida social.",
+            "Executar canções variando altura, timbre e ritmo."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Nossa identidade sonora",
+          "aprendizagem_essencial": "Executar canções variando altura, timbre e ritmo.",
+          "habilidade": "EF09AR20",
+          "conteudo": "Expressão Musical. - Função Social da Música. - Canção de Protesto.",
+          "objetivos_aprendizagem": [
+            "Executar canções variando altura, timbre e ritmo.",
+            "Expressar ideias musicais de maneira individual.",
+            "Colaborar na construção de arranjos e composições musicais."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Recriando gêneros musicais - Aula Complementar",
+          "aprendizagem_essencial": "Decompor elementos constitutivos da música usando recursos digitais.",
+          "habilidade": "EF09AR20",
+          "conteudo": "Música e Tecnologia. - Composição Musical. - Elementos de Composição.",
+          "objetivos_aprendizagem": [
+            "Decompor elementos constitutivos da música usando recursos digitais.",
+            "Compor músicas e arranjos variando altura, timbre e ritmo.",
+            "Criar composições utilizando diferentes materiais sonoros."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Criando nossa composição",
+          "aprendizagem_essencial": "Criar uma composição utilizando diferentes materiais sonoros.",
+          "habilidade": "EF09AR19",
+          "conteudo": "Música e Tecnologia. - Composição Musical. - Elementos de Composição.",
+          "objetivos_aprendizagem": [
+            "Criar uma composição utilizando diferentes materiais sonoros.",
+            "Colaborar na construção de arranjos e composições.",
+            "Criar arranjos variando vozes, sons corporais e instrumentos musicais."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "O que nossa música diz sobre nós",
+          "aprendizagem_essencial": "Relacionar as práticas musicais às diferentes dimensões da vida social.",
+          "habilidade": "EF09AR19",
+          "conteudo": "Função Social da Música. - Apreciação Musical. - Expressão Musical.",
+          "objetivos_aprendizagem": [
+            "Relacionar as práticas musicais às diferentes dimensões da vida social.",
+            "Examinar a música como narrativa de identidade coletiva."
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1923 @@
+{
+  "disciplina": "LP",
+  "etapa": "EM",
+  "series": {
+    "1ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "A literatura medieval portuguesa e suas influências",
+          "aprendizagem_essencial": "AE1 - Identificar assimil ações, rupturas e permanências na constituição da literatura brasileira, reconhecendo as peculiaridades estruturais e estéticas de diferentes gêneros literários de cada período.",
+          "habilidade": "EM13LGG601, EM13LGG102, EM13LP48",
+          "conteudo": "A Idade Média em Portugal e a influência da cultura galego-portuguesa. Flexão verbal (tempos e modos verbais).",
+          "objetivos_aprendizagem": [
+            "Conhecer brevemente o contexto histórico da Idade Média em Portugal e suas principais características culturais.",
+            "Reconhecer as manifestações literárias ocorrentes culturais.",
+            "Relacionar o impacto cultural desse período com o surgimento do Trovadorismo em Portugal.",
+            "Revisar tempos e modos verbais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Análise linguística/semiótica.",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08 - Analisar elementos e aspectos da sintaxe do português, como o ando dos constituintes da sentença, e os efeitos que causam sua inversão; e através dos sistemas, de concordância e subordinação (e o seu efeito no sentido) e a sintaxe de modo concordante e de regência, de modo especial no reconhecimento da compreensão e produção de textos e a possibilidade das escolhas adequadas à situação comunicativa.",
+          "conteudo": "4, 6, 8, 10, 14, 16, 18, 25, 26",
+          "objetivos_aprendizagem": [
+            "Identificar, em um texto, normas ortográficas, de concordância, regência ou colocação pronominal.",
+            "Reconhecer o efeito de sentido decorrente da exploração de recursos ortográficos e/ou morfossintáticos.",
+            "Reconhecer as variedades linguísticas em diferentes situações de uso social da língua.",
+            "Reconhecer o uso dos tempos, modos, vozes e/ou flexão verbais."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Versos medievais em ritmos atuais – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar assimil ações, rupturas e permanências na constituição da literatura brasileira, reconhecendo as peculiaridades estruturais e estéticas de diferentes gêneros literários de cada período.",
+          "habilidade": "EM13LGG601, EM13LGG102, EM13LP48",
+          "conteudo": "Cantigas: amor, amigo, escárnio e maldizer.",
+          "objetivos_aprendizagem": [
+            "Conhecer as principais características das cantigas medievais.",
+            "Interpretar e analisar os temas e as funções sociais das Idade Média, estabelecendo conexões com práticas musicais atuais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Versos medievais em ritmos atuais – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LGG601, EM13LGG102, EM13LP08",
+          "conteudo": "Verbos. Flexão verbal.",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto.",
+            "Identificar elementos mórficos na estrutura das palavras."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Gil Vicente e O Auto da Barca do Inferno - Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar assimilizações, rupturas e permanências na construção da literatura brasileira.",
+          "habilidade": "EM13LGG01, EM13LGG02",
+          "conteudo": "A se você poscreditou o autor da obra de Gil Vicente.",
+          "objetivos_aprendizagem": [
+            "Compreender o contexto histórico-artístico e a obra de Gil Vicente."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Gil Vicente e O Auto da Barca do Inferno – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LGG601, EM13LGG102, EM13LP08",
+          "conteudo": "Elementos mórficos na formação de palavras. Formação de palavras (radiais, prefixos, sufixos).",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto.",
+            "Identificar elementos mórficos na estrutura das palavras."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "O Classicismo e Os Lusíadas – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar assimilações, rupturas e permanências na constituição da literatura brasileira, reconhecendo as peculiaridades estruturais e estilísticas de diferentes gêneros literários de cada período.",
+          "habilidade": "EM13LGG601, EM13LP48",
+          "conteudo": "Contexto histórico do Classicismo. Fragmento da obra Os Lusíadas, de Camões.",
+          "objetivos_aprendizagem": [
+            "Compreender breve contexto histórico do Classicismo e do Quinhentismo na Europa.",
+            "Analisar fragmento de Os Lusíadas, reconhecendo suas características épicas e clássicas.",
+            "Despertar o gosto pela leitura por meio da fruição dos poemas clássicos de Camões.",
+            "Analisar a vida e a obra de Camões, identificando temas recorrentes em seus poemas.",
+            "Incentivar a interpretação poética."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "O Classicismo e Os Lusíadas – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Tipos de sujeito (simples, composto, oculto, indeterminado).",
+          "objetivos_aprendizagem": [
+            "Compreender os tipos de sujeito (simples, composto, oculto, indeterminado)."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Quem tem medo de poesia falada? – Parte 1",
+          "aprendizagem_essencial": "AE3 - Apreciar textos literários, observando efeitos de sentido gerados por escolhas linguísticas e figuras de linguagem.",
+          "habilidade": "EM13LP16",
+          "conteudo": "Poema falado: slam. Versificação.",
+          "objetivos_aprendizagem": [
+            "Compreender características dos poemas falados.",
+            "Observar a versificação (verso, rima, estrofe e métrica) nesses textos.",
+            "Apreciar e avaliar aspectos estéticos e políticos em textos e produções artísticas e culturais."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Quem tem medo de poesia falada? – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP09",
+          "conteudo": "Poema falado: slam. Linguagem informal e variedades linguísticas.",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto.",
+            "Refletir sobre a relação entre informalidade, formalidade e registro."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Um texto em outros textos",
+          "aprendizagem_essencial": "AE4 - Identificar os efeitos de sentido decorrentes de escolhas linguísticas e da relação entre textos.",
+          "habilidade": "EM13LP03",
+          "conteudo": "Intertextualidade. Paráfrase e paródia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de textos literários.",
+            "Reconhecer o conceito de conotação e denotação por meio da observação de relações intertextuais.",
+            "Ampliar possibilidades de construção de sentido e uso crítico da língua."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Sentidos reais, sentidos simbólicos",
+          "aprendizagem_essencial": "AE4 - Identificar os efeitos de sentido decorrentes de escolhas linguísticas e da relação entre textos.",
+          "habilidade": "EM13LP06",
+          "conteudo": "Denotação e conotação em textos literários. Efeitos de sentido.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 13,
+          "titulo": "Clássicos e marginais – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar assimil ações, rupturas e permanências na constituição da literatura brasileira, reconhecendo as peculiaridades estruturais e estilísticas de diferentes gêneros literários de cada período.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura de poemas. Comparação entre características de obras clássicas e obras marginais. Conceito de literatura marginal. Contracultura.",
+          "objetivos_aprendizagem": [
+            "Identificar, no gênero textual poema, a presença de valores sociais e culturais e as diferentes visões de mundo, por meio dos recursos semânticos.",
+            "Comparar aspectos dos poetas sob a ótica de serem obras clássicas ou marginais.",
+            "Aprofundar reflexão sobre literatura, chegando ao conceito de \"literatura marginal\" (1960-1980)."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Clássicos e marginais – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP09",
+          "conteudo": "A norma-padrão e a variação linguística. Ortografia e a contracultura na \"geração mimeográfica\". A poesia periférica e a construção ortográfica.",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto.",
+            "Identificar os efeitos de sentido causados pela quebra de convenções ortográficas.",
+            "Compreender a variação linguística como um fenômeno natural da língua.",
+            "Relacionar o uso da linguagem com o contexto social e cultural de produção de um texto."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Literatura periférica – Parte 1",
+          "aprendizagem_essencial": "AE5 - Reconhecer a função social da literatura, por meio da leitura e da escuta de textos, analisando textos literários de gêneros diversos e identificando gostos pessoais.",
+          "habilidade": "EM13LP46",
+          "conteudo": "Compreensão de texto. Sensibilização para sentidos literais e não literais. Literatura periférica.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre os sentidos dos textos.",
+            "Refletir sobre a relação entre literatura e contexto social.",
+            "Aprofundar a reflexão sobre literatura periférica (pós-2000).",
+            "Ler exemplos de literatura periférica."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Literatura periférica – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Advérbios e locuções adverbiais.",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Charges e cartuns – Parte 1",
+          "aprendizagem_essencial": "EM13LG103",
+          "habilidade": "EM13LG103",
+          "conteudo": "Linguagem verbal e não verbal: charges e cartuns. Compreender a estrutura, linguagem e função social do gênero.",
+          "objetivos_aprendizagem": [
+            "Identificar de que forma charges e cartuns comunicam opinião/e/ou críticas.",
+            "Reconhecer diferentes formas de manifestação da linguagem."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Charges e cartuns – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Analisar a norma-padrão em funcionamento no texto. Compreender a regência verbal e nominal como um recurso essencial para a clareza e precisão da comunicação.",
+          "objetivos_aprendizagem": [
+            "Analisar a norma-padrão em funcionamento no texto.",
+            "Compreender a regência verbal e nominal como um recurso essencial para a clareza e precisão da comunicação."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "A cara dos textos noticiosos",
+          "aprendizagem_essencial": "AE6 - Analisar os diferentes graus de parcialidade ou imparcialidade em textos noticiosos para conscientizar-se das escolhas do produtor e ter uma atitude crítica diante dos textos lidos.",
+          "habilidade": "EM13LP38",
+          "conteudo": "Leitura de notícia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender notícia(s).",
+            "Refletir criticamente sobre o papel do jornalista na curadoria de informações e na elaboração da notícia.",
+            "Discutir efeitos de sentido do modo como dados e fatos são apresentados.",
+            "Observar uso expressivo de recursos linguísticos."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Marcas jornalísticas em temas de amplo interesse",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Leitura de reportagem.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de reportagem.",
+            "Refletir criticamente sobre o papel do repórter na curadoria de informações e na elaboração da reportagem.",
+            "Discutir os critérios usados para avaliar o interesse (local ou global) em abordar determinados temas.",
+            "Observar uso expressivo de recursos linguísticos."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Imagens que contam histórias",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Fototécnicas. Fotoreportagens. Fotodenúncias.",
+          "objetivos_aprendizagem": [
+            "Ler exemplos de fototecnicas, fotoreportagens e/ou fotodenúncias.",
+            "Refletir criticamente sobre função social e efeitos de sentidos desses textos.",
+            "Discutir o impacto jornalístico de produtos visuais e as características composicionais das imagens lidas."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Outras formas de ver os dados",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Leitura e análise de infográficos.",
+          "objetivos_aprendizagem": [
+            "Analisar e discutir infográficos.",
+            "Discutir de que maneira infográficos beneficiam a compreensão de informações.",
+            "Observar a estrutura composicional e a função social do gênero infográfico.",
+            "Analisar critérios de uso de maiúsculas e minúsculas."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Visões de mundo",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Leitura de artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Analisar e discutir trechos de artigos de opinião.",
+            "Compreender de que forma temas socialmente importantes são discutidos em artigos de opinião.",
+            "Observar as estruturas argumentativas de artigos de opinião.",
+            "Analisar exemplos de regência verbal."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Como você opinaria?",
+          "aprendizagem_essencial": "Ler e compreender resenhas críticas.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Resenha crítica.",
+          "objetivos_aprendizagem": [
+            "Explorar recursos linguísticos do texto.",
+            "Analisar argumentos usados para sustentar opiniões.",
+            "Observar elementos composicionais de resenhas críticas."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Moldando palavras – Parte 1",
+          "aprendizagem_essencial": "Analisar a norma-padrão em funcionamento no texto.",
+          "habilidade": "EM13LP09",
+          "conteudo": "Morfologia: estrutura das palavras (radical, desinência, vogal temática, tema e afixos).",
+          "objetivos_aprendizagem": [
+            "Identificar elementos morfóficos na estrutura das palavras."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Moldando palavras – Parte 2",
+          "aprendizagem_essencial": "Analisar a norma-padrão em funcionamento no texto.",
+          "habilidade": "EM13LP09",
+          "conteudo": "Processos de formação de palavras: derivação.",
+          "objetivos_aprendizagem": [
+            "Identificar elementos morfóficos na estrutura das palavras."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Revisão e retomada – Parte 1",
+          "aprendizagem_essencial": "Revisar conteúdos relacionados a Literatura tratados ao longo do bimestre.",
+          "habilidade": "EM13LP28 EM13LP33",
+          "conteudo": "Trovadorismo. Clasicismo. Literatura marginal. O Auto da Barca do Inferno. Os Lusíadas.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão e retomada – Parte 2",
+          "aprendizagem_essencial": "Revisar os conteúdos gramaticais desenvolvidos ao longo do bimestre.",
+          "habilidade": "EM13LP09 EM13LP33",
+          "conteudo": "Flexão verbal (tempos e modos verbais, conjugação regular e irregular). Condicionamento verbal e nominal. Processos de formação de palavras. Advérbios e locuções adverbiais. Regência nominal e verbal.",
+          "objetivos_aprendizagem": []
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Anuncie aqui! – Parte 1",
+          "aprendizagem_essencial": "AE8 - Analisar textos publicitários e peças de campanhas publicitárias e políticas em contextos digitais ou impressos.",
+          "habilidade": "EM13LP44A",
+          "conteudo": "Leitura de textos publicitários. Análise de efeitos de sentido (verbais e não verbais). Função social e estrutura do gênero anúncio publicitário.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender textos publicitários, analisando estrutura composicional e função social.",
+            "Examinar efeitos de sentido decorrentes da linguagem misto usada nos textos."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Anuncie aqui! – Parte 2",
+          "aprendizagem_essencial": "AE4 - Identificar os efeitos de sentido decorrentes de escolhas lingüísticas e da relação entre textos.",
+          "habilidade": "EM13LP06",
+          "conteudo": "Neologismo. Estrangeirismo.",
+          "objetivos_aprendizagem": [
+            "Examinar a presença de neologismos e estrangeirismos em textos publicitários.",
+            "Analisar os efeitos de sentido decorrentes do uso de neologismos e estrangeirismos, refletindo sobre as intencionalidades dos anunciantes."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Novas formas de fazer publicidade – Parte 1",
+          "aprendizagem_essencial": "AE8 - Analisar textos publicitários e peças de campanhas publicitárias e políticas em contextos digitais ou impressos.",
+          "habilidade": "EM13LP44A",
+          "conteudo": "Leitura de textos publicitários. Ortografia: palavras que geram dúvida.",
+          "objetivos_aprendizagem": [
+            "Analisar novas formas de publicidade, considerando a veiculação em diferentes mídias.",
+            "Examinar impactos da exposição excessiva à publicidade por meio das redes sociais.",
+            "Diferenciar panfletos e outras palavras semelhantes, mas que expressam significados diferentes em língua portuguesa."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Novas formas de fazer publicidade – Parte 2",
+          "aprendizagem_essencial": "AE4 - Identificar os efeitos de sentido decorrentes de escolhas lingüísticas e da relação entre textos.",
+          "habilidade": "EM13LP06",
+          "conteudo": "Acentuação de palavras.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente formas contemporâneas de publicidade, examinando efeitos de sentido decorrentes do uso, entre outros elementos composicionais do gênero.",
+            "Empregar regras de acentuação ao escrever palavras."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Do interesse de todos – Parte 1",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP05",
+          "conteudo": "Leitura de texto de opinião. Movimentos argumentativos (sustentação e negociação).",
+          "objetivos_aprendizagem": [
+            "Analisar textos argumentativos, identificando posicionamentos e argumentos utilizados no texto.",
+            "Levantar a opinião do autor em relação a determinado assunto e discutir se é possível ou não refletir e pesquisar sobre o mesmo."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Do interesse de todos – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas lingüísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Concordância verbal com sujeito composto.",
+          "objetivos_aprendizagem": [
+            "Examinar casos de concordância verbal com sujeito composto a partir de leitura de texto argumentativo.",
+            "Refletir sobre os erros e acertos dados do normapadrão da língua portuguesa."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Em alto e bom som",
+          "aprendizagem_essencial": "Gênero debate.",
+          "habilidade": "EM13LGG303",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Identificar estratégias argumentativas para uma defesa consistente de posicionamento, considerando valores desejáveis e universalização de direitos humanos.",
+            "Examinar tema para debate, considerando possíveis explicações, interpretações e intervenções relacionadas ao tema."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "O Debate – Parte 1: preparação",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP27 EM13LGG303",
+          "conteudo": "Debate: Parte 1 – preparação para o evento.",
+          "objetivos_aprendizagem": [
+            "Planejar debate oral, definindo tema e estabelecendo vínculos de papéis no grupo.",
+            "Pesquisar o tema para debater e discutir questões a fim de construir argumentos sólidos em defesa de ideias.",
+            "Propor formas de solucionar problemas que envolvam a coletividade, considerando valores desejáveis e direitos humanos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "O Debate – Parte 2: apresentação",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP27 EM13LGG303",
+          "conteudo": "Debate: Parte 2 – apresentação do evento a partir da discussão de tópicos polêmicos.",
+          "objetivos_aprendizagem": [
+            "Participar de debate oral, respeitando turnos de fala e posicionando-se de forma crítica e ética.",
+            "Analisar argumentos apresentados para formular, negociar e sustentar posições."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "O Debate – Parte 3: avaliação",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP27 EM13LGG303",
+          "conteudo": "Debate: Parte 3 – avaliação dos grupos do debate (planejamento, produção, revisão dos textos e apresentação oral).",
+          "objetivos_aprendizagem": [
+            "Identificar pontos positivos e pontos de atenção relativos aos debates do grupo.",
+            "Avaliar as ações desenvolvidas no oral, considerando a construção de melhorias para próximas atividades.",
+            "Propor sugestões de melhorias para próximas atividades."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Artigo de Opinião – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP45",
+          "conteudo": "Leitura de artigo de opinião, analisando estrutura composicional, linguagem e tema.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender artigo de opinião, analisando estrutura composicional, linguagem e tema.",
+            "Refletir e discutir opiniões apresentadas no texto, posicionando-se em relação ao tema e aos argumentos."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Artigo de Opinião – Parte 2",
+          "aprendizagem_essencial": "AE4 - Identificar os efeitos de sentido decorrentes de escolhas linguísticas e da relação entre textos.",
+          "habilidade": "EM13LP06",
+          "conteudo": "Elementos coesivos.",
+          "objetivos_aprendizagem": [
+            "Analisar efeitos de sentido decorrentes do uso de palavras e expressões em artigo de opinião.",
+            "Examinar o uso de elementos coesivos, aproprian-do-se de estratégias para produzir textos coesos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Leitor antenado",
+          "aprendizagem_essencial": "AE6 - Analisar os diferentes graus de parcialidade e/ou imparcialidade em textos noticiosos para conscientizar-se das escolhas do produtor e ter uma atitude crítica diante dos textos lidos.",
+          "habilidade": "EM13LP38",
+          "conteudo": "Fatos e opiniões no texto jornalístico. Pronomes demonstrativos.",
+          "objetivos_aprendizagem": [
+            "Diferenciar fato de opinião ao ler texto jornalístico.",
+            "Analisar graus de parcialidade/imparcialidade em texto jornalístico, reconhecendo as intencionalidades dos veículos midiáticos.",
+            "Examinar a função de pronomes demonstrativos em texto jornalístico."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Mesmo tema, visões diferentes!",
+          "aprendizagem_essencial": "AE6 - Analisar os diferentes graus de parcialidade ou imparcialidade em textos noticiosos para conscientizar-se das escolhas do produtor e ter uma atitude crítica diante dos textos lidos.",
+          "habilidade": "EM13LP38",
+          "conteudo": "Análise de manchetes de jornais. Presente histórico.",
+          "objetivos_aprendizagem": [
+            "Examinar as diferentes funções dos textos do campo jornalístico-midiático: informar, argumentar, entretener e relatar.",
+            "Analisar manchetes de jornais sobre um mesmo acontecimento, identificando posições e intencionalidades e posicionando-se sobre o modo como isso é feito.",
+            "Analisar efeitos de sentido decorrentes do uso de verbos no presente histórico."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "A opinião do leitor – Parte 1",
+          "aprendizagem_essencial": "AE7 - Analisar textos da esfera jornalístico-midiática, tendo em vista temas e acontecimentos de interesse local ou global, compartilhando percepções pessoais e críticas fundamentais.",
+          "habilidade": "EM13LP05",
+          "conteudo": "Leitura de carta do leitor.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender carta do leitor, analisando formas estratégias de contéudos veiculados pela mídia.",
+            "Refletir e posicionar-se sobre o tema e a argumentação apresentados no texto analisado."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "A opinião do leitor – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Regência nominal e verbal.",
+          "objetivos_aprendizagem": [
+            "Examinar casos de regência nominal e verbal em carta de leitor, verificando-se de regras da norma-padrão da língua.",
+            "Praticar os efeitos dessa regência na produção de textos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Histórias que a vida conta – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar assimilações, rupturas e permanências na constituição da literatura brasileira, reconhecendo estruturas e estilísticas de diferentes textos de cada período.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura de crônica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender crônica, analisando estrutura narrativa, linguagem, intervenção social do autor."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Histórias que a vida conta – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa e as escolhas linguísticas de acordo com os diversos contextos comunicativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Período composto por coordenação e subordinação.",
+          "objetivos_aprendizagem": [
+            "Examinar períodos compostos a partir de leitura de crônica, diferenciando período composto por coordenação e por subordinação.",
+            "Analisar os efeitos de sentido gerados pelos períodos compostos."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Palavras com efeitos especiais – Parte 1",
+          "aprendizagem_essencial": "EM13LP49",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura e compreensão de poema.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poema, analisando estrutura composicional, linguagem, tema e função social do gênero.",
+            "Analisar efeitos de sentido decorrentes do uso de linguagem denotativa e conotativa no texto.",
+            "Apreciar poemas, expressando opiniões sobre o texto lido."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Palavras com efeitos especiais – Parte 2",
+          "aprendizagem_essencial": "EM13LP49",
+          "habilidade": "EM13LP49",
+          "conteudo": "Figuras de linguagem (comparação, metáfora, antítese e eufemismo).",
+          "objetivos_aprendizagem": [
+            "Diferenciar conotação e denotação ao ler texto literário.",
+            "Comparar diferentes figuras de linguagem, analisando os efeitos de sentido que geram em poemas."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Vidas literárias: Fernando Pessoa – Parte 1",
+          "aprendizagem_essencial": "EM13LP49",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura e compreensão de biografia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender biografia, analisando estrutura composicional, linguagem e função social.",
+            "Analisar, de forma comparada, como os conhecimentos prévios sobre Fernando Pessoa da biografia se relacionam com a leitura de poemas."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Vidas literárias: Fernando Pessoa – Parte 2",
+          "aprendizagem_essencial": "EM13LP49",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura e compreensão de poemas.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas de Fernando Pessoa, analisando os efeitos de sentido providos pelo uso de recursos expressivos.",
+            "Examinar a função do hibridismo, do paradoxo e da personificação em textos poéticos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "A linguagem literária – Parte 1",
+          "aprendizagem_essencial": "EM13LP49",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura e compreensão em textos poéticos (rima, aliteração, assonância e temas abordados).",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas, analisando temas abordados.",
+            "Analisar os efeitos de sentido gerados pelo uso de recursos sonoros."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "A linguagem literária – Parte 2",
+          "aprendizagem_essencial": "AE10 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indiana, africana e latino-americana, considerando suas características, contextos de produção e relações com o presente.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura e compreensão de poemas.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas, analisando estrutura composicional, linguagem e temas abordados.",
+            "Reconhecer período composto por coordenação, analisando os efeitos de sentido que gera no texto analisado."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Mundos alternativos: ficção científica – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "AE10 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indiana, africana e latino-americana, considerando suas características, contextos de produção e relações com o presente.",
+          "habilidade": "EM13LP46",
+          "conteudo": "Leitura e compreensão de conto de ficção científica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto de ficção científica, analisando estrutura composicional, linguagem e temas abordados.",
+            "Perceber as peculiaridades estilísticas da literatura de ficção científica, analisando os efeitos de sentido decorrentes do uso de vocabulário da área das ciências.",
+            "Refletir e posicionar-se sobre o texto analysado, expressando predileções sobre gêneros do campo artístico-literário."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Mundos alternativos: ficção científica – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "AE10 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indiana, africana e latino-americana, considerando suas características, contextos de produção e relações com o presente.",
+          "habilidade": "EM13LP46",
+          "conteudo": "Leitura e compreensão de conto de ficção científica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto de ficção científica, analisando estrutura composicional, linguagem e temas abordados.",
+            "Reconhecer período composto por subordinação, analisando os efeitos de sentido que gera no texto analisado."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Revisão bimestral – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "AE10 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indiana, africana e latino-americana, considerando suas características, contextos de produção e relações com o presente.",
+          "habilidade": "EM13LP28",
+          "conteudo": "Literatura: poemas e figuras de linguagem.",
+          "objetivos_aprendizagem": [
+            "Revisar conteúdos relacionados aos campo artístico-literário estudados ao longo do bimestre.",
+            "Elaborar mapa mental que ajude a organizar os principais pontos aprendidos."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Revisão bimestral – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "AE10 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indiana, africana e latino-americana, considerando suas características, contextos de produção e relações com o presente.",
+          "habilidade": "EM13LP28",
+          "conteudo": "Período composto por subordinação e coordenação.",
+          "objetivos_aprendizagem": [
+            "Revisar período composto por coordenação e subordinação estudado ao longo do bimestre.",
+            "Elaborar mapa mental que ajude a organizar os principais pontos aprendidos."
+          ]
+        }
+      ]
+    },
+    "2ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Comecemos com a literatura – Parte 1",
+          "aprendizagem_essencial": "AE1 - Analisar as relações intertextuais e interdiscursivas entre obras de diferentes autores e gêneros literários, identificando os diálogos entre obras de um mesmo período e/ou de momentos históricos diversos.",
+          "habilidade": "EM13GG101 EM13LP04",
+          "conteudo": "Texto literário e não literário (definição).",
+          "objetivos_aprendizagem": [
+            "Analisar dois trechos de textos sobre o mesmo tema, um literário e um não literário.",
+            "Usar Estratégias de leitura para compreensão dos textos e da relação entre eles.",
+            "Identificar aspectos que caracterizam o texto literário e o não literário."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Comecemos com a literatura – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa, identificando escolhas linguísticas em textos diversos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Estrutura da oração (sujeito, predicado).",
+          "objetivos_aprendizagem": [
+            "Rever a estrutura da oração."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Poesia em foco – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa, identificando escolhas linguísticas em textos diversos.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Poema – marcas do gênero. Contexto de produção de texto literário.",
+          "objetivos_aprendizagem": [
+            "Identificar características do gênero literário poema.",
+            "Analisar o contexto histórico-social do texto para atribuir significados a partir de uma leitura crítica.",
+            "Conhecer a literatura medieval portuguesa, comparando-a com poemas contemporâneos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Poesia em foco – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa, identificando escolhas linguísticas em textos diversos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Estrutura da oração (sujeito, predicado, complementos verbais e nominais).",
+          "objetivos_aprendizagem": [
+            "Revisar a estrutura da oração.",
+            "Reconhecer complemento verbal e complemento nominal."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Lendo Gregório de Matos",
+          "aprendizagem_essencial": "AE3 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indígena, africana e latino-americana, criticando os diferentes matizes culturais e visões de mundo que as tornam relevantes até os dias de hoje.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Gregório de Matos. Informações sobre o poeta e seu tempo. A poesia satírica. Análise de poema.",
+          "objetivos_aprendizagem": [
+            "Ler e analisar a poesia de Gregório de Matos, considerando temas, estrutura e linguagem.",
+            "Reconhecer contexto histórico, social e cultural da produção literária de Gregório de Matos e aspectos de seu estilo.",
+            "Identificar características recorrentes na poesia satírica."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Arcadismo",
+          "aprendizagem_essencial": "AE3 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indígena, africana e latino-americana, criticando os diferentes matizes culturais e visões de mundo que as tornam relevantes até os dias de hoje.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Arcadismo: período e características, principais autores e obras.",
+          "objetivos_aprendizagem": [
+            "Compreender brevemente o contexto histórico e cultural do Arcadismo.",
+            "Reconhecer características literárias do período.",
+            "Analisar trecho de obra representativa."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Depois da Era Clássica – Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indígena, africana e latino-americana, criticando os diferentes matizes culturais e visões de mundo que as tornam relevantes até os dias de hoje.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Barroco e Arcadismo: períodos e características, principais autores e obras.",
+          "objetivos_aprendizagem": [
+            "Compreender o contexto histórico e cultural do Barroco.",
+            "Reconhecer características literárias do período.",
+            "Conhecer alguns principais autores e trechos de obras representativas do Barroco e do Arcadismo."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Depois da Era Clássica – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indígena, africana e latino-americana, criticando os diferentes matizes culturais e visões de mundo que as tornam relevantes até os dias de hoje.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Barroco (retomada): período e características, principais autores e obras. Emprego do verbo \"haver\".",
+          "objetivos_aprendizagem": [
+            "Reconhecer características literárias do período.",
+            "Reconhecer alguns dos principais autores e trechos de obras representativas do Barroco.",
+            "Compreender a impossibilidade do verbo haver.",
+            "Analisar contextos em que há contextos em que não há flexão para o plural."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Neoclassicismo e Pré-Romantismo português – Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar obras significativas da literatura brasileira e de expressão portuguesa, indígena, africana e latino-americana, criticando os diferentes matizes culturais e visões de mundo que as tornam relevantes até os dias de hoje.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Neoclassicismo e Pré-Romantismo português.",
+          "objetivos_aprendizagem": [
+            "Compreender o contexto histórico e cultural do neoclassicismo e pré-romantismo português.",
+            "Reconhecer características literárias de cada período.",
+            "Conhecer alguns principais autores e trechos de obras representativas."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Neoclassicismo e Pré-Romantismo português – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa, identificando escolhas linguísticas em textos diversos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Neoclassicismo e Pré-Romantismo português. Emprego da conjunção adversativa \"mas\" e do advérbio de intensidade comparativa \"mais\".",
+          "objetivos_aprendizagem": [
+            "Analisar poema (Neoclassicismo/Pré-Romantismo).",
+            "Compreender morfossintaticamente as palavras \"mas\" e \"mais\".",
+            "Analisar conjunções e advérbios."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Leitura de gráficos",
+          "aprendizagem_essencial": "AE4 - Analisar textos do campo jornalístico-midiático para produzir textos autorais contextualizados.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Textos multimodais diversos.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar gráficos.",
+            "Analisar as formas de apresentação de informações visualmente.",
+            "Compreender os contextos de uso, estrutura proposicional e função social do gráfico, observando sobretudo gráficos de reportagens jornalísticas e de divulgação científica."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Leitura de infográficos",
+          "aprendizagem_essencial": "AE4 - Analisar textos do campo jornalístico-midiático para produzir textos autorais contextualizados.",
+          "habilidade": "EM13LP45",
+          "conteudo": "Textos multimídia diversos.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar infográficos.",
+            "Analisar as formas de apresentação de informações visualmente e comparar-las a outros tipos de representação.",
+            "Compreender contextos de uso, estrutura composicional e função social do gênero, observando sobre infográficos usados em reportagens jornalísticas ou de divulgação científica."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Divulgação científica",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP31",
+          "conteudo": "Leitura de texto de divulgação científica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer elementos característicos de um texto de divulgação científica.",
+            "Inferir as motivações do autor ao produzir o texto (informar, alertar, conscientizar, estimular reflexão etc.)."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Características de textos destinados a divulgar ciência",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP02",
+          "conteudo": "Textos de divulgação científica: estrutura e características. Progressão temática.",
+          "objetivos_aprendizagem": [
+            "Reconhecer características do texto de divulgação científica.",
+            "Reconhecer e utilizar mecanismos de progressão temática.",
+            "Compor mensagens, utilizando corretamente advérbios e locuções."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Resumir é um poder – Parte 1",
+          "aprendizagem_essencial": "AE6 - Produzir textos escritos e multissemióticos, considerando sua adequação às condições de produção e circulação.",
+          "habilidade": "EM13LP12 EM13LP11",
+          "conteudo": "Gênero resumo. Citação direta e paráfrase.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho(s) de resumo(s).",
+            "Conhecer estratégias para se fazer um resumo.",
+            "Produzir um resumo."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Resumir é um poder – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar elementos da sintaxe da língua portuguesa, identificando escolhas linguísticas em textos diversos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Conectivos – conjunções e locuções conjuntivas.",
+          "objetivos_aprendizagem": [
+            "Identificar diferentes tipos de conectivos, com foco em conjunções e locuções conjuntivas.",
+            "Analisar as relações de sentido que os conectivos estabelecem entre os orações (adição, causa, comparação, condição etc.).",
+            "Produzir parágrafos onde os conectivos na construção do coesão textual."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "O essencial é visível nas sinopses",
+          "aprendizagem_essencial": "O gênero sinopse.",
+          "habilidade": "EM13LP53 EM13LP06",
+          "conteudo": "• O gênero sinopse.",
+          "objetivos_aprendizagem": [
+            "Ler, interpretar e analisar exemplos de sinopse.",
+            "Identificar as características do gênero textual e sua função social.",
+            "Inferir como é para que se escreve uma sinopse."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Conhecimentos acumulados",
+          "aprendizagem_essencial": "Leitura de verbete enciclopédico.",
+          "habilidade": "EM13LP02A EM13LGG103",
+          "conteudo": "• Leitura de verbete enciclopédico. Compreensão do tipo textual expositivo. Denotação e conotação.",
+          "objetivos_aprendizagem": [
+            "Ler verbete(s) enciclopédico(s).",
+            "Analisar o efeito de sentido de escolhas linguísticas no texto.",
+            "Reconhecer o texto expositivo e suas características.",
+            "Compreender denotação e conotação."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Opinar ou não opinar, eis a questão – Parte 1",
+          "aprendizagem_essencial": "Artigo de opinião.",
+          "habilidade": "EM13LP38",
+          "conteudo": "• Artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Compreender e analisar artigos de opinião, identificando o ponto de vista do articulista.",
+            "Avaliar efeitos de sentido no modo como são apresentadas informações, argumentos e opiniões."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Opinar ou não opinar, eis a questão – Parte 2",
+          "aprendizagem_essencial": "Modalizadores discursivos.",
+          "habilidade": "EM13LP07",
+          "conteudo": "• Modalizadores discursivos. Tipos de modalizadores. Análise de modalizadores em diferentes textos.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função de modalizadores discursivos.",
+            "Analisar a função de modalizadores em diferentes contextos."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Leitura crítica de charges – Parte 1",
+          "aprendizagem_essencial": "Gênero charge: características. Leitura e interpretação.",
+          "habilidade": "EM13LGG102 EM13LP09",
+          "conteudo": "• Gênero charge: características. Leitura e interpretação. Linguagem verbal, não verbal e mista.",
+          "objetivos_aprendizagem": [
+            "Compreender o efeito de sentido do uso de elementos visuais.",
+            "Analisar discurso social/político na charge."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Leitura crítica de charges – Parte 2",
+          "aprendizagem_essencial": "Leitura crítica de charge. Uso de pronomes.",
+          "habilidade": "EM13LGG102 EM13LP09",
+          "conteudo": "• Leitura crítica de charge.",
+          "objetivos_aprendizagem": [
+            "Analisar criticamente charges.",
+            "Reconhecer e compreender o uso dos pronomes nas charges."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Anúncio Publicitário/Propaganda – Parte 1",
+          "aprendizagem_essencial": "Gênero anúncio publicitário. Elementos de persuasão.",
+          "habilidade": "EM13LP44C EM13LG704",
+          "conteudo": "• Gênero anúncio publicitário. Elementos de persuasão. Modo imperativo do texto.",
+          "objetivos_aprendizagem": [
+            "Estabelecer a relação entre linguagem, veículo e público-alvo.",
+            "Interpretar diferentes tipos de texto em um anúncio publicitário.",
+            "Reconhecer e familiarizar-se com elementos de persuasão."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Anúncio Publicitário/propaganda – Parte 2",
+          "aprendizagem_essencial": "Linguagem verbal e não verbal.",
+          "habilidade": "EM13P44C EM13LG704",
+          "conteudo": "Gênero anúncio publicitário e slogan. Tipo textual injuntivo. Função apelativa ou conativa da linguagem.",
+          "objetivos_aprendizagem": [
+            "Reconhecer efeitos de sentido da linguagem verbal e da não verbal.",
+            "Reconhecer a função conativa/apelativa da linguagem."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Anúncio Publicitário/Propaganda – Parte 3",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP08",
+          "conteudo": "Slogan. Pontuação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o uso da pontuação em textos publicitários.",
+            "Identificar as características do slogan.",
+            "Produzir slogans utilizando a pontuação adequada."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Denunciar é preciso",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP45",
+          "conteudo": "Leitura de cartaz.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender cartazes.",
+            "Compreender elementos recorrentes em orientações sobre denúncias.",
+            "Analisar criticamente o gênero, reconhecendo sua função social.",
+            "Compreender usos do modo imperativo e do ponto de exclamação em cartazes."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Literatura em movimento – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LG101 EM13LP04",
+          "conteudo": "Contexto de produção e circulação de textos literários (Barroco, Arcadismo e Pré-Romantismo). Intertextualidade e interdisciplinaridade. Construção de sentido a partir da relação entre textos.",
+          "objetivos_aprendizagem": [
+            "Compreender os contextos de produção, circulação e recepção dos textos literários.",
+            "Identificar relações de intertextualidade e interdisciplinaridade, a fim de construir sentidos e sustentar interpretações."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Literatura em movimento – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP08",
+          "conteudo": "Morfossintaxe e estilo nos textos literários: ordem dos constituintes, coordenação, subordinacão, concordância e regência.",
+          "objetivos_aprendizagem": [
+            "Analisar estrutura sintática e efeitos de sentido.",
+            "Reconhecer/relacionar as escolhas linguísticas nos textos literários.",
+            "Estabelecer relação entre forma, contexto e intenção comunicativa."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Conto – Parte 1",
+          "aprendizagem_essencial": "Foco narrativo.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Gênero conto.",
+          "objetivos_aprendizagem": [
+            "Ler um conto, explorando o foco narrativo.",
+            "Analisar visões de mundo e ética presentes em textos literários."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Conto – Parte 2",
+          "aprendizagem_essencial": "Elementos da narrativa.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Gênero literário conto.",
+          "objetivos_aprendizagem": [
+            "Ler um conto, analisando visões de mundo e ética presentes em textos literários.",
+            "Reconhecer elementos da narrativa."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Conto – Parte 3",
+          "aprendizagem_essencial": "Classes de palavras (revisão).",
+          "habilidade": "EM13LP06",
+          "conteudo": "Leitura e análise de conto.",
+          "objetivos_aprendizagem": [
+            "Ler e analisar conto breve.",
+            "Examinar como diferentes classes de palavras geram diferentes efeitos de sentido em textos literários."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Conto – Parte 4",
+          "aprendizagem_essencial": "Advérbios e locuções adverbiais.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Leitura e análise de contos.",
+          "objetivos_aprendizagem": [
+            "Identificar as características e reconhecer a estrutura do gênero conto.",
+            "Identificar os elementos da narrativa.",
+            "Reconhecer e classificar advérbios e locuções adverbiais."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Romantismo no ar – Parte 1",
+          "aprendizagem_essencial": "Contexto histórico do Romantismo.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Introdução ao Romantismo.",
+          "objetivos_aprendizagem": [
+            "Compreender o contexto histórico do surgimento do Romantismo.",
+            "Reconhecer a produção literária romântica.",
+            "Identificar autores do Romantismo em Portugal e compreender as principais características de suas obras."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Romantismo no ar – Parte 2",
+          "aprendizagem_essencial": "Características do romantismo português.",
+          "habilidade": "EM13LP50",
+          "conteudo": "Romantismo em Portugal.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as características do romantismo português.",
+            "Identificar as características das obras do romantismo, analisando efeitos de sentimentos encontrados nos romances."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Romantismo no Brasil – José de Alencar",
+          "aprendizagem_essencial": "Literatura indianista.",
+          "habilidade": "EM13LP48",
+          "conteudo": "Romantismo no Brasil.",
+          "objetivos_aprendizagem": [
+            "Analisar a contribuição de José de Alencar para a literatura indianista, identificando características permanências e rupturas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Romantismo indianista e vozes indígenas contemporâneas",
+          "aprendizagem_essencial": "Análise de texto indianista do século XIX e literatura indígena contemporânea.",
+          "habilidade": "EM13LP48",
+          "conteudo": "Literatura comparada.",
+          "objetivos_aprendizagem": [
+            "Comparar os contextos históricos e as produções literárias do século XIX às produções indígenas contemporâneas.",
+            "Analisar e discutir diferentes contextos literários, desenvolvendo uma visão crítica e histórica.",
+            "Examinar o uso das vozes passiva e ativa em trechos de textos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Re-significando a literatura indígena – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de conto indígena.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender o conto indígena, analisando elementos composicionais, informações explícitas e implícitas e visões de mundo expressas no texto.",
+            "Relacionar o título ao conteúdo e ao fim de interpretar possíveis significados.",
+            "Analisar os efeitos de sentido decorrentes do uso de palavras e expressões no texto."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Re-significando a literatura indígena – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP08",
+          "conteudo": "Acentuação.",
+          "objetivos_aprendizagem": [
+            "Analisar diferentes casos de acentuação de palavras, apropriando-se de regras de ortografia da norma-padrão da língua portuguesa."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Re-significando a literatura indígena – Parte 3",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de conto indígena.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto indígena, analisando efeitos de sentido decorrentes do uso de palavras ou expressões.",
+            "Examinar marcas do texto e posicionar-se sobre o conto lido, expressando opiniões."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Re-significando a literatura indígena – Parte 4",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Paragrafação.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto indígena, analisando valores sociais e culturais e diferentes visões de mundo.",
+            "Analisar os efeitos de sentido decorrentes do uso de palavras ou expressões.",
+            "Examinar paragrafação de texto, identificando critérios de divisão de parágrafos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Assumindo uma posição – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP02B EM13LP06 EM13LG101",
+          "conteudo": "Artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Fato e opinião: vies de confirmação.",
+            "Debater opiniões: discussões sobre a estrutura do gênero."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Assumindo uma posição – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "Artigo de opinião.",
+          "habilidade": "EM13LP06",
+          "conteudo": "Cohesão e coerência. Operadores lógico-discursivos.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar artigo de opinião, reconhecendo a função de operadores lógico-discursivos no texto."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Romantismo na voz de Maria Firmina dos Reis",
+          "aprendizagem_essencial": "Reconhecer o tema do abolicionismo em obras do Romantismo Brasileiro.",
+          "habilidade": "EM13LP52",
+          "conteudo": "O abolicionismo na literatura romântica brasileira. Maria Firmina dos Reis e o Romantismo no Brasil. Construção frasal e recursos linguísticos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender a produção literária de Maria Firmina dos Reis, debatendo os textos lidos.",
+            "Analisar exemplos de construção frasal e o uso de recursos linguísticos característicos do Romantismo na obra de Maria Firmina dos Reis."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Romantismo na voz de Narcisa Amália",
+          "aprendizagem_essencial": "Reconhecer os papéis das mulheres na literatura e na sociedade do século XIX.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Mulheres na literatura romântica no Brasil. Narcisa Amália e o Romantismo no Brasil. O abolicionismo na literatura romântica brasileira.",
+          "objetivos_aprendizagem": [
+            "Apreciar a produção literária de Narcisa Amália.",
+            "Identificar semelhanças e diferenças entre as obras como Narcisa Amália e Maria Firmina dos Reis abomando em seus Textos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Resenha crítica – Parte 1",
+          "aprendizagem_essencial": "Ler e compreender resenha crítica, analisando estrutura, adjetivos e orações adjetivas.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Análise de resenha crítica de livro. Adjetivos e orações adjetivas.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender resenha crítica, analisando estrutura, linguagem e produção de textos."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Resenha crítica – Parte 2",
+          "aprendizagem_essencial": "Analisar o caráter pessoal do gênero resenha crítica. Produzir e compartilhar uma resenha.",
+          "habilidade": "EM13LP15",
+          "conteudo": "Escrita e compartilhamento de resenhas.",
+          "objetivos_aprendizagem": [
+            "Analisar o caráter pessoal do gênero resenha crítica.",
+            "Produzir e compartilhar uma resenha."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Livro em crise",
+          "aprendizagem_essencial": "Analisar as características dos gêneros textuais do campo argumentativo em situações do cotidiano.",
+          "habilidade": "EM13LP15",
+          "conteudo": "Leitura de e análise de artigo de opinião. Conectores sequenciais e suas funções.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar gráficos e tabelas de pesquisas sociais.",
+            "Analisar criticamente dados de pesquisa sobre a leitura, relacionando-os ao contexto social e à formação de leitores."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Crise da leitura: mito ou realidade?",
+          "aprendizagem_essencial": "Analisar criticamente dados de pesquisa sobre a leitura.",
+          "habilidade": "EM13LP01",
+          "conteudo": "Leitura e análise de resultados de pesquisa.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar gráficos e tabelas de pesquisas sociais, identificando suas condições de produção e função social."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Pesquisas em tempos digitais – Parte 1",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP30",
+          "conteudo": "Pesquisas em tempos digitais – Parte 1",
+          "objetivos_aprendizagem": [
+            "Reconhecer o papel da pesquisa na sociedade como forma de evoluir conhecimentos.",
+            "Experienciar a prática investigativa na resolução de problemas.",
+            "Escolher tema para investigação científica."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Pesquisas em tempos digitais – Parte 2",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP30",
+          "conteudo": "Pesquisas em tempos digitais – Parte 2",
+          "objetivos_aprendizagem": [
+            "Elaborar curadoria de informações.",
+            "Compreender o papel das referências bibliográficas e normas de referência em textos científicos.",
+            "Diferenciar citação direta e indireta, reconhecendo sua função."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Pesquisas em tempos digitais – Parte 3",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP32A, EM13LP20A",
+          "conteudo": "Pesquisas em tempos digitais – Parte 3",
+          "objetivos_aprendizagem": [
+            "Praticar curadoria de conteúdos, examinando artigos científicos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Pesquisas em tempos digitais – Parte 4",
+          "aprendizagem_essencial": "AE9 - Relacionar textos a seus contextos de produção, identificando suas condições de produção e função social.",
+          "habilidade": "EM13LP32A, EM13LP01",
+          "conteudo": "Pesquisas em tempos digitais – Parte 4",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função do artigo científico na garantia da qualidade de informação.",
+            "Analisar o uso de pronomes em artigo científico, reconhecendo formas apropriadas de partir colocação pronominal nesse contexto."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "O universo dos textos literários – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica de diferentes áreas do conhecimento, identificando suas características e criticando enfoques tendenciosos e superficiais.",
+          "habilidade": "EM13LP52",
+          "conteudo": "O universo dos textos literários – Parte 1 - Aula complementar",
+          "objetivos_aprendizagem": [
+            "Ler e compreender crônica, analisando estrutura composicional, linguagem e função social do gênero.",
+            "Reconhecer a presença do elemento pessoal do discurso nesse texto analisado."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "O universo dos textos literários – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "AE6 - Utilizar variadas ferramentas de apoio a apresentações orais, considerando a clareza do conteúdo criado.",
+          "habilidade": "EM13LP06",
+          "conteudo": "O universo dos textos literários – Parte 2 - Aula complementar",
+          "objetivos_aprendizagem": [
+            "Ler e compreender crônica, analisando efeitos de sentido decorrentes do uso dos pronomes demonstrativos.",
+            "Reconhecer a função dos pronomes (a) esse/a, isso/isso."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Divulgando ciência – Parte 1",
+          "aprendizagem_essencial": "AE12 - Utilizar variadas ferramentas de apoio a apresentações orais, considerando a clareza do conteúdo criado.",
+          "habilidade": "EM13LP34",
+          "conteudo": "Divulgando ciência – Parte 1",
+          "objetivos_aprendizagem": [
+            "Esquematizar apresentação de divulgação científica, utilizando linguagem de fácil compreensão."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Divulgando ciência – Parte 2",
+          "aprendizagem_essencial": "AE11 - Utilizar variadas ferramentas de apoio a apresentações orais, considerando a clareza do conteúdo criado.",
+          "habilidade": "EM13LG301, EM13LP16",
+          "conteudo": "Divulgando ciência – Parte 2",
+          "objetivos_aprendizagem": [
+            "Apresentar tema pesquisado de forma objetiva, utilizando recursos gráficos, orais e visuais."
+          ]
+        }
+      ]
+    },
+    "3ª Série": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Entenda o Pré-modernismo",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LG101 EM13LP48",
+          "conteudo": "Pré-Modernismo. Euclides da Cunha. Lima Barreto. Augusto dos Anjos.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar trecho de texto pré-modernista.",
+            "Identificar os movimentos literários precursores do Modernismo brasileiro.",
+            "Elaborar os efeitos de sentido a partir de elementos relacionados ao tempo e ao espaço."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Quem são os modernistas?",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "A poética de Oswald de Andrade. Revistas modernistas brasileiras.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de poema.",
+            "Identificar características da poesia oswaldiana.",
+            "Investigar as revistas modernistas do Brasil.",
+            "Revisar ortografia."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Manifesto antropófago",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando-o, estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Conceito de manifesto e antropofagia. Manifesto antropofágico.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a intencionalidade de um manifesto.",
+            "Refletir sobre efeitos de sentido do manifesto.",
+            "Compreender a estrutura composicional e a função social de um manifesto.",
+            "Identificar características do Manifesto antropofágico."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Penso, logo me expresso",
+          "aprendizagem_essencial": "AE4 - Avaliar os percursos argumentativos presentes em textos diversos, para posicionar-se de forma fundamentada e ética frente a questões de relevância social e cultural.",
+          "habilidade": "EM13LG303 EM13P02C",
+          "conteudo": "Artigo de opinião: características. Elementos coesivos.",
+          "objetivos_aprendizagem": [
+            "Reconhecer as características e a organização de um artigo de opinião.",
+            "Abordar elementos presentes em textos argumentativos.",
+            "Compreender estratégias lingüísticas usadas para a construção de argumentos (movimentos de negociação, sustentação e contra-argumentação).",
+            "Avaliar coerência interna e externa dos argumentos do texto.",
+            "Entender a classificação de orações coordenadas."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Movimentos argumentativos",
+          "aprendizagem_essencial": "AE4 - Avaliar os percursos argumentativos presentes em textos diversos, para posicionar-se de forma fundamentada e ética frente a questões de relevância social e cultural.",
+          "habilidade": "EM13LG303 EM13P15",
+          "conteudo": "Tese, argumentos, refutação.",
+          "objetivos_aprendizagem": [
+            "Estabelecer relação entre a tese e os argumentos apresentados para defesa- a ou refutá-la.",
+            "Compreender estratégias lingüísticas usadas para a construção de argumentos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Compartilhando descobertas",
+          "aprendizagem_essencial": "AE5 - Analisar textos de divulgação científica, avaliando suas fontes e reconhecendo erros de forma crítica e fundamentada para identificar e descartar fontes não confiáveis.",
+          "habilidade": "EM13LP32B",
+          "conteudo": "Comparação de dados e informações em textos de divulgação científica opinativos. Identificação de posicionamento crítico. Averiguação de fidegnidade de informações.",
+          "objetivos_aprendizagem": [
+            "Ler e comparar dos textos científicos com dados pessoais.",
+            "Analisar diferentes fontes de pesquisa, como sites oficiais, notícias, artigos científicos e enciclopédias.",
+            "Averiguar a veracidade dos fatos e das informações."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "A construção da opinião com a voz de um jornal – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função de gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP36",
+          "conteudo": "Editorial. Reflexão crítica sobre função social e intencionalidade de textos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender um editorial com posicionamento acerca de tema polêmico e/ou de relevância social.",
+            "Compreender trechos desafiadores do texto, com necessidade de inferências.",
+            "Discutir a confiabilidade das informações apresentadas em editoriais e os interesses possíveis."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "A construção da opinião com a voz de um jornal – Parte 2",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função de gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Orações coordenadas sindéticas aditivas, adversativas, alternativas, conclusivas, explicativas.",
+          "objetivos_aprendizagem": [
+            "Compreender diferentes tipos de orações coordenadas.",
+            "Analisar orações coordenadas sindéticas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Novas formas de convencer você – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função de gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP44A",
+          "conteudo": "Formas contemporâneas de publicidade.",
+          "objetivos_aprendizagem": [
+            "Analisar formas contemporâneas de publicidade em contexto digital (advergames, anúncios em vídeos, social advertising, unboxing) eru, linguagem e aspectos estéticos da publicidade digital.",
+            "Identificar mecanismos de persuasão."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Novas formas de convencer você – Parte 2",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função de gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Paralelismo sintático.",
+          "objetivos_aprendizagem": [
+            "Analisar a presença de paralelismo sintático no(s) texto(s)."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Romances românticos",
+          "aprendizagem_essencial": "AE8 - Analisar diferentes obras e gêneros, identificando aspectos do contexto histórico, social e político, para reconhecer as relações de intertextualidade e interdisciplinaridade existentes entre elas.",
+          "habilidade": "EM13LP50",
+          "conteudo": "Gênero textual romance. Romantismo. Obras abordadas: Iracema e Senhora, ambas de José de Alencar.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de romance.",
+            "Reconhecer, no gênero textual romance, as relações da vida familiar e do seu contexto da época."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Romances realistas",
+          "aprendizagem_essencial": "Realismo.",
+          "habilidade": "EM13LP50",
+          "conteudo": "Gênero textual romance. Obra abordada: Dom Casmurro, de Machado de Assis.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de romance.",
+            "Reconhecer, no gênero textual romance, aspectos relativos à vida familiar e social da época.",
+            "Distinguir as marcas próprias do Realismo, estabelecendo relações entre a obra e o momento de sua produção e situando aspectos do contexto histórico, social e político."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Romantismo x Realismo – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP50",
+          "conteudo": "Sistematização de diferenças marcantes entre romances românticos e realistas, com base em trechos de livros.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de romances românticos e realistas.",
+            "Compreender as diferenças predominantes de forma e conteúdo nas obras dos dois períodos."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Romantismo x Realismo – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP08",
+          "conteudo": "Sistematização de diferenças marcantes entre romances românticos e realistas, com base em trechos de livros. Figuras de linguagem: metonímia e sinestesia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de romances românticos e realistas.",
+            "Analisar as figuras de linguagem metonímia e sinestesia."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Entre versos e vozes: explorando características de poema – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de poemas. Comparação de literaturas (portuguesa, africana, brasileira, indígena, latino-americana etc.). Contexto de produção de texto literário.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de poemas.",
+            "Por meio de poemas, identificar características da literatura portuguesa, africana, brasileira, indígena e/ou latino-americana."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Entre versos e vozes: explorando características de poema – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de poemas. Comparação de literaturas da portuguesa, africana, brasileira, indígena e latino-americana. Contexto de produção de textos literários.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de poemas.",
+            "Por meio de poemas, caracterizar as literaturas portuguesa, africana, brasileira, indígena e/ou latino-americana."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Contos do século XIX: Machado de Assis – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura do conto \"Pai contra mãe\". Identificar o contexto histórico-social presente nos textos do século XIX. Posicionar-se criticamente diante do texto lido.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto realista.",
+            "Identificar o contexto histórico-social presente nos textos do século XIX.",
+            "Posicionar-se criticamente diante do texto lido."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Contos do século XIX: Machado de Assis – Parte 2",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Retomada do conto 'Pai contra mãe', de Machado de Assis. Análise de contexto de produção.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto realista.",
+            "Identificar o contexto histórico-social presente em textos produzidos no século XIX.",
+            "Posicionar-se criticamente diante do texto lido."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Contos do século XIX – Parte 1",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de conto. Compreensão do conto.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto realista.",
+            "Analisar efeitos de sentido no texto."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Contos do século XIX – Parte 2",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Retomada do conto. Análise de contexto de produção. Figura de linguagem: personificação.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto realista.",
+            "Identificar o contexto histórico-social presente em textos produzidos no século XIX.",
+            "Posicionar-se criticamente diante do texto lido.",
+            "Identificar a figura de linguagem personificação em trecho do conto Aos vinte anos, de Aluísio Azevedo."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Contos do século XX: Guimarães Rosa – Parte 1",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de conto de Guimarães Rosa. Compreensão do conto. Análise de efeitos de sentido em trechos específicos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto de Guimarães Rosa.",
+            "Refletir sobre efeitos de sentido do texto."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Contos do século XX: Guimarães Rosa – Parte 2",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Efeitos de sentido do conto. Análise de contexto a partir da sua dimensão semiótica. Considerar reflexão sobre a produção literária em movimentos estéticos e culturais. Identificar, em textos literários do passado, diálogos com o presente.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto de Guimarães Rosa.",
+            "Refletir sobre o conceito de literatura a partir da sua dimensão semiótica."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Contos do século XX: Lygia F. Telles – Parte 1",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP52",
+          "conteudo": "Leitura de conto. Compreensão do conto. Análise de efeitos de sentido de trechos específicos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto.",
+            "Refletir sobre efeitos de sentido do texto."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Contos do século XX: Lygia F. Telles – Parte 2",
+          "aprendizagem_essencial": "AE2 - Avaliar obras da literatura brasileira, de expressão portuguesa, indígena, africana e latino-americana, considerando culturas e povos relacionados, reconhecendo sua importância para a construção de uma identidade nacional.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Leitura e compreensão do conto. Análise dos efeitos de sentido do conto. Análise de contexto de produção.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto, analisando efeitos de sentido decorrentes do uso de palavras e expressões.",
+            "Identificar, em textos literários do passado, diálogos com o presente."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Notícias que impactam – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Leitura de notícia. Visão do mundo no texto. Identificação e inferência de motivações e/ou finalidades do texto/autor.",
+          "objetivos_aprendizagem": [
+            "Ler uma notícia, identificando elementos característicos do gênero.",
+            "Refletir sobre os elementos que compõem esse tipo de texto.",
+            "Interpretar trechos desafiadores.",
+            "Comparar manchetes sobre o mesmo fato."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Notícias que impactam – Parte 2",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LG102",
+          "conteudo": "O gênero notícia: estrutura e características. Sinais de pontuação.",
+          "objetivos_aprendizagem": [
+            "Reconhecer características do gênero textual notícia.",
+            "Refletir criticamente sobre trechos de notícia.",
+            "Observar traços de pontuação."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Desconstruindo a reportagem – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP42",
+          "conteudo": "Leitura de reportagem. Vozes no texto. Identificação e inferência de motivações e/ou finalidades do texto/autor. Regência verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Ler uma reportagem.",
+            "Refletir sobre os elementos que compõem esse tipo de texto."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Desconstruindo a reportagem – Parte 2",
+          "aprendizagem_essencial": "AE7 - Analisar elementos da sintaxe da língua portuguesa, avaliando escolhas linguísticas de acordo com os diversos contextos comunicativos para produção de textos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Operadores lógico-discursivos.",
+          "objetivos_aprendizagem": [
+            "Compreender operadores lógico-discursivos."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Por dentro das normas – Parte 1",
+          "aprendizagem_essencial": "Leitura e compreensão do Estatuto da Pessoa Idosa (texto normativo).",
+          "habilidade": "EM13LP26C",
+          "conteudo": "Leitura e compreensão do Estatuto da Pessoa Idosa (texto normativo).",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos do Estatuto da Pessoa Idosa, analisando recursos usados e efeitos de sentido para a produção textual.",
+            "Observar contexto de produção, circrulação e recepção de textos legais e normativos."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Por dentro das normas – Parte 2",
+          "aprendizagem_essencial": "Ordem direta e inversões.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Ordem direta e inversões.",
+          "objetivos_aprendizagem": [
+            "Analisar inversões de termos da oração e outras características recorrentes em textos legais e normativos."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Textos contemporâneos na construção da opinião – Parte 1",
+          "aprendizagem_essencial": "Leitura e compreensão de artigo de opinião.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Leitura e compreensão de artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender artigo de opinião, analisando elementos composicionais e função do gênero.",
+            "Analisar estratégias argumentativas usadas no artigo de opinião.",
+            "Refletir e posicionar-se, de forma crítica e ética, sobre as opiniões expressas no texto."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Textos contemporâneos na construção da opinião – Parte 2",
+          "aprendizagem_essencial": "Analisar, em textos, o uso de conjunções, reconhecendo as ideias que expressam entre as orações que conectam.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Conjunções e outros elementos coesivos.",
+          "objetivos_aprendizagem": [
+            "Examinar outros elementos coesivos, evidenciando os efeitos de sentido que geram no texto."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Textos contemporâneos na construção da opinião – Parte 3",
+          "aprendizagem_essencial": "Diferenciar texto de opinião, posicionando-se sobre às ideias veiculadas em textos argumentativos.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Leitura e compreensão de texto de opinião.",
+          "objetivos_aprendizagem": [
+            "Analisar as relações lógico-discursivas do texto."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Textos contemporâneos na construção da opinião – Parte 4",
+          "aprendizagem_essencial": "Reconhecer a função da regência verbal e nominal.",
+          "habilidade": "EM13LP08",
+          "conteudo": "Regência verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função da regência verbal e nominal em textos, apropriando-se de conhecimentos de acordo com a norma-padrão da língua portuguesa."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Oralidade: Entrevista – Parte 1",
+          "aprendizagem_essencial": "Identificar a estrutura da entrevista em turnos de fala.",
+          "habilidade": "EM13LP10",
+          "conteudo": "Entrevista oral.",
+          "objetivos_aprendizagem": [
+            "Compreender e refletir sobre os diversos recursos linguísticos.",
+            "Caracterizar a variação linguística como parte fundamental."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Oralidade: Entrevista - Parte 2",
+          "aprendizagem_essencial": "AE1 - Analisar o fenômeno da variação linguística, nos diferentes níveis e contextos, para fundamentar o respeito às variedades e combater preconceitos linguísticos.",
+          "habilidade": "EM13LGG401",
+          "conteudo": "Marcas de oralidade em textos transcritos. Tipos de transcrição.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a variação linguística como parte da língua, analisando diferentes tipos de variação.",
+            "Comparar entrevista em áudio e transcrição, analisando marcas da oralidade no texto escrito.",
+            "Analisar efeitos de sentido gerados por palavras, expressões e marcas da oralidade em transcrição de entrevista."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "O que o texto revela - Aula complementar",
+          "aprendizagem_essencial": "AE1 - Analisar o fenômeno da variação linguística, nos diferentes níveis e contextos, para fundamentar o respeito às variedades e combater preconceitos linguísticos.",
+          "habilidade": "EM13LP48",
+          "conteudo": "Leitura de poema. Contexto histórico-social e visões de mundo dos séculos XVII e XIX.",
+          "objetivos_aprendizagem": [
+            "Ler e analisar poemas, analisando efeitos de sentido decorrentes do uso de palavras, expressões e figuras de linguagem.",
+            "Reconhecer a construção em poemas dos séculos XVIII e XIX a partir de análise semiótica, identificando visões de mundo e expressões nos textos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Os movimentos da literatura: influências e inovações - Aula complementar",
+          "aprendizagem_essencial": "AE1 - Analisar o fenômeno da variação linguística, nos diferentes níveis e contextos, para fundamentar o respeito às variedades e combater preconceitos linguísticos.",
+          "habilidade": "EM13LP48",
+          "conteudo": "Compreensão do processo de constituição da literatura.",
+          "objetivos_aprendizagem": [
+            "Reconhecer rupturas e inovações em textos literários ao longo da história da literatura no Brasil.",
+            "Analisar como obras da literatura refletem mudanças socioculturais ao longo do tempo."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Vanguardas europeias",
+          "aprendizagem_essencial": "AE8 - Analisar diferentes obras e gêneros, identificando aspectos do contexto histórico, social e político, para reconhecer as relações de intertextualidade e de interdiscursividade entre elas.",
+          "habilidade": "EM13LG602 EM13LP50",
+          "conteudo": "Definições e características das vanguardas europeias.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender obras do período das vanguardas europeias, identificando características e rupturas em comparação a movimentos literários anteriores e posteriores.",
+            "Analisar e posicionar-se em relação à literatura dos últimos séculos, considerando as relações e as referências utilizadas pelos autores."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Semana de Arte Moderna",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LG601 EM13LP49",
+          "conteudo": "Semana de Arte Moderna. Poética de Manuel Bandeira.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a relevância da Semana de Arte Moderna no Brasil, identificando o contexto sócio-histórico-cultural de 1922.",
+            "Analisar a poética de Manuel Bandeira, identificando rupturas no formato padrão da linguagem poética e as influências de seu projeto literário."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Primeira geração modernista - Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LG601 EM13LP49",
+          "conteudo": "Primeira geração modernista. Analisar poemas associados, suas características.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender textos da primeira geração modernista, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Primeira geração modernista – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LG601 EM13LP49",
+          "conteudo": "Primeira geração modernista. Poética de Oswald de Andrade.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender textos da primeira geração modernista, analisando suas características linguísticas, estilísticas e estruturais.",
+            "Analisar poemas de Oswald de Andrade, identificando características de seu projeto literário."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Segunda geração modernista: Poesia da década de 1930 – Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Segunda geração modernista e poesia dos anos 1930. Poética de Carlos Drummond de Andrade.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas da segunda geração modernista, analisando características linguísticas, estilísticas e estruturais.",
+            "Analisar poemas de Carlos Drummond de Andrade, identificando características de seu projeto literário.",
+            "Examinar intertextualidade em produções poéticas da segunda geração modernista."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Segunda geração modernista: Poesia da década de 1930 – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Segunda geração modernista e poesia dos anos 1930. Poética de Murilo Mendes.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas da segunda geração modernista, analisando características linguísticas, estilísticas e estruturais.",
+            "Analisar poemas de Murilo Mendes, identificando características de seu projeto literário.",
+            "Examinar intertextualidade em produções poéticas da segunda geração modernista."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Segunda geração modernista: Prosa de 30 – Parte 1",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP49",
+          "conteudo": "Segunda geração modernista: Prosa regionalista. Prosa de Rachel de Queiroz.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o contexto de produção e circulação de prosa regionalista.",
+            "Ler e compreender trechos da obra Quinzinho, de Raquel de Queiroz, analisando características linguísticas, estilísticas e estruturais."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Segunda geração modernista: Prosa de 30 – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP48",
+          "conteudo": "Segunda geração modernista: prosa regionalista. Prosa de Graciliano Ramos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos da obra Vidas Secas, analisando características linguísticas, estilísticas e estruturais.",
+            "Referir e posicionar-se de forma crítica e ética em relação às conexões que Graciliano Ramos faz."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Segunda geração modernista: Prosa de 30 - Parte 3",
+          "aprendizagem_essencial": "AE3 - Analisar as peculiaridades estruturais e estilísticas de diferentes gêneros literários, identificando o estilo, os temas e as influências dos movimentos literários aos quais pertencem.",
+          "habilidade": "EM13LP48",
+          "conteudo": "A segunda geração modernista: prosa regionalista. Prosa de Jorge Amado.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos da obra Capitães da Areia, analisando características linguísticas, estilísticas e estruturais.",
+            "Refletir e posicionar-se de forma crítica e ética sobre as críticas sociais que Jorge Amado faz no livro, estabelecendo conexões com a realidade brasileira atual."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Visões diversas em editoriais – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP37A",
+          "conteudo": "Leitura e análise de editorial.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender um editorial, analisando elementos composicionais, linguagem e função do gênero.",
+            "Refletir e posicionar-se de forma crítica e ética sobre os impactos que os editoriais podem causar na forma de opinião dos leitores.",
+            "Analisar diferenças entre textos de opinião e textos do campo jornalístico-midiático."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Visões diversas em editoriais – Parte 2",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP07",
+          "conteudo": "Modalização textual.",
+          "objetivos_aprendizagem": [
+            "Reconhecer elementos de modalização textual em editorial, examinando como as escolhas gramaticais colaboram para a expressão da opinião do enunciador.",
+            "Examinar a função de orações subordinadas adjetivas e os efeitos de sentido que geram em editoriais."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Visões diversas em editoriais – Parte 3",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP37A",
+          "conteudo": "Leitura e análise de editorial.",
+          "objetivos_aprendizagem": [
+            "Analisar como as escolhas editoriais impactam o tratamento das informações divulgadas aos leitores."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Visões diversas em editoriais – Parte 4",
+          "aprendizagem_essencial": "AE6 - Analisar textos jornalísticos, identificando elementos composicionais, linguagem e função do gênero, por meio do uso de ferramentas de curadoria.",
+          "habilidade": "EM13LP07",
+          "conteudo": "Modalização textual.",
+          "objetivos_aprendizagem": [
+            "Reconhecer elementos de modalização textual em editorial, examinando como as escolhas gramaticais colaboram para a expressão da opinião do enunciador."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Os olhares do cotidiano: Desvendando o gênero crônica – Parte 1",
+          "aprendizagem_essencial": "Leitura e análise de crônica.",
+          "habilidade": "EM13LPA49",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Ler e compreender crônica, percebendo as peculiaridades estruturais e estilísticas de diferentes gêneros.",
+            "Analisar os efeitos de sentido decorrentes do uso de palavras ou expressões no texto."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Os olhares do cotidiano: Desvendando o gênero crônica – Parte 2",
+          "aprendizagem_essencial": "Leitura e análise de crônica.",
+          "habilidade": "EM13LPA49",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Analisar as estratégias linguísticas e estilísticas empregados no texto para abordar temas do cotidiano de modo literário em crônica.",
+            "Examinar o contexto de produção e circulação da crônica, reconhecendo elementos que caracterizam o contexto sociocultural da época retratada."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Os olhares do cotidiano: Desvendando o gênero crônica – Parte 3",
+          "aprendizagem_essencial": "Leitura e análise de crônica.",
+          "habilidade": "EM13LPA03",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Reconhecer elementos intertextuais na crônica analisada, percebendo relações dialógicas entre textos.",
+            "Analisar efeitos de sentido decorrentes do uso de polissemia em crônica."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Desenhando a sociedade: a charge como texto literário – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "Leitura e análise de charge.",
+          "habilidade": "EM13LGL202",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Ler e compreender charges, analisando os efeitos de sentido decorrentes da utilização do linguagem verbal, não verbal ou mista no texto.",
+            "Examinar a relação entre linguagem e o papel da crítica social expressa pelo artista.",
+            "Refletir sobre as visões de mundo abordadas em charges."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Desenhando a sociedade: a charge como texto literário – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "Leitura e análise de charge.",
+          "habilidade": "EM13LGL104",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Ler e compreender charges, analisando os efeitos de sentido decorrentes da utilização do linguagem verbal, não verbal ou mista no texto.",
+            "Examinar a relação entre as perspectivas de mundo expressas pelo artista."
+          ]
+        }
+      ]
+    }
+  }
+}

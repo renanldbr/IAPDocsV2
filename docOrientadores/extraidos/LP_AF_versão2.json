@@ -1,0 +1,2635 @@
+{
+  "disciplina": "LP",
+  "etapa": "AF",
+  "series": {
+    "6º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Ler é ver além! – Parte 1",
+          "aprendizagem_essencial": "Leitura de post.",
+          "habilidade": "EF04LP15A EF69LP16A EF69LP16B",
+          "conteudo": "Leitura de post.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar post.",
+            "Localizar informação explícita.",
+            "Compreender o sentido de palavras."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Ler é ver além! – Parte 2",
+          "aprendizagem_essencial": "Leitura de comentários.",
+          "habilidade": "EF04LP15A EF69LP16A EF69LP16B",
+          "conteudo": "Leitura de comentários.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar comentários.",
+            "Localizar informação explícita.",
+            "Compreender o sentido de palavras e expressões."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Análise linguística / semiótica.",
+          "aprendizagem_essencial": "Identificar a palavra que atribui uma característica ao substantivo.",
+          "habilidade": "EF06LP04B",
+          "conteudo": "Empregar elementos gramaticais em orações.",
+          "objetivos_aprendizagem": [
+            "Identificar padrões ortográficos comuns em palavras."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Fatos – Parte 2",
+          "aprendizagem_essencial": "Classe gramatical: substantivos.",
+          "habilidade": "EF04LP15A EF69LP16A EF69LP16B",
+          "conteudo": "Classe gramatical: substantivos.",
+          "objetivos_aprendizagem": [
+            "Localizar substantivos no texto.",
+            "Compreender o conceito de substantivos.",
+            "Expandir repertório sobre substantivos.",
+            "Identificar flexão de substantivos (gênero e número).",
+            "Analisar flexão de substantivos (gênero e número)."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Análise linguística / semiótica.",
+          "aprendizagem_essencial": "Aplica regras de acentuação gráfica em palavras oxítonas.",
+          "habilidade": "EF67LP32",
+          "conteudo": "Escrever palavras com correção ortográfica.",
+          "objetivos_aprendizagem": [
+            "Aplicar regras de acentuação."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Deu na mídia! – Parte 2",
+          "aprendizagem_essencial": "Ortografia: sílaba tônica e acento gráfico.",
+          "habilidade": "EF06LP04A EF06LP04B EF06LP05A",
+          "conteudo": "Ortografia: sílaba tônica e acento gráfico.",
+          "objetivos_aprendizagem": [
+            "Compreender a relação entre acentuação gráfica e produção.",
+            "Diferenciar acento tônico (oral) e acento gráfico (escrito).",
+            "Identificar a sílaba tônica em palavras."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Poemas e palavras – Parte 1",
+          "aprendizagem_essencial": "Leitura de poema.",
+          "habilidade": "EF67LP28 EF69LP53",
+          "conteudo": "Leitura de poema.",
+          "objetivos_aprendizagem": [
+            "Usar estratégias para apreciar poemas.",
+            "Compreender os sentidos do texto.",
+            "Investigar a linguagem presente no texto."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Poemas e palavras – Parte 2",
+          "aprendizagem_essencial": "AE3 - Analisar a função e o impacto do uso dos substantivos, verbos e adjetivos, identificando seus modificadores.",
+          "habilidade": "EF06LP04A",
+          "conteudo": "Classe gramatical: adjetivos.",
+          "objetivos_aprendizagem": [
+            "Identificar substantivos no texto.",
+            "Observar quais palavras qualificam os substantivos.",
+            "Compreender adjetivos.",
+            "Estudar flexão de adjetivos (gênero e número)."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Belas palavras – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de poema.",
+          "objetivos_aprendizagem": [
+            "Usar estratégias para apreciar poemas.",
+            "Compreender os sentidos do texto.",
+            "Investigar a linguagem presente no texto."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Análise linguística / semiótica.",
+          "aprendizagem_essencial": "AE6 - Aplicar regras de concordância nominal e verbal em textos diversos, reconhecendo os efeitos de sentido gerados.",
+          "habilidade": "EF06LP06A",
+          "conteudo": "Empregar, adequadamente em diferentes gêneros - orais e escritos, as regras de concordância nominal (relações entre substantivos e seus determinantes).",
+          "objetivos_aprendizagem": [
+            "Identificar um verbo que expressa ação em uma oração.",
+            "Reconhecer o emprego da concordância nominal em um texto.",
+            "Reconhecer o emprego da concordância verbal em um texto."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Nem tudo é o que parece – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de conto.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar um conto.",
+            "Localizar informação explícita.",
+            "Compreender sentido de palavras e expressões.",
+            "Identificar o ponto de vista do narrador ou dos personagens."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Nem tudo é o que parece – Parte 2",
+          "aprendizagem_essencial": "AE7 - Aplicar recursos lexicais (sinônimos, antônimos, homônimos, anáforas, escolhas de vocabulário) e semânticos.",
+          "habilidade": "EF06LP03",
+          "conteudo": "Sinônimos e antônimos.",
+          "objetivos_aprendizagem": [
+            "Compreender o que são sinônimos e antônimos.",
+            "Identificar relações de significado em textos.",
+            "Associar palavras sem alterar o sentido."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Diferentes olhares – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de conto.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar um conto.",
+            "Localizar informação explícita.",
+            "Compreender sentido de palavras e expressões.",
+            "Identificar o ponto de vista do narrador ou dos personagens."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Diferentes olhares – Parte 2",
+          "aprendizagem_essencial": "AE4 - Aplicar regras de ortografia e pontuação ao escrever textos.",
+          "habilidade": "EF67LP32",
+          "conteudo": "Ortografia: X e CH. Pontuação.",
+          "objetivos_aprendizagem": [
+            "Identificar casos de grafia que geram dúvida.",
+            "Aplicar corretamente X/CH conforme regras.",
+            "Utilizar ponto final adequadamente."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Entre o riso e a reflexão – Parte 1",
+          "aprendizagem_essencial": "AE1 - Estabelecer relações entre gêneros jornalísticos, comparando suas características estruturais, linguísticas e temáticas.",
+          "habilidade": "EF06LP02, EF67LP08, EF69LP05A, EF69LP03D",
+          "conteudo": "Leitura de charge. Acento circunflexo",
+          "objetivos_aprendizagem": [
+            "Ler e compreender charges.",
+            "Localizar e identificar os sentidos implícitos e de recursos não verbais.",
+            "Identificar se há presença de humor, opinião e/ou críticas no texto.",
+            "Analisar usos do acento circunflexo."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Entre o riso e a reflexão – Parte 2",
+          "aprendizagem_essencial": "AE2 - Aplicar regras de ortografia e pontuação ao escrever textos, de acordo com as convenções da língua escrita.",
+          "habilidade": "EF67LP32, EF67LP33",
+          "conteudo": "Ortografia: uso da cedilha. Terminação -gem. Palavras \"mau\" e \"mal\".",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma carta do leitor.",
+            "Reconhecer o uso de C antes das vogais A, O e U.",
+            "Identificar o uso do G em palavras terminadas em -gem.",
+            "Perceber duplas homônimas, compreendendo a diferença entre \"mal\" e \"mau\"."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "O leitor também escreve! – Parte 1",
+          "aprendizagem_essencial": "AE2 - Estabelecer relações entre gêneros jornalísticos, comparando suas características estruturais, linguísticas e temáticas.",
+          "habilidade": "EF06LP02, EF67LP05A",
+          "conteudo": "Leitura de carta do leitor. Pontuação: exclamação e reticências.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma carta do leitor.",
+            "Identificar marcas que indicam o ponto de vista do autor.",
+            "Analisar o diálogo do leitor com outros textos do jornal ou revista.",
+            "Reconhecer o uso de exclamação e reticências em um texto."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "O leitor também escreve! – Parte 2",
+          "aprendizagem_essencial": "AE4 - Aplicar regras de ortografia e pontuação ao escrever textos, de acordo com as convenções da língua escrita.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Classe gramatical: verbos.",
+          "objetivos_aprendizagem": [
+            "Localizar verbos em frases simples.",
+            "Compreender nocões básicas de tempo (passado, presente, futuro).",
+            "Identificar um verbo como palavra que expressa ação ou estado."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Quem reclama com educação, merece atenção! – Parte 1",
+          "aprendizagem_essencial": "AE8 - Analisar textos e espaços de reclamação e solicitação, reconhecendo suas características e funções sociais.",
+          "habilidade": "EF67LP16",
+          "conteudo": "Leitura de carta de reclamação.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma carta de reclamação.",
+            "Avaliar a adequação da linguagem ao objetivo do texto.",
+            "Compreender o uso do vocativo e da despedida em cartas."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Quem reclama com educação, merece atenção! - Parte 2",
+          "aprendizagem_essencial": "AE6 - Aplicar regras de concordância nominal e verbal em textos diversos, reconhecendo os efeitos de sentido gerados.",
+          "habilidade": "EF6LP06A",
+          "conteudo": "Concordância verbal (sujeito simples).",
+          "objetivos_aprendizagem": [
+            "Localizar sujeito simples na oração.",
+            "Empregar a concordância do verbo de acordo com pessoa e número do sujeito."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Lendas: muito além da imaginação – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos, inferindo informações implícitas e analisando efeitos de sentido.",
+          "habilidade": "EF67LP28 EF69LP53",
+          "conteudo": "Leitura de lenda.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar uma lenda.",
+            "Localizar informação explícita.",
+            "Compreender sentido de palavras e expressões.",
+            "Estabelecer relações de causa-consequência."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Lendas: muito além da imaginação – Parte 2",
+          "aprendizagem_essencial": "AE4 - Aplicar regras de ortografia e pontuação ao escrever textos, de acordo com as convenções da língua escrita.",
+          "habilidade": "EF67LP28 EF69LP32",
+          "conteudo": "Acentuação em palavras oxitonas e proparoxítonas.",
+          "objetivos_aprendizagem": [
+            "Localizar e identificar oxitonas e proparoxítonas.",
+            "Aplicar regras de acentuação para ambas as categorias."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Além das lendas - Parte 2",
+          "aprendizagem_essencial": "AE6 - Aplicar regras de autenticação ao texto literário.",
+          "habilidade": "EF6LP12B",
+          "conteudo": "Acentuação em palavras paroxítonas.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar uma lenda.",
+            "Relatar as características das lendas e seus efeitos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Um dia normal?... será? - Parte 1",
+          "aprendizagem_essencial": "AE6 - Aplicar regras de ortografia e pontuação ao escrever textos.",
+          "habilidade": "EF6LP12B",
+          "conteudo": "Leitura de texto de romance infantil juvenil.",
+          "objetivos_aprendizagem": [
+            "Localizar e identificar personagens.",
+            "Descrever e interpretar o texto."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Um dia normal... será? – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos, inferindo informações implícitas e analisando efeitos de sentido.",
+          "habilidade": "EF03LP10",
+          "conteudo": "Leitura de trecho de romance infantojuvenil.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar um trecho de romance.",
+            "Localizar informação explícita.",
+            "Compreender sentido de palavras e expressões.",
+            "Estabelecer relações de causa-consequência."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Um dia normal... será? – Parte 2",
+          "aprendizagem_essencial": "AE7 - Aplicar recursos lexicais (sinônimos, antônimos, homônimos, relações de vocabulário), semânticos (relações de significado, efeitos de sentido), padrões, discursos orais e texto.",
+          "habilidade": "EF03LP10 EF05LP08 EF01LP34",
+          "conteudo": "O sentido de prefixos.",
+          "objetivos_aprendizagem": [
+            "Localizar e identificar prefixos.",
+            "Analisar partes da palavra (prefixo) para descobrir o significado de palavras novas.",
+            "Relacionar palavras desconhecidas com outras já conhecidas com o mesmo radical.",
+            "Identificar como o prefixo altera o sentido do radical."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Outro dia normal... só que não! – Parte 1",
+          "aprendizagem_essencial": "AE5 - Utilizar diferentes estratégias de leitura em textos literários diversos, inferindo informações implícitas e analisando efeitos de sentido.",
+          "habilidade": "EF67LP28 EF69LP53",
+          "conteudo": "Leitura de trecho de romance infantojuvenil.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar um trecho de romance.",
+            "Localizar informação explícita e implícita.",
+            "Compreender a diferença entre o foco narrativo em primeira e em terceira pessoa."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Outro dia normal... só que não! – Parte 2",
+          "aprendizagem_essencial": "AE4 - Aplicar regras de ortografia e pontuação ao escrever textos, de acordo com as convenções da língua escrita.",
+          "habilidade": "EF03LP10 EF05LP08 EF67LP34",
+          "conteudo": "O sentido de sufixos.",
+          "objetivos_aprendizagem": [
+            "Localizar e identificar sufixos.",
+            "Analisar partes da palavra (sufixo) para descobrir o significado de palavras novas.",
+            "Relacionar palavras desconhecidas com outras já conhecidas com o mesmo radical.",
+            "Identificar como o sufixo altera o sentido do radical."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Por dentro da crônica – Parte 1",
+          "aprendizagem_essencial": "Leitura de crônica literária.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de crônica literária.",
+          "objetivos_aprendizagem": [
+            "Ler uma crônica, utilizando estratégias de leitura para compreender o sentido global do texto.",
+            "Identificar efeitos de sentido gerado por palavras ou expressões.",
+            "Analisar características recorrentes em crônicas literárias, observando a estrutura composicional e o gênero adaptado ao público-alvo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Por dentro da crônica – Parte 2",
+          "aprendizagem_essencial": "Modos verbais: subjuntivo.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Modos verbais: subjuntivo.",
+          "objetivos_aprendizagem": [
+            "Identificar usos do registro formal e informal da língua portuguesa em textos literários.",
+            "Analisar efeitos de sentido gerados pelo uso de verbos no modo subjuntivo. Utilizar verbos no modo subjuntivo ao reescrever trechos de crônica literária."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Verbos que contam histórias – Parte 1",
+          "aprendizagem_essencial": "Leitura de crônica literária.",
+          "habilidade": "EF06LPL11",
+          "conteudo": "Leitura de crônica literária.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar uma crônica.",
+            "Inferir significados de palavras e expressões.",
+            "Identificar formas de composição da crônica lidada."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Verbos que contam histórias – Parte 2",
+          "aprendizagem_essencial": "Tempos e modos verbais.",
+          "habilidade": "EF69LPL47",
+          "conteudo": "Tempos e modos verbais.",
+          "objetivos_aprendizagem": [
+            "Identificar o emprego de verbos em diferentes modos e tempos.",
+            "Reconhecer efeitos de sentido gerados por verbos em diferentes modos e tempos verbais.",
+            "Utilizar verbos em diferentes tempos e modos para produzir um novo desfecho para a crônica."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "O que as palavras estão dizendo? – Parte 1",
+          "aprendizagem_essencial": "Leitura e compreensão de poemas.",
+          "habilidade": "EF06LPL11",
+          "conteudo": "Leitura e compreensão de poemas.",
+          "objetivos_aprendizagem": [
+            "Ler poema, identificando efeitos de sentido de palavras e expressões.",
+            "Identificar estruturas de poemas, observando marcas típicas da linguagem poética."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O que as palavras estão dizendo? – Parte 2",
+          "aprendizagem_essencial": "Conotação e denotação.",
+          "habilidade": "EF69LPL47",
+          "conteudo": "Conotação e denotação.",
+          "objetivos_aprendizagem": [
+            "Diferenciar conotação e denotação, identificando o emprego dessas em contextos diversos.",
+            "Analisar usos de linguagem conotativa e denotativa em poemas versos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Notícias em perspectiva – Parte 1",
+          "aprendizagem_essencial": "Comparação de notícias.",
+          "habilidade": "EF67LPL03",
+          "conteudo": "Comparação de notícias.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender notícias diferentes sobre o mesmo fato ocorrido.",
+            "Identificar como diferentes fontes de noticiam acontecimentos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Notícias em perspectiva – Parte 2",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Acentuação de palavras paroxítonas.",
+          "objetivos_aprendizagem": [
+            "Identificar palavras paroxítonas em trechos de notícia.",
+            "Aplicar algumas regras de acentuação de palavras paroxítonas ao escrever textos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Entre fatos e opiniões",
+          "aprendizagem_essencial": "AE11 - Comparar informações sobre um mesmo fato divulgadas por diferentes veículos e mídias, analisando elementos que conferem credibilidade ao texto.",
+          "habilidade": "EF67LP04",
+          "conteudo": "Fato e opinião em textos jornalísticos.",
+          "objetivos_aprendizagem": [
+            "Identificar marcas de subjetividade/pessoalidade nos textos jornalísticos.",
+            "Diferenciar fato de opinião em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Fatos em imagens: uma leitura conjunta",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Linguagem verbal e não verbal.",
+          "objetivos_aprendizagem": [
+            "Identificar efeitos de sentido da linguagem não verbal em textos jornalísticos.",
+            "Associar as conexões entre a linguagem verbal e não verbal em notícias acompanhadas por fotografias."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Desvendando notícias – Parte 1",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Notícias: fato central x subsistemas.",
+          "objetivos_aprendizagem": [
+            "Identificar efeitos de sentido da palavra e expressões empregadas no texto."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Desvendando notícias – Parte 2",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Pontuação: uso de vírgula.",
+          "objetivos_aprendizagem": [
+            "Relembrar o uso da vírgula para separar itens.",
+            "Empregar vírgula em trecho de texto jornalístico para verificação da escrita."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Explorando o gênero reportagem – Parte 1",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Leitura de reportagem.",
+          "objetivos_aprendizagem": [
+            "Identificar os efeitos de sentido produzidos pelo uso de palavras e expressões."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Explorando o gênero reportagem – Parte 2",
+          "aprendizagem_essencial": "AE12 - Inferir os efeitos de sentido produzidos por palavras, imagens, pontuações ou recursos em textos multimodais.",
+          "habilidade": "EF69LP05A",
+          "conteudo": "Ortografia: sons do X. Orações e períodos.",
+          "objetivos_aprendizagem": [
+            "Diferenciar os diversos sons representados pela letra X."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Narrativas visuais: Fotorreportagem – Parte 1",
+          "aprendizagem_essencial": "AE12 - Inferir os efeitos de sentido produzidos por palavras, imagens, pontuações ou recursos em textos multimodais.",
+          "habilidade": "EF69LP05A",
+          "conteudo": "Leitura de fotorreportagem.",
+          "objetivos_aprendizagem": [
+            "Analisar os efeitos de sentido do texto visual (cores, sombra, ângulos, elementos retratados etc.)."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Narrativas visuais: Fotoreportagem – Parte 2",
+          "aprendizagem_essencial": "Características de fotoreportagens.",
+          "habilidade": "EF69LP05A",
+          "conteudo": "Características de fotoreportagens.",
+          "objetivos_aprendizagem": [
+            "Analisar características recorrentes em fotoreportagens, observando a estrutura composicional do texto e a adequação ao público-alvo.",
+            "Examinar criticamente a função social da fotoreportagem."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Pilares da publicidade – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP17",
+          "conteudo": "Leitura de anúncio publicitário.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s), identificando o diálogo entre as linguagens que o(s) compõem.",
+            "Identificar a estrutura composicional, a função social e a adequação do gênero ao público-alvo.",
+            "Analisar efeitos de sentido produzido pelo uso de linguagem verbal e não verbal em anúncios publicitários."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Pilares da publicidade – Parte 2",
+          "aprendizagem_essencial": "Sons da letra S. Polissemia.",
+          "habilidade": "EF06PL11",
+          "conteudo": "Sons da letra S.",
+          "objetivos_aprendizagem": [
+            "Diferenciar os sons da letra S.",
+            "Identificar efeitos de sentido gerados por polissemia."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Linguagem mista na publicidade – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP04A",
+          "conteudo": "Linguagem verbal e não verbal em anúncios publicitários.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s), identificando o diálogo entre as linguagens que o(s) compõem.",
+            "Analisar escolhas composicionais e os efeitos de sentido produzidos pelas diferentes linguagens."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Linguagem mista na publicidade – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP17",
+          "conteudo": "Leitura de anúncio publicitário em mídias digitais.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s) veiculado em mídias digitais, identificando particularidades desse meio de circulação textual.",
+            "Analisar o papel do hipertexto na construção de sentido."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Anatomia de uma carta de reclamação – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06PL11",
+          "conteudo": "Leitura de carta de reclamação.",
+          "objetivos_aprendizagem": [
+            "Ler a carta de reclamação, identificando pistas que ajudam a concluir se as informações de texto são suas opiniões.",
+            "Identificar características recorrentes do gênero a partir da leitura desse tipo de texto."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Anatomia de uma carta de reclamação – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06PL11",
+          "conteudo": "Uso da vírgula em vocativo.",
+          "objetivos_aprendizagem": [
+            "Localizar vocativo em carta(s) de reclamação.",
+            "Identificar o uso da vírgula em vocativos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Petição: texto e contexto – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP27",
+          "conteudo": "Leitura de petição.",
+          "objetivos_aprendizagem": [
+            "Analisar textos normativos, jurídicos e reivincidatórios, reconhecendo suas marcas linguísticas e estruturais."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Petição: texto e contexto - Parte 2",
+          "aprendizagem_essencial": "AE9 - Aplicar conhecimentos linguísticos e gramaticais na produção e análise de textos diversos.",
+          "habilidade": "EF06LP11",
+          "conteudo": "Revisão: artigos definidos e indefinidos.",
+          "objetivos_aprendizagem": [
+            "Revisar e diferenciar artigos definidos e indefinidos.",
+            "Analisar efeitos de sentido gerados pelo emprego de artigos definidos e indefinidos no texto lido."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "O que é certo e certo – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP31",
+          "conteudo": "Recursos linguísticos em textos reivindicatórios.",
+          "objetivos_aprendizagem": [
+            "Examinar a função social de texto reivindicatório.",
+            "Revisar o uso de vírgula em vocativo.",
+            "Usar adequadamente sinais de pontuação ao produzir textos."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "O que é certo e certo – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06LP11",
+          "conteudo": "Pontuação: ponto-final. Uso da vírgula em vocativo.",
+          "objetivos_aprendizagem": [
+            "Ler trechos de biografia, identificando a estrutura composicional, a adequação ao público-alvo e a função social do gênero.",
+            "Identificar o foco narrativo do texto lido.",
+            "Analisar efeitos de sentido causados por palavras e expressões."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "História de uma vida – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de biografia. Foco narrativo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer diferentes tempos verbais.",
+            "Relacionar o uso de tempos verbais em textos biográficos e sua relação com a construção do tempo na narrativa.",
+            "Utilizar adequadamente tempos verbais ao produzir parágrafos de biografia."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "História de uma vida – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF06LP11",
+          "conteudo": "Tempos verbais.",
+          "objetivos_aprendizagem": []
+        }
+      ]
+    },
+    "1º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Análise",
+          "aprendizagem_essencial": "AE1 - Analisar as formas de construção de sentidos a partir dos campos semânticos.",
+          "habilidade": "EF15LP01",
+          "conteudo": "Papel dos Linguagens",
+          "objetivos_aprendizagem": [
+            "Localizar informações em um texto.",
+            "Estabelecer relação entre o texto e uma imagem."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Leitura",
+          "aprendizagem_essencial": "AE2 - Identificar a estrutura de um texto.",
+          "habilidade": "EF15LP02",
+          "conteudo": "Análise da estrutura de uma notícia.",
+          "objetivos_aprendizagem": [
+            "Identificar o tema de uma notícia.",
+            "Distinção entre tipos de textos."
+          ]
+        }
+      ]
+    },
+    "7º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Os sentidos da notícia – Parte 1",
+          "aprendizagem_essencial": "Leitura de notícia.",
+          "habilidade": "EF07LP01 EF69LP16A",
+          "conteudo": "Leitura de notícia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma notícia.",
+            "Analisar como as escolhas lexicais e recursos multisemióticos ajudam a construir sentidos.",
+            "Expressar um olhar crítico sobre como é que a notícia é noticiada.",
+            "Examinar características recorrentes em notícias, observando a estrutura composicional do gênero e a adequação ao público-alvo."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Leitura de reportagem.",
+          "aprendizagem_essencial": "Reconhecer diferentes propostas editoriais, analisando o tratamento dado ao fato noticiado.",
+          "habilidade": "EF07LP01",
+          "conteudo": "Leitura de reportagem.",
+          "objetivos_aprendizagem": [
+            "Identificar o fato central de uma notícia.",
+            "Identificar o tema de uma reportagem.",
+            "Reconhecer a finalidade de uma entrevista.",
+            "Analisar o efeito de sentido da substituição lexical em um texto jornalístico."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A arte de contar histórias reais – Parte 1",
+          "aprendizagem_essencial": "Leitura de reportagem.",
+          "habilidade": "EF07LP01 EF69LP16A",
+          "conteudo": "Leitura de reportagem.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma reportagem, interpretando trechos com sentidos implícitos.",
+            "Analisar como as escolhas lexicais e recursos multisemióticos ajudam a construir sentidos.",
+            "Expressar um olhar crítico sobre por certos fatos originam reportagens.",
+            "Identificar o público-alvo a que destinam."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "A arte de contar histórias reais – Parte 2",
+          "aprendizagem_essencial": "Pronome demonstrativo.",
+          "habilidade": "EF07LP12",
+          "conteudo": "Pronome demonstrativo.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma entrevista.",
+            "Analisar como a formulação das perguntas contribui para a construção de sentidos em uma entrevista.",
+            "Expressar um olhar crítico sobre trechos de entrevistas selecionados.",
+            "Examinar os diferentes tipos de pronomes demonstrativos.",
+            "Utilizar os pronomes demonstrativos adequados ao contexto de uso."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Ortografia: uso de C e SS.",
+          "aprendizagem_essencial": "Reconhecer diferentes propostas editoriais, analisando o tratamento dado ao fato noticiado.",
+          "habilidade": "EF07LP01",
+          "conteudo": "Ortografia: uso de C e SS.",
+          "objetivos_aprendizagem": [
+            "Identificar o fato central de uma notícia.",
+            "Identificar o tema de uma reportagem.",
+            "Reconhecer a finalidade de uma entrevista.",
+            "Analisar o efeito de sentido da substituição lexical em um texto jornalístico."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Leitura e interpretação de notícias.",
+          "aprendizagem_essencial": "Reconhecer diferentes propostas editoriais, analisando o tratamento dado ao fato noticiado.",
+          "habilidade": "EF07LP01",
+          "conteudo": "Leitura e interpretação de notícias.",
+          "objetivos_aprendizagem": [
+            "Identificar o fato central de uma notícia.",
+            "Identificar o tema de uma reportagem.",
+            "Reconhecer a finalidade de uma entrevista.",
+            "Analisar o efeito de sentido da substituição lexical em um texto jornalístico."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Um fato, duas versões – Parte 1",
+          "aprendizagem_essencial": "AE4 - Comparar informações sobre um mesmo fato divulgadas por diferentes veículos e mídias, identificando elementos que contribuem para a credibilidade.",
+          "habilidade": "EF07LP02 EF67LP03",
+          "conteudo": "Leitura: diferentes escolhas editoriais sobre um mesmo fato.",
+          "objetivos_aprendizagem": [
+            "Comparar a forma como diferentes mídias noticiam um mesmo fato.",
+            "Analisar como as escolhas lexicais e os recursos semióticos ajudam a construir sentidos.",
+            "Expressar um olhar crítico sobre escolhas editoriais, analisando e avaliando a confiabilidade da informação.",
+            "Identificar o público-alvo a que se destinam."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Um fato, duas versões – Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF07LP10B",
+          "conteudo": "Pontuação: dois-pontos.",
+          "objetivos_aprendizagem": [
+            "Identificar os contextos de uso de dois-pontos, a partir dos usos em textos jornalísticos.",
+            "Analisar efeitos de sentido provocados pelo uso de dois-pontos.",
+            "Empregar adequadamente dois-pontos para reorganizar frases propostas."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Conectando ideias",
+          "aprendizagem_essencial": "AE1 - Reconhecer diferentes propostas editoriais, analisando o tratamento dado ao fato noticiado.",
+          "habilidade": "EF07LP13A EF07LP13B",
+          "conteudo": "Coesão. Ortografia: uso de Ç e SS.",
+          "objetivos_aprendizagem": [
+            "Localizar substituições lexicais empregadas em um texto jornalístico.",
+            "Identificar substituições pronominais que contribuem para a progressão textual.",
+            "Explicar o conceito de coesão e sua importância na organização do texto.",
+            "Analisar como as substituições lexicais e pronominais ajudam a manter a coesão do texto."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "O poder de transformar os sentidos",
+          "aprendizagem_essencial": "AE3 - Identificar os efeitos de sentido causados por estratégias de modulação e argumentação em textos diversos.",
+          "habilidade": "EF07LP14",
+          "conteudo": "Modalização discursiva. Acento diferencial.",
+          "objetivos_aprendizagem": [
+            "Identificar estratégias de modulação discursiva em textos jornalísticos.",
+            "Analisar efeitos de sentido provocados na modulação discursiva.",
+            "Analisar o uso da modulação discursiva na persuasão do leitor."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Nem tudo o que pensamos é real – Parte 1",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF67LP04",
+          "conteudo": "Fato e opinião.",
+          "objetivos_aprendizagem": [
+            "Interpretar trechos de textos jornalísticos.",
+            "Identificar pistas linguísticas que ajudem a distinguir fatos de opiniões.",
+            "Diferenciar fato de opinião."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Nem tudo o que pensamos é real – Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF67LP04",
+          "conteudo": "Forma nominal do verbo: particípio.",
+          "objetivos_aprendizagem": [
+            "Identificar em textos jornalísticos, verbos no particípio.",
+            "Analisar e empregar verbos no particípio a partir de usos em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "De olho nas estratégias argumentativas – Parte 1",
+          "aprendizagem_essencial": "Tese. Opinião. Estratégias argumentativas.",
+          "habilidade": "EF67LP05A EF67LP05B EF67LP05C",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Interpretar trechos de textos argumentativos.",
+            "Identificar pistas linguísticas que ajudem a identificar teses, opiniões e posicionamentos.",
+            "Analisar efeitos de sentido provocados pelo uso de estratégias argumentativas.",
+            "Avaliar teses, opiniões e posicionamentos em trechos de textos argumentativos."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "De olho nas estratégias argumentativas – Parte 2",
+          "aprendizagem_essencial": "Verbo de ação. Verbo de estado.",
+          "habilidade": "EF67LP06",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Identificar verbos de ação e de estado em textos argumentativos.",
+            "Analisar, em trechos de textos argumentativos, efeitos de sentido provocados pelo emprego de verbos de ação e de estado."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "O que você vê?",
+          "aprendizagem_essencial": "Leitura de textos multisemióticos.",
+          "habilidade": "EF67LP08",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Examinar efeitos de sentido provocados pelo uso de recursos multisemióticos, no contexto narrativo, considerando o diálogo entre as diferentes semioses.",
+            "Analisar a relação entre o texto verbal e a não verbal, identificando relação de reiterações, complementação ou oposição, em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Vidas em palavras – Parte 1",
+          "aprendizagem_essencial": "Leitura de biografia. Verbo: pretérito.",
+          "habilidade": "EF67LP28",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Interpretar trechos de biografia.",
+            "Analisar elementares lexicais que contribuem para a construção de sentidos em textos narrativos."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Vidas em palavras – Parte 2",
+          "aprendizagem_essencial": "Leitura de texto autobiográfico. Conjunção.",
+          "habilidade": "EF67LP28",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Interpretar trechos de autobiografia.",
+            "Analisar específicos lexicais que contribuem para a construção de sentidos em textos narrativos.",
+            "Analisar a coesão de ideias, estabelecida pelo uso de conjunções."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Vidas em palavras – Parte 3",
+          "aprendizagem_essencial": "Verbos.",
+          "habilidade": "EF07LP10",
+          "conteudo": "",
+          "objetivos_aprendizagem": [
+            "Comparar trechos de biografia e de autobiografia.",
+            "Analisar efeitos de sentido decorrentes do uso de verbos em textos biográficos.",
+            "Empregar adequadamente verbos para produzir um parágrafo autobiográfico."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Descobrindo histórias: romances infantojuvenis – Parte 1",
+          "aprendizagem_essencial": "Leitura de romances infantojuvenis.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de romance infantojuvenil.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de romance infantiljuvenil.",
+            "Interpretar trechos do texto, usando estratégias de leitura.",
+            "Identificar elementos da narrativa no texto.",
+            "Analisar temas e marcas textuais que indicam a qual público o texto se destina, avaliando a abordagem ao público-alvo."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Descobrindo histórias: romances infantojuvenis – Parte 2",
+          "aprendizagem_essencial": "Leitura de romances infantojuvenis.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Forma nominal do verbo: participio. Verbo de estado.",
+          "objetivos_aprendizagem": [
+            "Analisar efeitos de sentido decorrentes do uso dos verbos no particípio.",
+            "Identificar e analisar o emprego de verbos de estado que atuam como verbos de ligação.",
+            "Empregar adequadamente verbos no particípio e de ligação ao produzir um parágrafo narrativo."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Sentindo a arte da poesia – Parte 1",
+          "aprendizagem_essencial": "Leitura de poemas.",
+          "habilidade": "EF69LP48",
+          "conteudo": "Leitura de poemas.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas.",
+            "Analisar recursos expressivos (sonoros,semânticos, gráfico-espaciais e imagéticos) que ajudam a construir sentido em poemas.",
+            "Interpretar figuras de linguagem, inferindo sentidos."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Sentindo a arte da poesia – Parte 2",
+          "aprendizagem_essencial": "Leitura de poemas.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Acentuação gráfica: paroxitonas.",
+          "objetivos_aprendizagem": [
+            "Identificar a sílaba tônica em palavras paroxítonas.",
+            "Esquematizar as convenções de acentuação gráfica de palavras paroxítonas.",
+            "Interpretar figuras de linguagem, inferindo sentidos."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Versos e sentidos: por dentro dos textos poéticos – Parte 1",
+          "aprendizagem_essencial": "Leitura de poemas.",
+          "habilidade": "EF69LP48",
+          "conteudo": "Leitura de poemas. Poemas de versos livres x forma fixa.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender poemas.",
+            "Diferenciar poemas de forma fixa de poemas de versos livres.",
+            "Interpretar figuras de linguagem, inferindo sentidos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Versos e sentidos: por dentro dos textos poéticos – Parte 2",
+          "aprendizagem_essencial": "Acentuação gráfica: proparoxítonas.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Acentuação gráfica: proparoxítonas.",
+          "objetivos_aprendizagem": [
+            "Identificar a sílaba tônica em palavras proparoxítonas.",
+            "Distinguir as convenções de acentuação gráfica de palavras proparoxítonas."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Diálogos entre textos",
+          "aprendizagem_essencial": "Intertextualidade.",
+          "habilidade": "EF67LP27",
+          "conteudo": "Ortografia: uso de G e J.",
+          "objetivos_aprendizagem": [
+            "Relembrar o conceito de intertextualidade.",
+            "Identificar relações intertextuais entre textos literários e outras manifestações artísticas."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Ecos artísticos",
+          "aprendizagem_essencial": "Tipos de intertextualidade.",
+          "habilidade": "EF67LP27",
+          "conteudo": "Classificar tipos de intertextualidade.",
+          "objetivos_aprendizagem": [
+            "Justificar relações de intertextualidade em trechos de textos.",
+            "Elaborar texto utilizando recursos de intertextualidade."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Histórias da tradição – Parte1",
+          "aprendizagem_essencial": "Leitura de conto popular.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Ler e compreender conto popular.",
+          "objetivos_aprendizagem": [
+            "Analisar efeitos de sentido decorrentes do uso de palavras e expressões na construção do texto.",
+            "Examinar características recorrentes em contos populares, observando a estrutura composicional do gênero, sua função social e adequação ao público-alvo."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Histórias da tradição – Parte 2",
+          "aprendizagem_essencial": "Artigo e numeral.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Identificar efeitos de sentido provocados pelo uso de artigos definidos e indefinidos.",
+          "objetivos_aprendizagem": [
+            "Interpretar a função semântica dos numerais na construção de sentidos do texto.",
+            "Empregar artigos e numerais ao reescrever um parágrafo, garantindo a concordância nominal."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Anúncios que convencem - Parte 1",
+          "aprendizagem_essencial": "AE4 - Comparar informações sobre um mesmo fato divulgadas por diferentes veículos e mídias, identificando elementos que contribuem para a credibilidade.",
+          "habilidade": "EF69LP04A EF69LP04B",
+          "conteudo": "Leitura de anúncio publicitário. Palavras-valise.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s), identificando recursos persuasivos.",
+            "Analisar efeitos de sentido decorrentes do uso de recursos verbais e não verbais.",
+            "Compreender a formação de palavras-valise, reconhecendo seus efeitos de sentido em anúncios publicitários."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Anúncios que convencem - Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Pronomes demonstrativos: 'esse' e 'este'.",
+          "objetivos_aprendizagem": [
+            "Compreender a função dos pronomes demonstrativos 'esse' e 'este'.",
+            "Identificar o uso de pronomes demonstrativos 'esse' ou 'este' em texto(s) publicitário(s).",
+            "Elaborar slogan para texto publicitário, empregando pronome demonstrativo 'esse' ou 'este'."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Mensagens que vendem - Parte 1",
+          "aprendizagem_essencial": "AE4 - Comparar informações sobre um mesmo fato divulgadas por diferentes veículos e mídias, identificando elementos que contribuem para a credibilidade.",
+          "habilidade": "EF69LP04A EF69LP04B",
+          "conteudo": "Recursos lingüístico-discursivos em folhetos/flyers de anúncios publicitários.",
+          "objetivos_aprendizagem": [
+            "Ler folhetos e flyers de anúncios publicitários, identificando a relação entre as linguagens verbal e não verbal.",
+            "Identificar recursos persuasivos em folhetos e flyers de anúncios publicitários.",
+            "Analisar efeitos de sentido decorrentes do uso de recursos linguísticos e semióticos."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Mensagens que vendem - Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Modos verbais: imperativo.",
+          "objetivos_aprendizagem": [
+            "Compreender a estrutura do modo imperativo.",
+            "Analisar a intencionalidade comunicativa associada ao uso do modo imperativo em textos publicitários.",
+            "Empregá-lo em produção própria na construção de uma narrativa para um folheto."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Universos paralelos - Parte 1",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF69LP53",
+          "conteudo": "Leitura de conto de ficção científica. Estratégias de leitura.",
+          "objetivos_aprendizagem": [
+            "Ler conto de ficção científica, identificando efeitos de sentido gerados por recursos lexicais.",
+            "Debater, em roda de conversa, impressões sobre o conto lido.",
+            "Examinar características de histórias de ficção científica, observando a construção social."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Universos paralelos - Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Concordância verbal.",
+          "objetivos_aprendizagem": [
+            "Examinar a concordância verbal em trechos de conto de ficção científica, distinguindo usos no singular e no plural.",
+            "Analisar as regras de concordância verbal ao redor sobre o texto lido."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Vozes do povo: conto indígena – Parte 1",
+          "aprendizagem_essencial": "Leitura de conto indígena. Estratégias de leitura.",
+          "habilidade": "EF69LP44",
+          "conteudo": "Leitura de conto indígena.",
+          "objetivos_aprendizagem": [
+            "Leitor como indígena, identificando características recorrentes e estrutura composicional do gênero, sua função social e adequação ao público-alvo.",
+            "Reconhecer a ideia central do texto e as ideias implícitas.",
+            "Inferir a presença de valores sociais, culturais e humanos e de diferentes visões de mundo."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Vozes do povo: conto indígena – Parte 2",
+          "aprendizagem_essencial": "Modo indicativo.",
+          "habilidade": "EF69LP44",
+          "conteudo": "Modo indicativo.",
+          "objetivos_aprendizagem": [
+            "Identificar usos do modo indicativo em trechos de conto indígena.",
+            "Analisar efeitos de sentido decorrentes do uso do modo indicativo em passagens do texto.",
+            "Empregar adequadamente verbos modo indicativo ao reescrever trechos de texto, transformando estruturas do singular para o plural."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Engrenagens do texto narrativo – Parte 1",
+          "aprendizagem_essencial": "Mecanismos da narrativa.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Mecanismos da narrativa.",
+          "objetivos_aprendizagem": [
+            "Identificar os usos do modo subjuntivo em trechos de texto narrativo.",
+            "Analisar efeitos de sentido decorrentes do uso do modo subjuntivo em passagens do texto.",
+            "Empregar adequadamente o modo subjuntivo ao transportar trechos do texto indicativo para o subjuntivo."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Engrenagens do texto narrativo – Parte 2",
+          "aprendizagem_essencial": "Modo subjuntivo.",
+          "habilidade": "EF07LP10",
+          "conteudo": "Modo subjuntivo.",
+          "objetivos_aprendizagem": [
+            "Identificar os usos do modo subjuntivo em trechos de texto narrativo.",
+            "Analisar efeitos de sentido decorrentes do uso do modo subjuntivo em passagens do texto.",
+            "Empregar adequadamente o modo subjuntivo ao transportar trechos do texto indicativo para o subjuntivo."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Recurso que cativa: a quarta capa como porta de entrada da leitura",
+          "aprendizagem_essencial": "Elementos dos livros: quarta capa.",
+          "habilidade": "EF69LP45",
+          "conteudo": "Elementos dos livros: quarta capa.",
+          "objetivos_aprendizagem": [
+            "Levar os alunos a ler e entender a função de sinopses.",
+            "Analisar efeitos de sentido gerados pelo uso de sinopses e avaliações positivas em quarta-capa.",
+            "Produzir texto para quarta capa."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Por dentro de um programa artístico",
+          "aprendizagem_essencial": "Programa (de teatro, dança, exposições etc.).",
+          "habilidade": "EF69LP45",
+          "conteudo": "Programa (de teatro, dança, exposições etc.).",
+          "objetivos_aprendizagem": [
+            "Examinar a estrutura composicional do gênero, sua função social e adequação ao público-alvo.",
+            "Analisar efeitos de sentido decorrentes do uso de recursos linguísticos e semióticos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "A passagem do tempo em textos narrativos - Parte 1",
+          "aprendizagem_essencial": "Fábula.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Leitura e compreensão de fábula, identificando características recorrentes do gênero, sua função social e adequação ao público-alvo.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender fábula, identificando características recorrentes do gênero, sua função social e adequação ao público-alvo.",
+            "Identificar os acontecimentos que indicam o desenrolar do enredo da narrativa.",
+            "Analisar o texto literário como manifestação artística e cultural, de modo a valorizar essa produção."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "A passagem do tempo em textos narrativos - Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Tempos verbais. Recursos coesivos.",
+          "objetivos_aprendizagem": [
+            "Identificar recursos coesivos usados para indicar a passagem do tempo em texto narrativo.",
+            "Analisar tempos verbais usados para indicar a progressão temporal em fábulas."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Elementos da trama narrativa - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Lenda. Elemento da narrativa: narrador.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender lenda, observando como o texto apresenta a visão de um fenômeno ou personagem.",
+            "Identificar elementos de construção do narrador do texto.",
+            "Empregar adequadamente ajustes na concordância verbal e nominal ao transportar o foco de um narrador pessoa."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Elementos da trama narrativa - Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Leitura de lenda. Elemento da narrativa: personagens, Verbos de enunciação.",
+          "objetivos_aprendizagem": [
+            "Analisar elementos de construção das personagens e avaliar a adequação desses recursos na construção de sentidos da lenda.",
+            "Identificar diferentes tipos de usos de verbos de enunciação."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Lições em parábolas - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Leitura de parábola.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender parábola, reconhecendo suas estrutura composicional, finalidade e objetivos.",
+            "Analisar esforços de articulação entre ideias explícitas e implícitas."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Lições em parábolas - Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF07LP10",
+          "conteudo": "Concordância nominal.",
+          "objetivos_aprendizagem": [
+            "Examinar a concordância nominal em trechos parábola, distinguindo usos de elementos.",
+            "Analisar diferentes tipos de concordância nominal no transport trechos do plural para o singular."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Páginas públicas - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP03",
+          "conteudo": "Leitura e interpretação de notícias.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender notícia, identificando o fato central.",
+            "Associar ações e desdobramentos do fato central.",
+            "Analisar diferentes tipos de estratégias lexicais na construção do texto.",
+            "Refletir sobre a relevância da informação, considerando aspectos composicionais do texto."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Páginas públicas – Parte 2",
+          "aprendizagem_essencial": "AE2 - Identificar usos adequados de regras gramaticais, aplicando conhecimentos linguísticos na leitura e escrita de textos.",
+          "habilidade": "EF67LP33",
+          "conteudo": "Leitura e interpretação de notícias. Pontuação: uso da vírgula.",
+          "objetivos_aprendizagem": [
+            "Identificar a função da vírgula na construção de sentidos do texto.",
+            "Analisar o uso de vírgulas em notícias.",
+            "Empregar adequadamente vírgulas em trechos de texto."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Páginas secretas – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar os elementos da narrativa em gêneros narrativos ficcionais diversos, reconhecendo suas características próprias.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Diário ficcional.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de diário ficcional.",
+            "Diferenciar diário ficcional de não ficcional.",
+            "Analisar efeitos de sentido decorrentes de escolhas lexicais na construção do diário ficcional."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Páginas secretas – Parte 2",
+          "aprendizagem_essencial": "AE6 - Analisar os elementos da narrativa em gêneros narrativos ficcionais diversos, reconhecendo suas características próprias.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Diário ficcional. Progressão textual: causa e consequência.",
+          "objetivos_aprendizagem": [
+            "Identificar recursos de coesão textual que contribuem para a progressão textual em diário ficcional.",
+            "Justificar relações de causa e consequência presentes na construção do diário ficcional.",
+            "Usar recursos de coesão para estabelecer continuidade e sentido no diário ficcional."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Divulgando descobertas – Parte 1",
+          "aprendizagem_essencial": "AE4 - Analisar elementos de narrativa em gêneros narrativos ficcionais diversos, reconhecendo suas características próprias.",
+          "habilidade": "EF69LP34",
+          "conteudo": "Leitura de artigo de divulgação científica.",
+          "objetivos_aprendizagem": [
+            "Ler o artigo de divulgação científica, identificando a função do gênero e a adequação ao público-alvo.",
+            "Analisar efeitos de sentido no texto, tendo em vista a sistematização de informações."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Divulgando descobertas – Parte 2",
+          "aprendizagem_essencial": "AE4 - Comparar informações sobre um mesmo fato divulgadas por diferentes veículos e mídias, identificando elementos que contribuem para a credibilidade.",
+          "habilidade": "EF69LP18A",
+          "conteudo": "Elementos do artigo de divulgação científica. Parágrafo.",
+          "objetivos_aprendizagem": [
+            "Identificar estratégias de parágrafo e as relações de sentido constituídas na organização dos blocos de texto.",
+            "Compreender a coesão e a progressão das ideias."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "O jornalismo em imagens – Aula complementar",
+          "aprendizagem_essencial": "AE2 - Analisar os elementos da narrativa em gêneros narrativos ficcionais diversos, reconhecendo suas características próprias.",
+          "habilidade": "EF69LP34",
+          "conteudo": "Recursos gráficos-visuais em textos jornalísticos veiculados em meios digitais, como fotos e vídeos.",
+          "objetivos_aprendizagem": [
+            "Analisar os efeitos de sentido decorrentes do uso de recursos gráficos e visuais em textos jornalísticos veiculados em meios digitais."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "O jornalismo em imagens – Aula complementar",
+          "aprendizagem_essencial": "AE2 - Analisar os elementos da narrativa em gêneros narrativos ficcionais diversos, reconhecendo suas características próprias.",
+          "habilidade": "EF07LP01",
+          "conteudo": "Recursos gráficos-visuais em textos jornalísticos veiculados em meios digitais.",
+          "objetivos_aprendizagem": [
+            "Examinar a função de gráficos e infográficos, identificando efeitos de sentido que geram em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Carta do leitor – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP06",
+          "conteudo": "Leitura de carta do leitor. Elementos composicionais de textos do gênero carta do leitor.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender carta do leitor, identificando as condições de produção do texto, como objetivo, linguagem e público-alvo.",
+            "Comparar as cartas do leitor em meios impressos e digitais.",
+            "Produzir carta do leitor, expressando opinião, argumentos e posicionamento crítico."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Carta do leitor – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF07LP10",
+          "conteudo": "Operadores argumentativos.",
+          "objetivos_aprendizagem": [
+            "Interpretar efeitos de sentido provocados pelo uso de operadores argumentativos em carta do leitor.",
+            "Empregar operadores argumentativos ao revisar carta do leitor."
+          ]
+        }
+      ]
+    },
+    "8º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Campanhas que chamam para ação! – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar os efeitos de sentido que fortalecem a persuasão nos textos publicitários.",
+          "habilidade": "EF69LPO2A EF69LPO4A",
+          "conteudo": "Leitura de cartaz de campanha.",
+          "objetivos_aprendizagem": [
+            "Identificar elementos da linguagem verbal e não verbal e o modo como eles se articulam para produzir os sentidos desejados.",
+            "Reconhecer caráter apelativo do texto e perceber as estratégias usadas para chamar a atenção."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Campanhas que chamam para ação! – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LPO4A",
+          "conteudo": "Ortografia: grafema × fonema.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar peça publicitária.",
+            "Identificar convenções de escrita em funcionamento no texto.",
+            "Compreender caráter apelativo do texto e analisar as estratégias usadas para chamar a atenção."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Decifra-me e... convença-me! – Parte 1",
+          "aprendizagem_essencial": "AE1 - Identificar os efeitos de sentido que fortalecem a persuasão nos textos publicitários.",
+          "habilidade": "EF69LPO2B EF69LPO4A",
+          "conteudo": "Comparação entre peças publicitárias.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar peça publicitária.",
+            "Compreender caráter apelativo do texto e analisar as estratégias usadas para chamar a atenção.",
+            "Comparar elementos da linguagem verbal e de outras linguagens não verbal na produção de sentido de diferentes peças publicitárias, buscando identificar os objetivos (por exemplo: fortalecer o nome da marca, vender) e público-alvo ao qual se destina."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Decifra-me e... convença-me! – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LPO4A",
+          "conteudo": "Ortografia: sufixo e prefixo.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar peça publicitária.",
+            "Identificar as estratégias usadas para chamar a atenção.",
+            "Analisar sentidos dos sufixos e prefixos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "De grão em grão, constrói-se uma argumentação! – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF69LPI7",
+          "conteudo": "Uso de recursos persuasivos em textos argumentativos diversos (título, escolhas lexicais, explicitação ou a ocultação de fontes de informação).",
+          "objetivos_aprendizagem": [
+            "Ler um trecho de texto jornalístico e/ou um publicitário.",
+            "Analisar recursos persuasivos em textos argumentativos diversos (título, escolhas lexicais, explicitação ou a ocultação de fontes de informação).",
+            "Identificar intenções do autor."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "De grão em grão, constrói-se uma argumentação! – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LPO4",
+          "conteudo": "Adverbios.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender artigo de opinião que faça uso de adverbios.",
+            "Analisar o uso e sentido de adverbios."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Demonstrando opiniões",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP16A",
+          "conteudo": "Modalizadores discursivos. Estratégias de modalização (expressões de grau) em artigos de opinião.",
+          "objetivos_aprendizagem": [
+            "Identificar os recursos de que o autor se vale para convencer ou persuadir o ouvinte/leitor.",
+            "Refletir sobre como o locutor/escritor pode se posicionar em relação aquilo que diz, mostrando seu ponto de vista.",
+            "Analisar efeitos de sentido produzidos pelo uso de modalizadores discursivos em um artigo de opinião.",
+            "Analisar o uso de expressões de grau."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Verbos que posicionam",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP16A",
+          "conteudo": "Estratégias de modalização (verbos e perífrases verbais) em artigos de opinião.",
+          "objetivos_aprendizagem": [
+            "Identificar os recursos verbais e perífrases verbais utilizados pelo autor para expressar graus de certeza, dúvida, possibilidade, entre outros.",
+            "Analisar efeitos de sentido produzidos pelo uso de modalizadores discursivos em artigos de opinião.",
+            "Refletir sobre como o locutor/escritor pode se posicionar em relação ao conteúdo expresso, demonstrando seu ponto de vista.",
+            "Analisar o emprego de verbos e perífrases verbais como estratégias de persuasão e convencimento do leitor."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Os efeitos dos advérbios em textos opinativos",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP16A",
+          "conteudo": "Estratégias de modalização em artigos de opinião.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender um artigo de opinião.",
+            "Identificar o que são advérbios e sua função.",
+            "Reconhecer, em textos, adverbios e locuções adverbiais usadas para expressar nuances de intensidade, negação, opiniões."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Textos que vendem ou convencem",
+          "aprendizagem_essencial": "AE1 - Identificar os efeitos de sentido que fortaleçam a persuasão nos textos publicitários.",
+          "habilidade": "EF69LP04A",
+          "conteudo": "Estratégias de persuasão com recursos linguístico-discursivos (jogos de palavras, metáforas, sentidos figurados etc.).",
+          "objetivos_aprendizagem": [
+            "Ler e compreender anúncio(s) publicitário(s).",
+            "Refletir sobre a presença de recursos linguísticos no texto, como metáforas, sentido figurado e/ou jogos de palavras."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Faça o que eu digo - Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF69LP17",
+          "conteudo": "Compreensão de gêneros publicitários e opinativos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender anúncio(s) publicitário(s).",
+            "Refletir sobre a presença de persuasão no texto."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Faça o que eu digo - Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Interpretação do uso do imperativo em gêneros publicitários e opinativos.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender anúncio(s) publicitário(s).",
+            "Refletir sobre a presença de persuasão no texto."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Rede de textos – Parte 1",
+          "aprendizagem_essencial": "Intertextualidade em textos diversos.",
+          "habilidade": "EF89LP32",
+          "conteudo": "Intertextualidade em textos diversos.",
+          "objetivos_aprendizagem": [
+            "Ler trechos de textos literários (contos, poemas, romances).",
+            "Identificar nelas uma referência a outros textos prévios.",
+            "Compreender o conceito de intertextualidade."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Rede de textos – Parte 2",
+          "aprendizagem_essencial": "Concordância verbal e nominal.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Concordância verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender textos diversos.",
+            "Compreender o funcionamento de concordância verbal e/ou nominal."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Histórias que viajam pela história",
+          "aprendizagem_essencial": "Valores culturais em textos literários. Contos populares.",
+          "habilidade": "EF69LP44 EF89LP33B",
+          "conteudo": "Valores culturais em textos literários. Contos populares.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conteúdo popular.",
+            "Identificar a presença de valores e visões de mundo no texto.",
+            "Refletir sobre características composicionais e função social do gênero."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Linhas e entretelas: estratégias para ler textos literários – Parte 1",
+          "aprendizagem_essencial": "Estratégias de leitura de textos literários.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Estratégias de leitura de textos literários.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de contos.",
+            "Identificar diferentes estratégias de leitura.",
+            "Identificar o tema principal e questionar o propósito do texto.",
+            "Analisar regras do uso do hífen."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Linhas e entretelas: estratégias para ler textos literários – Parte 2",
+          "aprendizagem_essencial": "Estratégias para ler textos literários.",
+          "habilidade": "EF69LP44 EF89LP33B",
+          "conteudo": "Estratégias para ler textos literários.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de textos literários de gêneros variados (romances, texto narrativo, crônica literária).",
+            "Utilizar diferentes estratégias de leitura (inferir características dos personagens, reconhecer o ponto de vista narrativo etc.)."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Linhas e entretelas: estratégias para ler textos literários – Parte 3",
+          "aprendizagem_essencial": "Estratégias para ler textos literários.",
+          "habilidade": "EF69LP44 EF89LP37",
+          "conteudo": "Estratégias para ler textos literários.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de textos literários de gêneros variados (poemas e contos).",
+            "Avaliar diferentes estratégias de leitura (identificar e compreender sentidosTexto)."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Um retrato do dia a dia – Parte 1",
+          "aprendizagem_essencial": "Leitura de crônica.",
+          "habilidade": "EF69LP33 EF89LP37",
+          "conteudo": "Leitura de crônica.",
+          "objetivos_aprendizagem": [
+            "Refletir sobre o uso do humor, opinião e/ou críticas no texto.",
+            "Analisar o que é humor dentro da língua.",
+            "Analisar o gênero humor e outros efeitos de sentido em textos diversos."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Um retrato do dia a dia – Parte 2",
+          "aprendizagem_essencial": "Regência verbal e nominal.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Regência verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma crônica literária.",
+            "Compreender o funcionamento da regência verbal e nominal."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "O que conta um povo sobre si – Parte 1",
+          "aprendizagem_essencial": "Contos indígenas.",
+          "habilidade": "EF69LP46 EF89LP33B",
+          "conteudo": "Práticas de leitura de textos literários.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto indígena.",
+            "Refletir sobre características composicionais e função social do gênero.",
+            "Analisar como características culturais permeiam o texto."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "O que conta um povo sobre si – Parte 2",
+          "aprendizagem_essencial": "Adjuntos adverbiais.",
+          "habilidade": "EF08LP10A",
+          "conteudo": "Adjuntos adverbiais.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto indígena;",
+            "Compreender o uso dos adjuntos adverbiais."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "A arte de fazer rir – Parte 1",
+          "aprendizagem_essencial": "Leitura de piadas e anedotas.",
+          "habilidade": "EF89LP33",
+          "conteudo": "Leitura de piadas e anedotas.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender piadas e anedotas.",
+            "Examinar o papel da surpresa e do incongruente na construção do humor.",
+            "Refletir sobre a função social das piadas e anedotas em diferentes contextos culturais.",
+            "Analisar o uso de jogos de palavras, trocadilhos e ambiguidades semânticas."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "A arte de fazer rir – Parte 2",
+          "aprendizagem_essencial": "Adjuntos adnominais.",
+          "habilidade": "EF08LP10A",
+          "conteudo": "Adjuntos adnominais.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender piada(s) e anedota.",
+            "Compreender a estrutura básicas desses textos."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Contos cheios de graça – Parte 1",
+          "aprendizagem_essencial": "Leitura de contos de humor.",
+          "habilidade": "EF89LP33",
+          "conteudo": "Leitura de contos de humor.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto(s) de humor.",
+            "Analisar a intenção humorística.",
+            "Identificar elementos que contribuem para o efeito cômico.",
+            "Analisar o uso de jogos de palavras, trocadilhos e ambiguidades semânticas."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Contos cheios de graça – Parte 2",
+          "aprendizagem_essencial": "Complemento nominal.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Complemento nominal.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender conto(s) de humor.",
+            "Identificar a intenção humorística.",
+            "Compreender o uso de complemento nominal."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Brincando com seriedade: paródias e sátiras – Parte 1",
+          "aprendizagem_essencial": "Leitura de paródia e sátira.",
+          "habilidade": "EF89LP33",
+          "conteudo": "Leitura de paródia e sátiras.",
+          "objetivos_aprendizagem": [
+            "Examinar o papel da surpresa e do incongruente na construção do humor.",
+            "Analisar o uso dos \"porquês\"."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Brincando com seriedade: paródias e sátiras – Parte 2",
+          "aprendizagem_essencial": "Concordância nominal: casos especiais.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Concordância nominal: casos especiais.",
+          "objetivos_aprendizagem": [
+            "Examinar o papel da surpresa e do incongruente na construção do humor.",
+            "Analisar o uso dos casos especiais de concordância."
+          ]
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Estilo e impacto: o poder das linguagens verbal e não verbal – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF69LP17",
+          "conteudo": "Recursos estilísticos em textos publicitários.",
+          "objetivos_aprendizagem": [
+            "Ler anúncios publicitários, identificando efeitos de sentido gerados por elementos verbais e não verbais.",
+            "Identificar o uso de linguagem concisa em anúncios publicitários, considerando a função do gênero e as intenções comunicativas."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Estilo e impacto: o poder das linguagens verbal e não verbal – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF89LP37",
+          "conteudo": "Figuras de linguagem.",
+          "objetivos_aprendizagem": [
+            "Ler anúncios publicitários, identificando recursos estilísticos presentes nos textos.",
+            "Analisar efeitos de sentido gerados por figuras de linguagem em textos publicitários."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Entre papéis e links: as notícias impressas e digitais – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF69LP16A",
+          "conteudo": "Leitura de notícia impressa e digital.",
+          "objetivos_aprendizagem": [
+            "Ler notícias, identificando o fato central noticiado.",
+            "Analisar efeitos de sentido gerados pelo uso de palavras e expressões.",
+            "Comparar notícias publicadas em veículos impressos e em mídias digitais, identificando semelhanças e diferenças a partir das características desses suportes textuais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Entre papéis e links: as notícias impressas e digitais – Parte 2",
+          "aprendizagem_essencial": "AE7 - Analisar as características próprias de gêneros textuais do campo jornalístico, identificando a posição assumida pelo autor e/ou veículo.",
+          "habilidade": "EF08LP08A",
+          "conteudo": "Voz ativa e voz passiva.",
+          "objetivos_aprendizagem": [
+            "Analisar o uso de voz ativa e voz passiva em notícias e seus efeitos no sentido do texto.",
+            "Utilizar a voz ativa e a voz passiva na produção de textos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Análise linguística/semiótica",
+          "aprendizagem_essencial": "Analisar em textos narrativos ficcionais.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Analisar em textos narrativos ficcionais, as diferentes formas de composição próprias de cada gênero.",
+          "objetivos_aprendizagem": [
+            "Analisar a construção da passagem de tempo.",
+            "Estabelecer relação entre a tese e os argumentos oferecidos para sustentá-la."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Fato ou opinião? Eis a questão! – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Pontuação: uso do ponto e vírgula.",
+          "objetivos_aprendizagem": [
+            "Examinar a função do ponto e vírgula, diferenciando-o de vírgula e ponto.",
+            "Identificar efeitos de sentido gerados por ponto e vírgula em textos de diversos gêneros."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Entre argumentos – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar as características próprias de gêneros textuais do campo jornalístico, identificando a posição assumida pelo autor e/ou veículo.",
+          "habilidade": "EF89LP03",
+          "conteudo": "Leitura e análise crítica de artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Ler artigo de opinião, identificando a temática central e os pontos de vista apresentados.",
+            "Analisar os retornos argumentativos e contra-argumentativos utilizados para defender pontos de vista."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Entre argumentos – Parte 2",
+          "aprendizagem_essencial": "AE7 - Analisar as características próprias de gêneros textuais do campo jornalístico, identificando a posição assumida pelo autor e/ou veículo.",
+          "habilidade": "EF89LP03",
+          "conteudo": "Pontuação: aspas, ponto e vírgula e dois-pontos.",
+          "objetivos_aprendizagem": [
+            "Examinar características recorrentes em artigos de opinião e sua função social.",
+            "Identificar à função de sinais de pontuação (aspas, ponto e vírgula e dois-pontos), observando efeitos de sentido que geram em artigo de opinião.",
+            "Elaborar posicionamento a partir de artigo de opinião, utilizando pontuação conforme norma-padrão da língua, a fim de produzir os efeitos de sentido pretendidos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Vozes da redação jornalística – Parte 1",
+          "aprendizagem_essencial": "AE7 - Analisar as características próprias de gêneros textuais do campo jornalístico, identificando a posição assumida pelo autor e/ou veículo.",
+          "habilidade": "EF69LP16A",
+          "conteudo": "Editorial (contextualização e defesa de tese).",
+          "objetivos_aprendizagem": [
+            "Leitor editorial, analisando os argumentos e a função social do texto.",
+            "Examinar características recorrentes em editoriais, considerando a situação comunicativa, a linguagem e e a adequação ao público-alvo."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Vozes da redação jornalística – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Concordância verbal.",
+          "objetivos_aprendizagem": [
+            "Analisar o funcionamento da concordância verbal em editorial.",
+            "Ampliar compreensão verbal conforme norma-padrão da língua portuguesa."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Jornalismo em foco – Parte 1",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF69LP17",
+          "conteudo": "Leitura de textos jornalísticos.",
+          "objetivos_aprendizagem": [
+            "Identificar recursos estilísticos, semióticos e lexicais.",
+            "Analisar efeitos de sentido gerados por escolhas e pela imprecisão em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Jornalismo em foco – Parte 2",
+          "aprendizagem_essencial": "AE2 - Analisar aspectos linguísticos e gramaticais em funcionamento em um texto.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Verbos: marcas de pessoa, número, tempo e modo verbais.",
+          "objetivos_aprendizagem": [
+            "Os textos jornalísticos, identificando marcas de pessoa, número, tempo e modo verbais.",
+            "Analisar aspectos e modos verbais recorrentes em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Minhas aventuras: quando viagens contam histórias – Parte 1",
+          "aprendizagem_essencial": "AE5 - Analisar os efeitos de sentido produzidos por recursos linguísticos e recursos paralinguísticos e cênicos, como a gestualidade, em textos diversos.",
+          "habilidade": "EF69LP54",
+          "conteudo": "Relato de viagem.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função social do gênero relato de viagem."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Minhas aventuras: quando viagens contam histórias - Parte 2",
+          "aprendizagem_essencial": "Verbos: formas de pretérito.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Verbos: formas de pretérito.",
+          "objetivos_aprendizagem": [
+            "Ler relato de viagem, identificando os verbos no pretérito do indicativo.",
+            "Analisar efeitos de sentido gerados pelo uso de verbos no pretérito do indicativo em relatos de viagem."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Participação cidadã: o papel das cartas do leitor - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF89LP03",
+          "conteudo": "Leitura e análise de carta do leitor.",
+          "objetivos_aprendizagem": [
+            "Ler a carta do leitor, compreendendo sua função comunicativa e seus diferentes contextos de produção.",
+            "Reconhecer o gênero carta do leitor como um meio de interação entre leitor, mídia e sociedade.",
+            "Examinar características recorrentes em cartas do leitor e sua função social."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Participação cidadã: o papel das cartas do leitor - Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Tempos verbais do modo indicativo: futuro do presente e futuro do pretérito.",
+          "objetivos_aprendizagem": [
+            "Diferenciar futuro do presente do futuro do pretérito do indicativo a partir da leitura da carta do leitor.",
+            "Analisar efeitos de sentido do uso de verbos no futuro do presente e futuro do pretérito."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Jornada dos mitos - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF89LP33A",
+          "conteudo": "Leitura de mito. Coesão e coerência em textos narrativos. Tessitura textual.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender mito, identificando a presença de valores sociais, culturais e humanos e de diferentes visões de mundo."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Jornada dos mitos - Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Regência verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Reconhecer o funcionamento da regência verbal e nominal na norma-padrão da língua.",
+            "Analisar efeitos de sentido produzidos pelo uso de recursos linguísticos presentes em mitos."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Quem conta um conto - Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Leitura de conto.",
+          "objetivos_aprendizagem": [
+            "Ler conto, identificando efeitos de sentido gerados por elementos linguísticos e recursos paralinguísticos e cênicos."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Quem conta um conto - Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Substantivos e adjetivos.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função de substantivos e adjetivos em contos para apresentar personagens, enredo e desenvolvimento da narrativa."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Explorando romances - Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP47",
+          "conteudo": "Leitura de trecho de romance.",
+          "objetivos_aprendizagem": [
+            "Analisar efeitos de sentido produzidos por recursos linguístico-gramaticais do gênero."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Explorando romances – Parte 2",
+          "aprendizagem_essencial": "Verbos de enunciação. Tempos verbais.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Leitura de crônica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de romance, identificando efeitos de sentido gerados pelos tempos verbais presentes no texto.",
+            "Examinar o uso de verbos de enunciação no texto lido."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Também se argumenta na literatura! – Parte 1",
+          "aprendizagem_essencial": "Leitura de crônica.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Ler e compreender trecho de crônica, identificando tema central e elementos da narrativa.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de crônica, identificando tema central e elementos da narrativa.",
+            "Usar diferentes estratégias de leitura para compreensão do texto."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Também se argumenta na literatura! – Parte 2",
+          "aprendizagem_essencial": "Conjunções. Recursos argumentativos.",
+          "habilidade": "EF08LP13A",
+          "conteudo": "Conjunções.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trechos de crônica, identificando argumentos presentes no texto literário.",
+            "Identificar a função das conjunções em textos narrativos.",
+            "Analisar efeitos de sentido de conjunções em conto."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Divulgando saberes – Parte 1",
+          "aprendizagem_essencial": "Características de texto de divulgação científica.",
+          "habilidade": "EF69LP29",
+          "conteudo": "Características de texto de divulgação científica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender texto de divulgação científica, identificando características do gênero.",
+            "Analisar efeitos de sentido produzidos por recursos lingüístico-gramaticais próprios de textos de divulgação científica.",
+            "Compreender trocas de citação e paráfrase, compreendendo suas diferenças."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Divulgando saberes – Parte 2",
+          "aprendizagem_essencial": "Pontuação: parênteses e aspas.",
+          "habilidade": "EF69LP43A",
+          "conteudo": "Reconhecer a função de parênteses e aspas em artigos de divulgação científica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer a função de parênteses e aspas em artigos de divulgação científica.",
+            "Analisar recursos notacionais usados para introduzir outras vozes no texto, como parênteses e aspas."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Falar é uma arte – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "Roteiro para exposição oral.",
+          "habilidade": "EF69LP29",
+          "conteudo": "Identificar as características e a função de exposições orais no contexto da prática social da escola.",
+          "objetivos_aprendizagem": [
+            "Planejar um roteiro para exposição oral, considerando as normas de um texto expositivo do bimestre.",
+            "Expor, em trabalho em grupo."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Falar é uma arte – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "Exposição oral.",
+          "habilidade": "EF69LP29",
+          "conteudo": "Praticar exposição oral, divulgando conhecimentos aprendidos no contexto da prática social.",
+          "objetivos_aprendizagem": [
+            "Praticar a forma respeitosa de exposição oral, seja justificativa."
+          ]
+        }
+      ]
+    },
+    "9º Ano": {
+      "1º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Memórias não são só memórias – Parte 1",
+          "aprendizagem_essencial": "Leitura de memórias.",
+          "habilidade": "EF69LP46",
+          "conteudo": "Leitura de memórias.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender texto de memórias.",
+            "Localizar informação explicitamente declarada.",
+            "Fazer conexões simples entre informações adjacentes.",
+            "Compartilhar com os colegas as impressões sobre o texto."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Análise Linguística/ Semiótica",
+          "aprendizagem_essencial": "AE2 - Aplicar regras de escrita da norma-padrão em textos com estruturas sintáticas complexas.",
+          "habilidade": "EF09LPA04 - Escrever textos corretamente, de acordo com a norma-padrão, com estruturas sintáticas complexas no nível da oração e do período.",
+          "conteudo": "Grupo 1",
+          "objetivos_aprendizagem": [
+            "Identificar o tipo de sujeito em uma oração.",
+            "Identificar um verbo no tempo pretérito perfeito em um texto biográfico.",
+            "Reconhecer a função do ponto-final em um texto.",
+            "Reconhecer a transitividade verbal em uma oração.",
+            "Reconhecer o emprego da concordância verbal em um texto."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Jovens em ação: biografias inspiradoras – Parte 1",
+          "aprendizagem_essencial": "Leitura de biografia.",
+          "habilidade": "EF69LP46",
+          "conteudo": "Leitura de biografia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender texto biográfico.",
+            "Localizar informação explicitamente declarada.",
+            "Fazer conexões simples entre informações adjacentes.",
+            "Reconhecer o tema principal em um texto.",
+            "Refletir sobre a natureza das informações selecionadas para compor o texto.",
+            "Compartilhar com os colegas as impressões sobre o texto."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Jovens em ação: biografias inspiradoras – Parte 2",
+          "aprendizagem_essencial": "Préterito perfeito e imperfeito do indicativo.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Préterito perfeito e imperfeito do indicativo.",
+          "objetivos_aprendizagem": [
+            "Identificar verbos no pretérito perfeito e imperfeito do indicativo.",
+            "Compreender suas diferenças de sentido."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "A jornada de uma líder: do silêncio à autobiografia – Parte 1",
+          "aprendizagem_essencial": "Leitura de autobiografia.",
+          "habilidade": "EF69LP46",
+          "conteudo": "Leitura de autobiografia.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender texto autobiográfico.",
+            "Localizar informação implícita ou sugerida.",
+            "Reconhecer o tema principal do texto.",
+            "Refletir sobre efeitos de sentido do texto."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "A jornada de uma líder: do silêncio à autobiografia – Parte 2",
+          "aprendizagem_essencial": "Tempos verbais: futuro do presente do indicativo.",
+          "habilidade": "EF09LP04",
+          "conteudo": "Tempos verbais: futuro do presente do indicativo.",
+          "objetivos_aprendizagem": [
+            "Identificar verbos no futuro do presente do indicativo, refletindo sobre a função que exercem e seu contexto do uso."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Diário: retratos capturados em palavras – Parte 1",
+          "aprendizagem_essencial": "Leitura de diário.",
+          "habilidade": "EF69LP44",
+          "conteudo": "Leitura de diário.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender trecho de diário.",
+            "Reconhecer a relação entre identidade e cultura, identificando a natureza do registro concreto a que se destina o texto (social e histórico).",
+            "Reconhecer textos literários como representativos de culturas e valores sociais."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Diário: retratos capturados em palavras – Parte 2",
+          "aprendizagem_essencial": "Estudo de tempos verbais.",
+          "habilidade": "EF09LP04C",
+          "conteudo": "A análise de diferentes tempos verbais e os sentidos que expressam.",
+          "objetivos_aprendizagem": [
+            "Analisar diferentes tempos verbais e os sentidos que expressam."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Notícia: informações e atualidades – Parte 1",
+          "aprendizagem_essencial": "Notícia: fato central.",
+          "habilidade": "EF69LP03A",
+          "conteudo": "Identificar o fato central em uma notícia.",
+          "objetivos_aprendizagem": [
+            "Identificar o fato central em uma notícia.",
+            "Reconhecer as principais circunstâncias e declarações relacionadas ao fato central.",
+            "Desenvolver a habilidade de distinguir entre fatos principais e secundários.",
+            "Distinguir fato de opinião."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Notícia: informações e atualidades – Parte 2",
+          "aprendizagem_essencial": "Tempos verbais: presente do indicativo. Presente histórico.",
+          "habilidade": "EF09LP04D",
+          "conteudo": "Estudar usos e funções de verbos no tempo presente do indicativo.",
+          "objetivos_aprendizagem": [
+            "Estudar usos e funções de verbos no tempo presente do indicativo.",
+            "Estudar o uso do presente histórico em notícias."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Reportagem: um mergulho mais profundo – Parte 1",
+          "aprendizagem_essencial": "Reportagem: fato central.",
+          "habilidade": "EF69LP03B",
+          "conteudo": "Identificar o fato central em uma reportagem.",
+          "objetivos_aprendizagem": [
+            "Identificar o fato central em uma reportagem.",
+            "Reconhecer os elementos que dão embasamento ao fato central.",
+            "Compreender o sentido de trechos com construções desafiadoras."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Reportagem: um mergulho mais profundo – Parte 2",
+          "aprendizagem_essencial": "Pretérito imperfeito do indicativo.",
+          "habilidade": "EF09LP04E",
+          "conteudo": "Estudar o uso do pretérito imperfeito do indicativo em reportagens.",
+          "objetivos_aprendizagem": [
+            "Estudar o uso do pretérito imperfeito do indicativo em reportagens."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Entrevista em foco – Parte 1",
+          "aprendizagem_essencial": "Entrevista: ideia central.",
+          "habilidade": "EF69LP03A",
+          "conteudo": "Ler e compreender uma entrevista escrita.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender uma entrevista escrita.",
+            "Identificar principais temas e teses defendidos.",
+            "Distinguir fato de opinião.",
+            "Avaliar credibilidade do entrevistado."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Entrevista em foco – Parte 2",
+          "aprendizagem_essencial": "Pontuação: ponto-final.",
+          "habilidade": "EF09LP04C",
+          "conteudo": "Analisar o ponto final na entrevista.",
+          "objetivos_aprendizagem": [
+            "Analisar o ponto final na entrevista.",
+            "Compreender de forma a melhorar a escrita e a clareza do texto.",
+            "Comparar o ponto final a outros sinais, avaliando a adequação."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Consulte os cartazes! – Parte 1",
+          "aprendizagem_essencial": "Leitura de cartaz instrucional (primeiros socorros).",
+          "habilidade": "EF89LP17",
+          "conteudo": "Entender um cartaz instrucional sobre primeiros socorros.",
+          "objetivos_aprendizagem": [
+            "Entender um cartaz instrucional sobre primeiros socorros.",
+            "Reconhecer a estrutura e o diálogo, contextualizando a recepção e textuais.",
+            "Analisar possíveis modificações na construção."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Consultem os cartazes! – Parte 2",
+          "aprendizagem_essencial": "Oração: sujeito e predicado.",
+          "habilidade": "EF09LP05",
+          "conteudo": "Oração: sujeito e predicado.",
+          "objetivos_aprendizagem": [
+            "Identificar e analisar os elementos linguísticos que compõem a oração, como sujeito e predicado."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Campanha de conscientização: uma ação necessária – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP20A EF69LP20B",
+          "conteudo": "Leitura de cartaz de campanha de saúde.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender um cartaz de campanha de saúde.",
+            "Compreender o contexto de produção, circulação e recepção de cartazes de campanha, analisando possíveis motivações e finalidades.",
+            "Comparar campanhas em diferentes mídias."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Campanha de conscientização: uma ação necessária – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP04A EF09LP05A",
+          "conteudo": "Concordância verbal e nominal.",
+          "objetivos_aprendizagem": [
+            "Identificar usos de concordância verbal e nominal."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Cartazes na escola: informação e educação",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF89LP17",
+          "conteudo": "Cartaz sobre direitos e deveres do estudante.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender um cartaz sobre direitos e deveres dos estudantes.",
+            "Reconhecer os elementos que tornam os cartazes atraentes."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "De parágrafo em parágrafo",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF69LP29",
+          "conteudo": "Reportagem: relação entre parágrafos.",
+          "objetivos_aprendizagem": [
+            "Analisar a organização e a estrutura dos parágrafos.",
+            "Identificar a coerência entre os parágrafos.",
+            "Reconhecer a relação entre a construção de um parágrafo e o seu desenvolvimento na reportagem."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Desvendando fichas catalográficas – Parte 1",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP05",
+          "conteudo": "Ficha catalográfica.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender ficha(s) catalográfica(s).",
+            "Compreender e interpretar os dados que compõem uma ficha catalográfica (autor, título, data de publicação, ano etc.)."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Desvendando fichas catalográficas – Parte 2",
+          "aprendizagem_essencial": "",
+          "habilidade": "EF08LP05",
+          "conteudo": "Ortografia: hifenização.",
+          "objetivos_aprendizagem": [
+            "Observar uso do hífen no texto e conhecer critérios de hifenização."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Resumo: a essência das ideias – Parte 1",
+          "aprendizagem_essencial": "Ler e compreender resumos.",
+          "habilidade": "EF69LP34",
+          "conteudo": "Resumo.",
+          "objetivos_aprendizagem": [
+            "Ler e compreender resumos.",
+            "Fazer inferências com base em trechos de resumos.",
+            "Identificar o tipo de informação que entra em resumos."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Resumo: a essência das ideias – Parte 2",
+          "aprendizagem_essencial": "Analisar efeitos de sentido decorrentes do uso do modo indicativo em resumos.",
+          "habilidade": "EF08LP04A EF08LP04B",
+          "conteudo": "Modos indicativo e subjuntivo.",
+          "objetivos_aprendizagem": [
+            "Analisar efeitos de sentido decorrentes do uso do modo indicativo em resumos.",
+            "Distinquir o uso de verbos no indicativo do uso de verbos no subjuntivo.",
+            "Empregar verbos no modo subjuntivo, de acordo com a situação comunicativa."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Esquematizar é uma arte – Parte 1",
+          "aprendizagem_essencial": "Ler esquemas que acompanham textos dos campos jornalístico/midiático e/ou das práticas de estudo e pesquisa.",
+          "habilidade": "EF69LP33",
+          "conteudo": "Leitura de esquema(s).",
+          "objetivos_aprendizagem": [
+            "Ler esquemas que acompanham textos dos campos jornalístico/midiático e/ou das práticas de estudo e pesquisa.",
+            "Interpretar dados apresentados em esquemas.",
+            "Comparar diferentes tipos de representações visuais."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Esquematizar é uma arte – Parte 2",
+          "aprendizagem_essencial": "Estudar casos de acentuação de palavras.",
+          "habilidade": "EF08LP04A EF08LP04B",
+          "conteudo": "Ortografia: acentuação.",
+          "objetivos_aprendizagem": []
+        },
+        {
+          "numero": 27,
+          "titulo": "Anatomia de um relatório – Parte 1",
+          "aprendizagem_essencial": "Ler e compreender relatório(s).",
+          "habilidade": "EF69LP29",
+          "conteudo": "Leitura de relatório(s).",
+          "objetivos_aprendizagem": [
+            "Ler e compreender relatório(s).",
+            "Refletir sobre trechos e analisar efeitos de sentido gerados pelas escolhas linguísticas.",
+            "Identificar estratégias usadas para apresentar dados e conclusões."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Anatomia de um relatório – Parte 2",
+          "aprendizagem_essencial": "Estudar transitividade verbal.",
+          "habilidade": "EF07LP05",
+          "conteudo": "Transitividade verbal.",
+          "objetivos_aprendizagem": []
+        }
+      ],
+      "2º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Crônica: cotidiano, humor e ironia – Parte 1",
+          "aprendizagem_essencial": "AE1 - Participar de práticas compartilhadas de leitura e interpretação de obras literárias e manifestações artísticas, demonstrando preferências pessoais.",
+          "habilidade": "EF67LP28",
+          "conteudo": "Leitura de crônica literária.",
+          "objetivos_aprendizagem": [
+            "Ler crônicas literárias, observando a estrutura composicional e função do gênero.",
+            "Analisar registros formais e informais da língua em textos literários."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Crônica: cotidiano, humor e ironia – Parte 2",
+          "aprendizagem_essencial": "AE2 - Aplicar regras de escrita da norma-padrão em textos com estruturas sintáticas complexas.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Modos verbais: subjuntivo.",
+          "objetivos_aprendizagem": [
+            "Analisar características recorrentes em crônicas literárias, observando a estrutura composicional do gênero.",
+            "Localizar, no texto, verbos no modo subjuntivo, identificando efeitos de sentido que geram na crônica."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "No conto, os verbos contam histórias – Parte 1",
+          "aprendizagem_essencial": "AE1 - Participar de práticas compartilhadas de leitura e interpretação de obras literárias e manifestações artísticas, demonstrando preferências pessoais.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Leitura de conto.",
+          "objetivos_aprendizagem": [
+            "Ler um trecho de conto realista, identificando elementos da narrativa.",
+            "Analisar o texto, inferindo o significado de palavras desafiadoras."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "No conto, os verbos contam histórias – Parte 2",
+          "aprendizagem_essencial": "AE2 - Aplicar regras de escrita da norma-padrão em textos com estruturas sintáticas complexas.",
+          "habilidade": "EF69LP47",
+          "conteudo": "Tempos e modos verbais.",
+          "objetivos_aprendizagem": [
+            "Localizar no texto lido verbos em diferentes modos e tempos verbais.",
+            "Identificar efeitos de sentido gerados pelos verbos no texto narrativo."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "O que as palavras estão dizendo? – Parte 1",
+          "aprendizagem_essencial": "AE1 - Participar de práticas compartilhadas de leitura e interpretação de obras literárias e manifestações artísticas, demonstrando preferências pessoais.",
+          "habilidade": "EF08LP33A",
+          "conteudo": "Leitura de poema.",
+          "objetivos_aprendizagem": [
+            "Ler o poema(s), analisando características do gênero e a função social do texto.",
+            "Reconhecer efeitos de sentido gerados pelo uso de palavras expressões."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O que as palavras estão dizendo? – Parte 2",
+          "aprendizagem_essencial": "AE2 - Aplicar regras de escrita da norma-padrão em textos com estruturas sintáticas complexas.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Sentido real e figurado de palavras.",
+          "objetivos_aprendizagem": [
+            "Diferenciar conotação e denotação em textos poéticos.",
+            "Conotação e denotação em discursos poéticos."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Vozes e perspectivas em textos jornalísticos – Parte 1",
+          "aprendizagem_essencial": "AE1 - Participar de práticas compartilhadas de leitura e interpretação de obras literárias e manifestações artísticas, demonstrando preferências pessoais.",
+          "habilidade": "EF69LP16A",
+          "conteudo": "Comparação entre editorial e artigo de opinião.",
+          "objetivos_aprendizagem": [
+            "Compreender gêneros jornalísticos sobre o mesmo fato.",
+            "Analisar recursos próprios de gêneros jornalísticos, reconhecendo."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Vozes e perspectivas em textos jornalísticos – Parte 2",
+          "aprendizagem_essencial": "Artigos definidos e indefinidos.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Artigos definidos e indefinidos.",
+          "objetivos_aprendizagem": [
+            "Localizar no texto artigos definidos e indefinidos.",
+            "Analisar efeitos de sentido resultantes do emprego de artigos definidos e/ou indefinidos em textos jornalísticos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Vozes e perspectivas em textos jornalísticos – Parte 3",
+          "aprendizagem_essencial": "Argumentação.",
+          "habilidade": "EF69LP16A",
+          "conteudo": "Argumentação.",
+          "objetivos_aprendizagem": [
+            "Identificar argumentos objetivos em fatos em artigo de opinião.",
+            "Utilizar argumentos baseados em dados confiáveis para defender uma opinião."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Fatos em imagens: uma leitura em conjunto",
+          "aprendizagem_essencial": "Leitura de fotoreportagem.",
+          "habilidade": "EF69LP03B",
+          "conteudo": "Leitura de fotoreportagem. Acentuação: oitonas, paroxítonas e proparoxítonas.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar fotoreportagem, analisando efeitos de sentido gerados pelas imagens.",
+            "Localizar o fato retratado no texto e seus desdobramentos.",
+            "Utilizar regras de acentuação de palavras para perceber palavras de forma não-padrão da língua portuguesa."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Humor e reflexão: a linguagem mista das tirinhas – Parte 1",
+          "aprendizagem_essencial": "Leitura de tirinha.",
+          "habilidade": "EF69LP05A",
+          "conteudo": "Leitura de tirinha.",
+          "objetivos_aprendizagem": [
+            "Ler tirinha(s), analisando efeitos de sentido gerados pela linguagem no texto.",
+            "Inferir efeito de humor, irônica ou crítica ao ler tirinhas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Humor e reflexão: a linguagem mista das tirinhas – Parte 2",
+          "aprendizagem_essencial": "Verbo \"haver\" como auxiliar.",
+          "habilidade": "EF08LP04A",
+          "conteudo": "Verbo \"haver\" como auxiliar.",
+          "objetivos_aprendizagem": [
+            "Identificar o verbo haver como auxiliar ao ler textos.",
+            "Relacionar o verbo haver como auxiliar ao uso do particípio regular."
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Pilares da publicidade – Parte 1",
+          "aprendizagem_essencial": "Leitura de anúncio publicitário.",
+          "habilidade": "EF69LP17",
+          "conteudo": "Leitura de anúncio publicitário. Estratégias de persuasão.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s), identificando a função das linguagens que o(s) compõem.",
+            "Analisar o uso de estratégias de recursos estéticos e semânticos do(s) texto(s) lícitos à análise de persuasão.",
+            "Analisar as escalas estilísticas do texto e os efeitos de sentido."
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Pilares da publicidade – Parte 2",
+          "aprendizagem_essencial": "Identificar figuras de linguagem presentes em anúncio publicitário.",
+          "habilidade": "EF69LP17",
+          "conteudo": "Características de anúncios publicitários.",
+          "objetivos_aprendizagem": [
+            "Analisar características em imagens que ajudam a construir sentidos (efeitos de luz e sombra, a postura da pessoa retratada etc.)."
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Pilares da publicidade – Parte 3",
+          "aprendizagem_essencial": "AE6 - Analisar textos de campanhas publicitárias, reconhecendo seu contexto de produção, circulação e recepção.",
+          "habilidade": "EF89LP37",
+          "conteudo": "Figura de linguagem: metáfora. Verbo: modo imperativo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer, em textos publicitários, a função da metáfora como recurso que contribui para gerar persuasão.",
+            "Analisar efeitos de sentido gerados pelo uso do imperativo em anúncios publicitários."
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Eles estão nas mídias digitais!",
+          "aprendizagem_essencial": "AE6 - Analisar textos de campanhas publicitárias, reconhecendo seu contexto de produção, circulação e recepção.",
+          "habilidade": "EF69LP04A EF69LP17",
+          "conteudo": "Leitura de anúncio publicitário digital. Ortografia.",
+          "objetivos_aprendizagem": [
+            "Ler anúncio(s) publicitário(s) que circulate(m) em meios digitais, observando particularidades das mídias.",
+            "Analisar recursos linguísticos e semióticos presentes no texto, identificando efeitos de sentido produzidos.",
+            "Examinar a grafia de palavras presentes no texto lido."
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "A arte de reclamar por escrito – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos de campanhas publicitárias, reconhecendo seu contexto de produção, circulação e recepção.",
+          "habilidade": "EF69LP04A EF69LP17",
+          "conteudo": "Leitura de carta de reclamação.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar carta de reclamação, identificando características composicionais e função social do gênero.",
+            "Localizar pistas linguísticas que ajudem a concluir se as afirmações feitas no texto são falsas ou opiniões."
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "A arte de reclamar por escrito – Parte 2",
+          "aprendizagem_essencial": "AE8 - Avaliar argumentos em textos, posicionando-se frente à questão controversa de forma sustentada.",
+          "habilidade": "EF69LP08A EF69LP27",
+          "conteudo": "Conjunções.",
+          "objetivos_aprendizagem": [
+            "Identificar, em carta de reclamação, conjunções coordenativas e subordinativas; relacionando-as à significados que expressam.",
+            "Analisar efeitos de sentido gerados por essas conjunções e as relações que elas estabelecem em seus contextos."
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Petição online: texto e contexto – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos de campanhas publicitárias, reconhecendo seu contexto de produção, circulação e recepção.",
+          "habilidade": "EF69LP27",
+          "conteudo": "Leitura de petição online.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar petição online, identificando estrutura composicional e recursos expressivos do texto.",
+            "Reconhecer os efeitos de sentido gerados no texto baseados em fatos ou opiniões."
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Petição online: texto e contexto – Parte 2",
+          "aprendizagem_essencial": "AE8 - Avaliar argumentos em textos, posicionando-se frente à questão controversa de forma sustentada.",
+          "habilidade": "EF69LP27",
+          "conteudo": "Coesão sequencial.",
+          "objetivos_aprendizagem": [
+            "Identificar conjunções e articuladores textuais em petição online.",
+            "Analisar efeitos de sentido gerados por recursos de coesão."
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Carta aberta: a voz do cidadão em ação – Parte 1",
+          "aprendizagem_essencial": "AE6 - Analisar textos de campanhas publicitárias, reconhecendo seu contexto de produção, circulação e recepção.",
+          "habilidade": "EF89LP19A",
+          "conteudo": "Leitura de carta aberta.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar carta aberta, identificando características composicionais e função social do gênero.",
+            "Analisar crítica e consistência da argumentação presente no texto."
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Carta aberta: a voz do cidadão em ação – Parte 2",
+          "aprendizagem_essencial": "AE8 - Avaliar argumentos em textos, posicionando-se frente à questão controversa de forma sustentada.",
+          "habilidade": "EF89LP31A",
+          "conteudo": "Modalizadores argumentativos.",
+          "objetivos_aprendizagem": [
+            "Ler e interpretar carta aberta, paravras e expressões que expressem opinião e doutivação em relação ao tema central abordado.",
+            "Analisar argumentos evidenciados e sua relação com a intenção de persuadir."
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Papos digitais – Parte 1",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF89LP02",
+          "conteudo": "• Memes e gifs. • Estrangerismo.",
+          "objetivos_aprendizagem": [
+            "Analisar memes e gifs, analisando efeitos de sentido gerados pelo uso de linguagem verbal, não verbal e mista.",
+            "Refletir e posicionar-se de forma crítica e ética sobre opiniões e visões do mundo expressas por esses gêneros da cultura digital."
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Papos digitais – Parte 2",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF89LP02",
+          "conteudo": "• Posts e comentários. • Adequação do registro escrito.",
+          "objetivos_aprendizagem": [
+            "Analisar de forma crítica e ética posts, comentários de redes sociais e práticas de interação (curtir, compartilhar, comentar, salvar etc.).",
+            "Compreender efeitos de sentido gerados pelo uso de linguagem verbal, não verbal e mista nessas publicações.",
+            "Identificar sentidos implícitos nos textos analisados.",
+            "Discutir sobre diferentes usos da língua portuguesa nas mídias sociais."
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Conectados – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF89LP02",
+          "conteudo": "• Textos transacionais digitais: comunicação assíncrona.",
+          "objetivos_aprendizagem": [
+            "Analisar texto de gêneros digitais, como legenda de fotos de redes sociais e e-mails.",
+            "Compreender efeitos de sentido.",
+            "Refletir criticamente sobre o uso e função social desses textos."
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Conectados – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF08LP04",
+          "conteudo": "• Conectivos.",
+          "objetivos_aprendizagem": [
+            "Analisar posts de redes sociais, observando a relação das imagens compartilhadas com as legendas.",
+            "Reconhecer, nos textos, o uso de conectivos e analisar efeitos de sentido que eles geram, considerando as ideias que acrescentam entre as orações que conectam."
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Uma narrativa pode moldar uma imagem? – Parte 1 - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF69LP47",
+          "conteudo": "• Texto de ficção. • Foco narrativo.",
+          "objetivos_aprendizagem": [
+            "Ler o texto de ficção, identificando o foco narrativo e elementos da narrativa.",
+            "Analisar como o foco narrativo altera a percepção do leitor.",
+            "Refletir e posicionar-se sobre os impactos das redes sociais na construção da identidade pessoal."
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Uma narrativa pode moldar uma imagem? – Parte 2 - Aula complementar",
+          "aprendizagem_essencial": "AE9 - Analisar diferentes práticas de interação digital para participar de forma ética e crítica em ambientes digitais.",
+          "habilidade": "EF69LP47",
+          "conteudo": "• Modo e tempo verbal.",
+          "objetivos_aprendizagem": [
+            "Identificar em texto ficcional verbos em diferentes tempos e modos.",
+            "Analisar efeitos de sentido decorrentes do uso de diferentes tempos e modos verbais."
+          ]
+        }
+      ]
+    }
+  }
+}
