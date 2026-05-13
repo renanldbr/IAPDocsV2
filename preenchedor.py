@@ -85,25 +85,25 @@ def preencher_efape(doc, aulas, disciplina, etapa, serie, bimestre,
     for i, aula in enumerate(aulas_ordenadas):
         prefix = f"Aula {aula['numero']}: "
 
-        titulo_limpo = limpar_texto(aula['titulo'])
+        titulo_limpo = limpar_texto(aula.get('titulo', ''))
         titulos.append(f"{prefix}{titulo_limpo}")
 
-        cont_limpo = limpar_texto(aula['conteudo']).replace("\n", "; ")
+        cont_limpo = limpar_texto(aula.get('conteudo', '')).replace("\n", "; ")
         conteudos_formatados.append(f"{prefix}{cont_limpo}")
 
-        objs_limpos = "; ".join([limpar_texto(obj) for obj in aula['objetivos_aprendizagem']])
+        objs_limpos = "; ".join([limpar_texto(obj) for obj in aula.get('objetivos_aprendizagem', [])])
         objetivos_formatados.append(f"{prefix}{objs_limpos}")
 
         met_texto = metodologias[i] if i < len(metodologias) else ""
         mets_formatadas.append(f"{prefix}{met_texto}")
 
-        ae_raw = aula['aprendizagem_essencial'].strip()
+        ae_raw = aula.get('aprendizagem_essencial', '').strip()
         ae_clean = re_ae_prefix.sub("", ae_raw).strip()
         ae_norm = " ".join(ae_clean.strip(" .").split()).lower()
         if not any(" ".join(x.strip(" .").split()).lower() == ae_norm for x in ae_unicos):
             ae_unicos.append(ae_clean)
 
-        hab = aula['habilidade'].strip()
+        hab = aula.get('habilidade', '').strip()
         if not any(
             " ".join(x.strip(" .").split()).lower() == " ".join(hab.strip(" .").split()).lower()
             for x in habilidades_unicas
@@ -157,10 +157,10 @@ def preencher_guia_aprendizagem(doc, aulas, disciplina, etapa, serie, bimestre,
     objetivos = []
     for aula in aulas_ordenadas:
         prefix = f"Aula {aula['numero']}: "
-        titulos.append(f"{prefix}{limpar_texto(aula['titulo'])}")
-        cont = limpar_texto(aula['conteudo']).replace('\n', '; ')
+        titulos.append(f"{prefix}{limpar_texto(aula.get('titulo', ''))}")
+        cont = limpar_texto(aula.get('conteudo', '')).replace('\n', '; ')
         conteudos.append(f"{prefix}{cont}")
-        objs = '; '.join([limpar_texto(o) for o in aula['objetivos_aprendizagem']])
+        objs = '; '.join([limpar_texto(o) for o in aula.get('objetivos_aprendizagem', [])])
         objetivos.append(f"{prefix}{objs}")
 
     t.cell(7, 0).text = '\n'.join(titulos)
@@ -223,16 +223,16 @@ def preencher_pav2(doc, aulas, disciplina, etapa, serie, bimestre,
 
         row = t.rows[row_idx]
 
-        objs = "; ".join([limpar_texto(obj) for obj in aula['objetivos_aprendizagem']])
+        objs = "; ".join([limpar_texto(obj) for obj in aula.get('objetivos_aprendizagem', [])])
         met_texto = metodologias[i] if i < len(metodologias) else ""
-        conteudo = limpar_texto(aula['conteudo'])
+        conteudo = limpar_texto(aula.get('conteudo', ''))
 
         # Aula / Data
         set_cell_text(row.cells[0], f"Aula {aula['numero']}")
         # Objetivos
         set_cell_text(row.cells[1], objs)
         # Habilidade
-        set_cell_text(row.cells[2], limpar_texto(aula['habilidade']))
+        set_cell_text(row.cells[2], limpar_texto(aula.get('habilidade', '')))
         # Competências socioemocionais (deixa em branco para o professor preencher)
         set_cell_text(row.cells[3], "")
         # Metodologia
