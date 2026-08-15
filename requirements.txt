@@ -1,5 +1,8 @@
 streamlit
 openai
+anthropic
 python-dotenv
 python-docx
 pandas
+pdf2image
+pillow
