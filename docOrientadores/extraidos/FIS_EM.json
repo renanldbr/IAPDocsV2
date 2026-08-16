@@ -6,12 +6,95 @@
       "1º Bimestre": [
         {
           "numero": 1,
-          "titulo": "Movimento e Reposição: Tudo a uma questão de referencial.",
-          "aprendizagem_essencial": "Identificar os conceitos fundamentais da cinemática, incluindo ponto material, referência, movimento e repouso, reconhecendo a necessidade de se referenciar na execução de tarefas.",
-          "habilidade": "EM13CNT204",
-          "conteudo": "Conceitos básicos para a descrição do movimento.",
+          "titulo": "Movimento e Resposta: Tudo é uma questão de referência",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Correções físicas para a descrição do movimento.",
           "objetivos_aprendizagem": [
-            "identificar os conceitos fundamentais da cinemática, incluindo ponto material, referência, movimento e repouso, reconhecendo a necessidade de se referenciar na execução de tarefas."
+            "Identificar os conceitos fundamentais da cinemática, incluindo ponto material, referência, movimento, velocidade e aceleração, a partir da análise da descrição do movimento.",
+            "Determinar trajetória, velocidade e aceleração, a partir de suas formas média e instantânea e relacionando-as ao estudo do movimento de dos corpos."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "A simplicidade da função horária",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Função horária e as representações gráficas do MRU.",
+          "objetivos_aprendizagem": [
+            "Calcular posições, velocidades ou intervalos de tempos utilizando a função horária do MRU.",
+            "Representar gráficos de movimento em sistemas de referência diferentes para observar o efeito e a relação entre o encontro com os dois corpos em MRU.",
+            "Prever o instante e a localização do encontro entre dois corpos em MRU."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Movimento Uniforme: Do cálculo à interpretação",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Movimento retilíneo uniforme em problemas envolvendo representações gráficas e equações.",
+          "objetivos_aprendizagem": [
+            "Aplicar os conceitos de ponto material, corpo externo, movimento progressivo e migrado na resolução de situações problema envolvendo sistemas em diferentes padrões.",
+            "Resolver problemas utilizando a equação horária do MRU e o cálculo da velocidade escalar média, a partir de informações relativas ao encontro entre dois corpos em movimento uniforme, a partir de dados relativos ao instante e a posição em que o encontro ocorre.",
+            "Determinar o instante e a posição do encontro entre dois corpos em movimento uniforme, a partir da análise de suas trajetórias gráficas e conceituais."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Equações do MRUV: Além da velocidade constante",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Equações horárias do MRUV e equação de Torricelli.",
+          "objetivos_aprendizagem": [
+            "Descobrir as características do Movimento Retilíneo Uniformemente Variado (MRUV) a partir da aceleração constante.",
+            "Aplicar as equações horárias do MRUV, a distância entre posição, velocidade, aceleração e tempo.",
+            "Aplicar a equação de Torricelli, explicando sua aplicação para calcular a velocidade final, o deslocamento e a aceleração em problemas diversos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "MRUV: Da teoria à prática de resolução de problemas",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Movimento Retilíneo Uniformemente Variado: Cálculos com análise gráfica.",
+          "objetivos_aprendizagem": [
+            "Aplicar as equações horárias do MRUV para resolver problemas que envolvem cálculo de posição, velocidade e aceleração em situações de movimento uniforme.",
+            "Aplicar a equação de Torricelli para calcular velocidade final e o deslocamento em situações de movimento não-uniforme.",
+            "Resolver problemas envolvendo o MRUV a partir da análise das variações de velocidade e do deslocamento."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Movimentos Verticais: Governados pela gravidade",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Queda livre e lançamento vertical. Descrição do movimento.",
+          "objetivos_aprendizagem": [
+            "Identificar as diferenças entre o movimento para queda livre e lançamento vertical, com base nas condições iniciais do movimento.",
+            "Calcular as posições de um corpo para queda livre para quando livre o lançamento vertical.",
+            "Aplicar as equações de movimento para calcular a altura, o tempo de queda ou a velocidade final em problemas relacionados a queda livre e lançamento vertical."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Movimentos Verticais: Da queda ao lançamento",
+          "aprendizagem_essencial": "A31 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM3DCN204",
+          "conteudo": "Queda livre e lançamento vertical. Problemas com equações e representações gráficas.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas que envolvem queda livre e lançamento vertical, aplicando as equações de movimento adequadas para determinar tempo, velocidade e altura de um dado objeto.",
+            "Aplicar as equações de movimento para calcular a altura e a altura de um dado objeto, relacionando-as às condições do movimento e à aceleração gravitacional."
+          ]
+        },
+        {
+          "numero": 1,
+          "titulo": "Movimento e Repouso: Tudo é uma questão de referencial",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Conceitos iniciais para a descrição do movimento.",
+          "objetivos_aprendizagem": [
+            "Identificar os conceitos fundamentais da cinemática, incluindo ponto material, referencial, movimento e repouso, reconhecendo a importância da escolha do referencial na descrição do movimento.",
+            "Diferenciar trajetória e velocidade escalar, distinguindo suas formas média e instantânea e relacionando-os ao estudo do movimento dos corpos."
           ]
         },
         {
@@ -33,28 +116,33 @@
           "habilidade": "EM13CNT204",
           "conteudo": "Movimento retilíneo uniforme em problemas envolvendo representações gráficas e equações.",
           "objetivos_aprendizagem": [
-            "Aplicar os conceitos de ponto material, corpo extenso, movimento progressivo e retrógrado na resolução de situações-problema envolvendo deslocamentos em diferentes situações.",
-            "Resolver problemas utilizando a equação horária do MRU e o cálculo de objeto sobre média."
+            "Aplicar os conceitos de ponto material, corpo extenso, movimento progressivo e retrógrado na resolução de situações-problema envolvendo deslocações em diferentes percursos.",
+            "Resolver problemas utilizando a equação envolvendo deslocamento e a diferença da velocidade escalar média, articulando as informações fornecidas em enunciados com representações gráficas (S = t x v x t).",
+            "Determinar o instante e a posição do encontro entre dois móveis em movimento uniforme, a partir da análise integrada de tabelas, gráficos e expressões algébricas."
           ]
         },
         {
           "numero": 4,
-          "titulo": "Movimento dos MRU: Além da velocidade constante.",
-          "aprendizagem_essencial": "Determinar índices relativos ao MRU e esquematizar os fórmulas.",
+          "titulo": "Equações do MRUV: Além da velocidade constante",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Equações horárias do MRU e equações de Torricelli.",
+          "conteudo": "Equações horárias do MRUV e equação de Torricelli.",
           "objetivos_aprendizagem": [
-            "Determinar índices relativos ao MRU e esquematizar os fórmulas."
+            "Descrever as características do Movimento Retilíneo Uniformemente Variado (MRUV) a partir da aceleração constante.",
+            "Analisar as equações horárias do MRUV, destacando a relação entre posição, velocidade, aceleração e tempo.",
+            "Apresentar a equação de Torricelli, explicando sua aplicação para calcular a velocidade final, o deslocamento ou a aceleração em problemas diversos."
           ]
         },
         {
           "numero": 5,
-          "titulo": "MRU: Da teoria à prática de resolução de problemas.",
-          "aprendizagem_essencial": "Apresentar as equações que compõem o projeto de forma final.",
+          "titulo": "MRUV: Da teoria à prática de resolução de problemas",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Movimento retilíneo uniformemente variado: Cálculo em movimento gráfico.",
+          "conteudo": "Movimento Retilíneo Uniformemente Variado: Cálculos com análise gráfica.",
           "objetivos_aprendizagem": [
-            "Apresentar as equações que compõem o projeto de forma final."
+            "Aplicar as equações horárias do MRUV para resolver problemas que envolvem cálculo de posição, velocidade e tempo de um ponto material ou corpo extenso.",
+            "Utilizar a equação de Torricelli para calcular a velocidade final e o deslocamento em situações de aceleração constante.",
+            "Resolver problemas envolvendo MRU e MRUV a partir da análise das variações de velocidade e da escolha das equações apropriadas."
           ]
         },
         {
@@ -64,17 +152,20 @@
           "habilidade": "EM13CNT204",
           "conteudo": "Queda livre e lançamento vertical: Descrição do movimento.",
           "objetivos_aprendizagem": [
-            "Identificar as condições de movimento em queda livre e lançamento vertical."
+            "Identificar as diferenças entre o movimento de queda livre e o lançamento vertical, com base nas condições iniciais de movimento.",
+            "Explicar as equações de movimento para queda livre e lançamento vertical.",
+            "Aplicar as equações de movimento para calcular a altura, o tempo de queda ou a velocidade final em problemas relacionados a queda livre e lançamento vertical."
           ]
         },
         {
           "numero": 7,
-          "titulo": "Movimento Vertical: Da queda para o lançamento.",
-          "aprendizagem_essencial": "Breve análise sobre causas e condições do movimento vertical.",
+          "titulo": "Movimentos Verticais: Da queda ao lançamento",
+          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Queda livre e lançamento vertical.",
+          "conteudo": "Queda livre e lançamento vertical: Problemas com equações e representações gráficas.",
           "objetivos_aprendizagem": [
-            "Breve análise sobre causas e condições do movimento vertical."
+            "Resolver problemas que envolvem queda livre e lançamento vertical, aplicando as equações de movimento adequadas para determinar tempo, velocidade e altura de um dado objeto.",
+            "Interpretar os resultados obtidos em problemas de objetos em queda livre e lançamento vertical, relacionando-os às condições do movimento e à aceleração gravitacional."
           ]
         },
         {
@@ -97,7 +188,7 @@
           "conteudo": "Movimento Circular Uniforme.",
           "objetivos_aprendizagem": [
             "Analisar as características do movimento circular uniforme.",
-            "Descobrir matematicamente o funcionamento dos acoplamentos de polias em sistemas de transmissão de movimento, destacando como o movimento de uma polia influencia o movimento da outra.",
+            "Descrever matematicamente o funcionamento dos acoplamentos de polias em sistemas de transmissão de movimento, destacando como o movimento de uma polia influencia o movimento da outra.",
             "Discutir a influência dos raios das polias no movimento de sistemas acoplados, observando a relação entre as velocidades angulares e lineares das polias."
           ]
         },
@@ -108,50 +199,57 @@
           "habilidade": "EM13CNT204",
           "conteudo": "Movimento Circular Uniforme: Problemas envolvendo acoplamento de polias.",
           "objetivos_aprendizagem": [
-            "Aplicar os conceitos de movimento circular uniforme em exercícios práticos.",
-            "Relacionar a relação entre velocidades angulares e lineares.",
-            "Resolver problemas envolvendo polias para determinar a relação entre o movimento de diferentes polias."
+            "Aplicar os conceitos de movimento circular uniforme em exercícios práticos, utilizando a relação entre velocidade linear e angular.",
+            "Resolver problemas envolvendo sistemas de polias acopladas.",
+            "Utilizar os conceitos de acoplamento de polias para determinar a relação entre o movimento de polias de diferentes tamanhos e calcular suas velocidades angulares."
           ]
         },
         {
           "numero": 11,
           "titulo": "Força e suas Medidas: Entendendo grandezas escalares e vetoriais",
-          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Grandezas escalares e vetoriais: Representação gráfica de vetores.",
           "objetivos_aprendizagem": [
             "Diferenciar grandezas escalares e vetoriais, listando exemplos de cada tipo.",
-            "Compreender as definições de vetor e escalar, em direção e sentido."
+            "Representar grandezas vetoriais (como força e velocidade) utilizando vetores, indicando módulo, direção e sentido.",
+            "Calcular a força resultante em situações com múltiplas forças atuando sobre um objeto."
           ]
         },
         {
           "numero": 12,
           "titulo": "Operações com vetores na Física",
-          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Operações com vetores: Adição, subtração, multiplicação por escalar e decomposição.",
           "objetivos_aprendizagem": [
-            "Realizar operações de adição e subtração de vetores, utilizando representações gráficas e analíticas para obter a resultante."
+            "Realizar operações de adição e subtração de vetores, utilizando representações gráficas, incluindo o método do paralelogramo, para determinar o vetor resultante.",
+            "Aplicar a multiplicação de um vetor por um número escalar, analisando suas implicações sobre o módulo, direção e sentido do vetor.",
+            "Resolver problemas envolvendo a decomposição de vetores, aplicando componentes em direções perpendiculares (geralmente nas direções x e y)."
           ]
         },
         {
           "numero": 13,
           "titulo": "Inércia: de Aristóteles a Newton",
-          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Primeira Lei de Newton: Inércia e o contraste com as ideias de Aristóteles.",
           "objetivos_aprendizagem": [
-            "Descrever o Princípio da Inércia a partir de situações cotidianas (ex.: movimento de corpos) e contrapor às ideias de Aristóteles e Newton."
+            "Descobrir o Princípio da Inércia a partir de situações cotidianas (ex.: movimento de passageiros em ônibus).",
+            "Diferenciar as concepções de movimento de Aristóteles e Newton.",
+            "Explicar por que objetos mantêm seu estado de movimento ou repouso quando as forças resultantes que atuam neles é nula."
           ]
         },
         {
           "numero": 14,
           "titulo": "Movimento sem esforço? Resolvendo problemas sobre inércia",
-          "aprendizagem_essencial": "AE1 - Resolver problemas envolvendo corpos em movimento com velocidade e/ou aceleração constantes, representando trajetória, posição, velocidade e aceleração por meio de funções, gráficos e tabelas.",
+          "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Primeira Lei de Newton: Resolução de problemas envolvendo inércia e contrastes com a visão aristotélica.",
           "objetivos_aprendizagem": [
-            "Reconhecer problemas envolvendo a Primeira Lei de Newton, resolvendo problemas utilizando a inércia, relacionando-a à ideia de força resultante nula."
+            "Reconhecer situações em que um corpo permanece em repouso ou em movimento retilíneo uniforme.",
+            "Analisar enunciados de problemas que envolvam a Primeira Lei de Newton, distinguindo corretamente a presença ou ausência de aceleração.",
+            "Resolver problemas utilizando o conceito de inércia, relacionando-o à ideia de força resultante nula."
           ]
         }
       ],
@@ -161,7 +259,7 @@
           "titulo": "Segunda Lei de Newton: Quando a força muda o movimento",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Segunda Lei de Newton: Relação entre força resultante, massa e aceleração; contraste com a ideia de força e força proporcional evelocidade.",
+          "conteudo": "Segunda Lei de Newton: Relação entre força resultante, massa e aceleração; contraste com a ideia de que a força é proporcional à velocidade.",
           "objetivos_aprendizagem": [
             "Analisar a relação entre força resultante, massa e aceleração.",
             "Identificar equívocos comuns sobre a relação entre força e velocidade.",
@@ -170,13 +268,14 @@
         },
         {
           "numero": 2,
-          "titulo": "Terceira Lei de Newton: Por que o peso e a normal não formam um par de ação e reação?",
+          "titulo": "Terceira Lei de Newton: Por que o peso e normal não formam um par de ação e reação?",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Terceira Lei de Newton: Pares de forças ação-reação em interações entre corpos, com e sem movimento.",
+          "conteudo": "Terceira Lei de Newton: Pares de forças ação- reação em interações entre corpos, com e sem movimento.",
           "objetivos_aprendizagem": [
             "Reconhecer que toda força de ação tem uma força de reação de mesma intensidade, mesma direção e sentidos opostos.",
-            "Identificar pares ação-reação em diferentes situações, com ou sem movimento."
+            "Identificar pares ação-reação em diferentes situações, com ou sem movimento.",
+            "Analisar interações entre corpos à luz da Terceira Lei de Newton."
           ]
         },
         {
@@ -187,8 +286,8 @@
           "conteudo": "Interações entre corpos: Forças de contato e forças de campo.",
           "objetivos_aprendizagem": [
             "Diferenciar forças de contato e forças de campo, identificando exemplos de cada tipo em situações do cotidiano.",
-            "Compreender a força peso como uma interação gravitacional à distância, estabelecendo sua relação com a massa do corpo e a aceleração de gravidade local.",
-            "Aplicar a distinção de pesos na resolução de problemas contextualizados, como calcários envolvidos diferentes corpos celestes (Terra e Lua)."
+            "Compreender a força peso como uma interação gravitacional à distância, reconhecendo sua relação com a massa do corpo e a aceleração da gravidade local.",
+            "Aplicar a distinção entre massa e peso na resolução de problemas contextualizados, como cálculos envolvendo diferentes corpos celestes (Terra e Lua)."
           ]
         },
         {
@@ -196,9 +295,11 @@
           "titulo": "Deslizando sem atrito: Ação das forças de contato",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Forças de contato em blocos em repouso ou movimento em superfícies horizontais seriadas.",
+          "conteudo": "Forças de contato em blocos em repouso ou em movimento em superfícies horizontais sem atrito.",
           "objetivos_aprendizagem": [
-            "Reconhecer quais são as forças de contato que atuam em blocos em repouso ou movimento em superfícies horizontais sem atrito."
+            "Reconhecer quais são as forças de contato que atuam em blocos em repouso ou em movimento sobre superfícies horizontais sem atrito.",
+            "Representar as forças envolvidas por meio de diagramas de corpo livre.",
+            "Analisar situações físicas envolvendo blocos sobre superfícies horizontais para identificar a força resultante e prever o movimento."
           ]
         },
         {
@@ -206,9 +307,11 @@
           "titulo": "Menos força, mais distância: analisando as polias",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Movimento de blocos em relação a como utilizar sistemas com polias.",
+          "conteudo": "Movimento de blocos e tração em cordas utilizando sistemas com polias.",
           "objetivos_aprendizagem": [
-            "Identificar a força resultante em sistemas de polias."
+            "Identificar a relação entre as forças atuantes em sistemas com polias e o movimento dos blocos conectados e esses sistemas.",
+            "Aplicar a Segunda Lei de Newton para resolver problemas envolvendo tração em cordas.",
+            "Analisar o comportamento de sistemas com polias fixas e móveis em diferentes situações."
           ]
         },
         {
@@ -216,30 +319,33 @@
           "titulo": "Quando escorregar não é uma opção: O papel do atrito estático",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Força de atrito estático: cálculo da força máxima e sua aplicação na manutenção de sistemas de equilíbrio.",
+          "conteudo": "Força de atrito estático: cálculo da força máxima e sua atuação em situações de equilíbrio.",
           "objetivos_aprendizagem": [
-            "Compreender o papel da força de atrito estático e suas condições de operação.",
-            "Identificar a força de atrito estático em situações práticas."
+            "Compreender o conceito de força de atrito estático e suas condições de atuação em equilíbrio.",
+            "Calcular a força máxima de atrito estático em diferentes situações.",
+            "Analisar situações práticas envolvendo equilíbrio e força de atrito estático."
           ]
         },
         {
           "numero": 7,
-          "titulo": "Escorregou? O atrito alivia!",
+          "titulo": "Escorregou? O atrito alívia!",
           "aprendizagem_essencial": "AE2 - Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Força de atrito dinâmico: Definição, características e aplicações.",
           "objetivos_aprendizagem": [
-            "Reconhecer as características da força de atrito dinâmico.",
-            "Identificar a força de atrito dinâmico em situações práticas."
+            "Descrever as características da força de atrito dinâmico.",
+            "Diferenciar força de atrito dinâmico da atrito estático em situações práticas.",
+            "Identificar aplicações da força de atrito dinâmico em contextos cotidianos."
           ]
         },
         {
           "numero": 8,
           "titulo": "A mola que resiste: Entendendo a força elástica",
-          "aprendizagem_essencial": "Identificar propriedades da força elástica e sua relação com a deformação da mola.",
+          "aprendizagem_essencial": "AE2 – Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
           "conteudo": "Força elástica, deformação e fatores que influenciam sua intensidade.",
           "objetivos_aprendizagem": [
+            "Identificar propriedades da força elástica e sua relação com a deformação da mola.",
             "Analisar os fatores que influenciam a intensidade da força elástica.",
             "Relacionar a força elástica ao comportamento de materiais deformáveis."
           ]
@@ -247,10 +353,11 @@
         {
           "numero": 9,
           "titulo": "Plano inclinado: a Física das rampas",
-          "aprendizagem_essencial": "Compreender como as forças atuam sobre um corpo em um plano inclinado.",
+          "aprendizagem_essencial": "AE2 – Analisar situações de equilíbrio e de movimento acelerado, aplicando grandezas escalares e vetoriais com operações algébricas e vetoriais, com base nas Leis de Newton.",
           "habilidade": "EM13CNT204",
-          "conteudo": "Força peso e decomposição de componentes paralela e perpendicular ao plano.",
+          "conteudo": "Força peso e decomposição em componentes paralela e perpendicular ao plano. • Influência do ângulo do plano na aceleração do corpo.",
           "objetivos_aprendizagem": [
+            "Compreender como as forças atuam sobre um corpo em um plano inclinado.",
             "Identificar a decomposição da força peso nos eixos paralelos e perpendiculares ao plano.",
             "Resolver exercícios envolvendo corpos em planos inclinados."
           ]
@@ -258,51 +365,342 @@
         {
           "numero": 10,
           "titulo": "Nem toda força realiza trabalho",
-          "aprendizagem_essencial": "Descrever a expressão do trabalho realizado por uma força constante, suas unidades e representação física.",
+          "aprendizagem_essencial": "AE3 – Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
           "habilidade": "EM13CNT101",
           "conteudo": "Relação entre força e deslocamento na realização de trabalho positivo, negativo ou nulo em situações cotidianas.",
           "objetivos_aprendizagem": [
-            "Identificar as condições necessárias para que uma força realize trabalho e o sinal positivo ou negativo."
+            "Descrever a expressão do trabalho realizado por uma força constante, suas unidades e representação física.",
+            "Identificar as condições necessárias para que uma força realize trabalho e o impacto do sinal (positivo ou negativo) no trabalho realizado."
           ]
         },
         {
           "numero": 11,
           "titulo": "Teorema da energia cinética: Além das forças constantes",
-          "aprendizagem_essencial": "Analisar o cálculo do trabalho realizado por uma força constante inclinada.",
+          "aprendizagem_essencial": "AE3 – Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
           "habilidade": "EM13CNT101",
           "conteudo": "Trabalho de forças inclinadas, decomposição vetorial e relação entre trabalho e variação da energia cinética.",
           "objetivos_aprendizagem": [
-            "Aplicar o teorema da energia cinética para entender a relação entre trabalho e energia cinética."
+            "Analisar o cálculo do trabalho realizado por uma força constante inclinada, considerando a decomposição vetorial das suas componentes.",
+            "Aplicar o teorema da energia cinética para compreender a relação entre trabalho e variação de energia cinética."
           ]
         },
         {
           "numero": 12,
-          "titulo": "Energia cinética e trabalho: Aplicações e estratégias de resolução - Aula complementar.",
-          "aprendizagem_essencial": "Resolver exercícios que envolvam o trabalho realizado por forças inclinadas.",
+          "titulo": "Energia cinética e trabalho: Aplicações e estratégias de resolução – Aula complementar.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT101",
           "conteudo": "Trabalho de forças inclinadas, decomposição vetorial e relação entre trabalho e variação da energia cinética.",
           "objetivos_aprendizagem": [
-            "Relacionar teoremas físicos com aplicações em situações do dia a dia."
+            "Resolver exercícios que envolvam o trabalho realizado por uma força inclinada, identificando corretamente seus componentes ao longo da trajetória.",
+            "Relacionar o trabalho de forças constantes à variação da energia cinética em diferentes situações, com base no teorema da energia cinética."
           ]
         },
         {
           "numero": 13,
           "titulo": "Forças conservativas e não conservativas: Impactos na energia mecânica",
-          "aprendizagem_essencial": "Reconhecer as propriedades das forças conservativas e não conservativas, identificando seus componentes e suas ações no sistema.",
+          "aprendizagem_essencial": "AE3 – Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
           "habilidade": "EM13CNT101",
           "conteudo": "Forças conservativas e não conservativas.",
           "objetivos_aprendizagem": [
-            "Identificar as características que diferenciam forças conservativas de não conservativas."
+            "Reconhecer as diferenças entre tipos conservativos e não conservativos, identificando exemplos de cada tipo e explicando como elas afetam a energia mecânica de um sistema.",
+            "Analisar situações cotidianas (como o movimento de um skatista em uma rampa) para discutir o impacto do trabalho realizado por forças não conservativas, como o atrito, na perda de energia mecânica.",
+            "Aplicar o conceito de energia mecânica para descrever condições ideais em sistemas isolados, reconhecendo quando a energia total se mantém constante."
           ]
         },
         {
           "numero": 14,
-          "titulo": "Trabalho de forças conservativas e não conservativas - Aula complementar.",
-          "aprendizagem_essencial": "Resolver exercícios que envolvam a identificação de forças conservativas e não conservativas.",
+          "titulo": "Trabalho de forças conservativas e não conservativas – Aula complementar.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT101",
           "conteudo": "Forças conservativas e não conservativas.",
           "objetivos_aprendizagem": [
-            "Analisar a influência das forças dissipativas na conservação de energia mecânica de um sistema."
+            "Resolver exercícios que envolvam a identificação de forças conservativas e não conservativas e seus efeitos sobre a energia mecânica.",
+            "Analisar, em situações-problema, como a presença de forças dissipativas interfere na conservação da energia mecânica de um sistema."
+          ]
+        }
+      ],
+      "3º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Potência média ou instantânea: Qual é a diferença?",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Potência média e instantânea.",
+          "objetivos_aprendizagem": [
+            "Explicar a diferença entre potência média e potência instantânea, utilizando exemplos cotidianos (como o desempenho de um carro ou elevador).",
+            "Calcular a potência média ou instantânea em problemas práticos.",
+            "Analisar criticamente a eficiência de máquinas ou dispositivos com base em sua potência, propondo melhorias (ex.: comparar motores de carros ou otimizar o tempo de execução de um elevador)."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Quando parar fazer a diferença: O papel do impulso na colisão.",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Quantidade de movimento, impulso e suas aplicações.",
+          "objetivos_aprendizagem": [
+            "Discutir sobre o significado físico da grandezas quantidade de movimento e impulso, utilizando exemplos cotidianos (como a diferença entre frear um caminhão e um carro).",
+            "Calcular a quantidade de movimento ou o impulso em problemas práticos (ex.: determinar o impulso em uma colisão com aríbag ou a força resultante em um motorista durante uma frenagem).",
+            "Analisar criticamente a eficácia de sistemas de segurança (como airbags) com base nos conceitos de impulso e variação da quantidade de movimento, justificando escolhas técnicas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Além do chute: Impulso de uma força variável.",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Impulso, gráficos Força x Tempo.",
+          "objetivos_aprendizagem": [
+            "Identificar a diferença entre impulso de força constante e variável, utilizando gráficos Força x Tempo e exemplos como o chute em uma bola de futebol.",
+            "Calcular o impulso de uma força variável a partir de gráficos Força x Tempo.",
+            "Classificar corpos como parte do sistema ou ambiente e prever se a quantidade de movimento total será conservada, com base na análise de forças internas e externas."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Sistemas isolados: A chave para a conservação da quantidade de movimento.",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Conservação da quantidade de movimento em sistemas isolados.",
+          "objetivos_aprendizagem": [
+            "Analisar as condições necessárias para que um sistema mecânico seja considerado isolado e como as forças internas e externas afetam a quantidade de movimento total."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "A terceira Lei de Newton e a conservação da quantidade de movimento.",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Interações e conservação da quantidade de movimento.",
+          "objetivos_aprendizagem": [
+            "Identificar os conceitos de ação e reação, forças internas e externas, e sistema mecânico isolado.",
+            "Interpretar a transferência da quantidade de movimento durante interações entre corpos, com base na terceira Lei de Newton.",
+            "Demonstrar como a conservação da quantidade de movimento ocorre em sistemas isolados."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Entre choques e conservação: Tipos de colisões.",
+          "aprendizagem_essencial": "AE3 - Aplicar os princípios de conservação da energia e da quantidade de movimento na análise de sistemas mecânicos que envolvem trabalho, potência, impulso e colisões.",
+          "habilidade": "EM13CNT01",
+          "conteudo": "Colisões em uma dimensão e conservação da quantidade de movimento.",
+          "objetivos_aprendizagem": [
+            "Identificar os três tipos de colisões (elástica, parcialmente elástica e inelástica) e suas características principais.",
+            "Diferenciar as colisões com base na conservação da energia mecânica e da quantidade de movimento.",
+            "Aplicar o princípio da conservação da quantidade de movimento para resolver problemas envolvendo colisões unidimensionais."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Quando a soma dá zero: O equilíbrio de um ponto material.",
+          "aprendizagem_essencial": "AE4 - Aplicar as condições de equilíbrio de um corpo material e de um corpo extenso, identificando sistemas mecânicos em equilíbrio.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Equilíbrio de um ponto material e análise de forças coplanares.",
+          "objetivos_aprendizagem": [
+            "Identificar as condições necessárias para que a resultante das forças seja nula. Aplicar o método das projeções para calcular a força resultante em situações envolvendo forças coplanares atuando sobre um ponto material.",
+            "Analisar o equilíbrio em contextos reais, como os blocos de arcos de construções antigas, relacionando as forças envolvidas e discutindo a importância de perspectivas culturais diversas no estudo da física."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Equilibrio em dois níveis: Translação e rotação.",
+          "aprendizagem_essencial": "AE4 - Aplicar as condições de equilíbrio de um corpo material e de um corpo extenso, identificando sistemas mecânicos em equilíbrio.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Condições de equilíbrio e momento de uma força em corpos extensos.",
+          "objetivos_aprendizagem": [
+            "Identificar as condições de equilíbrio de translação e rotação em corpos extensos.",
+            "Aplicar o conceito de momento de uma força (torque) para compreender situações práticas, o equilíbrio de uma gangorra ou barra apoiada.",
+            "Analisar problemas contextualizados, como o experimento da gangorra ou o cálculo da massa de uma barra, utilizando os princípios de equilíbrio de corpos em extensão."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Pressão nos líquidos: Forma não importa, profundidade sim.",
+          "aprendizagem_essencial": "AE5 - Aplicar os princípios da estática dos fluidos, identificando sistemas que envolvem fluidos em repouso.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Pressão hidrostática e sua relação com a profundidade em líquidos.",
+          "objetivos_aprendizagem": [
+            "Explicar por que a pressão em um líquido depende apenas da profundidade e não do formato do objeto submerso.",
+            "Comparar situações reais (como mergulho ou construções subaquáticas) para identificar como a pressão hidrostática age em diferentes profundidades.",
+            "Argumentar como o Teorema de Stevin demonstra que objetos na mesma profundidade sofrem a mesma pressão, independentemente de suas formas."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Limites da sucção: A Física aos 10 metros de profundidade.",
+          "aprendizagem_essencial": "AE5 - Aplicar os princípios da estática dos fluidos, identificando sistemas que envolvem fluidos em repouso.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Pressão atmosférica e equilíbrio de líquidos em sistemas abertos.",
+          "objetivos_aprendizagem": [
+            "Descrever o papel da pressão atmosférica no limite de 10 metros para bombas de sucção, baseando-se no experimento de Torricelli.",
+            "Diferenciar os princípios físicos envolvidos no funcionamento de sifões e bombas de sucção, enfatizando como a pressão atmosférica atua em cada situação.",
+            "Demonstrar por que líquidos em equilíbrio têm superfícies planas, usando o Teorema de Stevin para refutar cenários com desníveis artificiais."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Como a pressão se transmite nos fluidos? O princípio de Pascal.",
+          "aprendizagem_essencial": "AE5 - Aplicar os princípios da estática dos fluidos, identificando sistemas que envolvem fluidos em repouso.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Pressão em fluidos e contribuições históricas para o Teorema de Pascal.",
+          "objetivos_aprendizagem": [
+            "Identificar as características fundamentais dos fluidos incompressíveis e sua relação com o Teorema de Pascal, destacando exemplos como água e óleos.",
+            "Relacionar o conceito histórico de “esforço” descrito por Pascal com a noção moderna de pressão, explicando a evolução desses termos no contexto científico.",
+            "Avaliar a contribuição de Blaise Pascal para o Teorema de Pascal, reconhecendo outras influências históricas que moldaram o entendimento atual do princípio."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Vasos comunicantes: Onde todos chegam ao mesmo nível.",
+          "aprendizagem_essencial": "AE5 - Aplicar os princípios da estática dos fluidos, identificando sistemas que envolvem fluidos em repouso.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Pressão em líquidos e aplicações em sistemas interligados.",
+          "objetivos_aprendizagem": [
+            "Analisar o princípio de funcionamento dos vasos comunicantes, destacando por que líquidos homogêneos atingem o mesmo nível em recipientes interligados.",
+            "Comparar o comportamento de líquidos imiscíveis em tubos em U, relacionando as alturas das colunas líquidas com suas densidades.",
+            "Aplicar o Teorema de Pascal para justificar o funcionamento de elevadores hidráulicos, demonstrando como a diferença entre as áreas dos pistões afeta a força e o deslocamento."
+          ]
+        }
+      ],
+      "4º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Kepler e os movimentos dos objetos astronômicos.",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Características da elipse, leis de Kepler e variação da velocidade orbital dos planetas.",
+          "objetivos_aprendizagem": [
+            "Analisar as características geométricas de uma elipse e sua relação com as órbitas planetárias.",
+            "Aplicar as três leis de Kepler para descrever o movimento orbital dos planetas e satélites.",
+            "Comparar as velocidades de um planeta no periélio e no afélio com base na segunda Lei de Kepler."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Estudo das órbitas: Exercícios com leis de Kepler.",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Características da elipse, leis de Kepler e variação da velocidade orbital dos planetas.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios envolvendo as leis de Kepler e as características geométricas da elipse aplicadas às órbitas planetárias.",
+            "Comparar diferentes situações orbitais, identificando variações na velocidade dos planetas com base na segunda Lei de Kepler."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Newton entra em cena de novo.",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Lei da gravitação universal, interações gravitacionais no sistema Terra-Lua-Sol e velocidade orbital de satélites.",
+          "objetivos_aprendizagem": [
+            "Analisar a relação entre a força gravitacional e as variáveis envolvidas na lei da gravitação universal.",
+            "Explicar o fenômeno das marés com base nas interações gravitacionais entre a Terra, a Lua e o Sol.",
+            "Calcular a velocidade orbital de um satélite utilizando a lei da gravitação universal e os princípios do movimento circular."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Problemas com a Lei de gravitação universal.",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Lei da gravitação universal, interações gravitacionais no sistema Terra-Lua-Sol e velocidade orbital de satélites.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a aplicação da lei da gravitação universal em diferentes contextos, incluindo o cálculo da velocidade orbital de satélites.",
+            "Analisar situações em que a interação gravitacional entre corpos celestes explica fenômenos como as marés."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Nos sentimos atraídos na mesma forma?",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Aceleração da gravidade na superfície, no interior e no exterior dos astros; campo gravitacional em diferentes corpos celestes.",
+          "objetivos_aprendizagem": [
+            "Identificar em quais situações é necessário considerar a Relatividade Geral para descrever fenômenos gravitacionais com maior precisão.",
+            "Analisar a descrição da gravidade em regimes mais extremos (Relatividade Geral), como objetos compactos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Exercícios sobre aceleração da gravidade e campo gravitacional.",
+          "aprendizagem_essencial": "AE6 - Relacionar a lei da gravitação universal com as leis de Kepler, considerando a ação do campo gravitacional, a velocidade orbital de planetas e satélites além de sistemas como Sol-Terra-Lua, descrevendo a dinâmica desses corpos.",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Aceleração da gravidade na superfície, no interior e no exterior dos astros; campo gravitacional em diferentes corpos celestes.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam o cálculo da aceleração da gravidade e a comparação da intensidade do campo gravitacional em diferentes corpos celestes.",
+            "Analisar como a aceleração da gravidade varia em diferentes regiões de um astro, considerando sua estrutura e distribuição de massa."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Nascimento e energia das estrelas.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Formação das estrelas, uso do hidrogênio como combustível e fusão nuclear como fonte de energia.",
+          "objetivos_aprendizagem": [
+            "Identificar como as estrelas nascem e quais são os processos envolvidos em sua formação.",
+            "Analisar o combustível das estrelas e o papel da fusão nuclear na produção de energia.",
+            "Introduzir o conceito de fusão nuclear e sua importância para a vida das estrelas."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Diagrama de Hertzsprung-Russell e sequência principal.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Diagrama HR, relação entre temperatura e luminosidade, e características da sequência principal.",
+          "objetivos_aprendizagem": [
+            "Entender o diagrama de Hertzsprung-Russell (HR) e sua importância para a classificação das estrelas.",
+            "Analisar a relação entre temperatura, luminosidade e estágio evolutivo das estrelas.",
+            "Identificar o período da sequência principal de uma estrela."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Evolução estelar: Gigantes vermelhas e anãs brancas.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Evolução das estrelas da sequência principal às fases finais, estrutura interna e produção de energia.",
+          "objetivos_aprendizagem": [
+            "Identificar como as estrelas evoluem da sequência principal para as fases de gigantes vermelhas e anãs brancas.",
+            "Analisar as mudanças na estrutura e na produção de energia durante a evolução estelar.",
+            "Discutir o destino final das estrelas de baixa e média massa."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Estrelas massivas, supernovas e remanescentes estelares.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Evolução de estrelas massivas, supernovas e formação de estrelas de nêutrons e buracos negros.",
+          "objetivos_aprendizagem": [
+            "Descrever a evolução e o destino final de estrelas massivas (com mais de 8 massas solares).",
+            "Analisar as reações nucleares em estrelas massivas e o processo de explosão de supernovas.",
+            "Identificar os remanescentes estelares: estrelas de nêutrons e buracos negros."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Matéria escura e sua importância.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Matéria escura: conceito, efeitos nas galáxias e importância na evolução do Universo.",
+          "objetivos_aprendizagem": [
+            "Identificar as propriedades da matéria escura.",
+            "Analisar o papel da matéria escura na dinâmica das galáxias, como as curvas de rotação.",
+            "Discutir a importância da matéria escura para a estrutura e evolução do Universo."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Teoria do Big Bang e a evolução do Universo.",
+          "aprendizagem_essencial": "AE7 - Analisar a formação e evolução das estrelas, o papel da matéria escura e as evidências observacionais do modelo do Big Bang, descrevendo a dinâmica das estrelas, das galáxias e da expansão do Universo.",
+          "habilidade": "EM13CNT209",
+          "conteudo": "Fundamentos da Teoria do Big Bang, evidências observacionais e evolução do Universo.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que a Relatividade Geral prevê um Universo dinâmico e identificar que Friedmann e Lemaître propuseram modelos de expansão.",
+            "Interpretar o deslocamento para o vermelho como evidência de afastamento das galáxias e usar a ideia da Lei de Hubble para estimar, de forma simples, a idade do Universo.",
+            "Relacionar as observações do afastamento das galáxias às principais evidências do modelo do Big Bang."
           ]
         }
       ]
@@ -312,22 +710,23 @@
         {
           "numero": 1,
           "titulo": "Traduzindo a agitação das partículas em números: Compreendendo a temperatura",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
+          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e as variações de temperatura.",
           "habilidade": "EM13CNT102",
           "conteudo": "Calor, temperatura e suas relações com a matéria.",
           "objetivos_aprendizagem": [
-            "Descobrir a temperatura como a grandeza física comum entre corpos que atingem o equilíbrio térmico.",
-            "Relacionar a temperatura ao grau de agitação das partículas, estabelecendo conexões entre as propriedades macroscópica e microscópica."
+            "Descrever a temperatura como a grandeza física comum entre corpos que atingem o equilíbrio térmico.",
+            "Relacionar a temperatura ao grau de agitação das partículas, estabelecendo conexões entre as interpretações macroscópica e microscópica.",
+            "Converter valores de temperatura entre as escalas Celsius, Fahrenheit e Kelvin, utilizando as expressões adequadas."
           ]
         },
         {
           "numero": 2,
           "titulo": "Resolvendo problemas de temperatura",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
+          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos para descrever as transformações de energia da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
           "habilidade": "EM13CNT102",
           "conteudo": "Escalas termométricas e variação de temperatura.",
           "objetivos_aprendizagem": [
-            "Registrar as principais escalas termométricas e suas respectivas fórmulas de conversão.",
+            "Recordar as principais escalas termométricas e suas respectivas fórmulas de conversão.",
             "Resolver exercícios envolvendo a conversão de temperaturas entre as escalas Celsius, Fahrenheit e Kelvin.",
             "Comparar os resultados obtidos em diferentes exercícios, verificando a coerência entre as escalas e identificando possíveis inconsistências."
           ]
@@ -339,8 +738,9 @@
           "habilidade": "EM13CNT102",
           "conteudo": "Dilatação térmica dos sólidos e suas aplicações.",
           "objetivos_aprendizagem": [
-            "Identificar os fatores que influenciam a dilatação térmica de materiais sólidos (tipo de material, relação entre inicial e final, dimensões do objeto).",
-            "Relacionar a ocorrência de dilatações dos materiais com suas aplicações práticas em estruturas e mudanças de temperatura."
+            "Identificar os fatores que influenciam a dilatação térmica de materiais sólidos (tipo do material, temperatura inicial e final, dimensões do objeto).",
+            "Relacionar o coeficiente de dilatação dos materiais com suas aplicações práticas em estruturas e objetos do cotidiano.",
+            "Calcular a variação das dimensões de um sólido (comprimento, área ou volume) devido a mudanças de temperatura."
           ]
         },
         {
@@ -348,9 +748,11 @@
           "titulo": "Expandir para entender: Como a diferença de temperatura afeta os materiais sólidos?",
           "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
           "habilidade": "EM13CNT102",
-          "conteudo": "Cálculo e aplicações da diferença de temperatura em sólidos.",
+          "conteudo": "Cálculo e aplicações da dilatação térmica em sólidos.",
           "objetivos_aprendizagem": [
-            "Selecionar a expressão adequada para calcular a dilatação linear, superficial ou volumétrica a partir da diferença de temperatura e do tipo de material, variação de temperatura e dimensões do objeto."
+            "Selecionar a expressão adequada para calcular a dilatação linear, superficial ou volumétrica de um sólido, com base em dados como tipo de material, variação de temperatura e dimensões iniciais.",
+            "Determinar a variação no comprimento, na área ou no volume de objetos sólidos submetidos a alterações de temperatura, utilizando corretamente os coeficientes de dilatação térmica.",
+            "Analisar a influência do coeficiente de dilatação térmica nas aplicações práticas de diferentes materiais, justificando sua escolha em estruturas do cotidiano com base nos resultados numéricos obtidos."
           ]
         },
         {
@@ -360,8 +762,9 @@
           "habilidade": "EM13CNT102",
           "conteudo": "Calor sensível e capacidade térmica dos materiais.",
           "objetivos_aprendizagem": [
-            "Caracterizar a variação de temperatura que ocorre a temperatura de uma substância por adição ou subtração de calor.",
-            "Analisar com precisão a relação entre a massa, calor específico e variação de temperatura em situações cotidianas."
+            "Caracterizar o calor sensível como a energia térmica que altera a temperatura de uma substância sem mudar seu estado físico.",
+            "Analisar como o calor específico de uma substância determina sua resposta à absorção ou liberação de calor.",
+            "Demonstrar a relação entre massa, calor específico e variação de temperatura em situações cotidianas."
           ]
         },
         {
@@ -371,8 +774,9 @@
           "habilidade": "EM13CNT102",
           "conteudo": "Calor latente, mudanças de estado físico e trocas de calor.",
           "objetivos_aprendizagem": [
-            "Definir o conceito de calor latente e identificar suas manifestações durante as mudanças de estado físico.",
-            "Aprofundar no conceito de calor sensível, discutindo sua relação com calor sensível e capacitâncias térmicas."
+            "Definir o conceito de calor latente e identificar suas manifestações durante as mudanças de estado físico da matéria.",
+            "Analisar situações cotidianas que envolvem trocas de calor, distinguindo entre calor sensível e calor latente.",
+            "Aplicar as expressões de calor sensível e calor latente para resolver problemas práticos relacionados às trocas de calor."
           ]
         },
         {
@@ -382,77 +786,8 @@
           "habilidade": "EM13CNT102",
           "conteudo": "Formas de propagação do calor e suas aplicações.",
           "objetivos_aprendizagem": [
-            "Compreender os processos de propagação do calor (condução, convecção e radiação) e suas aplicações no cotidiano, considerando pães solares e energias marítimas e temperatura."
-          ]
-        },
-        {
-          "numero": 8,
-          "titulo": "Do gelo ao vapor: Investigando calor sensível e latente",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Trocas de calor em processos com variação de temperatura e mudança de fase.",
-          "objetivos_aprendizagem": [
-            "Resolver exercícios envolvendo trocas de calor em substâncias que passam por aquecimento, resfriamento e mudanças de fase, utilizando expressões de calor sensível e calor latente conforme cada etapa do processo."
-          ]
-        },
-        {
-          "numero": 9,
-          "titulo": "Isotérmica, isobárica, isométrica — Qual é a diferença?",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Transformações dos gases ideais e suas leis.",
-          "objetivos_aprendizagem": [
-            "Reconhecer as variáveis de estado de um gás (pressão, volume e temperatura) e suas unidades de medida no SI."
-          ]
-        },
-        {
-          "numero": 10,
-          "titulo": "Leis dos gases em prática: De seringas a painéis de pressão",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Pressão, volume e temperatura dos gases ideais e suas transformações.",
-          "objetivos_aprendizagem": [
-            "Resolver exercícios envolvendo transformações gasosas isotérmicas, isobáricas e isométricas, relacionando-as às leis de Boyle, Charles e Gay-Lussac para prever o comportamento do gás em cada caso."
-          ]
-        },
-        {
-          "numero": 11,
-          "titulo": "Clayperon em contexto: Variáveis de estado na prática",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Lei geral dos gases: Comportamento macroscópico e microscópico dos gases ideais.",
-          "objetivos_aprendizagem": [
-            "Relacionar a Equação de Clayperon em situações práticas."
-          ]
-        },
-        {
-          "numero": 12,
-          "titulo": "Clayperon na prática: Integrando o comportamento dos gases",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Aplicações da Lei Geral dos Gases e interpretação do comportamento dos gases ideais.",
-          "objetivos_aprendizagem": [
-            "Aplicar a Lei Geral dos Gases para entender as variações do estado físico."
-          ]
-        },
-        {
-          "numero": 13,
-          "titulo": "Modelo do Gás Perfeito: Da Teoria às Aplicações",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Modelo do Gás Perfeito.",
-          "objetivos_aprendizagem": [
-            "Listar as principais características do modelo microscópico do gás perfeito."
-          ]
-        },
-        {
-          "numero": 14,
-          "titulo": "Atividades de revisão: Modelo do Gás Perfeito",
-          "aprendizagem_essencial": "AE1 - Interpretar sistemas térmicos, aplicando leis e modelos da Termodinâmica para descrever as transformações de energia associadas à transferência de calor e às variações de temperatura.",
-          "habilidade": "EM113CNT102",
-          "conteudo": "Energia interna do gás perfeito e suas aplicações.",
-          "objetivos_aprendizagem": [
-            "Aplicar o modelo do gás perfeito na resolução de problemas envolvendo pressão, volume e temperatura."
+            "Compreender os processos de propagação de calor de condução, convecção e radiação e suas diferenças, identificando exemplos cotidianos e aplicações tecnológicas, como painéis solares e galerias térmicas.",
+            "Analisar o papel da convecção térmica em fenômenos naturais, como a formação de brisas marítimas e tempestades, relacionando-a com mudanças de densidade e movimento de fluidos."
           ]
         }
       ],
@@ -460,46 +795,52 @@
         {
           "numero": 1,
           "titulo": "Introdução a Termodinâmica",
-          "aprendizagem_essencial": "Compreender o conceito de energia interna como a soma das energias microscópicas (movimento e interação das partículas).",
-          "habilidade": "EM13CNT102",
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
           "conteudo": "Energia interna, trabalho e calor.",
           "objetivos_aprendizagem": [
-            "Relacionar trabalho termodinâmico de calor, reconhecendo-os como processos distintos de transferência de energia."
+            "Compreender o conceito de energia interna como a soma das energias microscópicas (movimento e interação das partículas).",
+            "Distinguir trabalho termodinâmico de calor, reconhecendo-os como processos distintos de transferência de energia.",
+            "Relacionar energia interna, trabalho e calor em situações cotidianas (ex.: compressão de um gás, aquecimento de um fluido)."
           ]
         },
         {
           "numero": 2,
           "titulo": "A conservação da Energia: Primeira Lei da Termodinâmica",
-          "aprendizagem_essencial": "Discutir como o calor e o trabalho podem afetar a energia interna de um gás.",
-          "habilidade": "EM13CNT102",
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
           "conteudo": "Primeira Lei da Termodinâmica.",
           "objetivos_aprendizagem": [
+            "Discutir como o calor e o trabalho podem afetar a energia interna de um gás.",
             "Calcular a variação de energia interna de um gás ideal."
           ]
         },
         {
           "numero": 3,
           "titulo": "Processos Termodinâmicos Particulares",
-          "aprendizagem_essencial": "Identificar as características principais das transformações isotérmica, isobárica e isovolumétrica.",
-          "habilidade": "EM13CNT102",
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
           "conteudo": "Primeira Lei da Termodinâmica em diferentes transformações gasosas.",
           "objetivos_aprendizagem": [
+            "Identificar as características principais das transformações isotérmica, isobárica e isovolumétrica.",
             "Relacionar cada transformação com as variações de pressão, volume e temperatura em sistemas gasosos."
           ]
         },
         {
           "numero": 4,
           "titulo": "Ciclos Termodinâmicos",
-          "aprendizagem_essencial": "Analisar as características de um ciclo termodinâmico, evidenciando as principais grandeszas físicas envolvidas.",
-          "habilidade": "EM13CNT102",
-          "conteudo": "Primeira Lei da Termodinâmica em transformações Cíclicas.",
-          "objetivos_aprendizagem": []
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
+          "conteudo": "Primeira Lei da Termodinâmica em transformações Ciclicas.",
+          "objetivos_aprendizagem": [
+            "Analisar as características de um ciclo termodinâmico, evidenciando as principais grandezas físicas envolvidas."
+          ]
         },
         {
           "numero": 5,
           "titulo": "1ª Lei da Termodinâmica: Exercícios propostos",
-          "aprendizagem_essencial": "Compreender as questões sobre 1ª Lei da Termodinâmica.",
-          "habilidade": "EM13CNT102",
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
           "conteudo": "Primeira Lei da Termodinâmica.",
           "objetivos_aprendizagem": [
             "Resolver questões sobre 1ª Lei da Termodinâmica."
@@ -508,52 +849,60 @@
         {
           "numero": 6,
           "titulo": "Calores específicos dos gases perfeitos",
-          "aprendizagem_essencial": "Compreender a relação entre o calor específico a pressão constante (Cp) e o calor específico a pressão constante (Cv) nos gases perfeitos.",
-          "habilidade": "EM13CNT102",
-          "conteudo": "Calor específico do gás a volume constante.",
-          "objetivos_aprendizagem": []
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
+          "conteudo": "Calor específico do gás a pressão constante. Calor específico do gás a volume constante.",
+          "objetivos_aprendizagem": [
+            "Compreender a relação entre o calor específico a pressão constante (Cp) e o calor específico a volume constante (Cv) nos gases perfeitos, incluindo a derivação da relação entre eles e a constante dos gases, por meio da equação de Mayer.",
+            "Analisar a influência do calor específico dos gases perfeitos nas transformações térmicas, enfatizando como os valores de Cp e Cv afetam o comportamento de gases em processos como aquecimento, resfriamento e expansão."
+          ]
         },
         {
           "numero": 7,
           "titulo": "Rendimento das máquinas térmicas: Do calor ao trabalho útil",
-          "aprendizagem_essencial": "Compreender os conceitos de construção de máquinas térmicas e os conceitos de fonte quente e fria.",
-          "habilidade": "EM13CNT102",
+          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "habilidade": "EM13CNT02",
           "conteudo": "Máquinas térmicas e a Segunda Lei da Termodinâmica.",
           "objetivos_aprendizagem": [
-            "Identificar a relação de construção para comparar e despender de diferentes máquinas térmicas."
+            "Identificar o funcionamento básico de máquinas térmicas e os conceitos de fonte quente e fria.",
+            "Aplicar o conceito de eficiência para comparar o desempenho de diferentes máquinas térmicas.",
+            "Analisar a Segunda Lei da Termodinâmica."
           ]
         },
         {
           "numero": 8,
-          "titulo": "A isométrica à adiabatica: Etapas e rendimento do Ciclo de Carnot",
+          "titulo": "Da isoterâmica à adiabatica: Etapas e rendimento do Ciclo de Carnot",
           "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
           "habilidade": "EM13CNT102",
           "conteudo": "Ciclo de Carnot, etapas, rendimento e limite de eficiência térmica.",
           "objetivos_aprendizagem": [
-            "Descrever as etapas do ciclo de Carnot (expansão isométrica, expansão adiabática, compressão isométrica e compressão adiabática) e sua relação com as fontes quente e fria.",
-            "Calcular o rendimento de uma máquina térmica em ciclo de Carnot, utilizando dados de temperaturas das fontes quente e fria."
+            "Descrever as etapas do ciclo de Carnot (expansão isótermica, expansão adiabática, compressão isótermica e compressão adiabática) e sua relação com as fontes quente e fria.",
+            "Calcular o rendimento de uma máquina térmica operando em ciclo de Carnot, utilizando dados de temperaturas das fontes quente e fria.",
+            "Comparar o rendimento do ciclo de Carnot com o de outras máquinas térmicas, justificando por que ele representa o limite máximo de eficiência segundo a Segunda Lei da Termodinâmica.",
+            "Comparar o rendimento do ciclo de Carnot com o de outras máquinas térmicas, justificando por que ele representa o limite máximo de eficiência segundo a Segunda Lei da Termodinâmica."
           ]
         },
         {
           "numero": 9,
           "titulo": "Motor Stirling - Passado e Presente – Aula desafio.",
-          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT102",
           "conteudo": "Contexto histórico sobre o motor Stirling.",
           "objetivos_aprendizagem": [
             "Apresentar o contexto histórico sobre o motor Stirling, destacando a motivação para sua criação e suas aplicações.",
-            "Gerar reflexão e provocar para pesquisa e discussões sobre as possibilidades, os meios e os modos de aplicação do motor Stirling nos dias atuais."
+            "Gerar reflexão e oportunidade para pesquisa e discussão sobre as possibilidades, os meios e os motivos da aplicação do motor Stirling nos dias atuais."
           ]
         },
         {
           "numero": 10,
           "titulo": "Possibilidade para os carros elétricos – Aula desafio.",
-          "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT102",
           "conteudo": "Motor Stirling como possível gerador auxiliar para carros elétricos.",
           "objetivos_aprendizagem": [
             "Avaliar o uso do motor Stirling para aumentar a autonomia de carros elétricos.",
-            "Comparar as vantagens e desvantagens do motor Stirling com outros tipos de motores."
+            "Comparar as vantagens e desvantagens do motor Stirling com outros tipos de motores.",
+            "Discutir a viabilidade prática de aplicações atuais do motor Stirling."
           ]
         },
         {
@@ -563,13 +912,14 @@
           "habilidade": "EM13CNT102",
           "conteudo": "Funcionamento, eficiência e princípios termodinâmicos dos refrigeradores.",
           "objetivos_aprendizagem": [
-            "Descrever o princípio de funcionamento de um refrigerador, explicando como ele transfere calor de uma área fria para uma quente durante seu ciclo de trabalho eterno.",
-            "Calcular a eficiência de um refrigerador como um dispositivo que leva calor de uma fonte fria a uma fonte quente."
+            "Descrever o princípio de funcionamento de um refrigerador, explicando como ele transfere calor de uma fonte fria para uma fonte quente com auxílio de trabalho externo.",
+            "Calcular a eficiência de um refrigerador a partir da relação entre o calor removido da fonte fria e o trabalho realizado pelo compressor.",
+            "Relacionar o funcionamento dos refrigeradores com a Segunda Lei da Termodinâmica, justificando por que esse processo não ocorre espontaneamente."
           ]
         },
         {
           "numero": 12,
-          "titulo": "Do rendimento das máquinas térmicas e eficiência dos refrigeradores.",
+          "titulo": "Do rendimento das máquinas térmicas a eficiência dos refrigeradores.",
           "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
           "habilidade": "EM13CNT102",
           "conteudo": "Rendimento de máquinas térmicas e eficiência dos refrigeradores.",
@@ -579,13 +929,14 @@
         },
         {
           "numero": 13,
-          "titulo": "Da compressão à combustão: Exercícios do Ciclo Otto – Aula complementar.",
+          "titulo": "Da compressão à combustão: Exercícios do Ciclo Otto e rendimento – Aula complementar.",
           "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
           "habilidade": "EM13CNT102",
           "conteudo": "Etapas, diagrama PV e rendimento do Ciclo Otto em motores de combustão interna.",
           "objetivos_aprendizagem": [
             "Identificar as etapas que compõem o Ciclo Otto.",
-            "Estudar o diagrama PV e calcular o rendimento (ou volume usado) do Ciclo Otto, relacionando cada etapa com as transformações na máquina."
+            "Analisar o diagrama de pressão x volume (diagrama PV) do Ciclo Otto, relacionando cada etapa com as transformações termodinâmicas envolvidas.",
+            "Avaliar o rendimento teórico do Ciclo Otto com base na razão de compressão, comparando-o com outros ciclos termodinâmicos utilizados em motores."
           ]
         },
         {
@@ -593,10 +944,207 @@
           "titulo": "Relações termodinâmicas no Ciclo Otto – Aula complementar.",
           "aprendizagem_essencial": "AE2 - Aplicar princípios da Termodinâmica na análise, avaliação e construção de sistemas térmicos, relacionando sua eficiência a contextos de uso sustentável da energia.",
           "habilidade": "EM13CNT102",
-          "conteudo": "Etapas do Ciclo Otto, diagramas pressão-volume e cálculo de desempenho.",
+          "conteudo": "Etapas do Ciclo Otto, diagramas pressão-volume e cálculo de rendimento.",
           "objetivos_aprendizagem": [
-            "Resolver exercícios que envolvam a identificação e análise das etapas do Ciclo Otto à partir dos diagramas de pressão e volume.",
-            "Calcular o rendimento do Ciclo Otto utilizando a razão de compressão e comparar resultados com outros ciclos termodinâmicos."
+            "Resolver exercícios que envolvam a identificação e análise das etapas do Ciclo Otto a partir do diagrama pressão-volume (P-V).",
+            "Calcular o rendimento teórico do Ciclo Otto utilizando a razão de compressão e comparar resultados com outros ciclos termodinâmicos."
+          ]
+        }
+      ],
+      "3º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Som e luz: Exemplos para entender ondas.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Conceito de onda e diferenças entre ondas mecânicas e eletromagnéticas.",
+          "objetivos_aprendizagem": [
+            "Definir o conceito de onda.",
+            "Diferenciar ondas mecânicas de ondas eletromagnéticas.",
+            "Analisar as características de ondas longitudinais e transversais."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Ondas na prática: Reconhecendo tipos e características.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Tipos de ondas e suas características segundo o meio e a direção de propagação.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam a identificação do tipo de onda (mecânica ou eletromagnética), com base no meio de propagação.",
+            "Diferenciar ondas longitudinais e transversais em situações-problema, reconhecendo suas características a partir de descrições ou representações gráficas."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A equação da onda e as relações entre suas grandeszas.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Grandezas fundamentais das ondas e a equação fundamental da ondulatória.",
+          "objetivos_aprendizagem": [
+            "Identificar as grandezas fundamentais das ondas (amplitude, frequência, período, comprimento de onda e velocidade) utilizando terminologia científica e exemplos práticos.",
+            "Utilizar a equação fundamental da onda para resolver problemas contextualizados, como calcular a velocidade de propagação a partir de dados de frequência e comprimento de onda.",
+            "Relacionar a alterações em uma grandeza ondulatória (ex.: amplitude ou frequência) com seus efeitos nas demais grandezas, inferindo consequências práticas (ex.: como a mudança na frequência afeta o comprimento de onda em uma corda vibrante)."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Resolvendo problemas com a equação fundamental da ondulatória.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Equação fundamental da onda e efeitos das variações nas grandezas ondulatórias.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam o uso da equação fundamental da onda, identificando e relacionando corretamente as grandezas envolvidas.",
+            "Analisar situações em que variações em uma grandeza ondulatória afetam outras, interpretando os efeitos físicos em contextos práticos."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Quando as ondas se encontram: Interferência e reflexão.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Interferência construtiva e destrutiva, reflexão e ondas estacionárias.",
+          "objetivos_aprendizagem": [
+            "Analisar os fenômenos de interferência construtiva e destrutiva em ondas, identificando as condições necessárias para cada tipo de superposição.",
+            "Aplicar os conceitos de reflexão de ondas en extremidades fixas e livres para prever o comportamento de pulsos em cordas vibrantes.",
+            "Demonstrar a formação de ondas estacionárias, descrevendo a relação entre nós, ventres e o comprimento de onda."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Exercícios sobre interferência e reflexão de ondas.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Interferência, reflexão e formação de ondas estacionárias.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios sobre interferência e reflexão de ondas, identificando os efeitos da superposição em diferentes tipos de extremidade.",
+            "Interpretar situações envolvendo ondas estacionárias, relacionando a posição de nós e ventres com o comprimento de onda."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Contornando obstáculos: Quando as ondas se curvam.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandezas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT04",
+          "conteudo": "Fenômeno da difração e sua influência na propagação de ondas em diferentes obstáculos, como na recepção de sinais de rádio.",
+          "objetivos_aprendizagem": [
+            "Identificar o fenômeno de difração de ondas, identificando as condições em que ele ocorre e sua relação com o comprimento de onda e o tamanho do obstáculo.",
+            "Aplicar o conceito de difração para resolver problemas contextualizados, como a diferença na recepção de sinais de rádio AM e FM devido a obstáculos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Quando as ondas contornam obstáculos: exercícios sobre difração.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos ondulatórios (interferência, reflexão, formação de ondas estacionárias e difração) a partir das grandeszas fundamentais de uma onda, relacionando-os com diferentes situações do cotidiano.",
+          "habilidade": "EM13CNT104",
+          "conteudo": "Difração: Relação entre comprimento de onda, tamanho do obstáculo e desvio das ondas.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam o fenômeno da difração, relacionando a ocorrência do desvio com o comprimento de onda e o tamanho da abertura ou obstáculo.",
+            "Analisar situações-problema em que a difração influencia a propagação de ondas, como na recepção de sinais de rádio em ambientes urbanos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Altura, timbre e intensidade: A relação com ondas, tipos de sons e a impossibilidade de propagação no vácuo.",
+          "aprendizagem_essencial": "AE4 - Interpretar fenômenos sonoros a partir das propriedades do som (altura, intensidade e timbre), identificando os conceitos como nível sonoro, intensidade sonora e formação de harmônicos em cordas.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Propriedades do som e sua relação com ondas, tipos de sons e a impossibilidade de propagação no vácuo.",
+          "objetivos_aprendizagem": [
+            "Identificar as propriedades do som (altura, intensidade e timbre) e sua relação com as características das ondas sonoras.",
+            "Diferenciar os tipos de sons (infrassons, audíveis e ultrassons) e suas aplicações no cotidiano."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Exercícios sobre altura, timbre e intensidade do som.",
+          "aprendizagem_essencial": "AE4 - Interpretar fenômenos sonoros a partir das propriedades do som (altura, intensidade e timbre), identificando os conceitos como nível sonoro, intensidade sonora e formação de harmônicos em cordas.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Propriedades do som.",
+          "objetivos_aprendizagem": [
+            "Resolver questões que relacionem propriedades do som (altura, intensidade e timbre) às características físicas das ondas sonoras, como frequência e amplitude.",
+            "Analisar situações cotidianas envolvendo diferentes tipos de som e a propagação de ondas sonoras, incluindo contextos com vácuo ou materiais distintos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Quanto vale o som? Conhecendo os decibéis.",
+          "aprendizagem_essencial": "AE4 - Interpretar fenômenos sonoros a partir das propriedades do som (altura, intensidade e timbre), identificando os conceitos como nível sonoro, intensidade sonora e formação de harmônicos em cordas.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Características físicas do som, variação da intensidade com a distância e uso da escala de decibéis.",
+          "objetivos_aprendizagem": [
+            "Diferenciar intensidade sonora e altura do som, relacionando-as às características físicas das ondas sonoras (amplitude e frequência).",
+            "Identificar como a distância da fonte afeta a percepção da intensidade sonora, aplicando o conceito de proporção inversa ao quadrado da distância.",
+            "Interpretar a escala de decibéis (dB) e seu uso para quantificar níveis sonoros em situações cotidianas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Ondas estacionárias e harmônicos.",
+          "aprendizagem_essencial": "AE4 - Interpretar fenômenos sonoros a partir das propriedades do som (altura, intensidade e timbre), identificando os conceitos como nível sonoro, intensidade sonora e formação de harmônicos em cordas.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Modos de vibração de cordas, ondas estacionárias.",
+          "objetivos_aprendizagem": [
+            "Identificar os modos de vibração de uma corda (harmônicos) e sua relação com a formação de ondas estacionárias.",
+            "Relacionar a frequência fundamental de uma corda vibrante com seus harmônicos superiores, aplicando o conceito em situações práticas (ex.: afinação de instrumentos)."
+          ]
+        }
+      ],
+      "4º Bimestre": [
+        {
+          "numero": 8,
+          "titulo": "Equação de Gauss e aumento linear.",
+          "aprendizagem_essencial": "AE5 - Investigar fenômenos ópticos, como formação de imagens, sombras, funcionamento de espelhos e lentes, interpretando-os a partir das leis de reflexão e refração da luz.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Significado do referencial gaussiano, equação de Gauss e expressão do aumento linear transversal.",
+          "objetivos_aprendizagem": [
+            "Descrever o referencial gaussiano.",
+            "Analisar a equação de Gauss e a expressão do aumento linear transversal."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Exercícios sobre referencial Gaussiano e equação de Gauss.",
+          "aprendizagem_essencial": "AE5 - Investigar fenômenos ópticos, como formação de imagens, sombras, funcionamento de espelhos e lentes, interpretando-os a partir das leis de reflexão e refração da luz.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Significado do referencial gaussiano, equação de Gauss e expressão do aumento linear transversal.",
+          "objetivos_aprendizagem": [
+            "Identificar o referencial gaussiano como sistema de referência adotado para a aplicação da equação de Gauss em óptica geométrica.",
+            "Analisar a equação de Gauss e a expressão do aumento linear transversal, relacionando-as às posições e características das imagens formadas por espelhos esféricos.",
+            "Resolver exercícios que envolvem a aplicação da equação de Gauss e do aumento linear para determinar posição, tamanho e orientação das imagens."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Índices de refração e Leis da refração da luz.",
+          "aprendizagem_essencial": "AE5 - Investigar fenômenos ópticos, como formação de imagens, sombras, funcionamento de espelhos e lentes, interpretando-os a partir das leis de reflexão e refração da luz.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Índices de refração e refringência e análise das leis da refração.",
+          "objetivos_aprendizagem": [
+            "Interpretar o significado dos índices de refração e refringência.",
+            "Analisar as leis da refração."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Comportamento óptico em lentes delgadas.",
+          "aprendizagem_essencial": "AE5 - Investigar fenômenos ópticos, como formação de imagens, sombras, funcionamento de espelhos e lentes, interpretando-os a partir das leis de reflexão e refração da luz.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Comportamento óptico e trajetórias de raios luminosos em lentes delgadas, e construção de representações gráficas das imagens formadas.",
+          "objetivos_aprendizagem": [
+            "Identificar o comportamento óptico de lentes delgadas.",
+            "Descrever a trajetória de raios luminosos particulares para o estudo das lentes delgadas.",
+            "Criar representações gráficas de imagens em lentes delgadas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Resolvendo problemas com equação de Gauss e aumento linear em lentes.",
+          "aprendizagem_essencial": "AE5 - Investigar fenômenos ópticos, como formação de imagens, sombras, funcionamento de espelhos e lentes, interpretando-os a partir das leis de reflexão e refração da luz.",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Comportamento óptico e trajetórias de raios luminosos em lentes delgadas, e construção de representações gráficas das imagens formadas.",
+          "objetivos_aprendizagem": [
+            "Aplicar a equação de Gauss e a expressão do aumento linear na resolução de problemas envolvendo lentes delgadas.",
+            "Analisar as características das imagens formadas (posição, orientação e tamanho), com base nos sinais e valores das grandezas envolvidas."
           ]
         }
       ]
@@ -606,19 +1154,19 @@
         {
           "numero": 1,
           "titulo": "Quando o condutor encontra o equilíbrio",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Carga elétrica, condutores e isolantes, processos de eletrização e conservação da carga em exemplos simples.",
           "objetivos_aprendizagem": [
             "Definir carga elétrica, algumas propriedades de condutores e isolantes.",
             "Analisar três processos de eletrização (atrito, contato e indução).",
-            "Analisar o princípio da conservação da carga em exemplos simples."
+            "Analisar o princípio da conservação da carga foi em exemplos simples."
           ]
         },
         {
           "numero": 2,
           "titulo": "Da eletrização à conservação da carga elétrica: Problemas propostos",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Carga elétrica, condutores e isolantes, processos de eletrização e conservação da carga em exemplos simples.",
           "objetivos_aprendizagem": [
@@ -629,74 +1177,79 @@
         {
           "numero": 3,
           "titulo": "Força elétrica vs. gravidade: O padrão do inverso do quadrado",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Lei de Coulomb e comparação da força elétrica em diferentes meios.",
           "objetivos_aprendizagem": [
-            "Descobrir a Lei de Coulomb e sua fórmula.",
+            "Descrever a Lei de Coulomb e sua fórmula.",
             "Comparar forças elétricas em diferentes meios.",
             "Calcular a força entre cargas pontuais."
           ]
         },
         {
           "numero": 4,
-          "titulo": "A força elétrica e o inverso do quadrado à distância: Resolvendo exercícios com a Lei de Coulomb",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "titulo": "A força elétrica e o inverso do quadrado da distância: Resolvendo exercícios com a Lei de Coulomb",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Lei de Coulomb e comparação da força elétrica em diferentes meios.",
           "objetivos_aprendizagem": [
-            "Interpretar enunciados de exercícios que envolvem a Lei de Coulomb.",
-            "Resolver exercícios envolvendo o cálculo da força elétrica entre cargas pontuais, utilizando a expressão da Lei de Coulomb em diferentes contextos, analisando a influência de constantes eletrostáticas do meio sobre a interação entre as cargas."
+            "Interpretar enunciados de exercícios que envolvam a Lei de Coulomb.",
+            "Resolver exercícios que envolvam o cálculo da força elétrica entre cargas pontuais, utilizando a expressão da Lei de Coulomb em diferentes contextos.",
+            "Comparar os valores da força elétrica obtidos em diferentes meios, analisando a influência da constante eletrostática e da natureza do meio sobre a interação entre as cargas."
           ]
         },
         {
           "numero": 5,
           "titulo": "Representando o campo elétrico: Definição, cálculo e linhas de força",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Definição e unidades do vetor campo elétrico e cálculo do campo de cargas pontuais.",
           "objetivos_aprendizagem": [
             "Definir vetor-campo-elétrico e suas unidades.",
-            "Calcular o campo elétrico gerado por configurações simples."
+            "Calcular o campo gerado por uma carga pontual.",
+            "Representar linhas de campo para configurações simples."
           ]
         },
         {
           "numero": 6,
           "titulo": "Resolvendo problemas de campo elétrico",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Definição e unidades do vetor campo elétrico e cálculo do campo de cargas pontuais.",
           "objetivos_aprendizagem": [
-            "Identificar o vetor campo elétrico, suas unidades e os elementos que determinam sua magnitude.",
-            "Resolver exercícios envolvendo o cálculo do campo elétrico gerado por configurações simples."
+            "Identificar o vetor campo elétrico, suas unidades e os elementos que determinam sua intensidade, sentido e direção.",
+            "Resolver exercícios sobre o campo elétrico gerado por cargas pontuais, utilizando corretamente a fórmula do módulo do vetor campo elétrico.",
+            "Analisar representações de linhas de campo elétrico en exercícios, reconhecendo padrões em configurações simples como carga isolada ou dipolo elétrico."
           ]
         },
         {
           "numero": 7,
           "titulo": "Quando os campos se encontram: O princípio da superposição",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potências e energia associada à situações práticas e simuladas.",
+          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Princípio da superposição de campos.",
           "objetivos_aprendizagem": [
             "Discutir sobre o princípio da superposição de campos.",
-            "Determinar o campo de um dipolo elétrico."
+            "Determinar o campo resultante em sistemas de múltiplas cargas.",
+            "Interpretar o campo de um dipolo elétrico."
           ]
         },
         {
           "numero": 8,
           "titulo": "Resolvendo problemas com a superposição de campos elétricos",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "aprendizement_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Princípio da superposição de campos.",
           "objetivos_aprendizagem": [
             "Analisar o princípio da superposição de campos elétricos, reconhecendo como ele se aplica à interação entre múltiplas cargas.",
-            "Resolver exercícios que envolvam a determinação do campo elétrico resultante em sistemas compostos por mais cargas puntuais."
+            "Resolver exercícios que envolvam a determinação do campo elétrico resultante em sistemas compostos por duas ou mais cargas pontiformes.",
+            "Interpretar representações do campo elétrico de um dipolo, identificando regiões de maior e menor intensidade e analisando a distribuição das linhas de força."
           ]
         },
         {
           "numero": 9,
-          "titulo": "Quando o campo não basta: O papel do potencial elétrico",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "titulo": "Quando o campo não basta: O papel do potencial elétrico e cálculo do potencial de cargas pontuais.",
+          "aprendizement_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Diferença entre potencial elétrico e campo elétrico e cálculo do potencial de cargas pontuais.",
           "objetivos_aprendizagem": [
@@ -708,56 +1261,75 @@
         {
           "numero": 10,
           "titulo": "Resolvendo problemas de potencial elétrico",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "aprendizement_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
           "habilidade": "EM13CNT107",
           "conteudo": "Potencial elétrico, relação com o campo elétrico e trabalho da força elétrica em deslocamentos de cargas.",
           "objetivos_aprendizagem": [
             "Diferenciar o conceito de potencial elétrico em relação ao campo elétrico.",
-            "Compreender o cálculo do potencial elétrico gerado por cargas pontuais e a variação da sua potencial."
+            "Resolver exercícios envolvendo o cálculo do potencial elétrico gerado por cargas pontuais e a variação de energia potencial.",
+            "Relacionar a variação do potencial elétrico com o trabalho realizado pela força elétrica em deslocamentos de cargas, avaliando se há ganho ou perda de energia."
           ]
         },
         {
           "numero": 11,
           "titulo": "Conservação da energia mecânica: Só uma parte da história",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "aprendizement_essencial": "",
           "habilidade": "EM13CNT101",
           "conteudo": "Energia mecânica, conservação da energia e forças não conservativas.",
           "objetivos_aprendizagem": [
-            "Calcular a energia mecânica total de um sistema e sistema físico, como a soma da energia cinética e potencial.",
-            "Compreender como a energia mecânica é conservada."
+            "Calcular a energia mecânica total de um sistema de um sistema físico, como a soma da energia cinética e potencial em diferentes problemas.",
+            "Identificar em exercícios quando a energia mecânica é conservada.",
+            "Resolver problemas que envolvam forças não conservativas e analisar seu impacto na variação da energia mecânica."
           ]
         },
         {
           "numero": 12,
           "titulo": "Teorema da Energia Cinética: Aplicações em exercícios",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "aprendizement_essencial": "",
           "habilidade": "EM13CNT101",
           "conteudo": "Teorema da Energia Cinética.",
           "objetivos_aprendizagem": [
             "Interpretar enunciados de problemas relacionados ao teorema da energia cinética.",
-            "Compreender e aplicar o teorema em análises de situações práticas para calcular variações de energia."
+            "Aplicar o conceito do teorema da energia cinética na análise de situações práticas para calcular variações de energia e trabalho realizado por forças.",
+            "Resolver exercícios que envolvam mudanças na energia cinética e o trabalho realizado por forças sobre um corpo."
           ]
         },
         {
           "numero": 13,
           "titulo": "Resolver para Entender: Exercícios sobre Movimento Retilíneo Uniforme",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
-          "habilidade": "EM13CNT107",
-          "conteudo": "Velocidade constante, trajetória retilínea e gráficos do MRU.",
+          "aprendizement_essencial": "",
+          "habilidade": "EM13CNT204",
+          "conteudo": "Velocidade constante, trajetória retilínea e gráficos no MRU.",
           "objetivos_aprendizagem": [
-            "Resolver exercícios que envolvam identificando as características do MRU, como velocidade constante.",
-            "Compreender gráficos de posição versus tempo e exercícios do MRU."
+            "Resolver exercícios que envolvam identificação das características do MRU, como velocidade constante e trajetória retilínea.",
+            "Interpretar e analisar gráficos de posição versus tempo e velocidade versus tempo em exercícios do MRU.",
+            "Aplicar a equação horária da posição para calcular deslocamento, posição inicial, velocidade e tempo em problemas práticos do MRU."
           ]
         },
         {
           "numero": 14,
           "titulo": "Entre equações e gráficos: Exercícios de MRUV",
-          "aprendizagem_essencial": "AE1 - Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potencias e energia associada a situações práticas e simuladas.",
+          "aprendizement_essencial": "",
           "habilidade": "EM13CNT204",
           "conteudo": "Equações horárias e gráficos de posição, velocidade e aceleração no MRUV.",
           "objetivos_aprendizagem": [
-            "Resolver equivalências entre as equações horárias do MRUV e as representações gráficas.",
-            "Compreender gráficos de posição versus tempo e aceleração versus tempo de movimentos uniformemente variados."
+            "Resolver exercícios de MRUV aplicando as equações horárias da posição e da velocidade.",
+            "Interpretar gráficos de posição versus tempo, velocidade versus tempo e aceleração versus tempo de objetos que se movem em MRUV.",
+            "Analisar e relacionar os dados dos gráficos com os resultados das equações para resolver problemas práticos do MRUV."
+          ]
+        },
+        {
+          "numero": 1,
+          "titulo": "Matéria e energia.",
+          "aprendizagem_essencial": "Analisar interações eletrostáticas entre cargas e campos elétricos, calculando forças, potenciais e energia associada à situações práticas e simuladas.",
+          "habilidade": "Reconhecer as definições fundamentais, os princípios básicos e as naturezas (vetorial ou escalar) dos conceitos centrais da Eletrostática.",
+          "conteudo": "EM13CNT107 - Realizar previsões qualitativas e quantitativas sobre o funcionamento de geradores, motores elétricos e seus componentes, bobinas, transformadores, pilhas, baterias e dispositivos eletrônicos, com base na análise dos processos de transformação e condução de energia envolvidos – com ou sem o uso de dispositivos e aplicativos digitais –, para propor ações que visem a sustentabilidade.",
+          "objetivos_aprendizagem": [
+            "Aplicar as leis e princípios fundamentais da Eletrostática para determinar grandezas físicas em diferentes contextos.",
+            "Calcular a força elétrica entre cargas pontuais utilizando a Lei de Coulomb.",
+            "Determinar o campo elétrico gerado por cargas pontuais e interpretar suas linhas de campo em configurações simples.",
+            "Relacionar potencial elétrico, energia potencial e trabalho da força elétrica em sistemas de cargas pontuais.",
+            "Analisar o campo elétrico resultante pela superposição de múltiplas cargas."
           ]
         }
       ],
@@ -767,11 +1339,11 @@
           "titulo": "Do real ao convencional: Entendendo o sentido da corrente elétrica",
           "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
           "habilidade": "EM13CNT107",
-          "conteudo": "Corrente elétrica: definição, intensidade, sentidos (real e convencional) e formas de representação (contínua e alternada).",
+          "conteudo": "Corrente elétrica: definição, intensidade, sentidos (real e convencional) e formas de representação (continua e alternada).",
           "objetivos_aprendizagem": [
             "Definir corrente elétrica.",
             "Diferenciar o sentido real e o convencional da corrente elétrica.",
-            "Identificar graficamente a diferença entre a corrente contínua e a alternada."
+            "Identificar as características de resistores ohmicos e não ohmicos."
           ]
         },
         {
@@ -781,7 +1353,6 @@
           "habilidade": "EM13CNT107",
           "conteudo": "Primeira Lei de Ohm.",
           "objetivos_aprendizagem": [
-            "Identificar as características de resistores ôhmicos e não ôhmicos.",
             "Analisar a Primeira Lei de Ohm.",
             "Reconhecer o efeito Joule."
           ]
@@ -793,7 +1364,7 @@
           "habilidade": "EM13CNT107",
           "conteudo": "Resistores ôhmicos e não ôhmicos e a Primeira Lei de Ohm.",
           "objetivos_aprendizagem": [
-            "Resolver questões que envolvam a aplicação da Primeira Lei de Ohm e a distinção entre resistores ôhmicos e não ôhmicos com base em gráficos e enunciados."
+            "Resolver questões que envolvam a aplicação da Primeira Lei de Ohm e a distinção entre resistores ôhmicos e não ohmicos com base em gráficos e enunciados."
           ]
         },
         {
@@ -804,7 +1375,8 @@
           "conteudo": "Definição de potência elétrica; consumo de energia em aparelhos; unidades de medida de energia elétrica.",
           "objetivos_aprendizagem": [
             "Discutir o significado físico de potência elétrica e sua relação com o consumo de energia elétrica.",
-            "Analisar os procedimentos para determinar o consumo de energia elétrica de eletrodomésticos e seus custos reais."
+            "Analisar os procedimentos para determinar o consumo de energia elétrica de eletrodomésticos e os seus custos em reais.",
+            "Identificar unidades de medidas para energia."
           ]
         },
         {
@@ -814,8 +1386,8 @@
           "habilidade": "EM13CNT107",
           "conteudo": "Definição de potência elétrica; consumo de energia em aparelhos; unidades de medida de energia elétrica.",
           "objetivos_aprendizagem": [
-            "Reconhecer o valor da energia elétrica e cálculo do consumo de energia em kWh, utilizando dados reais de eletrodomésticos.",
-            "Determinar o custo do consumo de energia elétrica com base na tarifa por kWh."
+            "Resolver problemas envolvendo potência elétrica e cálculo do consumo de energia em kWh, utilizando dados reais de eletrodomésticos.",
+            "Determinar o custo do consumo de energia elétrica com base na tarifa por kWh, interpretando corretamente as unidades envolvidas."
           ]
         },
         {
@@ -825,8 +1397,7 @@
           "habilidade": "EM13CNT107",
           "conteudo": "Características e comportamento de resistores associados em série em circuitos elétricos simples.",
           "objetivos_aprendizagem": [
-            "Identificar o princípio da continuidade da corrente elétrica.",
-            "Analisar as características de uma associação de resistores em série."
+            "Analisar as características de circuitos elétricos simples formados por resistores associados em série."
           ]
         },
         {
@@ -834,10 +1405,11 @@
           "titulo": "Vários caminhos, mesma DDP: Entendendo resistores em paralelo",
           "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
           "habilidade": "EM13CNT107",
-          "conteudo": "Características e comportamento de resistores associados em paralelo.",
+          "conteudo": "Características e comportamento de resistores associados em paralelo em circuitos elétricos simples.",
           "objetivos_aprendizagem": [
             "Identificar o princípio da continuidade da corrente elétrica.",
-            "Analisar as características de uma associação de resistores em paralelo."
+            "Analisar as características de uma associação de resistores em paralelo.",
+            "Compreender o processo para determinar a resistência equivalente de um circuito composto por resistores conectados em paralelo."
           ]
         },
         {
@@ -853,7 +1425,7 @@
         },
         {
           "numero": 9,
-          "titulo": "Do simples ao composto: analisando associações mistas de resistores",
+          "titulo": "Do simples ao composto: analisando associações mistas de resistores.",
           "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
           "habilidade": "EM13CNT107",
           "conteudo": "Associação mista de resistores.",
@@ -867,7 +1439,7 @@
           "titulo": "Resistência elétrica e as dimensões do fio: Quando comprimento e área fazem toda a diferença",
           "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
           "habilidade": "EM13CNT107",
-          "conteudo": "Segunda Lei de Ohm e influência da temperatura na resistividade.",
+          "conteudo": "Segunda Lei Oe Hm e influência da temperatura na resistividade.",
           "objetivos_aprendizagem": [
             "Analisar a expressão matemática da Segunda Lei de Ohm.",
             "Reconhecer a influência da temperatura na resistividade elétrica."
@@ -876,9 +1448,9 @@
         {
           "numero": 11,
           "titulo": "Quando forças agem rápido: Impulso e quantidade de movimento em exercícios.",
-          "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT101",
-          "conteudo": "Impulso, quantidade de movimento e o teorema do impulso.",
+          "conteudo": "Impulso, quantidade de movimento e teorema do impulso.",
           "objetivos_aprendizagem": [
             "Resolver exercícios aplicando impulso, quantidade de movimento e o teorema do impulso.",
             "Interpretar situações para escolher a abordagem correta na resolução."
@@ -887,9 +1459,9 @@
         {
           "numero": 12,
           "titulo": "Espelhos planos e reflexão da luz: análise e prática",
-          "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT306",
-          "conteudo": "Reflexão da luz e leis de reflexão em espelhos planos.",
+          "conteudo": "Reflexão da luz e leis da reflexão em espelhos planos.",
           "objetivos_aprendizagem": [
             "Resolver exercícios aplicando as leis da reflexão da luz.",
             "Analisar situações envolvendo espelhos planos para aplicar corretamente as leis da reflexão."
@@ -897,10 +1469,10 @@
         },
         {
           "numero": 13,
-          "titulo": "Espelhos esféricos: identificando raios construindo imagens - Aula complementar",
-          "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
+          "titulo": "Espelhos esféricos: identificando raios e construindo imagens – Aula complementar",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT306",
-          "conteudo": "Trajetória de raios luminosos em espelhos esféricos.",
+          "conteudo": "Trajetória de raios luminosos e imagens em espelhos esféricos.",
           "objetivos_aprendizagem": [
             "Resolver exercícios identificando a trajetória de raios luminosos em espelhos esféricos.",
             "Construir representações gráficas de imagens formadas por espelhos esféricos."
@@ -908,13 +1480,289 @@
         },
         {
           "numero": 14,
-          "titulo": "Da equação de Gauss ao aumento linear: resolvendo problemas ópticos - Aula complementar",
-          "aprendizagem_essencial": "AE2 - Analisar circuitos elétricos, calculando corrente, resistência, tensão, potência e consumo de energia.",
+          "titulo": "Da equação de Gauss ao aumento linear: resolvendo problemas ópticos – Aula complementar",
+          "aprendizagem_essencial": "",
           "habilidade": "EM13CNT306",
-          "conteudo": "Referencial gisânico, equação de Gauss e o aumento linear transversal.",
+          "conteudo": "Referencial gaussiano, equação de Gauss e aumento linear transversal.",
           "objetivos_aprendizagem": [
             "Resolver exercícios aplicando a equação de Gauss.",
-            "Interpretar gráficas e utilizar o aumento linear transversal em situações diversas."
+            "Interpretar e utilizar o aumento linear transversal em situações diversas."
+          ]
+        }
+      ],
+      "3º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Marcos históricos e propriedades dos materiais magnéticos naturais.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Contribuições históricas do magnetismo e propriedades dos materiais magnéticos naturais com dipolos.",
+          "objetivos_aprendizagem": [
+            "Identificar alguns marcos das contribuições do magnetismo para o desenvolvimento científico.",
+            "Analisar os materiais naturalmente magnéticos e suas propriedades, evidenciando os dipolos magnéticos."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Guia para as bússolas",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Vetor de indução magnética e campo magnético terrestre.",
+          "objetivos_aprendizagem": [
+            "Analisar o vetor de indução magnética e sua relação com as linhas de indução magnética produzidas por ímãs.",
+            "Identificar o campo magnético terrestre e sua relação com as bússolas nas orientações."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "O campo que ordena: Como imãs reagem ao magnetismo uniforme.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Características e representações gráficas de um campo magnético uniforme. Efeitos do campo magnético uniforme sobre o comportamento de um ímã.",
+          "objetivos_aprendizagem": [
+            "Identificar as principais características e formas de representar um campo magnético uniforme.",
+            "Analisar a ação de um campo magnético uniforme sobre um ímã."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Campo magnético e cargas em movimento: A força que desvia trajetórias.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Condições para o surgimento da força magnética em cargas elétricas em campo magnético. Determinação do sentido e da direção da força magnética.",
+          "objetivos_aprendizagem": [
+            "Analisar as condições para o surgimento da força determinando o sentido e a direção da força magnética exercida sobre uma determinada partícula."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Movimento de partículas: Do lançamento oblíquo ao movimento circular.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Movimento de portadores de carga em campo magnético uniforme e estacionário. Trajetória de cargas lançadas obviamente em campo magnético.",
+          "objetivos_aprendizagem": [
+            "Analisar o movimento de portadores de carga elétrica lançados em um campo magnético uniforme e estacionário, inclusive a trajetória de um portador de carga elétrica lançada obviamente neste campo."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Problemas com cargas elétricas em campo uniforme.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Movimento de portadores de carga em campo magnético uniforme e estacionário. Trajetória de cargas lançadas obviamente em campo magnético.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam o movimento de cargas elétricas em campos magnéticos uniformes, identificando a forma da trajetória resultante.",
+            "Calcular grandezas como raio, velocidade e período em trajetórias circulares ou helicoidais de portadores de cargas lançados perpendicular ou obliquamente ao campo."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Quando a corrente desvia a bussola: Oersted e o campo magnético.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Experiência de Oersted e a relação entre correntes elétricas e campos magnéticos.",
+          "objetivos_aprendizagem": [
+            "Investigar a Experiência de Oersted.",
+            "Analisar a relação entre correntes elétricas e campos magnéticos."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Campo magnético gerado por corrente: Resolve com a regra da mão direita.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT07",
+          "conteudo": "Campo magnético gerado por fios condutores com corrente elétrica e orientação do campo segundo a regra da mão direita.",
+          "objetivos_aprendizagem": [
+            "Resolver situações-problema que envolvam a geração de campo magnético por fios condutores com corrente elétrica, com base na experiência de Oersted.",
+            "Identificar a orientação do campo magnético gerado por diferentes configurações de corrente, utilizando a regra da mão direita."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Espira, bobina e solenoide: Comparando campos magnéticos.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT07",
+          "conteudo": "Campo magnético produzido por espiras, bobinas e solenoides e suas características em diferentes configurações.",
+          "objetivos_aprendizagem": [
+            "Analisar o campo magnético em algumas configurações particulares e, por fim, aplicá-los na compreensão de um eletroímã.",
+            "Identificar as características do campo magnético gerado por uma espira, por uma bobina e por um solenoide."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Resolve e compare: Campos magnéticos em diferentes configurações.",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT07",
+          "conteudo": "Campo magnético gerado por espiras, bobinas e solenoides e sua utilização em eletroímãs.",
+          "objetivos_aprendizagem": [
+            "Resolver exercícios que envolvam o campo magnético gerado por espiras, bobinas e solenoides em diferentes situações.",
+            "Aplicar os conceitos de campo magnético para interpretar o funcionamento de eletroímãs em montagens simples."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Exercícios de ondulatória: Classificação, frequência e velocidade.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Classificação das ondas, frequência, comprimento e velocidade.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a velocidade de propagação de ondas em diferentes meios.",
+            "Calcular o comprimento de onda e a frequência a partir de dados fornecidos.",
+            "Identificar e classificar ondas como transversais ou longitudinais em situações práticas."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Reflexão, difração e interferência e interferência: Exercícios.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT306",
+          "conteudo": "Reflexão, difração e interferência de ondas.",
+          "objetivos_aprendizagem": [
+            "Resolver questões sobre reflexão de ondas em superfícies planas e curvas.",
+            "Analisar e resolver exercícios sobre difração de ondas ao contornarem obstáculos.",
+            "Aplicar conceitos de interferência simples em exercícios práticos."
+          ]
+        }
+      ],
+      "4º Bimestre": [
+        {
+          "numero": 1,
+          "titulo": "Lei de Faraday-Neumann",
+          "aprendizagem_essencial": "AE3 - Analisar fenômenos eletromagnéticos a partir de princípios do eletromagnetismo e de leis, como as de Oersted e Faraday-Neumann, aplicando-os na descrição de campos e forças magnéticas em situações do cotidiano.",
+          "habilidade": "EM13CNT07",
+          "conteudo": "Campo elétrico e campo magnético (Lei de Oersted; Lei de Faraday Neumann; Lei de Lenz).",
+          "objetivos_aprendizagem": [
+            "Analisar o fenômeno da indução eletromagnética por meio da Lei de Faraday- Neumann."
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "O nascimento da física quântica: como o calor mudou a física.",
+          "aprendizagem_essencial": "AE4 - Analisar fenômenos da física quântica, relacionando a quantização da energia e o princípio da incerteza aos limites de validade da física clássica em diferentes escalas.",
+          "habilidade": "EM13CNT03",
+          "conteudo": "Quantização da energia, a hipótese de Planck e cálculo da energia dos \"quanta\" em função da frequência.",
+          "objetivos_aprendizagem": [
+            "Identificar a quantização da energia no contexto da radiação do corpo negro.",
+            "Discutir sobre a hipótese de Planck e a ideia de \"quanta\" como pacotes discretos de energia.",
+            "Resolver problemas simples envolvendo a energia dos quanta e a frequência da radiação."
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "A luz em pacotes: quando Einstein inventou os fótons.",
+          "aprendizagem_essencial": "AE4 - Analisar fenômenos da física quântica, relacionando a quantização da energia e o princípio da incerteza aos limites de validade da física clássica em diferentes escalas.",
+          "habilidade": "EM13CNT03",
+          "conteudo": "Efeito fotoelétrico, a ideia de fóton e as aplicação da equação de Einstein.",
+          "objetivos_aprendizagem": [
+            "Interpretar o efeito fotoelétrico e compreender sua importância para a física quântica.",
+            "Analisar como a frequência da luz influencia a emissão de elétrons de uma superfície metálica.",
+            "Aplicar a equação de Einstein para calcular a energia cinética dos fotoelétrons."
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Matéria que ondula: a estranha dualidade onda-partícula.",
+          "aprendizagem_essencial": "AE4 - Analisar fenômenos da física quântica, relacionando a quantização da energia e o princípio da incerteza aos limites de validade da física clássica em diferentes escalas.",
+          "habilidade": "EM13CNT03",
+          "conteudo": "A dualidade onda-partícula, o conceito de ondas de matéria de Louis de Broglie e o princípio da complementaridade.",
+          "objetivos_aprendizagem": [
+            "Explicar o conceito de dualidade onda-partícula, mostrando como luz e matéria podem apresentar comportamentos complementares.",
+            "Aplicar a equação de De Broglie para calcular o comprimento de onda associado a partículas em movimento.",
+            "Analisar a diferença entre partículas microscópicas e macroscópicas, compreendendo que o comprimento de onda das primeiras é relevante para os fenômenos quânticos, enquanto nas segundas é desprezível, o que justifica o domínio da física clássica no mundo cotidiano."
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Entre dois mundos: onde a Física clássica encontra a quântica.",
+          "aprendizagem_essencial": "AE4 - Analisar fenômenos da física quântica, relacionando a quantização da energia e o princípio da incerteza aos limites de validade da física clássica em diferentes escalas.",
+          "habilidade": "EM13CNT03",
+          "conteudo": "O princípio da correspondência, as fronteiras entre a física clássica e a física quântica.",
+          "objetivos_aprendizagem": [
+            "Reconhecer que a física quântica incorpora a física clássica como um caso limite, reproduzindo seus resultados em situações em grande escala ou altas energias.",
+            "Compreender que, em sistemas macroscópicos, as previsões da teoria quântica convergem para as leis da física clássica, justificando a validade desta no cotidiano.",
+            "Distinguir os contextos em que a física clássica é suficiente daqueles em que apenas a física quântica pode explicar adequadamente os fenômenos."
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "O limite do conhecimento: a incerteza como lei da natureza.",
+          "aprendizagem_essencial": "AE4 - Analisar fenômenos da física quântica, relacionando a quantização da energia e o princípio da incerteza aos limites de validade da física clássica em diferentes escalas.",
+          "habilidade": "EM13CNT03",
+          "conteudo": "Princípio da incerteza de Heisenberg e suas implicações na descrição e medida de partículas subatômicas.",
+          "objetivos_aprendizagem": [
+            "Analisar o princípio da incerteza e suas implicações para a medida de partículas subatômicas.",
+            "Diferenciar os conceitos de posição e momento no contexto da incerteza.",
+            "Discutir as limitações impostas pelo princípio para a física clássica."
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Exercícios propostos sobre trocas de calor entre corpos.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT02",
+          "conteudo": "Trocas de calor.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo troca de calor e calorimetria em sistemas diversos.",
+            "Diferenciar calor sensível de calor latente."
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Exercícios sobre Leis de Ohm, Kirchhoff e associação de resistores.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Leis de Ohm e Kirchhoff, associações de resistores e cálculos de potência e energia elétrica.",
+          "objetivos_aprendizagem": [
+            "Resolver circuitos elétricos simples e complexos utilizando as Leis de Ohm e Kirchhoff.",
+            "Analisar associações de resistores em série e paralelo em exercícios.",
+            "Calcular potência elétrica e energia consumida em circuitos elétricos."
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Aprendendo a calcular campo e potencial elétrico gerado por cargas pontuais.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT107",
+          "conteudo": "Campo elétrico e potencial elétrico.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas sobre campo elétrico gerado por cargas pontuais e sistemas de cargas.",
+            "Calcular potencial elétrico e diferença de potencial em situações práticas."
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Exercícios sobre equação dos gases ideais e processos termodinâmicos.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT309",
+          "conteudo": "Equação dos gases ideais, transformações gasosas e cálculo de trabalho e calor em processos termodinâmicos.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas envolvendo a equação dos gases ideais.",
+            "Analisar transformações isotérmicas, isobáricas, isocóricas e adiabáticas.",
+            "Calcular trabalho e calor em processos gasosos."
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Exercícios sobre segunda e terceira Lei da termodinâmica.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT309",
+          "conteudo": "Segunda e Terceira Lei da termodinâmica.",
+          "objetivos_aprendizagem": [
+            "Identificar os limites de eficiência das máquinas térmicas impostos pela segunda Lei da termodinâmica.",
+            "Discutir sobre por que não é possível transformar todo o calor absorvido em trabalho útil nas máquinas térmicas.",
+            "Resolver problemas relacionados ao funcionamento e eficiência das máquinas térmicas com base nas segunda e terceira Lei da termodinâmica."
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Problemas de empuxo e equilíbrio em corpos imersos.",
+          "aprendizagem_essencial": "",
+          "habilidade": "EM13CNT310",
+          "conteudo": "Cálculo do empuxo, flutuabilidade, equilíbrio de corpos em fluidos e aplicações do princípio de Arquimedes.",
+          "objetivos_aprendizagem": [
+            "Resolver problemas sobre cálculo do empuxo em corpos imersos total ou parcialmente em fluidos.",
+            "Analisar flutuabilidade e equilíbrio de corpos em líquidos.",
+            "Aplicar o princípio de Arquimedes em situações práticas, como barcos e balões."
           ]
         }
       ]

@@ -8,7 +8,12 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+def get_client():
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        return None
+    return OpenAI(api_key=api_key)
 
 PASTA_EXTRAIDOS = "./docOrientadores/extraidos"
 MODELO_EFAPE_PATH = "./docOrientadores/MODELO DE PLANO DE AULA- EFAPE.docx"
@@ -27,6 +32,9 @@ def carregar_todos_jsons():
     return docs
 
 def refinar_metodologia(texto_usuario, metodologia_tipo):
+    client = get_client()
+    if client is None:
+        return "Erro ao refinar: OPENAI_API_KEY não configurada. Defina a variável de ambiente para usar o refino por IA."
     prompt = f"""
     Você é um especialista em metodologias ativas para a Educação Paulista.
     O professor escreveu a seguinte descrição para uma aula: "{texto_usuario}"
@@ -74,8 +82,49 @@ def render_checklist(label, opcoes, key_prefix, col_count=2):
             selecionados.append(opt)
     return selecionados
 
+def render_stepper(pagina_atual):
+    passos = ["Seleção & Metodologia", "Detalhes & Geração"]
+    cols = st.columns(len(passos))
+    for i, (col, label) in enumerate(zip(cols, passos), start=1):
+        if i == pagina_atual:
+            col.markdown(f"**➡️ Etapa {i}: {label}**")
+        elif i < pagina_atual:
+            col.markdown(f"✅ Etapa {i}: {label}")
+        else:
+            col.markdown(f"⬜ Etapa {i}: {label}")
+    st.progress(pagina_atual / len(passos))
+
 # ── Interface ──────────────────────────────────────────────
 st.set_page_config(page_title="Plano de Aula IA", layout="wide")
+
+st.markdown(
+    """
+    <style>
+    .stButton > button, .stDownloadButton > button {
+        border: 2px solid #D4AF37 !important;
+        border-radius: 8px !important;
+        color: #D4AF37 !important;
+        background-color: transparent !important;
+        transition: all 0.2s ease-in-out;
+    }
+    .stButton > button:hover, .stDownloadButton > button:hover {
+        border-color: #F4D06F !important;
+        color: #F4D06F !important;
+        box-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
+    }
+    .stButton > button[kind="primary"] {
+        background-color: #D4AF37 !important;
+        color: #1a1a1a !important;
+    }
+    .stButton > button[kind="primary"]:hover {
+        background-color: #F4D06F !important;
+        border-color: #F4D06F !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 st.title("🚀 Gerador de Plano de Aula Inteligente")
 
 docs = carregar_todos_jsons()
@@ -136,6 +185,8 @@ with st.sidebar:
     
     periodo_str = f"{data_inicio.strftime('%d/%m/%Y')} a {data_fim.strftime('%d/%m/%Y')}"
 
+render_stepper(st.session_state.pagina)
+
 if st.session_state.pagina == 1:
     # ── ETAPA 1: Seleção e Metodologias ───────────────────────
     st.info("📌 **Etapa 1:** Selecione as aulas e refine as metodologias.")
@@ -180,7 +231,12 @@ if st.session_state.pagina == 1:
     # Renderizar Checklist para Aulas
     labels_selecionadas = render_checklist("📚 Quais aulas deseja incluir?", labels_aulas, tag_atual, col_count=1)
     aulas_selecionadas = [mapa_aulas[label] for label in labels_selecionadas]
-    
+
+    if aulas_selecionadas:
+        st.caption(f"✅ {len(aulas_selecionadas)} de {len(labels_aulas)} aula(s) selecionada(s)")
+    else:
+        st.caption("⚠️ Nenhuma aula selecionada ainda.")
+
     # Salvar para usar na pág 2
     st.session_state["aulas_data"] = {
         "aulas": aulas_selecionadas,
@@ -254,7 +310,15 @@ else:
     if st.button("⬅️ Voltar"):
         processar_voltar()
         st.rerun()
-    
+
+    with st.expander("📋 Resumo da Etapa 1", expanded=False):
+        aulas_resumo = sorted(dados_etapa1.get("aulas", []), key=lambda x: int(x['numero']))
+        st.markdown(f"**Disciplina:** {dados_etapa1.get('disciplina', '')} ({dados_etapa1.get('etapa', '')})")
+        st.markdown(f"**Série/Ano:** {dados_etapa1.get('serie', '')} | **Bimestre:** {dados_etapa1.get('bimestre', '')}")
+        st.markdown(f"**Aulas selecionadas ({len(aulas_resumo)}):**")
+        for a in aulas_resumo:
+            st.markdown(f"- Aula {a['numero']}: {a['titulo']}")
+
     st.subheader("📚 Detalhes do Plano")
     
     # ── Recursos Didáticos ──
@@ -452,8 +516,16 @@ else:
 
     st.markdown("---")
     if st.button("✨ Gerar e Baixar Plano de Aula", type="primary", use_container_width=True):
+        campos_faltando = []
         if not professor_nome:
-            st.warning("Preencha o nome do Professor na barra lateral.")
+            campos_faltando.append("Nome do Professor (barra lateral)")
+        if not recursos_final_str:
+            campos_faltando.append("Recursos Didáticos")
+        if not aval_final_str:
+            campos_faltando.append("Critérios/Instrumentos de Avaliação")
+
+        if campos_faltando:
+            st.warning("Preencha antes de gerar: " + "; ".join(campos_faltando))
         else:
             with st.spinner("Gerando documento final..."):
                 try:
@@ -484,16 +556,24 @@ else:
                         justificativa=guia_justificativa_str,
                         aproximacao=guia_aproximacao_str,
                     )
-
-                    with open(caminho_saida, "rb") as f:
-                        st.download_button(
-                            label="⬇️ Baixar Plano de Aula (Word)",
-                            data=f,
-                            file_name=os.path.basename(caminho_saida),
-                            mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                            use_container_width=True
-                        )
+                    st.session_state["plano_gerado_path"] = caminho_saida
                     st.success("Plano gerado com sucesso!")
                 except Exception as e:
                     st.error(f"Erro ao gerar: {e}")
+
+    caminho_gerado = st.session_state.get("plano_gerado_path")
+    if caminho_gerado and os.path.exists(caminho_gerado):
+        with open(caminho_gerado, "rb") as f:
+            st.download_button(
+                label="⬇️ Baixar Plano de Aula (Word)",
+                data=f,
+                file_name=os.path.basename(caminho_gerado),
+                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                use_container_width=True,
+                key="download_final"
+            )
+        if st.button("🔄 Gerar Novo Plano", use_container_width=True):
+            for key in list(st.session_state.keys()):
+                del st.session_state[key]
+            st.rerun()
 
