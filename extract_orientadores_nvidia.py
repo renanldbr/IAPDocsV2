@@ -17,7 +17,7 @@ client = OpenAI(
     api_key=os.environ.get("NVIDIA_API_KEY"),
 )
 
-MODELO = "meta/muse-glimmer-30b"
+MODELO = "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning"
 
 PASTA_PDFS = "./docOrientadores"
 PASTA_SAIDA = "./docOrientadores/extraidos"
@@ -60,6 +60,20 @@ def imagem_para_base64(imagem):
     return base64.b64encode(buffer.getvalue()).decode("utf-8")
 
 
+def normalizar_serie(texto):
+    m = re.search(r"\d", texto or "")
+    if not m:
+        return texto
+    return f"{m.group()}ª Série"
+
+
+def normalizar_bimestre(texto):
+    m = re.search(r"\d", texto or "")
+    if not m:
+        return texto
+    return f"{m.group()}º Bimestre"
+
+
 def extrair_json(texto):
     texto = texto.strip()
     texto = re.sub(r"^```(json)?", "", texto).strip()
@@ -90,12 +104,14 @@ def call_nvidia_with_retry(base64_image, max_retries=5):
                 temperature=0.2,
                 max_tokens=8192,
                 stream=False,
+                extra_body={"reasoning_budget": 4096},
             )
             return response.choices[0].message.content
         except Exception as e:
-            if "429" in str(e) or "rate" in str(e).lower():
+            erro = str(e).lower()
+            if "429" in erro or "rate" in erro or "504" in erro or "500" in erro or "timeout" in erro:
                 wait = (retries + 1) * 3
-                print(f"(rate limit - aguardando {wait}s)...", end=" ", flush=True)
+                print(f"(erro temporário - aguardando {wait}s)...", end=" ", flush=True)
                 time.sleep(wait)
                 retries += 1
             else:
@@ -103,17 +119,32 @@ def call_nvidia_with_retry(base64_image, max_retries=5):
     return None
 
 
-def processar_pdf(caminho_pdf, disciplina, etapa):
+def salvar_checkpoint(caminho_checkpoint, ultima_pagina, resultado_completo):
+    with open(caminho_checkpoint, "w", encoding="utf-8") as f:
+        json.dump({"ultima_pagina": ultima_pagina, "resultado": resultado_completo}, f, ensure_ascii=False, indent=2)
+
+
+def processar_pdf(caminho_pdf, disciplina, etapa, caminho_checkpoint):
     print(f"\nProcessando: {caminho_pdf}")
     paginas = convert_from_path(caminho_pdf, dpi=110)
 
-    resultado_completo = {
-        "disciplina": disciplina,
-        "etapa": etapa,
-        "series": {},
-    }
+    pagina_inicial = 0
+    if os.path.exists(caminho_checkpoint):
+        with open(caminho_checkpoint, "r", encoding="utf-8") as f:
+            checkpoint = json.load(f)
+        resultado_completo = checkpoint["resultado"]
+        pagina_inicial = checkpoint["ultima_pagina"]
+        print(f"  Checkpoint encontrado, retomando da página {pagina_inicial + 1}/{len(paginas)}")
+    else:
+        resultado_completo = {
+            "disciplina": disciplina,
+            "etapa": etapa,
+            "series": {},
+        }
 
     for i, pagina in enumerate(paginas):
+        if i < pagina_inicial:
+            continue
         print(f"  Página {i+1}/{len(paginas)}...", end=" ", flush=True)
 
         try:
@@ -133,8 +164,8 @@ def processar_pdf(caminho_pdf, disciplina, etapa):
 
             print("extraído!", end=" ", flush=True)
 
-            serie = dados.get("serie", "desconhecida")
-            bimestre = dados.get("bimestre", "desconhecido")
+            serie = normalizar_serie(dados.get("serie", "desconhecida"))
+            bimestre = normalizar_bimestre(dados.get("bimestre", "desconhecido"))
 
             if serie not in resultado_completo["series"]:
                 resultado_completo["series"][serie] = {}
@@ -146,6 +177,8 @@ def processar_pdf(caminho_pdf, disciplina, etapa):
 
         except Exception as e:
             print(f"erro ao processar página {i+1}: {e}")
+        finally:
+            salvar_checkpoint(caminho_checkpoint, i + 1, resultado_completo)
 
     return resultado_completo
 
@@ -161,10 +194,15 @@ def processar_pasta():
         disciplina = partes[0] if len(partes) > 0 else "DESCONHECIDA"
         etapa = partes[1] if len(partes) > 1 else "DESCONHECIDA"
 
-        resultado = processar_pdf(str(arquivo), disciplina, etapa)
+        caminho_checkpoint = os.path.join(PASTA_SAIDA, f"{arquivo.stem}.checkpoint.json")
+
+        resultado = processar_pdf(str(arquivo), disciplina, etapa, caminho_checkpoint)
 
         with open(caminho_saida, "w", encoding="utf-8") as f:
             json.dump(resultado, f, ensure_ascii=False, indent=2)
+
+        if os.path.exists(caminho_checkpoint):
+            os.remove(caminho_checkpoint)
 
         print(f"  Salvo em: {caminho_saida}")
 
